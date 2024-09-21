@@ -1,7 +1,7 @@
 ---
 title: Former Microsoft Leader Steve Ballmer Reveals Personal Reflections on Bravery | TechCrunch
-date: 2024-09-18 23:59:29
-updated: 2024-09-20 11:55:46
+date: 2024-09-18T05:48:23.608Z
+updated: 2024-09-20T20:36:53.793Z
 tags:
   - microsoft
 categories:
@@ -115,6 +115,13 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -124,6 +131,13 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -159,11 +173,24 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-how-to-seamlessly-convert-vimeo-media-to-mp3/"><u>[New] 2024 Approved How to Seamlessly Convert Vimeo Media to MP3</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-efficiently-share-your-vision-via-igtv/"><u>[New] Efficiently Share Your Vision via IGTV</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-the-best-professional-template-pack-for-premiere-pro/"><u>[New] The Best Professional Template Pack for Premiere Pro</u></a></li>
+<li><a href="https://win-web.techidaily.com/1726030498348-windowsmac/"><u>「フリーで使える動画エンコードツールをWindowsとMacにインストールする方法」</u></a></li>
+<li><a href="https://win-web.techidaily.com/44cm44oc44kk44k344o844gr44ki44kl44oq44ki44or44k44kk44og44kq44o844oh44kj44kq55sf5psplus6ycb44gu6kiy6yyy5oml5rov44cn/"><u>「ボイシーによるリアルタイムオーディオ生放送の記録手法」</u></a></li>
+<li><a href="https://win-web.techidaily.com/fixing-the-hd-video-buffering-problem-in-vlc-media-player/"><u>Fixing the HD Video Buffering Problem in VLC Media Player</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-samsung-galaxy-f04-drfone-by-drfone-virtual-android/"><u>How to get the dragon scale and evolution-enabled pokemon On Samsung Galaxy F04? | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-unlock-apple-id-activation-lock-on-apple-iphone-12-mini-by-drfone-ios/"><u>How to Unlock Apple ID Activation Lock On Apple iPhone 12 mini?</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-leave-a-life360-group-on-apple-iphone-12-pro-max-without-anyone-knowing-drfone-by-drfone-virtual-ios/"><u>In 2024, How To Leave a Life360 Group On Apple iPhone 12 Pro Max Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-oppo-k11x-drfone-by-drfone-virtual-android/"><u>The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Oppo K11x | Dr.fone</u></a></li>
+</ul></div>
+

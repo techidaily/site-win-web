@@ -1,7 +1,7 @@
 ---
 title: "Discover the Ultimate List: Leading MS Business Solutions for iOS in ^14 - Curated by Tech Experts at ZDNET"
-date: 2024-09-18 23:57:47
-updated: 2024-09-20 12:15:23
+date: 2024-09-13T19:34:45.629Z
+updated: 2024-09-21T11:03:36.402Z
 tags:
   - microsoft
 categories:
@@ -115,11 +115,31 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
@@ -159,11 +179,28 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-interactive-presenters-synopsis-update-8-for-2024/"><u>[New] Interactive Presenter's Synopsis, Update 8 for 2024</u></a></li>
+<li><a href="https://win-web.techidaily.com/1726028249305-powerpoint/"><u>「オートスピーチ機能を活用したPowerPoint音声記録ガイド」</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-innovative-approaches-to-online-collaboration-4/"><u>2024 Approved Innovative Approaches to Online Collaboration (#4)</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-pathway-to-accessing-fb-videos-via-windowsmacos/"><u>2024 Approved Pathway to Accessing FB Videos via Windows/macOS</u></a></li>
+<li><a href="https://win-web.techidaily.com/2k-vs-4k/"><u>2K Vs. 4K動画：完全な比較ガイド！高精細映像で新時代へ</u></a></li>
+<li><a href="https://win-web.techidaily.com/1726030215689-aviutlmp4/"><u>AviUtlでMP4形式への変換がうまくいかない時の解決策</u></a></li>
+<li><a href="https://win-web.techidaily.com/boost-your-youtube-audio-discover-the-top-4-techniques-for-increasing-video-loudness/"><u>Boost Your YouTube Audio: Discover the Top 4 Techniques for Increasing Video Loudness</u></a></li>
+<li><a href="https://win-web.techidaily.com/creating-engaging-tutorial-videos-a-comparison-of-techniques-by-four-expert-video-educators/"><u>Creating Engaging Tutorial Videos: A Comparison of Techniques by Four Expert Video Educators</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/diy-fixes-for-your-speakers-persistent-purring-problem/"><u>DIY Fixes for Your Speaker's Persistent Purring Problem</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-a-xiaomi-redmi-k70-pro-easily-by-drfone-android/"><u>How To Unlock a Xiaomi Redmi K70 Pro Easily?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-xiaomi-redmi-note-13-5g-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to Xiaomi Redmi Note 13 5G Phones? | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/latest-logitech-g920-driver-software-for-windows-11-to-7-users/"><u>Latest Logitech G920 Driver Software for Windows 11 to 7 Users</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/remove-the-lock-screen-fingerprint-of-your-vivo-v30-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Vivo V30</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/surgical-intervention-may-be-necessary-for-certain-types-of-eye-injuries-to-preserve-vision-and-prevent-further-damage/"><u>Surgical Intervention May Be Necessary for Certain Types of Eye Injuries to Preserve Vision and Prevent Further Damage.</u></a></li>
+</ul></div>
+

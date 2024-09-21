@@ -1,7 +1,7 @@
 ---
 title: Windows 11 Takes the Lead Amongst Engineering Circles - Insights From Microsoft on Latest OS Trend | ZDNet News
-date: 2024-09-19 12:52:49
-updated: 2024-09-20 11:25:25
+date: 2024-09-18T08:29:06.536Z
+updated: 2024-09-20T18:21:28.848Z
 tags:
   - windows
 categories:
@@ -91,6 +91,19 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Corporate PCs that are standardized on Windows 10.** A nontrivial number of enterprise IT managers have just finished their Windows 10 migrations in the last year or two and probably aren't anxious to do it again.
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
+<!-- affiliate ads begin -->
+<span id="1770526">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Will Microsoft extend the support deadline for Windows 10?
 
 That's certainly a possibility, and there's precedent for it in the experience of Windows XP, which ended support in April 2014, more than 12 years after it was first released. Windows XP users even received emergency security updates well after that official end date, to address the [WannaCry vulnerability](https://www.zdnet.com/article/why-wannacry-ransomware-is-still-a-threat-to-your-pc/) in 2017 and a similar flaw in 2019\. Likewise, Microsoft [issued emergency security updates for Windows 7 in 2021](https://www.zdnet.com/article/install-immediately-microsoft-delivers-emergency-patch-for-printnightmare-security-bug/) after its support had officially ended.
@@ -151,11 +164,27 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-streamers-guide-sharing-your-twitch-channel-on-fb/"><u>[New] Streamer's Guide Sharing Your Twitch Channel on FB</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-meditative-movement-youtubes-finest-yogis/"><u>[Updated] 2024 Approved Meditative Movement YouTube's Finest Yogis</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-pivot-point-review-diversifying-video-tech/"><u>[Updated] 2024 Approved Pivot Point Review Diversifying Video Tech</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-spotlight-on-the-5-most-advanced-game-streaming-webcams/"><u>[Updated] In 2024, Spotlight On The 5 Most Advanced Game Streaming Webcams</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-the-cryptographers-guide-to-masked-recordings/"><u>[Updated] In 2024, The Cryptographer's Guide to Masked Recordings</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-mastering-tiktokenas-a-game-changer-top-30-unique-username-suggestions/"><u>[Updated] Mastering TikTok'enas a Game Changer Top 30 Unique Username Suggestions</u></a></li>
+<li><a href="https://win-web.techidaily.com/1726030498348-windowsmac/"><u>「フリーで使える動画エンコードツールをWindowsとMacにインストールする方法」</u></a></li>
+<li><a href="https://win-web.techidaily.com/1-how-to-resolve-video-playback-issues-on-your-iphone-fast-fixes-and-solutions/"><u>1. How to Resolve Video Playback Issues on Your iPhone - Fast Fixes and Solutions</u></a></li>
+<li><a href="https://extra-information.techidaily.com/comparative-income-freelance-vs-full-time-podcaster/"><u>Comparative Income Freelance Vs. Full-Time Podcaster</u></a></li>
+<li><a href="https://win-web.techidaily.com/top-10-highly-rated-xvid-video-players-compatible-with-pc-systems/"><u>Top 10 Highly Rated Xvid Video Players Compatible with PC Systems</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/ultimate-guide-on-apple-iphone-xs-icloud-activation-lock-bypass-by-drfone-ios/"><u>Ultimate Guide on Apple iPhone XS iCloud Activation Lock Bypass</u></a></li>
+<li><a href="https://win-web.techidaily.com/ultimate-mp4-video-transformation-tool-leading-hd-to-mp4-converter-with-advanced-features/"><u>Ultimate MP4 Video Transformation Tool: Leading HD to MP4 Converter with Advanced Features</u></a></li>
+<li><a href="https://win-web.techidaily.com/vlc-and/"><u>VLC ネットワークストリーム再生の失敗原因解説&修正法</u></a></li>
+</ul></div>
+

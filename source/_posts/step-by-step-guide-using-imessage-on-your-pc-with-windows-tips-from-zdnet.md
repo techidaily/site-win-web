@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Using iMessage on Your PC with Windows - Tips From ZDNet"
-date: 2024-09-19 15:58:40
-updated: 2024-09-20 10:37:55
+date: 2024-09-17T23:29:55.727Z
+updated: 2024-09-20T18:57:52.917Z
 tags:
   - microsoft
 categories:
@@ -83,6 +83,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **4\. Pay for Windows 10 Extended Support**
 
 Of course, you could buy support for your Windows 10 machine. Microsoft recently [announced](https://techcommunity.microsoft.com/t5/windows-it-pro-blog/when-to-use-windows-10-extended-security-updates/ba-p/4102628) pricing for its [Extended Security Updates (ESUs) for Windows 10](https://www.zdnet.com/article/when-windows-10-support-ends-you-have-5-options-but-only-2-are-worth-considering/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/when-windows-10-support-ends-you-have-5-options-but-only-2-are-worth-considering/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Extended%20Security%20Updates%20%28ESUs%29%20for%20Windows%2010%22%7D), particularly for businesses and educational institutions. Consumer pricing remains unclear.
@@ -114,6 +121,13 @@ In addition, the ESUs provide only security updates. There will be no new featur
 In summary, commercial organizations will pay $61 to $244 per device over three years, while education gets heavily discounted pricing of $1 to $4 per license. Consumer pricing is still to be determined.
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
 
@@ -159,11 +173,29 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-top-20-strategies-for-effective-facebook-video-campaigns/"><u>[New] 2024 Approved Top 20 Strategies for Effective Facebook Video Campaigns</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-vimeos-video-mosaics-inserting-chapters-for-clarity/"><u>[Updated] Vimeo's Video Mosaics Inserting Chapters for Clarity</u></a></li>
+<li><a href="https://win-web.techidaily.com/1726028249305-powerpoint/"><u>「オートスピーチ機能を活用したPowerPoint音声記録ガイド」</u></a></li>
+<li><a href="https://win-web.techidaily.com/1-easy-techniques-switching-images-from-jpeg-format-to-gif-a-dual-approach/"><u>1. Easy Techniques: Switching Images From JPEG Format to GIF - A Dual Approach</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-master-your-headlines-with-our-guide/"><u>2024 Approved Master Your Headlines with Our Guide</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-monetization-timeline-for-successful-youtubers/"><u>2024 Approved Monetization Timeline for Successful YouTubers</u></a></li>
+<li><a href="https://win-web.techidaily.com/2k-vs-4k/"><u>2K Vs. 4K動画：完全な比較ガイド！高精細映像で新時代へ</u></a></li>
+<li><a href="https://win-web.techidaily.com/1726030215689-aviutlmp4/"><u>AviUtlでMP4形式への変換がうまくいかない時の解決策</u></a></li>
+<li><a href="https://win-web.techidaily.com/boost-your-youtube-audio-discover-the-top-4-techniques-for-increasing-video-loudness/"><u>Boost Your YouTube Audio: Discover the Top 4 Techniques for Increasing Video Loudness</u></a></li>
+<li><a href="https://win-web.techidaily.com/creating-engaging-tutorial-videos-a-comparison-of-techniques-by-four-expert-video-educators/"><u>Creating Engaging Tutorial Videos: A Comparison of Techniques by Four Expert Video Educators</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-12-pro-to-other-iphone-13-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 12 Pro to other iPhone 13 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-maximize-your-virtual-meetings-with-top-6-webcams-for-zoom/"><u>In 2024, Maximize Your Virtual Meetings with Top 6 Webcams for Zoom</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/macs-most-powerful-video-editor-for-pros-adobe-premiere-pro/"><u>Macs Most Powerful Video Editor for Pros Adobe Premiere Pro</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-the-art-of-green-screening-in-fcp-x-tips-tricks-and-best-practices/"><u>New The Art of Green Screening in FCP X Tips, Tricks, and Best Practices</u></a></li>
+<li><a href="https://win-web.techidaily.com/top-7-tools-and-extensions-for-screenshots-in-mozilla-firefox-how-to-guide/"><u>Top 7 Tools and Extensions for Screenshots in Mozilla Firefox - How To Guide</u></a></li>
+</ul></div>
+

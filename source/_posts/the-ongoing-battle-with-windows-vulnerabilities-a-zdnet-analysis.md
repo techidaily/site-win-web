@@ -1,7 +1,7 @@
 ---
 title: The Ongoing Battle with Windows Vulnerabilities - A ZDNet Analysis
-date: 2024-09-17 23:50:24
-updated: 2024-09-20 10:40:29
+date: 2024-09-16T10:00:33.162Z
+updated: 2024-09-20T16:40:48.922Z
 tags:
   - windows
 categories:
@@ -91,6 +91,13 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Corporate PCs that are standardized on Windows 10.** A nontrivial number of enterprise IT managers have just finished their Windows 10 migrations in the last year or two and probably aren't anxious to do it again.
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Will Microsoft extend the support deadline for Windows 10?
 
 That's certainly a possibility, and there's precedent for it in the experience of Windows XP, which ended support in April 2014, more than 12 years after it was first released. Windows XP users even received emergency security updates well after that official end date, to address the [WannaCry vulnerability](https://www.zdnet.com/article/why-wannacry-ransomware-is-still-a-threat-to-your-pc/) in 2017 and a similar flaw in 2019\. Likewise, Microsoft [issued emergency security updates for Windows 7 in 2021](https://www.zdnet.com/article/install-immediately-microsoft-delivers-emergency-patch-for-printnightmare-security-bug/) after its support had officially ended.
@@ -151,11 +158,26 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://hardware-help.techidaily.com/easy-pez-fast-track-to-seamless-connectivity-with-updated-targus-docking-station-driver-software/"><u>[EASY-PEZ] Fast Track to Seamless Connectivity with Updated Targus Docking Station Driver Software</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-deciphering-the-lack-of-contacts-and-snaps-on-snapchat/"><u>[New] Deciphering the Lack of Contacts and Snaps on Snapchat</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-telegram-promotion-techniques-for-marketing-beginners-for-2024/"><u>[New] Telegram Promotion Techniques For Marketing Beginners for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-deep-dive-ultimate-ice-cream-viewer-analysis/"><u>[Updated] 2024 Approved Deep Dive Ultimate Ice Cream Viewer Analysis</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-mastering-audio-transitions-audacity-guide/"><u>2024 Approved Mastering Audio Transitions Audacity Guide</u></a></li>
+<li><a href="https://win-web.techidaily.com/creating-engaging-tutorial-videos-a-comparison-of-techniques-by-four-expert-video-educators/"><u>Creating Engaging Tutorial Videos: A Comparison of Techniques by Four Expert Video Educators</u></a></li>
+<li><a href="https://win-web.techidaily.com/discover-the-ultimate-list-of-wav-format-players-on-windows/"><u>Discover the Ultimate List of WAV Format Players on Windows</u></a></li>
+<li><a href="https://win-web.techidaily.com/easily-retrieve-and-save-any-gif-with-this-simple-url-tip/"><u>Easily Retrieve and Save Any GIF with This Simple URL Tip!</u></a></li>
+<li><a href="https://win-web.techidaily.com/expert-strategies-for-achieving-maximum-quality-in-4k-video-compression/"><u>Expert Strategies for Achieving Maximum Quality in 4K Video Compression</u></a></li>
+<li><a href="https://win-web.techidaily.com/guide-on-playing-powerpoint-films-via-quicktime-despite-issues/"><u>Guide on Playing PowerPoint Films via QuickTime Despite Issues</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-delete-microsoft-edge-in-w11-os/"><u>How to Delete Microsoft Edge in W11 OS</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-xiaomi-13t-drfone-by-drfone-virtual-android/"><u>How to Share Location in Messenger On Xiaomi 13T? | Dr.fone</u></a></li>
+</ul></div>
+

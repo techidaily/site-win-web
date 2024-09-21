@@ -1,7 +1,7 @@
 ---
 title: "Navigating Microsoft 365: Tips and Tricks for Effective Management on Windows 11 - Insights From ZDNet"
-date: 2024-09-18 18:50:39
-updated: 2024-09-20 11:57:17
+date: 2024-09-19T09:37:01.191Z
+updated: 2024-09-21T04:47:21.501Z
 tags:
   - microsoft
 categories:
@@ -115,6 +115,19 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<span id="1265663">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -124,6 +137,13 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -159,11 +179,24 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-essential-no-cost-webcams-for-seamless-chats/"><u>[New] Essential No-Cost Webcams for Seamless Chats</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-identifying-your-individual-song-collection-on-youtube/"><u>[Updated] Identifying Your Individual Song Collection on YouTube</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/decrease-gpu-demand-effective-fixes-for-the-windows-dwm-issue-windows-1011/"><u>Decrease GPU Demand: Effective Fixes for the Windows DWM Issue (Windows 10/11)</u></a></li>
+<li><a href="https://win-web.techidaily.com/discover-the-ultimate-list-of-wav-format-players-on-windows/"><u>Discover the Ultimate List of WAV Format Players on Windows</u></a></li>
+<li><a href="https://win-web.techidaily.com/easily-retrieve-and-save-any-gif-with-this-simple-url-tip/"><u>Easily Retrieve and Save Any GIF with This Simple URL Tip!</u></a></li>
+<li><a href="https://win-web.techidaily.com/expert-strategies-for-achieving-maximum-quality-in-4k-video-compression/"><u>Expert Strategies for Achieving Maximum Quality in 4K Video Compression</u></a></li>
+<li><a href="https://network-issues.techidaily.com/grasping-4k-ultimate-screen-quality/"><u>Grasping 4K Ultimate Screen Quality</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-reset-apple-id-and-apple-password-on-apple-iphone-15-pro-by-drfone-ios/"><u>In 2024, How to Reset Apple ID and Apple Password On Apple iPhone 15 Pro</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-icloud-separation-how-to-disconnect-apple-iphone-15-and-ipad-by-drfone-ios/"><u>In 2024, iCloud Separation How To Disconnect Apple iPhone 15 and iPad</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-transform-your-content-the-science-of-instagram-video-loops/"><u>In 2024, Transform Your Content The Science of Instagram Video Loops</u></a></li>
+</ul></div>
+

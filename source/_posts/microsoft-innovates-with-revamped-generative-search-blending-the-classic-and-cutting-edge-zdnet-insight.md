@@ -1,7 +1,7 @@
 ---
 title: "Microsoft Innovates with Revamped Generative Search: Blending the Classic and Cutting-Edge | ZDNet Insight"
-date: 2024-09-17 11:33:38
-updated: 2024-09-20 12:34:33
+date: 2024-09-14T18:00:07.934Z
+updated: 2024-09-20T18:33:43.450Z
 tags:
   - microsoft
 categories:
@@ -115,11 +115,25 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
@@ -159,11 +173,25 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/updated-bypassing-blockbusters-2023-indie-favorites-for-2024/"><u>[Updated] Bypassing Blockbusters 2023 Indie Favorites for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/easy-tutorial-snapping-photos-and-saving-them-on-a-lenovo-notebook-or-desktop/"><u>Easy Tutorial: Snapping Photos and Saving Them on a Lenovo Notebook or Desktop</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/elevate-your-photography-getting-acquainted-with-snapseed/"><u>Elevate Your Photography Getting Acquainted with Snapseed</u></a></li>
+<li><a href="https://win-forum.techidaily.com/1722915424717-exploring-the-giants-of-social-media-from-facebook-to-youtube-and-beyond/"><u>Exploring the Giants of Social Media: From Facebook to YouTube and Beyond</u></a></li>
+<li><a href="https://win-web.techidaily.com/free-access-best-hong-kong-drama-series-in-english-dubbing-top-picks-to-binge/"><u>Free Access: Best Hong Kong Drama Series in English Dubbing - Top Picks to Binge!</u></a></li>
+<li><a href="https://win-web.techidaily.com/guide-to-transforming-your-sony-xavc-videos-into-mp4-format-for-windows-users/"><u>Guide to Transforming Your Sony XAVC Videos Into MP4 Format for Windows Users</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-superior-commercial-cloud-vaulting/"><u>In 2024, Superior Commercial Cloud Vaulting</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/is-itop-a-screencast-contender-worth-endorsing-for-2024/"><u>Is ITop a Screencast Contender Worth Endorsing for 2024</u></a></li>
+<li><a href="https://win-web.techidaily.com/step-by-step-guide-how-do-you-insert-time-codes-into-your-videos/"><u>Step-by-Step Guide: How Do You Insert Time Codes Into Your Videos?</u></a></li>
+<li><a href="https://win-web.techidaily.com/the-ultimate-guide-to-cropping-vids-for-instagram-success-discover-three-effective-strategies/"><u>The Ultimate Guide to Cropping Vids for Instagram Success – Discover Three Effective Strategies!</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/three-ways-to-sim-unlock-xiaomi-redmi-a2-by-drfone-android/"><u>Three Ways to Sim Unlock Xiaomi Redmi A2</u></a></li>
+</ul></div>
+

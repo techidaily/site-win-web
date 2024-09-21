@@ -1,7 +1,7 @@
 ---
 title: Microsoft Azure's New Radius Platform Boosts Cross-Cloud Development with Open Source Solutions | ITProPortal
-date: 2024-09-17 17:42:33
-updated: 2024-09-20 11:47:11
+date: 2024-09-18T03:51:11.285Z
+updated: 2024-09-20T20:07:14.831Z
 tags:
   - microsoft
 categories:
@@ -115,11 +115,25 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
@@ -159,11 +173,27 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/updated-fusion-of-light-combining-images-and-videos-on-iphone/"><u>[Updated] Fusion of Light Combining Images & Videos on iPhone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-the-quintessential-guide-to-powerful-quadcopter-engines/"><u>[Updated] The Quintessential Guide to Powerful Quadcopter Engines</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-for-fixing-a-non-functional-mic-on-your-samsung-playstation-4-console/"><u>Expert Tips for Fixing a Non-Functional Mic on Your Samsung PlayStation 4 Console</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/exploring-filmora-magic-top-10-intriguing-edits/"><u>Exploring Filmora Magic Top 10 Intriguing Edits</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-seamless-multiplayer-sessions-with-xbox-zoom-support/"><u>In 2024, Seamless Multiplayer Sessions with Xbox Zoom Support</u></a></li>
+<li><a href="https://win-web.techidaily.com/mastering-high-dynamic-range-hdr-on-vlc-media-player-troubleshooting-tips-and-solutions/"><u>Mastering High Dynamic Range (HDR) on VLC Media Player: Troubleshooting Tips and Solutions</u></a></li>
+<li><a href="https://win-web.techidaily.com/netflixpc/"><u>Netflixダウンロード映像をPC上に記録するプロセス解説</u></a></li>
+<li><a href="https://win-web.techidaily.com/pcmiraculive/"><u>PC・スマートフォン対応:簡単な方法でMiraculive動画記録</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/peak-interactive-webcam-fun-fests-for-2024/"><u>Peak Interactive Webcam Fun Fests for 2024</u></a></li>
+<li><a href="https://win-web.techidaily.com/resolving-video-cannot-be-plays-error-150-in-google-slides-troubleshooting-guide/"><u>Resolving 'Video Cannot Be Plays' Error 150 in Google Slides | Troubleshooting Guide</u></a></li>
+<li><a href="https://win-web.techidaily.com/rethinking-convenience-the-downsides-of-buying-premixed-fire-starter-packs-or-fire-sticks-for-your-adventures/"><u>Rethinking Convenience: The Downsides of Buying Premixed Fire Starter Packs or 'Fire Sticks' For Your Adventures</u></a></li>
+<li><a href="https://win-web.techidaily.com/skype/"><u>Skypeで効率的にオンリーボイスを記録するコツ</u></a></li>
+<li><a href="https://driver-download.techidaily.com/streamline-your-setup-quick-guide-for-downloading-elgato-drivers/"><u>Streamline Your Setup: Quick Guide for Downloading Elgato Drivers</u></a></li>
+</ul></div>
+

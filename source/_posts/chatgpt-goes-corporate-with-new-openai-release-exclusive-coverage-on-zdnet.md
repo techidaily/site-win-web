@@ -1,7 +1,7 @@
 ---
 title: ChatGPT Goes Corporate with New OpenAI Release, Exclusive Coverage on ZDNet
-date: 2024-09-17 12:17:26
-updated: 2024-09-20 11:55:33
+date: 2024-09-19T16:07:33.599Z
+updated: 2024-09-20T18:09:09.998Z
 tags:
   - microsoft
 categories:
@@ -105,11 +105,37 @@ I fear, though, that for very many people, Excel is just a dull, efficient, util
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-history-on-your-flip-watching-old-fb-stories/"><u>[New] History on Your Flip Watching Old FB Stories</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-sharpened-focus-on-squares-creating-striking-imovie-content-for-instagram/"><u>[Updated] Sharpened Focus on Squares Creating Striking iMovie Content for Instagram</u></a></li>
+<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-samsung-galaxy-m14-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Samsung Galaxy M14 4G | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-music-from-poco-m6-5g-by-fonelab-android-recover-music/"><u>Best Android Data Recovery - Undelete Lost Music from Poco M6 5G</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-planning-to-use-a-pokemon-go-joystick-on-xiaomi-redmi-12-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Planning to Use a Pokemon Go Joystick on Xiaomi Redmi 12 5G? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-remove-the-lock-screen-fingerprint-of-your-tecno-phantom-v-flip-by-drfone-android/"><u>In 2024, Remove the Lock Screen Fingerprint Of Your Tecno Phantom V Flip</u></a></li>
+<li><a href="https://win-web.techidaily.com/instantaneous-news-feed-continuous-live-information-flow/"><u>Instantaneous News Feed: Continuous Live Information Flow</u></a></li>
+<li><a href="https://media-tips.techidaily.com/legacy-subscribers-lose-apple-app-store-charge-options-with-netflix-changeover/"><u>Legacy Subscribers Lose Apple App Store Charge Options with Netflix Changeover</u></a></li>
+<li><a href="https://win-web.techidaily.com/mastering-high-dynamic-range-hdr-on-vlc-media-player-troubleshooting-tips-and-solutions/"><u>Mastering High Dynamic Range (HDR) on VLC Media Player: Troubleshooting Tips and Solutions</u></a></li>
+<li><a href="https://win-web.techidaily.com/netflixpc/"><u>Netflixダウンロード映像をPC上に記録するプロセス解説</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<span id="1975555">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

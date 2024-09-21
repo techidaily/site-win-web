@@ -1,7 +1,7 @@
 ---
 title: Microsoft's Latest Security Scare? Reaction Warranted! | ZDNet Insights
-date: 2024-09-18 16:55:31
-updated: 2024-09-20 12:35:10
+date: 2024-09-15T08:43:21.241Z
+updated: 2024-09-20T19:22:45.210Z
 tags:
   - microsoft
 categories:
@@ -105,11 +105,37 @@ I fear, though, that for very many people, Excel is just a dull, efficient, util
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-experts-rankings-top-social-media-viewers/"><u>[New] In 2024, Expert's Rankings Top Social Media Viewers</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-mastering-instagram-quick-paths-to-influence-for-2024/"><u>[New] Mastering Instagram Quick Paths to Influence for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-incor-writes-photo-kinetic-vibrance/"><u>[Updated] Incor Writes Photo Kinetic Vibrance</u></a></li>
+<li><a href="https://win-web.techidaily.com/1726030498348-windowsmac/"><u>「フリーで使える動画エンコードツールをWindowsとMacにインストールする方法」</u></a></li>
+<li><a href="https://win-web.techidaily.com/44cm44oc44kk44k344o844gr44ki44kl44oq44ki44or44k44kk44og44kq44o844oh44kj44kq55sf5psplus6ycb44gu6kiy6yyy5oml5rov44cn/"><u>「ボイシーによるリアルタイムオーディオ生放送の記録手法」</u></a></li>
+<li><a href="https://win-web.techidaily.com/1-how-to-resolve-video-playback-issues-on-your-iphone-fast-fixes-and-solutions/"><u>1. How to Resolve Video Playback Issues on Your iPhone - Fast Fixes and Solutions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/8-effective-tips-to-get-your-iphones-control-center-running-smoothly-again/"><u>8 Effective Tips to Get Your iPhone's Control Center Running Smoothly Again</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-frozen-ios-updates-a-step-by-step-guide-to-restart-and-complete-downloads/"><u>Fixing Frozen iOS Updates: A Step-by-Step Guide to Restart and Complete Downloads</u></a></li>
+<li><a href="https://win-web.techidaily.com/fixing-the-hd-video-buffering-problem-in-vlc-media-player/"><u>Fixing the HD Video Buffering Problem in VLC Media Player</u></a></li>
+<li><a href="https://review-topics.techidaily.com/itel-data-recovery-recover-lost-data-from-itel-s23-by-fonelab-android-recover-data/"><u>Itel Data Recovery – recover lost data from Itel S23</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<span id="1975503">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
