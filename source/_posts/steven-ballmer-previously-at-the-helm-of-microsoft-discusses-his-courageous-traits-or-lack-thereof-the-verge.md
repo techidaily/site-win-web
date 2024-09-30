@@ -1,7 +1,7 @@
 ---
 title: Steven Ballmer, Previously at the Helm of Microsoft, Discusses His Courageous Traits or Lack Thereof | The Verge
-date: 2024-09-18T16:28:16.365Z
-updated: 2024-09-25T20:20:32.077Z
+date: 2024-09-27T20:43:17.414Z
+updated: 2024-09-30T12:31:43.035Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -64,10 +71,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -89,13 +96,6 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -129,13 +129,6 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -143,15 +136,22 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,19 +196,19 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-diligent-duplication-in-the-world-of-insta-for-2024/"><u>[New] Diligent Duplication in the World of Insta for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-monetizing-your-social-media-presence-snapchat-edition/"><u>[New] Monetizing Your Social Media Presence Snapchat Edition</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-accessing-google-meet-via-device/"><u>2024 Approved Accessing Google Meet via Device</u></a></li>
-<li><a href="https://facebook.techidaily.com/beyond-the-buzz-navigating-a-world-without-social-media/"><u>Beyond the Buzz: Navigating a World without Social Media</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/bot-battlefront-seeking-the-better-chatbot/"><u>Bot Battlefront: Seeking the Better Chatbot</u></a></li>
-<li><a href="https://win-web.techidaily.com/discover-the-ultimate-list-of-wav-format-players-on-windows/"><u>Discover the Ultimate List of WAV Format Players on Windows</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/diving-into-the-features-of-the-new-samsung-galaxy-s2nultra-smartphone/"><u>Diving Into the Features of the New Samsung Galaxy S2nUltra Smartphone</u></a></li>
-<li><a href="https://win-web.techidaily.com/easily-retrieve-and-save-any-gif-with-this-simple-url-tip/"><u>Easily Retrieve and Save Any GIF with This Simple URL Tip!</u></a></li>
-<li><a href="https://win-web.techidaily.com/expert-strategies-for-achieving-maximum-quality-in-4k-video-compression/"><u>Expert Strategies for Achieving Maximum Quality in 4K Video Compression</u></a></li>
-<li><a href="https://win11.techidaily.com/1719354508470-fix-compatibility-nightmares-in-windows-without-troubleshooting-tools/"><u>Fix Compatibility Nightmares in Windows without Troubleshooting Tools.</u></a></li>
-<li><a href="https://win-web.techidaily.com/guide-on-playing-powerpoint-films-via-quicktime-despite-issues/"><u>Guide on Playing PowerPoint Films via QuickTime Despite Issues</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-motorola-edge-40-pro-drfone-by-drfone-virtual-android/"><u>How to Detect and Stop mSpy from Spying on Your Motorola Edge 40 Pro | Dr.fone</u></a></li>
-<li><a href="https://win-web.techidaily.com/how-to-prevent-and-fix-dropouts-in-obs-streams-fast/"><u>How to Prevent and Fix Dropouts in OBS Streams Fast!</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-exclusive-top-5-iphone-podcast-apps-guide/"><u>In 2024, Exclusive Top 5 iPhone Podcast Apps Guide</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-fb-chronicles-the-hidden-viewer/"><u>[New] In 2024, FB Chronicles The Hidden Viewer</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-stepwise-process-for-capturing-live-soundtracks-online/"><u>[New] In 2024, Stepwise Process for Capturing Live Soundtracks Online</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-a-look-into-the-future-of-camera-multicam-systems/"><u>[Updated] In 2024, A Look Into the Future of Camera Multicam Systems</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-mastering-basic-tone-alterations-in-ps-for-2024/"><u>[Updated] Mastering Basic Tone Alterations in PS for 2024</u></a></li>
+<li><a href="https://win-web.techidaily.com/convert-your-favorite-online-videos-into-any-format-using-pyvideo-includes-mp4-mov-and-avi-options/"><u>Convert Your Favorite Online Videos Into Any Format Using PyVideo: Includes MP4, MOV, and AVI Options</u></a></li>
+<li><a href="https://win-web.techidaily.com/download-clips-from-hulu-effortlessly-with-hd-downloader-plus-mp4-avi-formats-on-windowsmacosx-compatible-devices/"><u>Download Clips From Hulu Effortlessly with HD Downloader Plus – MP4, AVI Formats on Windows/MacOSX Compatible Devices</u></a></li>
+<li><a href="https://win-web.techidaily.com/downloading-and-transforming-ustream-content-tips-for-mp3-and-mp4-file-creation/"><u>Downloading and Transforming Ustream Content - Tips for MP3 & MP4 File Creation</u></a></li>
+<li><a href="https://win-web.techidaily.com/easymp4-converter-transfer-hilarious-collegehumor-skits-as-mp4-files/"><u>EasyMP4 Converter: Transfer Hilarious CollegeHumor Skits as MP4 Files</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/exploring-the-ns-4nfd71pna19-an-insignia-fire-tv-edition-with-alexa-and-ultra-high-definition-on-a-budget/"><u>Exploring the NS-4nfd71pna19: An Insignia Fire TV Edition with Alexa and Ultra High Definition on a Budget</u></a></li>
+<li><a href="https://win-web.techidaily.com/free-abc-song-mp3-download-access-educational-childrens-music/"><u>Free ABC Song MP3 Download: Access Educational Children's Music</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-reset-gmail-password-on-zte-blade-a73-5g-devices-by-drfone-android/"><u>How to Reset Gmail Password on ZTE Blade A73 5G Devices</u></a></li>
+<li><a href="https://win-web.techidaily.com/moving-music-forward-how-to-convert-and-transfer-spotify-playlists-onto-deezer/"><u>Moving Music Forward: How to Convert and Transfer Spotify Playlists Onto Deezer</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/oppo-a59-5g-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Oppo A59 5G Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/play-mov-movies-on-huawei-is-it-possible-by-aiseesoft-video-converter-play-mov-on-android/"><u>Play MOV movies on Huawei , is it possible?</u></a></li>
 </ul></div>
 

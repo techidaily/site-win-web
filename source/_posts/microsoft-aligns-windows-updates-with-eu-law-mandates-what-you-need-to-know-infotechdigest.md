@@ -1,7 +1,7 @@
 ---
 title: Microsoft Aligns Windows Updates with EU Law Mandates – What You Need to Know | InfoTechDigest
-date: 2024-09-22T20:49:49.445Z
-updated: 2024-09-26T00:36:03.073Z
+date: 2024-09-28T00:19:00.657Z
+updated: 2024-09-30T00:09:23.220Z
 tags:
   - windows
 categories:
@@ -27,19 +27,6 @@ The process for setting up God Mode is the same in Windows 10 and 11, but here, 
 
 ## How to set up God Mode in Windows 11 
 
-<!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Check your account
 
 First, make sure you're signed into your Windows 11 PC with an account that has administrative privileges. By default, your own account should have the necessary rights. To confirm this, go to Settings, select the category for Accounts, and then check the setting for "Your Info" to make sure your account is designated as Administrator.
@@ -47,10 +34,10 @@ First, make sure you're signed into your Windows 11 PC with an account that has 
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Create a new folder
@@ -58,6 +45,19 @@ Screenshot by Lance Whitney/ZDNET
 Next, right-click on any empty area of the Desktop. In the popup menu, move to New and select the command for Folder**.**
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<span id="1983552">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Rename the new folder
 
@@ -81,10 +81,10 @@ Alternatively, you can search for a specific command or applet in the God Mode w
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
-  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Double-click the command to launch it
@@ -117,10 +117,10 @@ To change the icon from the generic folder image, right-click on it and select P
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 10\. Launch your new icon
@@ -162,16 +162,20 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-cut-to-impress-youtube-video-editing-made-simple/"><u>[Updated] In 2024, Cut to Impress YouTube Video Editing Made Simple</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-scripting-summative-stories/"><u>[Updated] In 2024, Scripting Summative Stories</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-from-creator-to-curator-expertly-upload-your-videos-on-igadgets/"><u>2024 Approved From Creator to Curator Expertly Upload Your Videos on iGadgets</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-speedy-scripts-top-1-written-game-experiences-on-devices/"><u>2024 Approved Speedy Scripts Top 1 Written Game Experiences on Devices</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/amazon-fire-tv-cube-review-2nd-generation/"><u>Amazon Fire TV Cube Review (2Nd Generation)</u></a></li>
-<li><a href="https://win-web.techidaily.com/convert-and-download-top-smosh-comedy-clips-in-mp4-mov-and-avi-formats-for-pc-and-mac-users/"><u>Convert & Download Top Smosh Comedy Clips in MP4, MOV & AVI Formats for PC and Mac Users</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/saving-on-cloud-space-expenses-detailed-analysis-and-tips/"><u>Saving on Cloud Space Expenses Detailed Analysis & Tips</u></a></li>
-<li><a href="https://win-web.techidaily.com/solving-page-flipper-ebook-issues-troubleshooting-broken-links-with-flipbuilder/"><u>Solving Page-Flipper eBook Issues: Troubleshooting Broken Links with FlipBuilder</u></a></li>
-<li><a href="https://win-web.techidaily.com/transform-your-chm-files-into-e-books-with-flip-builders-advanced-3d-design-converter/"><u>Transform Your CHM Files Into E-Books with Flip Builder's Advanced 3D Design Converter</u></a></li>
-<li><a href="https://win-web.techidaily.com/understanding-why-your-final-pages-appear-empty-insights-from-flipbuilder/"><u>Understanding Why Your Final Pages Appear Empty: Insights From FlipBuilder</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-movie-mastery-unlocked-easy-tips-and-tricks-for-filmmakers-for-2024/"><u>Updated Movie Mastery Unlocked Easy Tips and Tricks for Filmmakers for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-enhancing-follows-into-genuine-subscriptions/"><u>[New] 2024 Approved Enhancing Follows Into Genuine Subscriptions</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-from-ordinary-to-extraordinary-crafting-captivating-instagram-puzzles/"><u>[New] From Ordinary to Extraordinary Crafting Captivating Instagram Puzzles</u></a></li>
+<li><a href="https://win-web.techidaily.com/avoid-the-rush-on-black-friday-with-top-rated-discount-cards-save-time-and-money/"><u>Avoid the Rush on Black Friday with Top-Rated Discount Cards - Save Time & Money!</u></a></li>
+<li><a href="https://win-web.techidaily.com/breaking-down-microsofts-latest-innovations-from-the-october-surface-showcase-zdnet-insights/"><u>Breaking Down Microsoft's Latest Innovations From the October Surface Showcase | ZDNet Insights</u></a></li>
+<li><a href="https://win-web.techidaily.com/discover-the-leading-web-browsers-of-today-according-to-zdnets-latest-analysis/"><u>Discover the Leading Web Browsers of Today According to ZDNet's Latest Analysis</u></a></li>
+<li><a href="https://win-web.techidaily.com/discover-the-ultimate-list-leading-ms-business-solutions-for-ios-in-14-curated-by-tech-experts-at-zdnet/"><u>Discover the Ultimate List: Leading MS Business Solutions for iOS in ^14 - Curated by Tech Experts at ZDNET</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/access-best-free-youtube-subtitle-extractors-for-2024/"><u>Easy Access Best Free YouTube Subtitle Extractors for 2024</u></a></li>
+<li><a href="https://win-web.techidaily.com/economical-choice-meets-innovation-my-experience-with-the-budget-friendly-microsoft-surface-pro-variant-techinsights/"><u>Economical Choice Meets Innovation: My Experience with the Budget-Friendly Microsoft Surface Pro Variant | TechInsights</u></a></li>
+<li><a href="https://win-web.techidaily.com/expert-analysis-of-the-microsoft-surface-go-3-compact-and-adaptable-2-in-1-with-subpar-battery-performance-techreviewznet/"><u>Expert Analysis of the Microsoft Surface Go 3: Compact & Adaptable 2-in-1 with Subpar Battery Performance | TechReviewZNet</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/finessing-voices-in-instagrams-storytelling-and-videos-for-2024/"><u>Finessing Voices in Instagram's Storytelling and Videos for 2024</u></a></li>
+<li><a href="https://win-web.techidaily.com/future-alert-paying-up-for-windows-10-updates-commences-next-year-whats-the-price-tag/"><u>Future Alert! Paying Up for Windows 10 Updates Commences Next Year | What's the Price Tag?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-realme-narzo-60-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Realme Narzo 60 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/signs-youre-no-longer-snapchat-friend/"><u>Signs You're No Longer Snapchat Friend</u></a></li>
+<li><a href="https://techidaily.com/useful-ways-that-can-help-to-effectively-recover-deleted-files-from-samsung-galaxy-m34-5g-by-fonelab-android-recover-data/"><u>Useful ways that can help to effectively recover deleted files from Samsung Galaxy M34 5G</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-vivo-y55s-5g-2023-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Vivo Y55s 5G (2023) | Dr.fone</u></a></li>
 </ul></div>
 

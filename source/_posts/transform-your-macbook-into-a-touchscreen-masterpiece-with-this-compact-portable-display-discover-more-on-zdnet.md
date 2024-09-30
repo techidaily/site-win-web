@@ -1,7 +1,7 @@
 ---
 title: Transform Your MacBook Into a Touchscreen Masterpiece with This Compact Portable Display - Discover More on ZDNet!
-date: 2024-09-24T21:07:42.608Z
-updated: 2024-09-25T17:36:13.810Z
+date: 2024-09-23T03:26:37.257Z
+updated: 2024-09-30T10:00:26.109Z
 tags:
   - office-furniture
 categories:
@@ -42,10 +42,10 @@ That mostly holds true with the Espresso Display V2, save for the cheaper price 
 The 15-inch touchscreen model that I've been testing [costs $499](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fespresso-Display-Touchscreen-Portable-External%2Fdp%2FB09WMX6442%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca95f3e2c-2511-4e21-8a0a-a3043baa82c5%7Cdtp&dtb=1), which isn't the most expensive portable monitor out there, but it's a marginal step up from the sub-$200 offerings that you'd typically find on [Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fs%3Fk%3Dportable%2Bmonitor%26i%3Delectronics%26crid%3D24ZP2PE8N0I59%26sprefix%3Dportable%2Bmonitor%2Celectronics%2C82%26ref%3Dnb%5Fsb%5Fnoss%5F1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca95f3e2c-2511-4e21-8a0a-a3043baa82c5%7Cdtp&dtb=1). Here's my review of it.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Specifications
@@ -63,16 +63,10 @@ The 15-inch touchscreen model that I've been testing [costs $499](https://buy.ge
 ---
 
 <!-- affiliate ads begin -->
-<span id="1982570">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Designed for minimalists
@@ -92,13 +86,6 @@ June Wan/ZDNET
 The monitor has two USB-C ports for display connection and nothing more. Gone is the 3.5mm headphone jack that was on the V1 model, and you won't find any HDMI or USB port on the monitor, either. This can be a dealbreaker for some, especially if you're eyeing a portable monitor to use as a standalone device. At the same time, the minimal, one-cable-rules-all approach is what makes the Display V2 as thin as it is.
 
 **More: [Best portable monitors to get work done](https://www.zdnet.com/article/best-portable-monitor/)**
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How it works
 
@@ -122,6 +109,19 @@ June Wan/ZDNET
 
 There are bottom-firing speakers on the monitor, but you're better off using the native one(s) of your connected device. It's certainly astounding how Espresso managed to cram a functioning speaker into the chassis, but in its pursuit of slimness, the actual audio performance takes a major hit. 
 
+<!-- affiliate ads begin -->
+<span id="1982485">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Finally, a touchscreen for Mac
 
 Industrial achievements aside, the Display V2 impressed me the most by doing something that even Apple cannot: giving touchscreen support for my MacBook. As many [ZDNET contributors and readers have opined](https://www.zdnet.com/article/the-results-are-in-zdnets-linkedin-fans-want-a-touchscreen-macbook-too/), a MacBook with a touchscreen would make one of the best productivity machines even better. While the Display V2 doesn't turn your actual MacBook display into a touchscreen, it does replicate the content, allowing you to interact with taps, presses, and swipes. 
@@ -136,18 +136,18 @@ June Wan/ZDNET
 
 [Buy the Espresso Display V2 $683.07 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09WMX6442%3FlinkCode%3Dogi%26th%3D1%26psc%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca95f3e2c-2511-4e21-8a0a-a3043baa82c5%7Cdtp&dtb=1)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Should you buy it?
 
 The [Espresso Display V2](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fespresso-Display-Touchscreen-Portable-External%2Fdp%2FB09WMX6442%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca95f3e2c-2511-4e21-8a0a-a3043baa82c5%7Cdtp&dtb=1) is the thinnest portable monitor in the world, which means, by design, there are benefits and drawbacks. For traveling business people, hybrid workers, and digital nomads, the enhanced portability and simple set-up will be greatly appreciated. For remote and stationary workers, the ability to flex between display orientations and interact via touch comes in handy. 
 
 The things I'd watch out for are the subpar speakers, additional upcharges for accessories, and the glossy display panel, especially if you work near windows. If you can shoulder these limitations, then the Espresso Display V2 is as good as portable monitors get.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Alternatives to consider
 
@@ -195,22 +195,19 @@ For a no-frills portable monitor, we'd recommend this 15.6-inch, touchscreen off
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-reviving-old-photos-through-snapchats-memories-feature/"><u>[New] Reviving Old Photos Through Snapchat's Memories Feature</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-unleashing-potential-strategic-hashtags-for-video-success/"><u>2024 Approved Unleashing Potential Strategic Hashtags for Video Success</u></a></li>
-<li><a href="https://win-web.techidaily.com/breaking-down-microsofts-latest-innovations-from-the-october-surface-showcase-zdnet-insights/"><u>Breaking Down Microsoft's Latest Innovations From the October Surface Showcase | ZDNet Insights</u></a></li>
-<li><a href="https://fox-search.techidaily.com/can-you-find-a-detailed-step-by-step-tutorial-on-the-use-of-flipbuildercom/"><u>Can You Find a Detailed Step-by-Step Tutorial on the Use of FlipBuilder.com?</u></a></li>
-<li><a href="https://win-web.techidaily.com/discover-the-leading-web-browsers-of-today-according-to-zdnets-latest-analysis/"><u>Discover the Leading Web Browsers of Today According to ZDNet's Latest Analysis</u></a></li>
-<li><a href="https://win-web.techidaily.com/discover-the-ultimate-list-leading-ms-business-solutions-for-ios-in-14-curated-by-tech-experts-at-zdnet/"><u>Discover the Ultimate List: Leading MS Business Solutions for iOS in ^14 - Curated by Tech Experts at ZDNET</u></a></li>
-<li><a href="https://win-web.techidaily.com/economical-choice-meets-innovation-my-experience-with-the-budget-friendly-microsoft-surface-pro-variant-techinsights/"><u>Economical Choice Meets Innovation: My Experience with the Budget-Friendly Microsoft Surface Pro Variant | TechInsights</u></a></li>
-<li><a href="https://win-web.techidaily.com/expert-analysis-of-the-microsoft-surface-go-3-compact-and-adaptable-2-in-1-with-subpar-battery-performance-techreviewznet/"><u>Expert Analysis of the Microsoft Surface Go 3: Compact & Adaptable 2-in-1 with Subpar Battery Performance | TechReviewZNet</u></a></li>
-<li><a href="https://win-web.techidaily.com/future-alert-paying-up-for-windows-10-updates-commences-next-year-whats-the-price-tag/"><u>Future Alert! Paying Up for Windows 10 Updates Commences Next Year | What's the Price Tag?</u></a></li>
-<li><a href="https://win-web.techidaily.com/getting-started-with-the-windows-insider-program-benefits-and-enrollment-steps-microsoft/"><u>Getting Started with the Windows Insider Program: Benefits and Enrollment Steps - Microsoft</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-hushing-up-unwanted-noise-on-skype/"><u>In 2024, Hushing Up Unwanted Noise on Skype</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-navigating-illness-with-immersive-systems/"><u>In 2024, Navigating Illness with Immersive Systems</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-best-6-video-dubbing-apps-funny-and-creative/"><u>New In 2024, Best 6 Video Dubbing Apps - Funny & Creative</u></a></li>
-<li><a href="https://win-web.techidaily.com/startling-insights-from-microsoft-on-achieving-authentic-worker-joy/"><u>Startling Insights From Microsoft on Achieving Authentic Worker Joy</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1722901738604-top-15-sites-for-free-music-downloads-legal-and-safe-options/"><u>Top 15 Sites for Free Music Downloads – Legal & Safe Options</u></a></li>
-<li><a href="https://techtrends.techidaily.com/watch-the-full-story-an-ultimate-guide-to-watching-transformers-series-in-sequence/"><u>Watch the Full Story: An Ultimate Guide to Watching Transformers Series in Sequence</u></a></li>
-<li><a href="https://win-dash.techidaily.com/1722972162660-windows-11-users-download-realtek-alc-audio-driver-instantly-and-effortlessly/"><u>Windows 11 Users: Download Realtek ALC Audio Driver Instantly & Effortlessly</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-selecting-your-stream-space-obs-or-twitch/"><u>2024 Approved Selecting Your Stream Space OBS or Twitch</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-get-and-upgrade-bluetooth-dongle-software-for-microsoft-windows-computers/"><u>How to Get and Upgrade Bluetooth Dongle Software for Microsoft Windows Computers</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-full-tutorial-to-bypass-your-poco-c55-face-lock-by-drfone-android/"><u>In 2024, Full Tutorial to Bypass Your Poco C55 Face Lock?</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-apple-iphone-12-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, How does the stardust trade cost In pokemon go On Apple iPhone 12 Pro? | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/insta-snap-authenticity-guide-unveiling-selfies-truths/"><u>Insta Snap Authenticity Guide Unveiling Selfies' Truths</u></a></li>
+<li><a href="https://win-web.techidaily.com/netflixpc/"><u>Netflixダウンロード映像をPC上に記録するプロセス解説</u></a></li>
+<li><a href="https://win-web.techidaily.com/pcmiraculive/"><u>PC・スマートフォン対応:簡単な方法でMiraculive動画記録</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/perfect-your-tiktok-presence-with-siri-commands-and-features/"><u>Perfect Your TikTok Presence with Siri Commands and Features</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/precise-participation-the-key-to-zooming-in-on-google-meet-talks-for-2024/"><u>Precise Participation The Key to Zooming in on Google Meet Talks for 2024</u></a></li>
+<li><a href="https://win-web.techidaily.com/resolving-video-cannot-be-plays-error-150-in-google-slides-troubleshooting-guide/"><u>Resolving 'Video Cannot Be Plays' Error 150 in Google Slides | Troubleshooting Guide</u></a></li>
+<li><a href="https://win-web.techidaily.com/rethinking-convenience-the-downsides-of-buying-premixed-fire-starter-packs-or-fire-sticks-for-your-adventures/"><u>Rethinking Convenience: The Downsides of Buying Premixed Fire Starter Packs or 'Fire Sticks' For Your Adventures</u></a></li>
+<li><a href="https://win-web.techidaily.com/skype/"><u>Skypeで効率的にオンリーボイスを記録するコツ</u></a></li>
+<li><a href="https://win-web.techidaily.com/step-by-step-guide-converting-various-video-and-audio-files-effortlessly/"><u>Step-by-Step Guide: Converting Various Video and Audio Files Effortlessly</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-best-features-of-samsung-galaxy-s20-fe-5g-in-depth-user-testimonials/"><u>Unveiling the Best Features of Samsung Galaxy S20 FE (5G): In-Depth User Testimonials</u></a></li>
 </ul></div>
 

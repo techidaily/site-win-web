@@ -1,7 +1,7 @@
 ---
 title: Pay to Keep Your PC Updated? Find Out How Much Microsoft Plans to Charge for Windows 11 Updates From Next Year Onwards | ZDNet Insight
-date: 2024-09-22T17:30:40.011Z
-updated: 2024-09-26T00:04:45.443Z
+date: 2024-09-28T11:31:46.689Z
+updated: 2024-09-29T16:16:16.700Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -71,10 +71,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -130,16 +130,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<span id="1982596">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -148,16 +142,16 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
+  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -202,18 +196,15 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-from-backstage-to-center-stage-mastering-twitter-livestreaming/"><u>[New] In 2024, From Backstage to Center Stage Mastering Twitter Livestreaming</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-io-screen-recorder-user-manual-overview/"><u>[New] IO Screen Recorder User Manual Overview</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-fresh-talent-and-stunts-in-skating-highlights/"><u>[Updated] In 2024, Fresh Talent and Stunts in Skating Highlights</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-solving-srt-export-issues-in-adobe-premiere-pro/"><u>[Updated] Solving SRT Export Issues in Adobe Premiere Pro</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-nubia-red-magic-9-proplus-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Nubia Red Magic 9 Pro+ Fingerprint Lock</u></a></li>
-<li><a href="https://win-web.techidaily.com/comprehensive-inorn-40c1r-144hz-widescreen-display-evaluation-spacious-design-meets-swift-performance/"><u>Comprehensive Inorn 40C1R 144Hz Widescreen Display Evaluation: Spacious Design Meets Swift Performance</u></a></li>
-<li><a href="https://win-web.techidaily.com/critical-hurdles-ahead-for-windows-11-launch-microsofts-ticking-clock-countdown-it-news-daily/"><u>Critical Hurdles Ahead for Windows 11 Launch – Microsoft's Ticking Clock Countdown | IT News Daily</u></a></li>
-<li><a href="https://win-web.techidaily.com/defend-your-desktops-expert-strategies-for-windows-pc-safety-in-homes-and-startups-digitalguardian/"><u>Defend Your Desktops: Expert Strategies for Windows PC Safety in Homes and Startups | DigitalGuardian</u></a></li>
-<li><a href="https://win-web.techidaily.com/essential-cyber-safety-tips-implement-these-6-easy-to-follow-guidelines-today-insights-from-zdnet/"><u>Essential Cyber Safety Tips: Implement These 6 Easy-to-Follow Guidelines Today - Insights From ZDNet</u></a></li>
-<li><a href="https://win-web.techidaily.com/exclusive-roundup-the-most-advanced-laptops-in-2eby-genuine-reviewers-zdnet/"><u>Exclusive Roundup: The Most Advanced Laptops in 2Eby Genuine Reviewers | ZDNet</u></a></li>
-<li><a href="https://win-blog.techidaily.com/mastering-sons-of-the-forest-overcoming-game-crashes-for-a-smooth-pc-experience/"><u>Mastering Sons of the Forest: Overcoming Game Crashes for a Smooth PC Experience</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-top-10plus-free-video-rotators-to-rotate-or-flip-videos-for-2024/"><u>New Top 10+ Free Video Rotators to Rotate or Flip Videos for 2024</u></a></li>
-<li><a href="https://android-frp.techidaily.com/the-ultimate-pocket-pc-alder-lake-n-cpu-25gbps-ethernet-and-power-over-ethernet-meet-minisforum-s100/"><u>The Ultimate Pocket PC: Alder Lake-N CPU, 2.5Gbps Ethernet & Power over Ethernet - Meet Minisforum S100</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-designers-guide-crafting-an-individualistic-keyword-for-tiktok/"><u>[New] 2024 Approved Designer's Guide Crafting an Individualistic Keyword for TikTok</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-organize-soundtracks-on-youtube-the-playlist-guide/"><u>[New] In 2024, Organize Soundtracks on Youtube The Playlist Guide</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-discover-the-best-in-class-our-list-of-12-high-performing-flip-cameras/"><u>[Updated] In 2024, Discover the Best in Class Our List of 12 High-Performing Flip Cameras</u></a></li>
+<li><a href="https://win-web.techidaily.com/how-to-remove-elements-from-your-pdf-document-with-easypdf-editing-tool/"><u>How to Remove Elements From Your PDF Document with EasyPDF Editing Tool</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-3-ways-for-android-pokemon-go-spoofing-on-infinix-zero-5g-2023-turbo-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways for Android Pokemon Go Spoofing On Infinix Zero 5G 2023 Turbo | Dr.fone</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/in-2024-unveiling-the-secrets-of-shopee-livestream-selling-system/"><u>In 2024, Unveiling the Secrets of Shopee Livestream Selling System</u></a></li>
+<li><a href="https://win-web.techidaily.com/integrating-your-business-emblem-into-the-flipbook-toolbar-a-step-by-step-guide/"><u>Integrating Your Business Emblem Into the FlipBook Toolbar: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-web.techidaily.com/merging-multiple-pictures-into-one-display-a-guide-with-flipbuilder-techniques/"><u>Merging Multiple Pictures Into One Display: A Guide with FlipBuilder Techniques</u></a></li>
+<li><a href="https://win-web.techidaily.com/need-speed-discover-fast-track-options-for-your-flipoffice-pro-promotion-on-flipbuildercom/"><u>Need Speed? Discover Fast-Track Options for Your FlipOffice Pro Promotion on FlipBuilder.com!</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/ultimate-guide-macbook-cam-filming-basics-for-2024/"><u>Ultimate Guide MacBook Cam Filming Basics for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Copilot Takes the Lead in Next-Gen AI Music Composition Techniques | Latest Update by ZDNET
-date: 2024-09-23T17:37:30.374Z
-updated: 2024-09-25T23:47:04.051Z
+date: 2024-09-26T19:22:21.568Z
+updated: 2024-09-29T21:49:48.463Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -71,16 +71,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<span id="1975562">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -104,10 +98,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -153,10 +147,16 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977028">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -202,24 +202,18 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-crafting-compelling-footage-on-your-gopro-for-2024/"><u>[New] Crafting Compelling Footage on Your GoPro for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-facebooks-best-picture-enhancers-top-11-tools-ranked/"><u>[New] Facebook's Best Picture Enhancers Top 11 Tools Ranked</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-insights-into-average-gain-from-each-watched-online-content/"><u>[Updated] 2024 Approved Insights Into Average Gain From Each Watched Online Content</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-mix-like-a-pro-with-20-no-cost-luts-from-dji-devices/"><u>2024 Approved Mix Like a Pro with 20 No-Cost LUTs From DJI Devices</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpts-capability-in-mixing-drinks/"><u>ChatGPT's Capability in Mixing Drinks</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/efficient-message-tricks-for-keeping-within-data-limits/"><u>Efficient Message Tricks for Keeping Within Data Limits</u></a></li>
-<li><a href="https://win-web.techidaily.com/get-unlimited-vpn-access-with-your-microsoft-tier-subscription-a-step-by-step-guide-zdnet/"><u>Get Unlimited VPN Access with Your Microsoft Tier Subscription: A Step-by-Step Guide | ZDNet</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-honor-100-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Honor 100 Phone Password Without Factory Reset?</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-set-your-preferred-job-location-on-linkedin-app-of-your-xiaomi-13t-drfone-by-drfone-virtual-android/"><u>In 2024, Set Your Preferred Job Location on LinkedIn App of your Xiaomi 13T | Dr.fone</u></a></li>
-<li><a href="https://win-web.techidaily.com/mastering-the-art-of-automation-essential-powershell-techniques-for-sysadmins-on-a-budget-only-16/"><u>Mastering the Art of Automation: Essential PowerShell Techniques for Sysadmins on a Budget - Only $16!</u></a></li>
-<li><a href="https://win-web.techidaily.com/microsoft-azures-new-radius-platform-boosts-cross-cloud-development-with-open-source-solutions-itproportal/"><u>Microsoft Azure's New Radius Platform Boosts Cross-Cloud Development with Open Source Solutions | ITProPortal</u></a></li>
-<li><a href="https://win-web.techidaily.com/navigating-microsoft-365-tips-and-tricks-for-effective-management-on-windows-11-insights-from-zdnet/"><u>Navigating Microsoft 365: Tips and Tricks for Effective Management on Windows 11 - Insights From ZDNet</u></a></li>
-<li><a href="https://win-web.techidaily.com/professional-picks-for-the-ultimate-surface-computers-of-2eplus-expertise-at-your-fingertips-zdnet/"><u>Professional Picks for the Ultimate Surface Computers of 2E+; Expertise at Your Fingertips | ZDNET</u></a></li>
-<li><a href="https://win-web.techidaily.com/simplify-your-inbox-discover-the-one-time-email-hack-to-eliminate-clutter-no-junk-diets-needed/"><u>Simplify Your Inbox: Discover the One-Time Email Hack to Eliminate Clutter, No Junk Diets Needed!</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/step-by-step-guide-restoring-your-revoked-or-expired-professional-license/"><u>Step-by-Step Guide: Restoring Your Revoked or Expired Professional License</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/the-comedy-codex-a-practical-tutorial-for-gif-creation/"><u>The Comedy Codex A Practical Tutorial for GIF Creation</u></a></li>
-<li><a href="https://win-web.techidaily.com/top-ranking-surface-laptops-comprehensive-analysis-by-tech-experts-zdnet/"><u>Top-Ranking Surface Laptops : Comprehensive Analysis by Tech Experts - ZDNet</u></a></li>
-<li><a href="https://win-web.techidaily.com/urgent-alert-windows-11-versions-21h2-and-22h2-hit-eol-act-fast-to-upgrade-before-its-too-late/"><u>Urgent Alert: Windows 11 Versions 21H2 & 22H2 Hit EOL - Act Fast to Upgrade Before It's Too Late!</u></a></li>
-<li><a href="https://win-web.techidaily.com/will-you-pay-for-windows-11-updates-in-the-future-microsoft-reveals-new-pricing-strategy-for-next-years-software-enhancements/"><u>Will You Pay For Windows 11 Updates in the Future? Microsoft Reveals New Pricing Strategy for Next Year's Software Enhancements</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-dissecting-fraps-screen-capture-features/"><u>[New] Dissecting Fraps Screen Capture Features</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-manipulate-sound-rate-in-youtube-playback/"><u>[New] In 2024, Manipulate Sound Rate in YouTube Playback</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-insiders-choice-the-ultimate-list-of-screen-recorders-for-2024/"><u>[New] Insider's Choice The Ultimate List of Screen Recorders for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-vivo-t2-5g-drfone-by-drfone-virtual-android/"><u>15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Vivo T2 5G | Dr.fone</u></a></li>
+<li><a href="https://win-web.techidaily.com/discover-the-ultimate-list-of-wav-format-players-on-windows/"><u>Discover the Ultimate List of WAV Format Players on Windows</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/dispelled-the-shadow-direct-x-mystery-in-league-solved/"><u>Dispelled the Shadow: Direct X Mystery in League Solved</u></a></li>
+<li><a href="https://win-web.techidaily.com/easily-retrieve-and-save-any-gif-with-this-simple-url-tip/"><u>Easily Retrieve and Save Any GIF with This Simple URL Tip!</u></a></li>
+<li><a href="https://win-web.techidaily.com/expert-strategies-for-achieving-maximum-quality-in-4k-video-compression/"><u>Expert Strategies for Achieving Maximum Quality in 4K Video Compression</u></a></li>
+<li><a href="https://win-web.techidaily.com/guide-on-playing-powerpoint-films-via-quicktime-despite-issues/"><u>Guide on Playing PowerPoint Films via QuickTime Despite Issues</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-easy-ways-to-copy-contacts-from-realme-gt-5-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Easy Ways to Copy Contacts from Realme GT 5 to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-lock-screen-wallpaper-on-xiaomi-redmi-note-12-5g-by-drfone-android/"><u>In 2024, How to Change Lock Screen Wallpaper on Xiaomi Redmi Note 12 5G</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/toms-tech-hub-expert-reviews-and-in-depth-guides/"><u>Tom's Tech Hub: Expert Reviews & In-Depth Guides</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/updated-2024-approved-design-cartoon-images-with-the-best-tools/"><u>Updated 2024 Approved Design Cartoon Images With the Best Tools</u></a></li>
 </ul></div>
 

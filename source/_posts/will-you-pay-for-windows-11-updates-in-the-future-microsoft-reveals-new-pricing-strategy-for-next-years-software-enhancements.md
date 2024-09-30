@@ -1,7 +1,7 @@
 ---
 title: Will You Pay For Windows 11 Updates in the Future? Microsoft Reveals New Pricing Strategy for Next Year's Software Enhancements
-date: 2024-09-20T17:20:57.617Z
-updated: 2024-09-25T17:22:13.095Z
+date: 2024-09-23T02:21:08.514Z
+updated: 2024-09-30T02:03:16.508Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -64,10 +71,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -89,13 +96,6 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -130,10 +130,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -142,16 +142,16 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,19 +196,14 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-how-to-see-what-you-just-watched-on-facebook/"><u>[New] 2024 Approved How to See What You Just Watched on Facebook</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-uninterrupted-snapstreaks-techniques-for-success/"><u>[Updated] In 2024, Uninterrupted Snapstreaks Techniques for Success</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-the-complete-2023-bandicam-insight-and-tips/"><u>[Updated] The Complete 2023 Bandicam Insight & Tips</u></a></li>
-<li><a href="https://win-web.techidaily.com/1726030498348-windowsmac/"><u>「フリーで使える動画エンコードツールをWindowsとMacにインストールする方法」</u></a></li>
-<li><a href="https://win-web.techidaily.com/44cm44oc44kk44k344o844gr44ki44kl44oq44ki44or44k44kk44og44kq44o844oh44kj44kq55sf5psplus6ycb44gu6kiy6yyy5oml5rov44cn/"><u>「ボイシーによるリアルタイムオーディオ生放送の記録手法」</u></a></li>
-<li><a href="https://win-web.techidaily.com/1-how-to-resolve-video-playback-issues-on-your-iphone-fast-fixes-and-solutions/"><u>1. How to Resolve Video Playback Issues on Your iPhone - Fast Fixes and Solutions</u></a></li>
-<li><a href="https://facebook.techidaily.com/break-free-halt-facebooks-invasion-tactics/"><u>Break Free: Halt Facebook’s Invasion Tactics</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/debate-on-whether-sonoma-is-worth-upgrading-to-me/"><u>Debate on Whether Sonoma Is Worth Upgrading to Me</u></a></li>
-<li><a href="https://win-web.techidaily.com/fixing-the-hd-video-buffering-problem-in-vlc-media-player/"><u>Fixing the HD Video Buffering Problem in VLC Media Player</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/from-low-res-to-hd-your-first-foray-into-frame-rates-for-2024/"><u>From Low-Res to HD Your First Foray Into Frame Rates for 2024</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-text-messages-from-infinix-zero-30-5g-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Text Messages from Infinix Zero 30 5G to New Phone | Dr.fone</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/mastering-winxvideo-ai-video-editing-step-by-step-user-guide-for-optimization-and-conversion/"><u>Mastering WinxVideo AI Video Editing - Step-by-Step User Guide for Optimization and Conversion</u></a></li>
-<li><a href="https://extra-support.techidaily.com/sierras-cloud-essentials-drives-full-access-guide-for-2024/"><u>Sierra's Cloud Essentials Drives Full Access Guide for 2024</u></a></li>
-<li><a href="https://win-web.techidaily.com/zdnets-best-picks-the-indispensable-11-tools-for-windows-and-mac-users/"><u>ZDNet's Best Picks: The Indispensable 11 Tools for Windows & Mac Users</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-must-have-filmmaking-tools-for-aspiring-youtubers/"><u>[New] In 2024, Must-Have Filmmaking Tools for Aspiring YouTubers</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/discover-the-premier-photo-retouching-software-suites-for-your-computer/"><u>Discover the Premier Photo Retouching Software Suites for Your Computer</u></a></li>
+<li><a href="https://win-web.techidaily.com/easy-tutorial-on-how-to-save-taylor-swifts-reputation-clips-in-high-quality-audio-and-video-formats/"><u>Easy Tutorial on How to Save Taylor Swift's 'Reputation' Clips in High-Quality Audio and Video Formats</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/embrace-laughter-and-sorrow-with-these-top-10-meme-igs-for-2024/"><u>Embrace Laughter and Sorrow with These Top 10 Meme IGs for 2024</u></a></li>
+<li><a href="https://win-web.techidaily.com/explore-and-save-private-scenes-from-clips4sale-confidential-premium-video-library/"><u>Explore and Save Private Scenes From Clips4Sale: Confidential Premium Video Library</u></a></li>
+<li><a href="https://win-web.techidaily.com/get-your-favorite-napster-tunes-in-crystal-clear-mp3-format-on-windows-or-macos-devices/"><u>Get Your Favorite Napster Tunes in Crystal Clear MP3 Format on Windows or macOS Devices</u></a></li>
+<li><a href="https://win-web.techidaily.com/get-your-favorite-opera-show-clips-how-to-use-opera-softwares-video-grabber-feature/"><u>Get Your Favorite Opera Show Clips: How to Use Opera Software's Video Grabber Feature</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-full-guide-to-bypass-oppo-a78-5g-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Oppo A78 5G FRP</u></a></li>
+<li><a href="https://extra-information.techidaily.com/tips-for-a-pristine-image-canvas-background-technique/"><u>Tips for a Pristine Image Canva's Background Technique</u></a></li>
 </ul></div>
 

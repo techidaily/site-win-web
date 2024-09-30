@@ -1,7 +1,7 @@
 ---
 title: ChatGPT Goes Corporate with New OpenAI Release, Exclusive Coverage on ZDNet
-date: 2024-09-23T16:19:34.012Z
-updated: 2024-09-25T21:08:34.477Z
+date: 2024-09-27T01:36:22.451Z
+updated: 2024-09-30T04:26:15.515Z
 tags:
   - microsoft
 categories:
@@ -114,27 +114,31 @@ I fear, though, that for very many people, Excel is just a dull, efficient, util
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/combine-like-terms/"><u>Combine Like Terms:</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/fixed-excel-2007-found-a-problem-with-one-or-more-formula-by-stellar-guide/"><u>Fixed Excel 2007 Found a Problem with One or more Formula</u></a></li>
-<li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-tecno-phantom-v-fold-drfone-by-drfone-virtual-android/"><u>Fixing Foneazy MockGo Not Working On Tecno Phantom V Fold | Dr.fone</u></a></li>
-<li><a href="https://win-web.techidaily.com/in-depth-analysis-of-jabras-evolve2-75-audio-gear-the-ultimate-hybrid-work-companion-featuring-anc-and-all-day-conversations-techreviewzdnet/"><u>In-Depth Analysis of Jabra's Evolve2 75 Audio Gear: The Ultimate Hybrid Work Companion Featuring ANC & All-Day Conversations | TechReviewZDNet</u></a></li>
-<li><a href="https://win11.techidaily.com/rectifying-chrono-errors-in-chrome-for-windows-users/"><u>Rectifying Chrono-Errors in Chrome for Windows Users</u></a></li>
-<li><a href="https://win-web.techidaily.com/singapore-adopts-microsoft-copilot-next-gen-tech-in-legal-services-zdnet-insights/"><u>Singapore Adopts Microsoft Copilot: Next-Gen Tech in Legal Services | ZDNet Insights</u></a></li>
-<li><a href="https://win-web.techidaily.com/steven-ballmer-previously-at-the-helm-of-microsoft-discusses-his-courageous-traits-or-lack-thereof-the-verge/"><u>Steven Ballmer, Previously at the Helm of Microsoft, Discusses His Courageous Traits or Lack Thereof | The Verge</u></a></li>
-<li><a href="https://win-web.techidaily.com/tech-review-how-microsofts-new-lineup-of-easy-to-repair-laptops-outshines-rivals-leaving-apple-to-catch-up-zdnet/"><u>Tech Review: How Microsoft's New Lineup of Easy-to-Repair Laptops Outshines Rivals, Leaving Apple to Catch Up | ZDNET</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/where-is-the-best-place-to-catch-dratini-on-motorola-edgeplus-2023-drfone-by-drfone-virtual-android/"><u>Where Is the Best Place to Catch Dratini On Motorola Edge+ (2023) | Dr.fone</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-infiltrate-live-tips-for-guesting-on-tiktok-sessions/"><u>[New] Infiltrate Live Tips for Guesting on TikTok Sessions</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-olympic-highlights-thrilling-runs-from-x-games/"><u>[New] Olympic Highlights Thrilling Runs From X Games</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-real-vs-fake-quick-ways-to-audit-your-insta-circle/"><u>[New] Real Vs. Fake Quick Ways to Audit Your Insta Circle</u></a></li>
+<li><a href="https://win-web.techidaily.com/1-flippdf-pro-for-ios-effortlessly-transform-your-pdfs-into-interactive-ebooks-with-touchscreen-navigation/"><u>1) FlipPDF Pro for iOS: Effortlessly Transform Your PDFs Into Interactive eBooks with Touchscreen Navigation</u></a></li>
+<li><a href="https://win-web.techidaily.com/adjusting-page-layouts-in-flipbuilder-moving-flipbooks-left-or-right/"><u>Adjusting Page Layouts in FlipBuilder: Moving Flipbooks Left or Right</u></a></li>
+<li><a href="https://win-web.techidaily.com/can-want-links-retain-their-effectiveness-when-zooming-inout-on-a-website-using-flipbuilder/"><u>Can Want Links Retain Their Effectiveness When Zooming In/Out on a Website Using FlipBuilder?</u></a></li>
+<li><a href="https://win-able.techidaily.com/create-animated-videos-with-free-software-merging-gifs-into-one/"><u>Create Animated Videos with Free Software: Merging GIFs Into One!</u></a></li>
+<li><a href="https://win-web.techidaily.com/create-interactive-flipbooks-from-pdf-documents-with-easy-page-extraction-discover-how-flipbuildercom/"><u>Create Interactive FlipBooks From PDF Documents with Easy Page Extraction - Discover How [FlipBuilder.com]</u></a></li>
+<li><a href="https://win-web.techidaily.com/creating-a-compelling-info-flashbook-a-guide-to-displaying-your-business-details-on-flipbuilder/"><u>Creating a Compelling Info-Flashbook: A Guide to Displaying Your Business Details on FlipBuilder</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/did-your-apple-iphone-13-mini-passcode-change-itself-unlock-it-now-by-drfone-ios/"><u>Did Your Apple iPhone 13 mini Passcode Change Itself? Unlock It Now</u></a></li>
+<li><a href="https://facebook.techidaily.com/fusing-frequencies-with-friends-what-could-this-mean-for-fb-and-spotify/"><u>Fusing Frequencies with Friends: What Could This Mean for FB & SPOTIFY?</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-realme-narzo-60-5g-drfone-by-drfone-virtual-android/"><u>How to Change Location on TikTok to See More Content On your Realme Narzo 60 5G | Dr.fone</u></a></li>
+<li><a href="https://win-web.techidaily.com/how-to-design-a-durable-hardcover-flipbook-using-flipbuilder-a-comprehensive-guide/"><u>How to Design a Durable Hardcover Flipbook Using FlipBuilder - A Comprehensive Guide</u></a></li>
+<li><a href="https://win-web.techidaily.com/how-to-easily-upload-images-and-videos-with-flipbuildercoms-user-friendly-service/"><u>How to Easily Upload Images and Videos with FlipBuilder.com's User-Friendly Service</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-android-unlock-code-sim-unlock-your-oppo-k11x-phone-and-remove-locked-screen-by-drfone-android/"><u>In 2024, Android Unlock Code Sim Unlock Your Oppo K11x Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://win-web.techidaily.com/is-it-possible-to-craft-a-custom-icon-using-the-flipbuilder-web-application/"><u>Is It Possible to Craft a Custom Icon Using the FlipBuilder Web Application?</u></a></li>
+<li><a href="https://win-web.techidaily.com/share-the-joy-of-reading-flip-through-digital-books-together-on-flipbuildercom/"><u>Share the Joy of Reading: Flip Through Digital Books Together on FlipBuilder.com</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/skypes-premier-audio-capture-solutions-for-2024/"><u>Skype's Premier Audio Capture Solutions for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshoot-non-loading-twitch-broadcasts-with-these-7-tips/"><u>Troubleshoot Non-Loading Twitch Broadcasts with These 7 Tips</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

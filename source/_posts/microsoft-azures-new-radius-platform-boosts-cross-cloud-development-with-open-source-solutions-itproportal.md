@@ -1,7 +1,7 @@
 ---
 title: Microsoft Azure's New Radius Platform Boosts Cross-Cloud Development with Open Source Solutions | ITProPortal
-date: 2024-09-24T18:24:02.672Z
-updated: 2024-09-25T18:09:49.223Z
+date: 2024-09-28T08:02:02.627Z
+updated: 2024-09-29T18:02:42.500Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -64,10 +71,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -123,10 +130,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -136,22 +143,15 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,19 +196,15 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/updated-2023-mobile-download-for-fb-videos-cross-platform/"><u>[Updated] 2023 Mobile Download for FB Videos, Cross-Platform</u></a></li>
-<li><a href="https://solve-latest.techidaily.com/custom-templatesn-indicates-a-new-line-for-readability-create-your-own-unique-project-design-using-the-template-editor-available-under-file-)-new-template-s29/"><u>Custom Templates( n Indicates a New Line for Readability): Create Your Own Unique Project Design Using the Template Editor Available Under File > New Template. Save as a .macxdvd File to Use in Future Projects.</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/gadget-mastery-with-tom-in-depth-hardware-analysis-and-tips/"><u>Gadget Mastery with Tom: In-Depth Hardware Analysis and Tips</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-get-netflix-up-and-running-again-on-your-xbox-console/"><u>How To Get Netflix Up and Running Again on Your Xbox Console</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/immersive-vr-capture-mastery-9-techniques-for-success-for-2024/"><u>Immersive VR Capture Mastery 9 Techniques for Success for 2024</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-hacks-to-do-pokemon-go-trainer-battles-for-realme-gt-5-240w-drfone-by-drfone-virtual-android/"><u>In 2024, Hacks to do pokemon go trainer battles For Realme GT 5 (240W) | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722964523605-realtek-asio-driver-update-for-windows-10-quick-easy-download-steps/"><u>RealTek Asio Driver Update for Windows 10 – Quick, Easy Download Steps</u></a></li>
-<li><a href="https://win-web.techidaily.com/skype/"><u>Skypeで効率的にオンリーボイスを記録するコツ</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-into-stability-how-to-correct-bootmgr-errors-effectively/"><u>Step Into Stability: How to Correct Bootmgr Errors Effectively</u></a></li>
-<li><a href="https://win-web.techidaily.com/step-by-step-guide-converting-various-video-and-audio-files-effortlessly/"><u>Step-by-Step Guide: Converting Various Video and Audio Files Effortlessly</u></a></li>
-<li><a href="https://win-web.techidaily.com/step-by-step-guide-installing-youcut-video-editor-on-windows-and-macos/"><u>Step-by-Step Guide: Installing YouCut Video Editor on Windows and macOS</u></a></li>
-<li><a href="https://win-web.techidaily.com/top-10-highly-rated-xvid-video-players-compatible-with-pc-systems/"><u>Top 10 Highly Rated Xvid Video Players Compatible with PC Systems</u></a></li>
-<li><a href="https://win-web.techidaily.com/ultimate-mp4-video-transformation-tool-leading-hd-to-mp4-converter-with-advanced-features/"><u>Ultimate MP4 Video Transformation Tool: Leading HD to MP4 Converter with Advanced Features</u></a></li>
-<li><a href="https://win-web.techidaily.com/vlc-and/"><u>VLC ネットワークストリーム再生の失敗原因解説&修正法</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-chromatic-excellence-program/"><u>[New] Chromatic Excellence Program</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-progopro-tips-for-cinematic-results/"><u>[New] ProGoPro Tips for Cinematic Results</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-find-out-the-best-8-youtube-engagement-tools-for-2024/"><u>[Updated] Find Out The Best 8 Youtube Engagement Tools for 2024</u></a></li>
+<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-gionee-f3-pro-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Gionee F3 Pro without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://win-web.techidaily.com/amd-virtual-chip-emulator-optimize-gaming-and-live-capture-experience/"><u>AMD Virtual Chip Emulator: Optimize Gaming & Live Capture Experience</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-transform-your-vision-into-reality-essential-movies-maker-skills-on-windows-8/"><u>In 2024, Transform Your Vision Into Reality Essential Movies Maker Skills on Windows 8</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-timely-start-issues-solutions-to-service-error-1053/"><u>Overcoming Timely Start Issues - Solutions to Service Error 1053</u></a></li>
+<li><a href="https://win-web.techidaily.com/resolving-audio-problems-in-downloaded-1080p-youtube-clips/"><u>Resolving Audio Problems in Downloaded 1080P YouTube Clips</u></a></li>
+<li><a href="https://win-web.techidaily.com/salsaindy-dance-collection-free-downloads-in-mp4movaviwmv-formats/"><u>SalsaIndy Dance Collection - Free Downloads in MP4/MOV/AVI/WMV Formats</u></a></li>
+<li><a href="https://win-web.techidaily.com/top-choice-for-beemp3-conversion-a-superior-solution-for-macos-and-windows-by-allavsoft/"><u>Top Choice for BeeMp3 Conversion: A Superior Solution for macOS & Windows by Allavsoft</u></a></li>
 </ul></div>
 
