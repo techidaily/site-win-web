@@ -1,7 +1,7 @@
 ---
 title: Avoid the Rush on Black Friday with Top-Rated Discount Cards - Save Time & Money!
-date: 2024-09-24T08:27:29.737Z
-updated: 2024-09-29T18:04:48.556Z
+date: 2024-10-02T22:52:59.082Z
+updated: 2024-10-05T22:39:27.881Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
-  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -69,13 +69,6 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -96,13 +89,6 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -136,27 +122,35 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
+  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<span id="1983539">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -202,17 +196,18 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-streamlining-twitters-video-transfer-to-fb-network/"><u>[New] In 2024, Streamlining Twitters Video Transfer to FB Network</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-upgrade-alert-navigate-changes-with-confidence/"><u>[New] Upgrade Alert Navigate Changes with Confidence</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-win-10-free-screencast-recorders-ranked-and-updated-list/"><u>[New] Win 10 Free Screencast Recorders Ranked & Updated List</u></a></li>
-<li><a href="https://win-web.techidaily.com/get-unlimited-vpn-access-with-your-microsoft-tier-subscription-a-step-by-step-guide-zdnet/"><u>Get Unlimited VPN Access with Your Microsoft Tier Subscription: A Step-by-Step Guide | ZDNet</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-3-ways-to-track-samsung-galaxy-a24-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Track Samsung Galaxy A24 without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-eliminating-noise-fixing-silent-sounds-in-obs-streams/"><u>In 2024, Eliminating Noise Fixing Silent Sounds in OBS Streams</u></a></li>
-<li><a href="https://win-web.techidaily.com/mastering-the-art-of-automation-essential-powershell-techniques-for-sysadmins-on-a-budget-only-16/"><u>Mastering the Art of Automation: Essential PowerShell Techniques for Sysadmins on a Budget - Only $16!</u></a></li>
-<li><a href="https://win-web.techidaily.com/simplify-your-inbox-discover-the-one-time-email-hack-to-eliminate-clutter-no-junk-diets-needed/"><u>Simplify Your Inbox: Discover the One-Time Email Hack to Eliminate Clutter, No Junk Diets Needed!</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/soundscape-archives-collect-and-evaluate-recordings/"><u>Soundscape Archives Collect & Evaluate Recordings</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/the-pathway-to-seamless-system-enhancement-in-macos-11-big-sur-for-2024/"><u>The Pathway to Seamless System Enhancement in macOS 11 Big Sur for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/understanding-bing-a-complete-overview-of-microsofts-search-engine/"><u>Understanding Bing: A Complete Overview of Microsoft's Search Engine</u></a></li>
-<li><a href="https://win-web.techidaily.com/urgent-alert-windows-11-versions-21h2-and-22h2-hit-eol-act-fast-to-upgrade-before-its-too-late/"><u>Urgent Alert: Windows 11 Versions 21H2 & 22H2 Hit EOL - Act Fast to Upgrade Before It's Too Late!</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-capturing-clarity-selecting-10-superior-lenses-for-2024/"><u>[New] Capturing Clarity Selecting 10 Superior Lenses for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-from-start-to-finish-the-complete-telegram-web-journey/"><u>[New] In 2024, From Start to Finish The Complete Telegram Web Journey</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-innovative-methods-for-preserving-youtube-videos-for-2024/"><u>[New] Innovative Methods for Preserving YouTube Videos for 2024</u></a></li>
+<li><a href="https://win-web.techidaily.com/1726030498348-windowsmac/"><u>「フリーで使える動画エンコードツールをWindowsとMacにインストールする方法」</u></a></li>
+<li><a href="https://win-web.techidaily.com/44cm44oc44kk44k344o844gr44ki44kl44oq44ki44or44k44kk44og44kq44o844oh44kj44kq55sf5psplus6ycb44gu6kiy6yyy5oml5rov44cn/"><u>「ボイシーによるリアルタイムオーディオ生放送の記録手法」</u></a></li>
+<li><a href="https://win-web.techidaily.com/1-how-to-resolve-video-playback-issues-on-your-iphone-fast-fixes-and-solutions/"><u>1. How to Resolve Video Playback Issues on Your iPhone - Fast Fixes and Solutions</u></a></li>
+<li><a href="https://win-web.techidaily.com/fixing-the-hd-video-buffering-problem-in-vlc-media-player/"><u>Fixing the HD Video Buffering Problem in VLC Media Player</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-samsung-galaxy-f34-5g-to-mac-drfone-by-drfone-android/"><u>How to Mirror Samsung Galaxy F34 5G to Mac? | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-propel-your-cinematic-vision-with-advanced-windows-10-video-tools/"><u>In 2024, Propel Your Cinematic Vision with Advanced Windows 10 Video Tools</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/innovation-in-viewing-top-5-webcams-recommended-for-gamers-for-2024/"><u>Innovation in Viewing Top 5 Webcams Recommended for Gamers for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solve-your-windows-1nto-update-error-understanding-and-fixing-issue-0xc1900208/"><u>Solve Your Windows 1Nto Update Error: Understanding and Fixing Issue 0xC1900208</u></a></li>
+<li><a href="https://win-web.techidaily.com/step-by-step-guide-taking-charge-of-your-android-phone-via-pc-connection/"><u>Step-by-Step Guide: Taking Charge of Your Android Phone via PC Connection</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/steps-to-turn-off-telemetry-and-personalized-prompts-on-your-windows-11-pc/"><u>Steps to Turn Off Telemetry & Personalized Prompts on Your Windows 11 PC</u></a></li>
 </ul></div>
 

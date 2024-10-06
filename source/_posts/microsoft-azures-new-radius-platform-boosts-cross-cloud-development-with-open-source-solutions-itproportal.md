@@ -1,7 +1,7 @@
 ---
 title: Microsoft Azure's New Radius Platform Boosts Cross-Cloud Development with Open Source Solutions | ITProPortal
-date: 2024-09-28T08:02:02.627Z
-updated: 2024-09-29T18:02:42.500Z
+date: 2024-09-28T17:32:31.477Z
+updated: 2024-10-05T19:10:58.963Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -71,10 +71,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -130,10 +130,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -142,16 +142,16 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,15 +196,20 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-chromatic-excellence-program/"><u>[New] Chromatic Excellence Program</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-progopro-tips-for-cinematic-results/"><u>[New] ProGoPro Tips for Cinematic Results</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-find-out-the-best-8-youtube-engagement-tools-for-2024/"><u>[Updated] Find Out The Best 8 Youtube Engagement Tools for 2024</u></a></li>
-<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-gionee-f3-pro-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Gionee F3 Pro without Anyone Knowing | Dr.fone</u></a></li>
-<li><a href="https://win-web.techidaily.com/amd-virtual-chip-emulator-optimize-gaming-and-live-capture-experience/"><u>AMD Virtual Chip Emulator: Optimize Gaming & Live Capture Experience</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-transform-your-vision-into-reality-essential-movies-maker-skills-on-windows-8/"><u>In 2024, Transform Your Vision Into Reality Essential Movies Maker Skills on Windows 8</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-timely-start-issues-solutions-to-service-error-1053/"><u>Overcoming Timely Start Issues - Solutions to Service Error 1053</u></a></li>
-<li><a href="https://win-web.techidaily.com/resolving-audio-problems-in-downloaded-1080p-youtube-clips/"><u>Resolving Audio Problems in Downloaded 1080P YouTube Clips</u></a></li>
-<li><a href="https://win-web.techidaily.com/salsaindy-dance-collection-free-downloads-in-mp4movaviwmv-formats/"><u>SalsaIndy Dance Collection - Free Downloads in MP4/MOV/AVI/WMV Formats</u></a></li>
-<li><a href="https://win-web.techidaily.com/top-choice-for-beemp3-conversion-a-superior-solution-for-macos-and-windows-by-allavsoft/"><u>Top Choice for BeeMp3 Conversion: A Superior Solution for macOS & Windows by Allavsoft</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-quick-info-on-short-form-media/"><u>[New] Quick Info on Short Form Media</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-instant-techniques-to-shuffle-youtube-song-sequences/"><u>[Updated] Instant Techniques to Shuffle YouTube Song Sequences</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-spark-your-imagination-with-14-stunning-text-animations/"><u>[Updated] Spark Your Imagination with 14 Stunning Text Animations</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-best-wearable-camera-innovations/"><u>2024 Approved Best Wearable Camera Innovations</u></a></li>
+<li><a href="https://win-web.techidaily.com/best-methods-to-seamlessly-stream-your-mac-screen-to-a-television/"><u>Best Methods to Seamlessly Stream Your Mac Screen to a Television</u></a></li>
+<li><a href="https://win-online.techidaily.com/convertieen-nsv-in-mpeg-met-gratis-online-tool-movavi-asbl/"><u>Convertieen NSV in MPEG Met Gratis Online Tool - Movavi Asbl</u></a></li>
+<li><a href="https://win-web.techidaily.com/effortless-techniques-for-capturing-high-quality-tidal-sounds/"><u>Effortless Techniques for Capturing High-Quality Tidal Sounds</u></a></li>
+<li><a href="https://win-web.techidaily.com/explore-premium-quality-videos-with-no-cost-the-ultimate-guide-to-free-ai-video-makers/"><u>Explore Premium Quality Videos with No Cost - The Ultimate Guide to FREE AI Video Makers</u></a></li>
+<li><a href="https://win-web.techidaily.com/how-to-transform-dailymotion-videos-into-mp3-format-three-effective-strategies/"><u>How to Transform DailyMotion Videos Into MP3 Format: Three Effective Strategies</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-essential-guide-from-twitter-videos-to-high-quality-mp3-soundtracks/"><u>In 2024, The Essential Guide From Twitter Videos to High-Quality MP3 Soundtracks</u></a></li>
+<li><a href="https://win-web.techidaily.com/mastering-the-art-of-deleting-safari-bookmarks-with-these-quick-tips-for-ipad-users/"><u>Mastering the Art of Deleting Safari Bookmarks with These Quick Tips for iPad Users</u></a></li>
+<li><a href="https://win-web.techidaily.com/quick-and-effortless-methods-to-import-blu-ray-content-onto-your-ios-device/"><u>Quick and Effortless Methods to Import Blu-Ray Content Onto Your iOS Device</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/reactivate-lsa-protective-shields-comprehensive-fix-steps-for-safety/"><u>Reactivate LSA Protective Shields: Comprehensive Fix Steps for Safety</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/revolutionizing-car-interaction-mercedes-benz-implements-chatgpt-voice-assistant-for-enhanced-drivers-experience/"><u>Revolutionizing Car Interaction: Mercedes-Benz Implements ChatGPT Voice Assistant for Enhanced Drivers' Experience</u></a></li>
+<li><a href="https://win-web.techidaily.com/the-essential-handbook-for-navigating-and-optimizing-the-apowermanager-interface/"><u>The Essential Handbook for Navigating and Optimizing the ApowerManager Interface</u></a></li>
 </ul></div>
 

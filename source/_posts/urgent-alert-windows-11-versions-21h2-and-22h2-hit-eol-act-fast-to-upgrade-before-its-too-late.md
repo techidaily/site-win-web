@@ -1,7 +1,7 @@
 ---
 title: "Urgent Alert: Windows 11 Versions 21H2 & 22H2 Hit EOL - Act Fast to Upgrade Before It's Too Late!"
-date: 2024-09-25T19:04:57.039Z
-updated: 2024-09-30T02:53:05.591Z
+date: 2024-09-29T20:12:39.990Z
+updated: 2024-10-05T17:14:13.531Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -71,10 +71,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -98,10 +98,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -136,18 +136,18 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
@@ -196,24 +196,18 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-secure-your-screen-content-mastering-the-ezvide-technique/"><u>[New] 2024 Approved Secure Your Screen Content - Mastering the EZvide Technique</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-vrecorder-your-quick-route-to-high-quality-sound-system/"><u>[New] 2024 Approved VRecorder Your Quick Route to High-Quality Sound System</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-finding-and-exploring-your-own-music-selection-zone-on-youtube-for-2024/"><u>[New] Finding and Exploring Your Own Music Selection Zone on Youtube for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-step-by-step-to-social-glory-enhance-your-feed-with-gifs-insta-style/"><u>[Updated] In 2024, Step-By-Step to Social Glory Enhance Your Feed with GIFs (Insta Style)</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-optimal-budget-free-fb-videopicture-engineer/"><u>[Updated] Optimal Budget-Free FB Video/Picture Engineer</u></a></li>
-<li><a href="https://win-web.techidaily.com/capture-and-convert-online-radio-streams-into-high-quality-mp3-files-using-internet-radio-recorder/"><u>Capture and Convert Online Radio Streams Into High-Quality MP3 Files Using Internet Radio Recorder</u></a></li>
-<li><a href="https://win-web.techidaily.com/convert-and-download-your-distrify-videos-as-mp4-avi-or-mov-formats-on-pc-and-mac/"><u>Convert and Download Your Distrify Videos as MP4, AVI or MOV Formats on PC & Mac</u></a></li>
-<li><a href="https://win-web.techidaily.com/convert-biqle-adult-content-save-hd-movies-in-mp4movaviflv-for-pc-and-mac/"><u>Convert Biqle Adult Content - Save HD Movies in MP4/MOV/AVI/FLV for PC & MAC</u></a></li>
-<li><a href="https://win-web.techidaily.com/convert-your-favorite-online-videos-into-any-format-using-pyvideo-includes-mp4-mov-and-avi-options/"><u>Convert Your Favorite Online Videos Into Any Format Using PyVideo: Includes MP4, MOV, and AVI Options</u></a></li>
-<li><a href="https://win-web.techidaily.com/download-clips-from-hulu-effortlessly-with-hd-downloader-plus-mp4-avi-formats-on-windowsmacosx-compatible-devices/"><u>Download Clips From Hulu Effortlessly with HD Downloader Plus – MP4, AVI Formats on Windows/MacOSX Compatible Devices</u></a></li>
-<li><a href="https://win-web.techidaily.com/downloading-and-transforming-ustream-content-tips-for-mp3-and-mp4-file-creation/"><u>Downloading and Transforming Ustream Content - Tips for MP3 & MP4 File Creation</u></a></li>
-<li><a href="https://win-web.techidaily.com/easymp4-converter-transfer-hilarious-collegehumor-skits-as-mp4-files/"><u>EasyMP4 Converter: Transfer Hilarious CollegeHumor Skits as MP4 Files</u></a></li>
-<li><a href="https://win-web.techidaily.com/free-abc-song-mp3-download-access-educational-childrens-music/"><u>Free ABC Song MP3 Download: Access Educational Children's Music</u></a></li>
-<li><a href="https://win-web.techidaily.com/moving-music-forward-how-to-convert-and-transfer-spotify-playlists-onto-deezer/"><u>Moving Music Forward: How to Convert and Transfer Spotify Playlists Onto Deezer</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/neroadvrctndll-error-solutions-how-to-restore-your-data-management-tools/"><u>nero.advrctn.dll Error Solutions: How to Restore Your Data Management Tools</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/network-locked-sim-card-inserted-on-your-itel-a60s-phone-unlock-it-now-by-drfone-android/"><u>Network Locked SIM Card Inserted On Your Itel A60s Phone? Unlock It Now</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-rated-screen-capture-tools-comprehensive-guide-pcmag/"><u>Top-Rated Screen Capture Tools: Comprehensive Guide - PCMag</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ultimate-walkthrough-installing-windows-10-on-your-brand-new-storage-device/"><u>Ultimate Walkthrough: Installing Windows 10 on Your Brand New Storage Device</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/warframe-update-woes-heres-how-to-correctly-resolve-the-notorious-update-failure/"><u>Warframe Update Woes? Here's How to Correctly Resolve the Notorious Update Failure</u></a></li>
+<li><a href="https://win-web.techidaily.com/1-top-strategies-for-streaming-your-ipad-content-onto-television/"><u>1. Top Strategies for Streaming Your iPad Content Onto Television</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-universal-strategies-for-screen-capturing-on-diverse-devices/"><u>2024 Approved Universal Strategies for Screen Capturing on Diverse Devices</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-locked-for-security-reasons-on-apple-iphone-15-plus-find-the-best-solution-here-by-drfone-ios/"><u>Apple ID Locked for Security Reasons On Apple iPhone 15 Plus? Find the Best Solution Here</u></a></li>
+<li><a href="https://win-web.techidaily.com/download-our-free-tool-transform-your-pdfs-into-professional-powerpoint-presentations/"><u>Download Our Free Tool – Transform Your PDFs Into Professional PowerPoint Presentations</u></a></li>
+<li><a href="https://win-web.techidaily.com/fast-start-ultimate-tutorial-on-downloading-and-setting-up-video-editor-pro-studio/"><u>Fast Start: Ultimate Tutorial on Downloading & Setting Up Video Editor Pro Studio</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-any-lava-blaze-2-5g-phone-password-using-emergency-call-by-drfone-android/"><u>How To Unlock Any Lava Blaze 2 5G Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://win-web.techidaily.com/instant-tips-how-to-enjoy-footage-in-a-snail-pace-with-these-simple-steps/"><u>Instant Tips: How to Enjoy Footage in a Snail-Pace with These Simple Steps</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/oculus-quest-gears-up-for-language-diversity-with-mondly/"><u>Oculus Quest Gears Up for Language Diversity with 'Mondly'</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/privacy-focused-tools-for-unseen-story-watching-for-2024/"><u>Privacy-Focused Tools for Unseen Story Watching for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/pushing-creative-boundaries-with-these-top-7-film-color-techniques/"><u>Pushing Creative Boundaries with These Top 7 Film Color Techniques</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/selecting-your-ideal-chatgpt-experience-the-benefits-of-online-browsing-versus-plugin-support-systems/"><u>Selecting Your Ideal ChatGPT Experience: The Benefits of Online Browsing Versus Plugin Support Systems</u></a></li>
+<li><a href="https://win-web.techidaily.com/simple-steps-converting-your-youtube-videos-for-seamless-viewing-on-an-ipad/"><u>Simple Steps: Converting Your YouTube Videos for Seamless Viewing on an iPad</u></a></li>
+<li><a href="https://fox-that.techidaily.com/simple-steps-mastering-the-art-of-soft-rebooting-an-iphone/"><u>Simple Steps: Mastering the Art of Soft Rebooting an iPhone</u></a></li>
 </ul></div>
 

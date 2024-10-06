@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Using iMessage on Your PC with Windows - Tips From ZDNet"
-date: 2024-09-29T01:38:34.862Z
-updated: 2024-09-29T23:15:08.063Z
+date: 2024-09-30T21:27:39.255Z
+updated: 2024-10-05T23:34:05.817Z
 tags:
   - microsoft
 categories:
@@ -53,13 +53,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -71,10 +64,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -130,10 +123,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -142,15 +135,22 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -196,22 +196,21 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-gps-companions-top-10-drones-that-stay-close/"><u>[New] GPS Companions Top 10 Drones That Stay Close</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-free-football-live-learn-and-cut-your-match-footage/"><u>[Updated] Free Football Live-Learn & Cut Your Match Footage</u></a></li>
-<li><a href="https://win-web.techidaily.com/1726028249305-powerpoint/"><u>「オートスピーチ機能を活用したPowerPoint音声記録ガイド」</u></a></li>
-<li><a href="https://win-web.techidaily.com/1-easy-techniques-switching-images-from-jpeg-format-to-gif-a-dual-approach/"><u>1. Easy Techniques: Switching Images From JPEG Format to GIF - A Dual Approach</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-hdmi-21-master-list-in-depth-screen-comparisons/"><u>2024 Approved HDMI 2.1 Master List In-Depth Screen Comparisons</u></a></li>
-<li><a href="https://driver-install.techidaily.com/accelerate-os-specific-drivers-update-with-ease-windows-10-81-7/"><u>Accelerate OS-Specific Drivers Update with Ease: Windows 10, 8.1, 7</u></a></li>
-<li><a href="https://win-web.techidaily.com/fixing-the-hd-video-buffering-problem-in-vlc-media-player/"><u>Fixing the HD Video Buffering Problem in VLC Media Player</u></a></li>
-<li><a href="https://win-web.techidaily.com/free-access-best-hong-kong-drama-series-in-english-dubbing-top-picks-to-binge/"><u>Free Access: Best Hong Kong Drama Series in English Dubbing - Top Picks to Binge!</u></a></li>
-<li><a href="https://win-web.techidaily.com/guide-to-transforming-your-sony-xavc-videos-into-mp4-format-for-windows-users/"><u>Guide to Transforming Your Sony XAVC Videos Into MP4 Format for Windows Users</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/illuminate-creativity-engage-in-pcs-high-dynamic-range-vision-for-2024/"><u>Illuminate Creativity Engage in PC's High Dynamic Range Vision for 2024</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-gps-on-uber-for-oneplus-nord-ce-3-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to share/fake gps on Uber for OnePlus Nord CE 3 Lite 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-ringers-paradise-top-downloads-for-skype-sounds/"><u>In 2024, Ringer's Paradise Top Downloads for Skype Sounds</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/latest-tricks-for-stabilizing-your-maplestory-gameplay-on-windows-10-tips-and-fixes/"><u>Latest Tricks for Stabilizing Your MapleStory Gameplay on Windows 10 (Tips & Fixes )</u></a></li>
-<li><a href="https://extra-support.techidaily.com/masterful-character-animation-groups-for-2024/"><u>Masterful Character Animation Groups for 2024</u></a></li>
-<li><a href="https://win-web.techidaily.com/step-by-step-guide-how-do-you-insert-time-codes-into-your-videos/"><u>Step-by-Step Guide: How Do You Insert Time Codes Into Your Videos?</u></a></li>
-<li><a href="https://win-web.techidaily.com/the-ultimate-guide-to-cropping-vids-for-instagram-success-discover-three-effective-strategies/"><u>The Ultimate Guide to Cropping Vids for Instagram Success – Discover Three Effective Strategies!</u></a></li>
-<li><a href="https://win-web.techidaily.com/top-7-tools-and-extensions-for-screenshots-in-mozilla-firefox-how-to-guide/"><u>Top 7 Tools and Extensions for Screenshots in Mozilla Firefox - How To Guide</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-ultimate-unadorned-screen-recorder-2023/"><u>[New] 2024 Approved Ultimate Unadorned Screen Recorder 2023</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-mastering-the-art-of-audio-with-zoom-your-complete-guidebook-for-2024/"><u>[New] Mastering the Art of Audio with Zoom Your Complete Guidebook for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/p3-broadcasting-toolkit-convert-upload-and-stream-youtube-for-2024/"><u>[New] MP3 Broadcasting Toolkit Convert, Upload & Stream YouTube for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-streaming-mastery-with-obs-game-mode-for-2024/"><u>[New] Streaming Mastery with OBS Game Mode for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-constructing-captivating-podcast-vignettes/"><u>[Updated] Constructing Captivating Podcast Vignettes</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-best-budget-friendly-high-quality-ae-templates/"><u>2024 Approved Best Budget-Friendly, High-Quality AE Templates</u></a></li>
+<li><a href="https://facebook.techidaily.com/effortless-musical-journey-with-spotify-in-facebooks-mini-panel/"><u>Effortless Musical Journey with Spotify in Facebook's Mini-Panel</u></a></li>
+<li><a href="https://win-web.techidaily.com/hassle-free-guide-how-to-efficiently-download-content-from-pornhdcom/"><u>Hassle-Free Guide: How to Efficiently Download Content From PornHD.com</u></a></li>
+<li><a href="https://win-web.techidaily.com/how-to-get-your-hands-on-the-versatile-stan-winston-learning-videos-in-all-compatible-video-formats/"><u>How to Get Your Hands on the Versatile Stan Winston Learning Videos in All Compatible Video Formats</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-ispoofer-update-on-itel-p55-drfone-by-drfone-virtual-android/"><u>In 2024, Will iSpoofer update On Itel P55 | Dr.fone</u></a></li>
+<li><a href="https://win-web.techidaily.com/quick-guide-transferring-youwatch-media-files-as-mp4-wmv-or-avi-for-easy-viewing/"><u>Quick Guide: Transferring YouWatch Media Files as MP4, WMV or AVI for Easy Viewing</u></a></li>
+<li><a href="https://win-blog.techidaily.com/revitalizing-your-rust-project-bid-farewell-to-non-responsive-errors/"><u>Revitalizing Your Rust Project: Bid Farewell to Non-Responsive Errors</u></a></li>
+<li><a href="https://win-web.techidaily.com/save-and-enjoy-effortless-saving-of-glide-media-on-your-device-with-glide-saver/"><u>Save & Enjoy: Effortless Saving of Glide Media on Your Device with Glide Saver</u></a></li>
+<li><a href="https://win-web.techidaily.com/seamlessly-secure-your-favorite-nbc-sports-footage-using-cutting-edge-downloading-tool/"><u>Seamlessly Secure Your Favorite NBC Sports Footage Using Cutting-Edge Downloading Tool</u></a></li>
+<li><a href="https://win-web.techidaily.com/step-by-step-instructions-accessing-and-safely-acquiring-kids-television-content/"><u>Step-by-Step Instructions: Accessing and Safely Acquiring Kids' Television Content</u></a></li>
+<li><a href="https://win-web.techidaily.com/step-by-step-tutorial-on-how-to-download-and-convert-basketball-coaching-videos-into-common-file-types-mp4-avi-flv-mov/"><u>Step-by-Step Tutorial on How to Download and Convert Basketball Coaching Videos Into Common File Types (MP4, AVI, FLV, MOV)</u></a></li>
 </ul></div>
 

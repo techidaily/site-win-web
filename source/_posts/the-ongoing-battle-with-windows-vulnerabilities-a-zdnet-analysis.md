@@ -1,7 +1,7 @@
 ---
 title: The Ongoing Battle with Windows Vulnerabilities - A ZDNet Analysis
-date: 2024-09-27T17:17:26.271Z
-updated: 2024-09-29T20:11:14.104Z
+date: 2024-10-04T17:22:41.758Z
+updated: 2024-10-05T20:59:15.798Z
 tags:
   - windows
 categories:
@@ -44,10 +44,10 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +85,10 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,10 +106,10 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -181,18 +181,19 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-champions-of-cutting-edge-vr-creation/"><u>[New] Champions of Cutting-Edge VR Creation</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-magic-voice-transformation-is-this-app-feasible-discover-other-solutions-for-2024/"><u>[Updated] Magic Voice Transformation Is This App Feasible? Discover Other Solutions for 2024</u></a></li>
-<li><a href="https://win-web.techidaily.com/comprehensive-inorn-40c1r-144hz-widescreen-display-evaluation-spacious-design-meets-swift-performance/"><u>Comprehensive Inorn 40C1R 144Hz Widescreen Display Evaluation: Spacious Design Meets Swift Performance</u></a></li>
-<li><a href="https://win-web.techidaily.com/critical-hurdles-ahead-for-windows-11-launch-microsofts-ticking-clock-countdown-it-news-daily/"><u>Critical Hurdles Ahead for Windows 11 Launch – Microsoft's Ticking Clock Countdown | IT News Daily</u></a></li>
-<li><a href="https://win-web.techidaily.com/defend-your-desktops-expert-strategies-for-windows-pc-safety-in-homes-and-startups-digitalguardian/"><u>Defend Your Desktops: Expert Strategies for Windows PC Safety in Homes and Startups | DigitalGuardian</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/e-viewers-from-the-start-mobile-film-techniques-for-thumbnails-for-2024/"><u>Engage Viewers From the Start Mobile Film Techniques for Thumbnails for 2024</u></a></li>
-<li><a href="https://win-web.techidaily.com/essential-cyber-safety-tips-implement-these-6-easy-to-follow-guidelines-today-insights-from-zdnet/"><u>Essential Cyber Safety Tips: Implement These 6 Easy-to-Follow Guidelines Today - Insights From ZDNet</u></a></li>
-<li><a href="https://win-web.techidaily.com/exclusive-roundup-the-most-advanced-laptops-in-2eby-genuine-reviewers-zdnet/"><u>Exclusive Roundup: The Most Advanced Laptops in 2Eby Genuine Reviewers | ZDNet</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-my-nubia-red-magic-9-pro-location-is-wrong-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix My Nubia Red Magic 9 Pro Location Is Wrong | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-xiaomi-redmi-13c-phone-without-any-data-loss-by-drfone-android/"><u>In 2024, How to Unlock Xiaomi Redmi 13C Phone without Any Data Loss</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-individuality-at-your-fingertips-setting-your-own-tones-for-android-devices/"><u>In 2024, Individuality at Your Fingertips Setting Your Own Tones for Android Devices</u></a></li>
-<li><a href="https://win-web.techidaily.com/mastering-local-account-safety-a-guide-to-security-answers-with-tips-by-zdnet/"><u>Mastering Local Account Safety: A Guide to Security Answers with Tips by ZDNet</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/premier-virtual-reality-players-arsenal/"><u>Premier Virtual Reality Player's Arsenal</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-voice-memo-mastery-for-ios-users-step-by-step/"><u>[New] 2024 Approved Voice Memo Mastery for iOS Users Step-by-Step</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-quick-steps-to-capture-ios-audio-files/"><u>[Updated] 2024 Approved Quick Steps to Capture iOS Audio Files</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-mastering-youtube-brand-visuals-the-ultimate-creation-guide/"><u>[Updated] Mastering YouTube Brand Visuals The Ultimate Creation Guide</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-action-camera-showdown-unmatched-seventh-lineup-wetproof/"><u>2024 Approved Action Camera Showdown Unmatched Seventh Lineup Wetproof</u></a></li>
+<li><a href="https://win-web.techidaily.com/capture-the-winter-spirit-how-to-feature-bing-dwen-dwen-in-your-photos-for-beijing-2022-olympic-games/"><u>Capture the Winter Spirit: How to Feature Bing Dwen Dwen in Your Photos for Beijing 2022 Olympic Games</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/cutting-edge-tools-for-seamless-vimeo-video-download-for-2024/"><u>Cutting-Edge Tools for Seamless Vimeo Video Download for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-auto-lock-greyed-out-on-apple-iphone-11-by-drfone-ios/"><u>In 2024, How To Fix Auto Lock Greyed Out on Apple iPhone 11</u></a></li>
+<li><a href="https://win-web.techidaily.com/mastering-remote-presentation-connect-your-android-device-with-powerpoint/"><u>Mastering Remote Presentation: Connect Your Android Device with PowerPoint</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/peeling-back-layers-the-hidden-meanings-of-everyday-emojis/"><u>Peeling Back Layers The Hidden Meanings of Everyday Emojis</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/es-that-resonate-best-practices-for-eating-themed-titles-for-2024/"><u>Recipes That Resonate Best Practices for Eating-Themed Titles for 2024</u></a></li>
+<li><a href="https://win-web.techidaily.com/resolving-quick-timeout-issues-in-windows-stop-your-pc-from-ending-session-after-just-3-seconds/"><u>Resolving Quick Timeout Issues in Windows: Stop Your PC From Ending Session After Just 3 Seconds!</u></a></li>
+<li><a href="https://win-web.techidaily.com/revive-your-iphones-lost-tracks-a-step-by-step-guide-to-iphone-music-retrieval/"><u>Revive Your iPhone's Lost Tracks: A Step-by-Step Guide to iPhone Music Retrieval</u></a></li>
+<li><a href="https://win-able.techidaily.com/smooth-gaming-with-fixed-dark-souls-iii-crash-fixes/"><u>Smooth Gaming with Fixed Dark Souls III Crash Fixes</u></a></li>
+<li><a href="https://win-web.techidaily.com/top-6-effective-phone-call-voice-modifiers-for-android-and-desktop-devices/"><u>Top 6 Effective Phone Call Voice Modifiers for Android & Desktop Devices</u></a></li>
 </ul></div>
 

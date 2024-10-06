@@ -1,7 +1,7 @@
 ---
 title: "Simplify Your Inbox: Discover the One-Time Email Hack to Eliminate Clutter, No Junk Diets Needed!"
-date: 2024-09-28T23:12:29.236Z
-updated: 2024-09-30T13:22:59.175Z
+date: 2024-09-30T16:16:08.162Z
+updated: 2024-10-05T21:52:24.372Z
 tags:
   - microsoft
 categories:
@@ -53,19 +53,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<span id="1983549">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -77,10 +64,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -102,6 +89,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -135,28 +129,28 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -202,19 +196,18 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-unlocking-the-art-of-reversed-video-experience-on-snapchat/"><u>[Updated] In 2024, Unlocking the Art of Reversed Video Experience on Snapchat</u></a></li>
-<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-nokia-c110-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Nokia C110 Wont Charge | Dr.fone</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-step-by-step-tutorial-for-efficient-video-capturing-via-zd/"><u>2024 Approved Step-by-Step Tutorial for Efficient Video Capturing via ZD</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/balance-your-shots-best-camera-stabilizers-reviewed/"><u>Balance Your Shots Best Camera Stabilizers Reviewed</u></a></li>
-<li><a href="https://techtrends.techidaily.com/discover-the-best-iphone-gps-applications-our-top-picks/"><u>Discover the Best iPhone GPS Applications: Our Top Picks</u></a></li>
-<li><a href="https://win-web.techidaily.com/get-unlimited-vpn-access-with-your-microsoft-tier-subscription-a-step-by-step-guide-zdnet/"><u>Get Unlimited VPN Access with Your Microsoft Tier Subscription: A Step-by-Step Guide | ZDNet</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-ignite-fitness-goals-with-the-ultimate-music-mix/"><u>In 2024, Ignite Fitness Goals with the Ultimate Music Mix</u></a></li>
-<li><a href="https://fox-http.techidaily.com/masterclass-guide-15-tripods-perfect-for-gopro/"><u>Masterclass Guide 15 Tripods Perfect for GoPro</u></a></li>
-<li><a href="https://win-web.techidaily.com/mastering-the-art-of-automation-essential-powershell-techniques-for-sysadmins-on-a-budget-only-16/"><u>Mastering the Art of Automation: Essential PowerShell Techniques for Sysadmins on a Budget - Only $16!</u></a></li>
-<li><a href="https://win-web.techidaily.com/microsoft-azures-new-radius-platform-boosts-cross-cloud-development-with-open-source-solutions-itproportal/"><u>Microsoft Azure's New Radius Platform Boosts Cross-Cloud Development with Open Source Solutions | ITProPortal</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-insufficient-access-during-app-removal-in-win-11/"><u>Navigating Insufficient Access During App Removal in Win 11</u></a></li>
-<li><a href="https://win-web.techidaily.com/navigating-the-rules-a-detailed-look-at-mirillis-legal-framework-for-user-engagement/"><u>Navigating the Rules: A Detailed Look at Mirillis' Legal Framework for User Engagement</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-must-have-specifications-in-mac-audio-editing-applications/"><u>New 2024 Approved Must-Have Specifications in Mac Audio Editing Applications</u></a></li>
-<li><a href="https://win-web.techidaily.com/resolving-the-action-critical-error-101-effective-fixes-and-tips/"><u>Resolving the 'Action!' Critical Error 101: Effective Fixes & Tips</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-elite-cameras-perfect-for-professional-podcasting/"><u>[New] 2024 Approved Elite Cameras Perfect for Professional Podcasting</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-charting-success-navigating-youtube-statistics-with-social-blade-for-2024/"><u>[New] Charting Success Navigating YouTube Statistics with Social Blade for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-jokes-jamboree-mastering-memelore-made-simple/"><u>2024 Approved Jokes Jamboree Mastering Memelore Made Simple</u></a></li>
+<li><a href="https://win-answers.techidaily.com/png3/"><u>高品質PNGを動画形式に変換するための3つのコツとテクニック</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/downloading-samfw-frp-tool-30-for-gionee-f3-pro-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Gionee F3 Pro</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-samsung-galaxy-m34-5g-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock Samsung Galaxy M34 5G Pattern Lock Screen</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-itel-phone-without-password-by-drfone-android/"><u>In 2024, How To Unlock Itel Phone Without Password?</u></a></li>
+<li><a href="https://win-web.techidaily.com/leading-ocr-applications-the-ultimate-5-picks-for-windows-and-macos-enthusiasts/"><u>Leading OCR Applications: The Ultimate 5 Picks for Windows & macOS Enthusiasts</u></a></li>
+<li><a href="https://win-web.techidaily.com/step-by-step-guide-taking-charge-of-your-android-phone-via-pc-connection/"><u>Step-by-Step Guide: Taking Charge of Your Android Phone via PC Connection</u></a></li>
+<li><a href="https://win-web.techidaily.com/step-by-step-tutorial-for-converting-3gp-files-to-wmv-using-freeware-and-shareware-tools/"><u>Step-by-Step Tutorial for Converting .3Gp Files to WMV Using Freeware and Shareware Tools</u></a></li>
+<li><a href="https://win-web.techidaily.com/sync-your-iphone-data-with-macos-a-step-by-step-guide/"><u>Sync Your iPhone Data with macOS: A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/the-foundation-defining-electronic-storytelling/"><u>The Foundation Defining Electronic Storytelling</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-when-professionals-edit-their-video-films-they-often-need-to-switch-directly-between-different-recorded-scenes-to-create-customized-outcome-/"><u>Updated In 2024, When Professionals Edit Their Video Films, They Often Need to Switch Directly Between Different Recorded Scenes to Create Customized Outcome at the End</u></a></li>
 </ul></div>
 
