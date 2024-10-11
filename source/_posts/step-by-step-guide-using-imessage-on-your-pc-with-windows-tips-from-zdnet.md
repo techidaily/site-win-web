@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Using iMessage on Your PC with Windows - Tips From ZDNet"
-date: 2024-09-30T21:27:39.255Z
-updated: 2024-10-05T23:34:05.817Z
+date: 2024-10-06T17:24:38.389Z
+updated: 2024-10-10T17:59:55.097Z
 tags:
   - microsoft
 categories:
@@ -64,10 +64,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -89,6 +89,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -123,10 +130,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -135,22 +142,15 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -196,21 +196,19 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-ultimate-unadorned-screen-recorder-2023/"><u>[New] 2024 Approved Ultimate Unadorned Screen Recorder 2023</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-mastering-the-art-of-audio-with-zoom-your-complete-guidebook-for-2024/"><u>[New] Mastering the Art of Audio with Zoom Your Complete Guidebook for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/p3-broadcasting-toolkit-convert-upload-and-stream-youtube-for-2024/"><u>[New] MP3 Broadcasting Toolkit Convert, Upload & Stream YouTube for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-streaming-mastery-with-obs-game-mode-for-2024/"><u>[New] Streaming Mastery with OBS Game Mode for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-constructing-captivating-podcast-vignettes/"><u>[Updated] Constructing Captivating Podcast Vignettes</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-best-budget-friendly-high-quality-ae-templates/"><u>2024 Approved Best Budget-Friendly, High-Quality AE Templates</u></a></li>
-<li><a href="https://facebook.techidaily.com/effortless-musical-journey-with-spotify-in-facebooks-mini-panel/"><u>Effortless Musical Journey with Spotify in Facebook's Mini-Panel</u></a></li>
-<li><a href="https://win-web.techidaily.com/hassle-free-guide-how-to-efficiently-download-content-from-pornhdcom/"><u>Hassle-Free Guide: How to Efficiently Download Content From PornHD.com</u></a></li>
-<li><a href="https://win-web.techidaily.com/how-to-get-your-hands-on-the-versatile-stan-winston-learning-videos-in-all-compatible-video-formats/"><u>How to Get Your Hands on the Versatile Stan Winston Learning Videos in All Compatible Video Formats</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-will-ispoofer-update-on-itel-p55-drfone-by-drfone-virtual-android/"><u>In 2024, Will iSpoofer update On Itel P55 | Dr.fone</u></a></li>
-<li><a href="https://win-web.techidaily.com/quick-guide-transferring-youwatch-media-files-as-mp4-wmv-or-avi-for-easy-viewing/"><u>Quick Guide: Transferring YouWatch Media Files as MP4, WMV or AVI for Easy Viewing</u></a></li>
-<li><a href="https://win-blog.techidaily.com/revitalizing-your-rust-project-bid-farewell-to-non-responsive-errors/"><u>Revitalizing Your Rust Project: Bid Farewell to Non-Responsive Errors</u></a></li>
-<li><a href="https://win-web.techidaily.com/save-and-enjoy-effortless-saving-of-glide-media-on-your-device-with-glide-saver/"><u>Save & Enjoy: Effortless Saving of Glide Media on Your Device with Glide Saver</u></a></li>
-<li><a href="https://win-web.techidaily.com/seamlessly-secure-your-favorite-nbc-sports-footage-using-cutting-edge-downloading-tool/"><u>Seamlessly Secure Your Favorite NBC Sports Footage Using Cutting-Edge Downloading Tool</u></a></li>
-<li><a href="https://win-web.techidaily.com/step-by-step-instructions-accessing-and-safely-acquiring-kids-television-content/"><u>Step-by-Step Instructions: Accessing and Safely Acquiring Kids' Television Content</u></a></li>
-<li><a href="https://win-web.techidaily.com/step-by-step-tutorial-on-how-to-download-and-convert-basketball-coaching-videos-into-common-file-types-mp4-avi-flv-mov/"><u>Step-by-Step Tutorial on How to Download and Convert Basketball Coaching Videos Into Common File Types (MP4, AVI, FLV, MOV)</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-best-of-the-best-a-ranked-list-of-top-10-video-call-apps/"><u>[New] 2024 Approved Best of the Best A Ranked List of Top 10 Video Call Apps</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-charting-a-course-to-success-understanding-youtube-income/"><u>[Updated] Charting a Course to Success Understanding YouTube Income</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-infuse-melodies-into-powerpoint-visuals/"><u>[Updated] Infuse Melodies Into PowerPoint Visuals</u></a></li>
+<li><a href="https://win-web.techidaily.com/2022s-top-seating-innovation-an-exclusive-review-of-andaseat-kaiser-3-on-zdnet/"><u>2022'S Top Seating Innovation: An Exclusive Review of AndaSeat Kaiser 3 on ZDNET</u></a></li>
+<li><a href="https://win-web.techidaily.com/boost-performance-on-your-pre-windows-10-device-top-5-free-hacks-compatible-with-windows-11-zdnet-insights/"><u>Boost Performance on Your Pre-Windows 10 Device: Top 5 Free Hacks Compatible With Windows 11 | ZDNET Insights</u></a></li>
+<li><a href="https://win-web.techidaily.com/boost-your-productivity-top-5-strategies-to-overcome-distractions-and-enhance-your-focus-on-writing-and-work-tasks-zdnet-insights/"><u>Boost Your Productivity: Top 5 Strategies to Overcome Distractions and Enhance Your Focus on Writing & Work Tasks | ZDNet Insights</u></a></li>
+<li><a href="https://win-web.techidaily.com/comprehensive-inorn-40c1r-144hz-widescreen-display-evaluation-spacious-design-meets-swift-performance/"><u>Comprehensive Inorn 40C1R 144Hz Widescreen Display Evaluation: Spacious Design Meets Swift Performance</u></a></li>
+<li><a href="https://techtrends.techidaily.com/facebook-picture-perfection-efficiently-adding-several-images-at-once/"><u>Facebook Picture Perfection: Efficiently Adding Several Images at Once</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-samsung-galaxy-m54-5g-phone-without-password-by-drfone-android/"><u>In 2024, How To Unlock Samsung Galaxy M54 5G Phone Without Password?</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-mastering-vintage-visual-storytelling-techniques/"><u>In 2024, Mastering Vintage Visual Storytelling Techniques</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/movavi-movavi/"><u>MOV到AVI格式自由转换 - 使用Movavi工具</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/revolutionizing-online-content-the-power-of-time-stamps/"><u>Revolutionizing Online Content The Power of Time-Stamps</u></a></li>
+<li><a href="https://win-web.techidaily.com/transform-your-macbook-into-a-touchscreen-masterpiece-with-this-compact-portable-display-discover-more-on-zdnet/"><u>Transform Your MacBook Into a Touchscreen Masterpiece with This Compact Portable Display - Discover More on ZDNet!</u></a></li>
+<li><a href="https://win-web.techidaily.com/ultimate-guide-leading-soundproof-window-treatments-for-noise-reduction-hometechreview/"><u>Ultimate Guide: Leading Soundproof Window Treatments for Noise Reduction | HomeTechReview</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Urgent Alert: Windows 11 Versions 21H2 & 22H2 Hit EOL - Act Fast to Upgrade Before It's Too Late!"
-date: 2024-09-29T20:12:39.990Z
-updated: 2024-10-05T17:14:13.531Z
+date: 2024-10-04T09:52:03.184Z
+updated: 2024-10-10T18:38:22.960Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,16 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1702748">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -69,13 +75,6 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -98,10 +97,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -137,10 +136,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -148,6 +147,13 @@ I'd only go with an ESU, myself, if I _really_ had no other choice.
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
@@ -196,18 +202,22 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-web.techidaily.com/1-top-strategies-for-streaming-your-ipad-content-onto-television/"><u>1. Top Strategies for Streaming Your iPad Content Onto Television</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-universal-strategies-for-screen-capturing-on-diverse-devices/"><u>2024 Approved Universal Strategies for Screen Capturing on Diverse Devices</u></a></li>
-<li><a href="https://apple-account.techidaily.com/apple-id-locked-for-security-reasons-on-apple-iphone-15-plus-find-the-best-solution-here-by-drfone-ios/"><u>Apple ID Locked for Security Reasons On Apple iPhone 15 Plus? Find the Best Solution Here</u></a></li>
-<li><a href="https://win-web.techidaily.com/download-our-free-tool-transform-your-pdfs-into-professional-powerpoint-presentations/"><u>Download Our Free Tool – Transform Your PDFs Into Professional PowerPoint Presentations</u></a></li>
-<li><a href="https://win-web.techidaily.com/fast-start-ultimate-tutorial-on-downloading-and-setting-up-video-editor-pro-studio/"><u>Fast Start: Ultimate Tutorial on Downloading & Setting Up Video Editor Pro Studio</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-any-lava-blaze-2-5g-phone-password-using-emergency-call-by-drfone-android/"><u>How To Unlock Any Lava Blaze 2 5G Phone Password Using Emergency Call</u></a></li>
-<li><a href="https://win-web.techidaily.com/instant-tips-how-to-enjoy-footage-in-a-snail-pace-with-these-simple-steps/"><u>Instant Tips: How to Enjoy Footage in a Snail-Pace with These Simple Steps</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/oculus-quest-gears-up-for-language-diversity-with-mondly/"><u>Oculus Quest Gears Up for Language Diversity with 'Mondly'</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/privacy-focused-tools-for-unseen-story-watching-for-2024/"><u>Privacy-Focused Tools for Unseen Story Watching for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/pushing-creative-boundaries-with-these-top-7-film-color-techniques/"><u>Pushing Creative Boundaries with These Top 7 Film Color Techniques</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/selecting-your-ideal-chatgpt-experience-the-benefits-of-online-browsing-versus-plugin-support-systems/"><u>Selecting Your Ideal ChatGPT Experience: The Benefits of Online Browsing Versus Plugin Support Systems</u></a></li>
-<li><a href="https://win-web.techidaily.com/simple-steps-converting-your-youtube-videos-for-seamless-viewing-on-an-ipad/"><u>Simple Steps: Converting Your YouTube Videos for Seamless Viewing on an iPad</u></a></li>
-<li><a href="https://fox-that.techidaily.com/simple-steps-mastering-the-art-of-soft-rebooting-an-iphone/"><u>Simple Steps: Mastering the Art of Soft Rebooting an iPhone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/failed-connection-with-anticheat-system-how-to-fix-it-on-eft/"><u>'Failed Connection with Anticheat System': How to Fix It on EFT</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-a-deep-dive-into-the-world-of-youtubes-minis/"><u>2024 Approved A Deep Dive Into the World of Youtube's Minis</u></a></li>
+<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-xiaomi-redmi-13c-5g-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Xiaomi Redmi 13C 5G Isnt Compatible | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/change-location-on-yik-yak-for-your-infinix-zero-5g-2023-turbo-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your Infinix Zero 5G 2023 Turbo to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://win-bits.techidaily.com/free-conversion-guide-changing-webm-media-to-mp4-for-hassle-free-playback/"><u>Free Conversion Guide: Changing WebM Media to MP4 for Hassle-Free Playback</u></a></li>
+<li><a href="https://win-web.techidaily.com/how-to-create-an-instantly-executable-flipbook-a-complete-guide-with-flipbuilder/"><u>How to Create an Instantly Executable Flipbook: A Complete Guide with FlipBuilder</u></a></li>
+<li><a href="https://win-web.techidaily.com/how-to-download-and-read-ebooks-made-in-flipbuilder-for-all-mobile-platforms/"><u>How To Download and Read eBooks Made in FlipBuilder for All Mobile Platforms</u></a></li>
+<li><a href="https://win-web.techidaily.com/how-to-rearrange-image-sequence-during-flipbook-creation-on-flipbuilder/"><u>How to Rearrange Image Sequence During Flipbook Creation on FlipBuilder</u></a></li>
+<li><a href="https://win-web.techidaily.com/how-to-remove-elements-from-your-pdf-document-with-easypdf-editing-tool/"><u>How to Remove Elements From Your PDF Document with EasyPDF Editing Tool</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-reset-a-locked-vivo-y200e-5g-phone-by-drfone-android/"><u>How to Reset a Locked Vivo Y200e 5G Phone</u></a></li>
+<li><a href="https://win-web.techidaily.com/integrating-your-business-emblem-into-the-flipbook-toolbar-a-step-by-step-guide/"><u>Integrating Your Business Emblem Into the FlipBook Toolbar: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-web.techidaily.com/merging-multiple-pictures-into-one-display-a-guide-with-flipbuilder-techniques/"><u>Merging Multiple Pictures Into One Display: A Guide with FlipBuilder Techniques</u></a></li>
+<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-apple-iphone-12-mini-drfone-by-drfone-virtual-ios/"><u>Methods to Change GPS Location On Apple iPhone 12 mini | Dr.fone</u></a></li>
+<li><a href="https://win-web.techidaily.com/need-speed-discover-fast-track-options-for-your-flipoffice-pro-promotion-on-flipbuildercom/"><u>Need Speed? Discover Fast-Track Options for Your FlipOffice Pro Promotion on FlipBuilder.com!</u></a></li>
+<li><a href="https://win-web.techidaily.com/sharing-and-interacting-with-archived-help-documents-master-the-process-on-flipbuildercom/"><u>Sharing and Interacting with Archived Help Documents - Master the Process on FlipBuilder.com</u></a></li>
+<li><a href="https://driver-download.techidaily.com/step-by-step-guide-installing-arduino-software-drivers-on-windows-pc/"><u>Step-by-Step Guide: Installing Arduino Software Drivers on Windows PC</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/which-is-the-ultimate-screen-recorder-analyzing-bandicam-vs-camtasia/"><u>Which Is the Ultimate Screen Recorder? Analyzing Bandicam vs Camtasia</u></a></li>
 </ul></div>
 

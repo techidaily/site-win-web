@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Art of Automation: Essential PowerShell Techniques for Sysadmins on a Budget - Only $16!"
-date: 2024-09-30T22:35:47.264Z
-updated: 2024-10-05T17:19:34.076Z
+date: 2024-10-04T00:25:26.742Z
+updated: 2024-10-10T19:34:03.869Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -64,10 +71,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
+  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -91,10 +98,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -129,29 +136,22 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,19 +196,24 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-slowly-quieting-tracks-with-fl-studio/"><u>[New] In 2024, Slowly Quieting Tracks with FL Studio</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-ultimate-display-selection-top-tier-4k-panels-for-videographers/"><u>[Updated] In 2024, Ultimate Display Selection Top-Tier 4K Panels for Videographers</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-fcp-no-cost-access-a-guide/"><u>2024 Approved FCP No-Cost Access A Guide</u></a></li>
-<li><a href="https://win-dash.techidaily.com/download-hp-laserjet-p1006-printer-driver-free-and-official-site/"><u>Download HP LaserJet P1006 Printer Driver - Free & Official Site</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-from-standard-to-spectacular-the-transformative-power-of-high-dynamic-range/"><u>In 2024, From Standard to Spectacular The Transformative Power of High Dynamic Range</u></a></li>
-<li><a href="https://win-web.techidaily.com/mastering-remote-presentation-connect-your-android-device-with-powerpoint/"><u>Mastering Remote Presentation: Connect Your Android Device with PowerPoint</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/mobile-communication-redefined-best-10-secured-free-video-call-apps-to-keep-you-covered-on-devices-for-2024/"><u>Mobile Communication Redefined Best 10 Secured, Free Video Call Apps to Keep You Covered on Devices for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/premium-free-fb-photovid-creation-suite/"><u>Premium Free FB Photo/Vid Creation Suite</u></a></li>
-<li><a href="https://win-web.techidaily.com/resolving-quick-timeout-issues-in-windows-stop-your-pc-from-ending-session-after-just-3-seconds/"><u>Resolving Quick Timeout Issues in Windows: Stop Your PC From Ending Session After Just 3 Seconds!</u></a></li>
-<li><a href="https://win-web.techidaily.com/revive-your-iphones-lost-tracks-a-step-by-step-guide-to-iphone-music-retrieval/"><u>Revive Your iPhone's Lost Tracks: A Step-by-Step Guide to iPhone Music Retrieval</u></a></li>
-<li><a href="https://win-web.techidaily.com/simple-methods-transferring-images-from-your-android-device-to-pc/"><u>Simple Methods: Transferring Images From Your Android Device to PC</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1722996553880-the-end-of-the-line-for-the-call-of-duty-warzone-pacific-glitch-now-solved/"><u>The End of the Line for the Call of Duty: Warzone Pacific Glitch - Now Solved!</u></a></li>
-<li><a href="https://win-web.techidaily.com/top-6-effective-phone-call-voice-modifiers-for-android-and-desktop-devices/"><u>Top 6 Effective Phone Call Voice Modifiers for Android & Desktop Devices</u></a></li>
-<li><a href="https://win-web.techidaily.com/win-an-apowersoft-elite-membership-with-our-background-eraser-giveaway-share-and-compete-today/"><u>Win an Apowersoft Elite Membership with Our Background Eraser Giveaway – Share & Compete Today!</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-editing-savvy-streamlining-your-youtube-video-lengths/"><u>[New] 2024 Approved Editing Savvy Streamlining Your YouTube Video Lengths</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-expert-tips-to-sharpen-video-calls-with-zoom-in-teams-for-2024/"><u>[New] Expert Tips to Sharpen Video Calls with ZOOM in Teams for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-social-media-sensation-making-your-vids-pop/"><u>[New] Social Media Sensation Making Your Vids Pop</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/he-economics-of-youtube-ad-revenues-per-1000-views/"><u>[New] The Economics of YouTube Ad Revenues per 1000 Views</u></a></li>
+<li><a href="https://win-web.techidaily.com/1-flippdf-pro-for-ios-effortlessly-transform-your-pdfs-into-interactive-ebooks-with-touchscreen-navigation/"><u>1) FlipPDF Pro for iOS: Effortlessly Transform Your PDFs Into Interactive eBooks with Touchscreen Navigation</u></a></li>
+<li><a href="https://win-web.techidaily.com/adjusting-page-layouts-in-flipbuilder-moving-flipbooks-left-or-right/"><u>Adjusting Page Layouts in FlipBuilder: Moving Flipbooks Left or Right</u></a></li>
+<li><a href="https://win-web.techidaily.com/can-want-links-retain-their-effectiveness-when-zooming-inout-on-a-website-using-flipbuilder/"><u>Can Want Links Retain Their Effectiveness When Zooming In/Out on a Website Using FlipBuilder?</u></a></li>
+<li><a href="https://win-web.techidaily.com/create-interactive-flipbooks-from-pdf-documents-with-easy-page-extraction-discover-how-flipbuildercom/"><u>Create Interactive FlipBooks From PDF Documents with Easy Page Extraction - Discover How [FlipBuilder.com]</u></a></li>
+<li><a href="https://win-web.techidaily.com/creating-a-compelling-info-flashbook-a-guide-to-displaying-your-business-details-on-flipbuilder/"><u>Creating a Compelling Info-Flashbook: A Guide to Displaying Your Business Details on FlipBuilder</u></a></li>
+<li><a href="https://win-web.techidaily.com/effortless-object-deletion-for-seamless-presentations-on-flipbuildercom/"><u>Effortless Object Deletion for Seamless Presentations on FlipBuilder.com</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/essential-examination-adobe-lightroom-for-mobile-users/"><u>Essential Examination Adobe Lightroom for Mobile Users</u></a></li>
+<li><a href="https://win-web.techidaily.com/expert-guide-mastering-flip-pdf-pro-your-ultimate-comprehensive-resource/"><u>Expert Guide: Mastering Flip PDF Pro - Your Ultimate Comprehensive Resource</u></a></li>
+<li><a href="https://win-web.techidaily.com/expert-tips-for-turning-off-thumbnail-previews-in-flipbooks-with-flipbuilder-software/"><u>Expert Tips for Turning Off Thumbnail Previews in Flipbooks with FlipBuilder Software</u></a></li>
+<li><a href="https://win-web.techidaily.com/from-text-to-tabs-easily-convert-microsoft-word-files-into-engaging-flipbooks-on-flipbuildercom/"><u>From Text to Tabs: Easily Convert Microsoft Word Files Into Engaging Flipbooks on FlipBuilder.com</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722966542224-get-your-free-thrustmaster-t300-racing-wheel-drivers-for-win10win11-computers-now/"><u>Get Your Free Thrustmaster T300 Racing Wheel Drivers for Win10/Win11 Computers Now</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-change-location-on-yik-yak-for-your-oppo-find-n3-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>In 2024, Change Location on Yik Yak For your Oppo Find N3 to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/master-the-art-of-no-string-perfection-tips-for-better-3d-prints/"><u>Master the Art of No-String Perfection: Tips for Better 3D Prints</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-repairing-a-non-functional-laptop-microphone/"><u>Troubleshooting & Repairing a Non-Functional Laptop Microphone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/ways-to-stop-parent-tracking-your-sony-xperia-1-v-drfone-by-drfone-virtual-android/"><u>Ways to stop parent tracking your Sony Xperia 1 V | Dr.fone</u></a></li>
 </ul></div>
 

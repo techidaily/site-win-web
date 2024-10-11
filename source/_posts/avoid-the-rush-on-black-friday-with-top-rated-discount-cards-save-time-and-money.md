@@ -1,7 +1,7 @@
 ---
 title: Avoid the Rush on Black Friday with Top-Rated Discount Cards - Save Time & Money!
-date: 2024-10-02T22:52:59.082Z
-updated: 2024-10-05T22:39:27.881Z
+date: 2024-10-07T19:50:47.878Z
+updated: 2024-10-11T05:46:44.689Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -89,6 +89,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -123,10 +130,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -135,22 +142,15 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
-  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -196,18 +196,16 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-capturing-clarity-selecting-10-superior-lenses-for-2024/"><u>[New] Capturing Clarity Selecting 10 Superior Lenses for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-in-2024-from-start-to-finish-the-complete-telegram-web-journey/"><u>[New] In 2024, From Start to Finish The Complete Telegram Web Journey</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-innovative-methods-for-preserving-youtube-videos-for-2024/"><u>[New] Innovative Methods for Preserving YouTube Videos for 2024</u></a></li>
-<li><a href="https://win-web.techidaily.com/1726030498348-windowsmac/"><u>「フリーで使える動画エンコードツールをWindowsとMacにインストールする方法」</u></a></li>
-<li><a href="https://win-web.techidaily.com/44cm44oc44kk44k344o844gr44ki44kl44oq44ki44or44k44kk44og44kq44o844oh44kj44kq55sf5psplus6ycb44gu6kiy6yyy5oml5rov44cn/"><u>「ボイシーによるリアルタイムオーディオ生放送の記録手法」</u></a></li>
-<li><a href="https://win-web.techidaily.com/1-how-to-resolve-video-playback-issues-on-your-iphone-fast-fixes-and-solutions/"><u>1. How to Resolve Video Playback Issues on Your iPhone - Fast Fixes and Solutions</u></a></li>
-<li><a href="https://win-web.techidaily.com/fixing-the-hd-video-buffering-problem-in-vlc-media-player/"><u>Fixing the HD Video Buffering Problem in VLC Media Player</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-samsung-galaxy-f34-5g-to-mac-drfone-by-drfone-android/"><u>How to Mirror Samsung Galaxy F34 5G to Mac? | Dr.fone</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-propel-your-cinematic-vision-with-advanced-windows-10-video-tools/"><u>In 2024, Propel Your Cinematic Vision with Advanced Windows 10 Video Tools</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/innovation-in-viewing-top-5-webcams-recommended-for-gamers-for-2024/"><u>Innovation in Viewing Top 5 Webcams Recommended for Gamers for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solve-your-windows-1nto-update-error-understanding-and-fixing-issue-0xc1900208/"><u>Solve Your Windows 1Nto Update Error: Understanding and Fixing Issue 0xC1900208</u></a></li>
-<li><a href="https://win-web.techidaily.com/step-by-step-guide-taking-charge-of-your-android-phone-via-pc-connection/"><u>Step-by-Step Guide: Taking Charge of Your Android Phone via PC Connection</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/steps-to-turn-off-telemetry-and-personalized-prompts-on-your-windows-11-pc/"><u>Steps to Turn Off Telemetry & Personalized Prompts on Your Windows 11 PC</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-securing-smooth-timelines-to-avoid-frame-drops-in-obs-for-2024/"><u>[New] Securing Smooth Timelines to Avoid Frame Drops in OBS for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-investigating-unmodified-audio-from-ffmpeg-output-for-2024/"><u>[Updated] Investigating Unmodified Audio From FFmpeg Output for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-video-files-on-samsung-by-fonelab-android-recover-video/"><u>Complete guide for recovering video files on Samsung</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-7-without-swiping-up-6-ways-drfone-by-drfone-ios/"><u>How To Unlock Apple iPhone 7 Without Swiping Up? 6 Ways | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-guidance-instagram-ringtone-download-and-make-instagram-ringtone-on-your-own/"><u>In 2024, Guidance Instagram Ringtone Download and Make Instagram Ringtone on Your Own</u></a></li>
+<li><a href="https://win-web.techidaily.com/step-by-step-tutorial-on-how-to-download-and-convert-basketball-coaching-videos-into-common-file-types-mp4-avi-flv-mov/"><u>Step-by-Step Tutorial on How to Download and Convert Basketball Coaching Videos Into Common File Types (MP4, AVI, FLV, MOV)</u></a></li>
+<li><a href="https://win-web.techidaily.com/the-ultimate-tutorial-mastering-the-art-of-downloading-from-tenplay-for-pc-and-mac-users/"><u>The Ultimate Tutorial: Mastering the Art of Downloading From Tenplay for PC and MAC Users</u></a></li>
+<li><a href="https://win-web.techidaily.com/top-techniques-how-to-successfully-convert-and-save-your-favorite-zattoo-shows-as-mp4avimov-files/"><u>Top Techniques: How to Successfully Convert and Save Your Favorite Zattoo Shows as MP4/AVI/MOV Files</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-tips-resolving-warcraft-3-reforged-computer-freezes-and-crashes-2024-edition/"><u>Troubleshooting Tips: Resolving Warcraft 3 Reforged Computer Freezes & Crashes - 2024 Edition</u></a></li>
+<li><a href="https://win-web.techidaily.com/ultimate-tutorial-extracting-media-content-from-safaribooksonline-site/"><u>Ultimate Tutorial: Extracting Media Content From SafariBooksOnline Site</u></a></li>
+<li><a href="https://win-web.techidaily.com/watchlisten-to-eitb-television-and-radio-shows-on-desktop-windows-macos-step-by-step-tutorials/"><u>Watch/Listen to EITB Television and Radio Shows on Desktop (Windows, macOS) – Step-by-Step Tutorials</u></a></li>
 </ul></div>
 

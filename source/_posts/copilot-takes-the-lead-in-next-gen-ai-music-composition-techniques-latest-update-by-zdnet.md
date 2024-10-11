@@ -1,7 +1,7 @@
 ---
 title: Copilot Takes the Lead in Next-Gen AI Music Composition Techniques | Latest Update by ZDNET
-date: 2024-10-04T19:07:05.669Z
-updated: 2024-10-05T16:26:18.173Z
+date: 2024-10-05T11:35:29.257Z
+updated: 2024-10-11T12:39:44.734Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -69,6 +69,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
+  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -91,10 +98,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -130,16 +137,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<span id="2135471">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -151,13 +152,6 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -202,22 +196,18 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/he-ultimate-guide-to-selecting-from-the-top-9-free-youtube-tools/"><u>[New] The Ultimate Guide to Selecting From the Top 9 FREE YouTube Tools</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-excellence-in-resolution-macs-favorite-4k-screens/"><u>[Updated] 2024 Approved Excellence in Resolution Mac's Favorite 4K Screens</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-adding-youtube-music-to-video/"><u>2024 Approved Adding YouTube Music To Video</u></a></li>
-<li><a href="https://win-web.techidaily.com/capture-and-convert-online-radio-streams-into-high-quality-mp3-files-using-internet-radio-recorder/"><u>Capture and Convert Online Radio Streams Into High-Quality MP3 Files Using Internet Radio Recorder</u></a></li>
-<li><a href="https://win-web.techidaily.com/convert-and-download-your-distrify-videos-as-mp4-avi-or-mov-formats-on-pc-and-mac/"><u>Convert and Download Your Distrify Videos as MP4, AVI or MOV Formats on PC & Mac</u></a></li>
-<li><a href="https://win-web.techidaily.com/convert-biqle-adult-content-save-hd-movies-in-mp4movaviflv-for-pc-and-mac/"><u>Convert Biqle Adult Content - Save HD Movies in MP4/MOV/AVI/FLV for PC & MAC</u></a></li>
-<li><a href="https://win-web.techidaily.com/convert-your-favorite-online-videos-into-any-format-using-pyvideo-includes-mp4-mov-and-avi-options/"><u>Convert Your Favorite Online Videos Into Any Format Using PyVideo: Includes MP4, MOV, and AVI Options</u></a></li>
-<li><a href="https://win-web.techidaily.com/download-clips-from-hulu-effortlessly-with-hd-downloader-plus-mp4-avi-formats-on-windowsmacosx-compatible-devices/"><u>Download Clips From Hulu Effortlessly with HD Downloader Plus – MP4, AVI Formats on Windows/MacOSX Compatible Devices</u></a></li>
-<li><a href="https://win-web.techidaily.com/downloading-and-transforming-ustream-content-tips-for-mp3-and-mp4-file-creation/"><u>Downloading and Transforming Ustream Content - Tips for MP3 & MP4 File Creation</u></a></li>
-<li><a href="https://win-web.techidaily.com/easymp4-converter-transfer-hilarious-collegehumor-skits-as-mp4-files/"><u>EasyMP4 Converter: Transfer Hilarious CollegeHumor Skits as MP4 Files</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/effortless-conversion-transforming-your-azw3-ebooks-into-comprehensive-epub-files/"><u>Effortless Conversion: Transforming Your AZW3 eBooks Into Comprehensive EPUB Files</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/enhance-your-graphics-card-download-updated-vga-drivers-today/"><u>Enhance Your Graphics Card: Download Updated VGA Drivers Today</u></a></li>
-<li><a href="https://win-web.techidaily.com/free-abc-song-mp3-download-access-educational-childrens-music/"><u>Free ABC Song MP3 Download: Access Educational Children's Music</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-honor-100-pro-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Honor 100 Pro | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-advanced-strategies-for-professional-gif-craftsmanship/"><u>In 2024, Advanced Strategies for Professional GIF Craftsmanship</u></a></li>
-<li><a href="https://win-able.techidaily.com/join-the-thrills-of-rainbow-six-siege-without-spending-a-penny-in-202n4/"><u>Join the Thrills of Rainbow Six Siege Without Spending a Penny in 202N4</u></a></li>
-<li><a href="https://extra-support.techidaily.com/premier-live-concert-streamers-for-2024/"><u>Premier Live Concert Streamers for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/our-content-anytime-anywhere-choose-from-these-best-free-and-online-downloads/"><u>[New] Your Content, Anytime, Anywhere Choose From These Best Free & Online Downloads</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-swift-techniques-mastering-effective-double-exposure/"><u>[Updated] Swift Techniques Mastering Effective Double Exposure</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-androids-best-pick-10-step-collage-journey/"><u>In 2024, Android's Best Pick 10-Step Collage Journey</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-monetizing-media-earnings-analysis-for-pewdiepie/"><u>In 2024, Monetizing Media Earnings Analysis for PewDiePie</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/pivot-your-passions-learning-designing-through-gpt-my-bots-mastery/"><u>Pivot Your Passions: Learning, Designing Through GPT-My Bots Mastery</u></a></li>
+<li><a href="https://win-web.techidaily.com/revolutionizing-online-surfing-master-the-art-of-organized-browsing-using-arc-profiles-according-to-zdnet-strategies/"><u>Revolutionizing Online Surfing: Master the Art of Organized Browsing Using Arc Profiles, According to ZDNet Strategies</u></a></li>
+<li><a href="https://win-web.techidaily.com/step-by-step-guide-to-pairing-an-android-smartphone-with-windows-11-for-seamless-integration/"><u>Step-by-Step Guide to Pairing an Android Smartphone with Windows 11 for Seamless Integration</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-customizing-your-chromecasts-display-with-new-wallpaper/"><u>Step-by-Step Guide: Customizing Your Chromecast's Display with New Wallpaper</u></a></li>
+<li><a href="https://win-web.techidaily.com/the-ongoing-battle-with-windows-vulnerabilities-a-zdnet-analysis/"><u>The Ongoing Battle with Windows Vulnerabilities - A ZDNet Analysis</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-your-oppo-a1x-5g-phone-by-drfone-android/"><u>Top IMEI Unlokers for Your Oppo A1x 5G Phone</u></a></li>
+<li><a href="https://win-web.techidaily.com/urban-legend-debunked-microsoft-preserves-essential-windows-control-panel-functionality-innovationhub/"><u>Urban Legend Debunked: Microsoft Preserves Essential Windows Control Panel Functionality | InnovationHub</u></a></li>
+<li><a href="https://win-web.techidaily.com/windows-10s-looming-crisis-how-microsoft-plans-to-overcome-key-challenges-before-deadline-according-to-zdnet-analysis/"><u>Windows 10'S Looming Crisis: How Microsoft Plans to Overcome Key Challenges Before Deadline, According to ZDNet Analysis</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/your-pathway-to-a-functional-windows-sandbox/"><u>Your Pathway to a Functional Windows Sandbox</u></a></li>
 </ul></div>
 

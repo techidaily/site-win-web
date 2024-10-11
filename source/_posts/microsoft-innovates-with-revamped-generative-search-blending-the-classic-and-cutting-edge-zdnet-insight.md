@@ -1,7 +1,7 @@
 ---
 title: "Microsoft Innovates with Revamped Generative Search: Blending the Classic and Cutting-Edge | ZDNet Insight"
-date: 2024-10-02T21:03:01.472Z
-updated: 2024-10-05T16:06:55.329Z
+date: 2024-10-06T01:12:58.611Z
+updated: 2024-10-11T08:41:19.876Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
+  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -62,13 +69,6 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -91,10 +91,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -130,10 +130,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
+  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -142,22 +142,16 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -202,20 +196,24 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/outube-seo-guide-how-to-improve-youtube-videos-rankings-for-2024/"><u>[New] YouTube SEO Guide How to Improve YouTube Videos Rankings for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-from-play-to-record-the-fraps-verdict/"><u>[Updated] In 2024, From Play to Record The Fraps Verdict</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-proven-ways-to-cash-in-instagrams-leading-revenue-methods/"><u>[Updated] Proven Ways to Cash In Instagram's Leading Revenue Methods</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-elevate-your-content-premier-youtube-rank-tracker-apps/"><u>2024 Approved Elevate Your Content Premier YouTube Rank Tracker Apps</u></a></li>
-<li><a href="https://win-web.techidaily.com/copilot-takes-the-lead-in-next-gen-ai-music-composition-techniques-latest-update-by-zdnet/"><u>Copilot Takes the Lead in Next-Gen AI Music Composition Techniques | Latest Update by ZDNET</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-iphone-15-data-from-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover iPhone 15 Data From iCloud? | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-samsung-galaxy-f15-5g-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Samsung Galaxy F15 5G</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-best-3-xiaomi-redmi-note-12-4g-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>In 2024, Best 3 Xiaomi Redmi Note 12 4G Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlocking-apple-iphone-6-plus-passcode-without-a-computer-drfone-by-drfone-ios/"><u>In 2024, Unlocking Apple iPhone 6 Plus Passcode without a Computer | Dr.fone</u></a></li>
-<li><a href="https://win-web.techidaily.com/microsofts-latest-innovations-revealed-highlights-from-the-recent-surface-and-ai-showcase-zdnet-coverage/"><u>Microsoft's Latest Innovations Revealed: Highlights From the Recent Surface & AI Showcase - ZDNet Coverage</u></a></li>
-<li><a href="https://win-web.techidaily.com/microsofts-latest-security-scare-reaction-warranted-zdnet-insights/"><u>Microsoft's Latest Security Scare? Reaction Warranted! | ZDNet Insights</u></a></li>
-<li><a href="https://win-web.techidaily.com/navigating-microsoft-365-tips-and-tricks-for-effective-management-on-windows-11-insights-from-zdnet/"><u>Navigating Microsoft 365: Tips and Tricks for Effective Management on Windows 11 - Insights From ZDNet</u></a></li>
-<li><a href="https://win-web.techidaily.com/pay-to-keep-your-pc-updated-find-out-how-much-microsoft-plans-to-charge-for-windows-11-updates-from-next-year-onwards-zdnet-insight/"><u>Pay to Keep Your PC Updated? Find Out How Much Microsoft Plans to Charge for Windows 11 Updates From Next Year Onwards | ZDNet Insight</u></a></li>
-<li><a href="https://win-web.techidaily.com/the-evolution-of-ai-composing-tunes-discover-latest-updates-on-github-copilot/"><u>The Evolution of AI Composing Tunes: Discover Latest Updates on GitHub Copilot</u></a></li>
-<li><a href="https://win-web.techidaily.com/will-you-pay-for-windows-11-updates-in-the-future-microsoft-reveals-new-pricing-strategy-for-next-years-software-enhancements/"><u>Will You Pay For Windows 11 Updates in the Future? Microsoft Reveals New Pricing Strategy for Next Year's Software Enhancements</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-decode-the-world-unveiling-the-top-22-platforms-for-video-translation-for-2024/"><u>[New] Decode the World Unveiling the Top 22 Platforms for Video Translation for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-audio-capture-access-and-assessment/"><u>[New] In 2024, Audio Capture Access & Assessment</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-cross-platform-zoom-meeting-setup-guide/"><u>[New] In 2024, Cross-Platform Zoom Meeting Setup Guide</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-essential-software-for-windows-filmmakers-critical-edits-selection-for-2024/"><u>[Updated] Essential Software for Windows Filmmakers Critical Edits Selection for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/6-methods-to-mirror-apple-iphone-15-plus-to-your-windows-pc-drfone-by-drfone-ios/"><u>6 Methods to Mirror Apple iPhone 15 Plus to your Windows PC | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-honor-x8b-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Honor X8b | Dr.fone</u></a></li>
+<li><a href="https://win-web.techidaily.com/best-methods-to-seamlessly-stream-your-mac-screen-to-a-television/"><u>Best Methods to Seamlessly Stream Your Mac Screen to a Television</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/dimming-mystery-device-dilemma/"><u>Dimming Mystery: Device Dilemma</u></a></li>
+<li><a href="https://win-web.techidaily.com/effortless-techniques-for-capturing-high-quality-tidal-sounds/"><u>Effortless Techniques for Capturing High-Quality Tidal Sounds</u></a></li>
+<li><a href="https://win-web.techidaily.com/explore-premium-quality-videos-with-no-cost-the-ultimate-guide-to-free-ai-video-makers/"><u>Explore Premium Quality Videos with No Cost - The Ultimate Guide to FREE AI Video Makers</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-nokia-g310-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Nokia G310 to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://win-web.techidaily.com/how-to-transform-dailymotion-videos-into-mp3-format-three-effective-strategies/"><u>How to Transform DailyMotion Videos Into MP3 Format: Three Effective Strategies</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-photo-text-editing-made-simple-tools-and-techniques/"><u>In 2024, Photo Text Editing Made Simple Tools & Techniques</u></a></li>
+<li><a href="https://win-web.techidaily.com/instant-tips-how-to-enjoy-footage-in-a-snail-pace-with-these-simple-steps/"><u>Instant Tips: How to Enjoy Footage in a Snail-Pace with These Simple Steps</u></a></li>
+<li><a href="https://win-web.techidaily.com/mastering-the-art-of-deleting-safari-bookmarks-with-these-quick-tips-for-ipad-users/"><u>Mastering the Art of Deleting Safari Bookmarks with These Quick Tips for iPad Users</u></a></li>
+<li><a href="https://win-web.techidaily.com/quick-and-effortless-methods-to-import-blu-ray-content-onto-your-ios-device/"><u>Quick and Effortless Methods to Import Blu-Ray Content Onto Your iOS Device</u></a></li>
+<li><a href="https://win-web.techidaily.com/simple-steps-converting-your-youtube-videos-for-seamless-viewing-on-an-ipad/"><u>Simple Steps: Converting Your YouTube Videos for Seamless Viewing on an iPad</u></a></li>
+<li><a href="https://win-web.techidaily.com/the-essential-handbook-for-navigating-and-optimizing-the-apowermanager-interface/"><u>The Essential Handbook for Navigating and Optimizing the ApowerManager Interface</u></a></li>
+<li><a href="https://windows11.techidaily.com/unleash-potential-top-winning-apps-from-ms-store-2023/"><u>Unleash Potential: Top Winning Apps From MS Store, 2023</u></a></li>
 </ul></div>
 

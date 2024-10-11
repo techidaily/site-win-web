@@ -1,7 +1,7 @@
 ---
 title: "Navigating Microsoft 365: Tips and Tricks for Effective Management on Windows 11 - Insights From ZDNet"
-date: 2024-09-30T21:38:37.648Z
-updated: 2024-10-05T18:47:10.771Z
+date: 2024-10-06T11:05:18.034Z
+updated: 2024-10-10T19:08:20.894Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -91,10 +91,16 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -130,10 +136,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -142,16 +148,16 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,24 +202,18 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-syncing-with-serenity-listening-to-podcasts-on-iphone/"><u>[Updated] 2024 Approved Syncing With Serenity Listening to Podcasts on iPhone</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-harmonizing-vision-and-voice-the-ultimate-guide/"><u>[Updated] In 2024, Harmonizing Vision and Voice The Ultimate Guide</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-mastering-accuracy-in-game-saves-using-fbx-tech-for-2024/"><u>[Updated] Mastering Accuracy in Game Saves Using FBX Tech for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-embedding-yt-tracks-in-movie-frameworks/"><u>2024 Approved Embedding YT Tracks in Movie Frameworks</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-what-does-a-blue-icon-signify-on-fb-messenger/"><u>2024 Approved What Does a Blue Icon Signify on FB Messenger?</u></a></li>
-<li><a href="https://win-web.techidaily.com/chatgpt-goes-corporate-with-new-openai-release-exclusive-coverage-on-zdnet/"><u>ChatGPT Goes Corporate with New OpenAI Release, Exclusive Coverage on ZDNet</u></a></li>
-<li><a href="https://win-web.techidaily.com/discover-the-ultimate-list-leading-ms-business-solutions-for-ios-in-14-curated-by-tech-experts-at-zdnet/"><u>Discover the Ultimate List: Leading MS Business Solutions for iOS in ^14 - Curated by Tech Experts at ZDNET</u></a></li>
-<li><a href="https://win-web.techidaily.com/economical-choice-meets-innovation-my-experience-with-the-budget-friendly-microsoft-surface-pro-variant-techinsights/"><u>Economical Choice Meets Innovation: My Experience with the Budget-Friendly Microsoft Surface Pro Variant | TechInsights</u></a></li>
-<li><a href="https://win-web.techidaily.com/expert-analysis-of-the-microsoft-surface-go-3-compact-and-adaptable-2-in-1-with-subpar-battery-performance-techreviewznet/"><u>Expert Analysis of the Microsoft Surface Go 3: Compact & Adaptable 2-in-1 with Subpar Battery Performance | TechReviewZNet</u></a></li>
-<li><a href="https://win-web.techidaily.com/future-alert-paying-up-for-windows-10-updates-commences-next-year-whats-the-price-tag/"><u>Future Alert! Paying Up for Windows 10 Updates Commences Next Year | What's the Price Tag?</u></a></li>
-<li><a href="https://win-web.techidaily.com/getting-started-with-the-windows-insider-program-benefits-and-enrollment-steps-microsoft/"><u>Getting Started with the Windows Insider Program: Benefits and Enrollment Steps - Microsoft</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-realme-gt-3-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos From Realme GT 3 to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-unlock-your-apple-iphone-12-pro-max-in-minutes-with-iccid-code-everything-you-need-to-know-by-drfone-ios/"><u>In 2024, Unlock Your Apple iPhone 12 Pro Max in Minutes with ICCID Code Everything You Need to Know</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-unlocking-the-power-of-social-medias-fb-covers/"><u>In 2024, Unlocking the Power of Social Media's FB Covers</u></a></li>
-<li><a href="https://win-web.techidaily.com/startling-insights-from-microsoft-on-achieving-authentic-worker-joy/"><u>Startling Insights From Microsoft on Achieving Authentic Worker Joy</u></a></li>
-<li><a href="https://win-web.techidaily.com/step-by-step-guide-using-imessage-on-your-pc-with-windows-tips-from-zdnet/"><u>Step-by-Step Guide: Using iMessage on Your PC with Windows - Tips From ZDNet</u></a></li>
-<li><a href="https://network-issues.techidaily.com/techniques-for-fixing-lenovo-glare/"><u>Techniques for Fixing Lenovo Glare</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/the-complete-guide-to-nubia-z50-ultra-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to Nubia Z50 Ultra FRP Bypass Everything You Need to Know</u></a></li>
-<li><a href="https://win-web.techidaily.com/the-evolved-powerhouse-microsofts-refined-surface-studio-2-unveiled-on-zdnet-a-look-at-the-pinnacle-of-desktop-flexibility-and-style/"><u>The Evolved Powerhouse: Microsoft's Refined Surface Studio 2 Unveiled on ZDNet - A Look at the Pinnacle of Desktop Flexibility and Style</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-master-photo-framing-techniques-via-digital-platforms-2-written-by-user-johndoe/"><u>[New] Master Photo Framing Techniques via Digital Platforms (2 Written by User JohnDoe</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-the-top-10-lifters-drones-that-move-mountains/"><u>[Updated] 2024 Approved The Top 10 Lifters Drones That Move Mountains</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-unlock-full-potential-of-canon-cams-with-gratuitous-and-fee-based-luts/"><u>[Updated] 2024 Approved Unlock Full Potential of Canon Cams with Gratuitous & Fee-Based LUTs</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-understanding-the-evolution-of-facebook-videos-for-2024/"><u>[Updated] Understanding the Evolution of Facebook Videos for 2024</u></a></li>
+<li><a href="https://win-web.techidaily.com/44cm44oc44kk44k344o844gr44ki44kl44oq44ki44or44k44kk44og44kq44o844oh44kj44kq55sf5psplus6ycb44gu6kiy6yyy5oml5rov44cn/"><u>「ボイシーによるリアルタイムオーディオ生放送の記録手法」</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-best-conversion-apps-enhance-tweets-with-video/"><u>2024 Approved Best Conversion Apps Enhance Tweets with Video</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-list-of-shopping-destinations-for-customizable-presents/"><u>2024 Approved The Ultimate List of Shopping Destinations for Customizable Presents</u></a></li>
+<li><a href="https://win-web.techidaily.com/fixing-the-hd-video-buffering-problem-in-vlc-media-player/"><u>Fixing the HD Video Buffering Problem in VLC Media Player</u></a></li>
+<li><a href="https://win-web.techidaily.com/free-access-best-hong-kong-drama-series-in-english-dubbing-top-picks-to-binge/"><u>Free Access: Best Hong Kong Drama Series in English Dubbing - Top Picks to Binge!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-updated-epson-workforce-ds-30-software-compatible-with-windows-1087/"><u>Get the Updated Epson WorkForce DS-30 Software Compatible with Windows 10/8/7</u></a></li>
+<li><a href="https://win-web.techidaily.com/guide-to-transforming-your-sony-xavc-videos-into-mp4-format-for-windows-users/"><u>Guide to Transforming Your Sony XAVC Videos Into MP4 Format for Windows Users</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-update-or-downgrade-iphone-7-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade iPhone 7? | Dr.fone</u></a></li>
+<li><a href="https://win-web.techidaily.com/step-by-step-guide-how-do-you-insert-time-codes-into-your-videos/"><u>Step-by-Step Guide: How Do You Insert Time Codes Into Your Videos?</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Microsoft's Latest Innovations Revealed: Highlights From the Recent Surface & AI Showcase - ZDNet Coverage"
-date: 2024-09-29T21:23:52.457Z
-updated: 2024-10-05T20:21:42.510Z
+date: 2024-10-09T13:04:44.216Z
+updated: 2024-10-10T18:48:46.300Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -71,10 +71,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -96,6 +96,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -129,19 +136,6 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
-<!-- affiliate ads begin -->
-<span id="1702748">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -149,10 +143,16 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983551">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
@@ -202,14 +202,18 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-howtos.techidaily.com/solved-acer-laptop-keyboard-not-working-windows-1011/"><u>[Solved] Acer Laptop Keyboard Not Working Windows 10/11</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-sharpfocusx7-size-your-photography-right/"><u>2024 Approved SharpFocusX7 Size Your Photography Right</u></a></li>
-<li><a href="https://win-web.techidaily.com/avoid-the-rush-on-black-friday-with-top-rated-discount-cards-save-time-and-money/"><u>Avoid the Rush on Black Friday with Top-Rated Discount Cards - Save Time & Money!</u></a></li>
-<li><a href="https://win-web.techidaily.com/breaking-down-microsofts-latest-innovations-from-the-october-surface-showcase-zdnet-insights/"><u>Breaking Down Microsoft's Latest Innovations From the October Surface Showcase | ZDNet Insights</u></a></li>
-<li><a href="https://win-web.techidaily.com/discover-the-leading-web-browsers-of-today-according-to-zdnets-latest-analysis/"><u>Discover the Leading Web Browsers of Today According to ZDNet's Latest Analysis</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-bypass-icloud-activation-lock-with-imei-code-on-your-apple-iphone-12-pro-max-by-drfone-ios/"><u>In 2024, Bypass iCloud Activation Lock with IMEI Code On your Apple iPhone 12 Pro Max</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-change-your-sim-pin-code-on-your-lava-blaze-2-pro-phone-by-drfone-android/"><u>In 2024, How To Change Your SIM PIN Code on Your Lava Blaze 2 Pro Phone</u></a></li>
-<li><a href="https://win-web.techidaily.com/microsoft-innovates-with-revamped-generative-search-blending-the-classic-and-cutting-edge-zdnet-insight/"><u>Microsoft Innovates with Revamped Generative Search: Blending the Classic and Cutting-Edge | ZDNet Insight</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-loss-of-critical-dll-reinstating-mfc71u-on-pcs/"><u>Resolving Loss of Critical DLL: Reinstating Mfc71u on PCs</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-mastering-identity-change-on-google-meet-via-pc-and-phone-for-2024/"><u>[New] Mastering Identity Change on Google Meet via PC & Phone for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-crafting-virtual-laughter-the-metaverse-meme-journey-for-2024/"><u>[Updated] Crafting Virtual Laughter The Metaverse Meme Journey for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-filmoras-blueprint-for-stellar-youtube-trailers/"><u>[Updated] Filmora's Blueprint for Stellar YouTube Trailers</u></a></li>
+<li><a href="https://win-web.techidaily.com/1726030498348-windowsmac/"><u>「フリーで使える動画エンコードツールをWindowsとMacにインストールする方法」</u></a></li>
+<li><a href="https://win-web.techidaily.com/1-how-to-resolve-video-playback-issues-on-your-iphone-fast-fixes-and-solutions/"><u>1. How to Resolve Video Playback Issues on Your iPhone - Fast Fixes and Solutions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722060239266-discover-these-6-no-cost-alternates-to-openais-sora-technology-today/"><u>Discover These 6 No-Cost Alternates to OpenAI’s Sora Technology Today</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-itel-a60-drfone-by-drfone-android/"><u>In 2024, How To Use Allshare Cast To Turn On Screen Mirroring On Itel A60 | Dr.fone</u></a></li>
+<li><a href="https://win-web.techidaily.com/leading-ocr-applications-the-ultimate-5-picks-for-windows-and-macos-enthusiasts/"><u>Leading OCR Applications: The Ultimate 5 Picks for Windows & macOS Enthusiasts</u></a></li>
+<li><a href="https://win-web.techidaily.com/step-by-step-guide-taking-charge-of-your-android-phone-via-pc-connection/"><u>Step-by-Step Guide: Taking Charge of Your Android Phone via PC Connection</u></a></li>
+<li><a href="https://win-web.techidaily.com/step-by-step-tutorial-for-converting-3gp-files-to-wmv-using-freeware-and-shareware-tools/"><u>Step-by-Step Tutorial for Converting .3Gp Files to WMV Using Freeware and Shareware Tools</u></a></li>
+<li><a href="https://win-web.techidaily.com/sync-your-iphone-data-with-macos-a-step-by-step-guide/"><u>Sync Your iPhone Data with macOS: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-best.techidaily.com/topos-nueve-editores-de-video-mp4-sin-coste-comparacion-y-seleccion/"><u>Topos Nueve Editores De Vídeo MP4 Sin Coste: Comparación Y Selección</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-and-fixing-stuttering-problems-in-mass-effect-legendary-collection/"><u>Troubleshooting & Fixing Stuttering Problems In Mass Effect Legendary Collection</u></a></li>
 </ul></div>
 

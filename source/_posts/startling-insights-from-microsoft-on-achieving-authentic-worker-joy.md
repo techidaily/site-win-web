@@ -1,7 +1,7 @@
 ---
 title: Startling Insights From Microsoft on Achieving Authentic Worker Joy
-date: 2024-09-29T16:56:09.094Z
-updated: 2024-10-05T19:15:58.177Z
+date: 2024-10-07T00:11:44.547Z
+updated: 2024-10-10T17:26:42.989Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -69,13 +69,6 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -98,10 +91,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -136,6 +129,19 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<span id="1982499">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -143,10 +149,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
@@ -196,20 +202,19 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-quick-guide-bypassing-edgenuity-courses-seamlessly/"><u>[New] Quick Guide Bypassing Edgenuity Courses Seamlessly</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-top-rated-software-picks-audio-adjustment-for-virtual-personalities/"><u>[Updated] Top-Rated Software Picks Audio Adjustment for Virtual Personalities</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/5-frosty-yet-inviting-backdrops-for-your-vids/"><u>5 Frosty Yet Inviting Backdrops for Your Vids</u></a></li>
-<li><a href="https://win-web.techidaily.com/download-tutorials-and-talks-from-eckhart-tolles-official-site-with-the-best-free-download-tool/"><u>Download Tutorials & Talks From Eckhart Tolle's Official Site with the Best Free Download Tool!</u></a></li>
-<li><a href="https://win-web.techidaily.com/download-your-favorite-movpod-films-as-mp4movavi-with-ease-using-our-top-tips/"><u>Download Your Favorite MovPod Films as MP4/MOV/AVI with Ease Using Our Top Tips!</u></a></li>
-<li><a href="https://win-web.techidaily.com/download-your-favorites-easy-transfer-of-magnatune-songs-into-mp3-and-wav-formats/"><u>Download Your Favorites: Easy Transfer of Magnatune Songs Into MP3 and WAV Formats</u></a></li>
-<li><a href="https://win-web.techidaily.com/easy-tutorial-on-how-to-save-taylor-swifts-reputation-clips-in-high-quality-audio-and-video-formats/"><u>Easy Tutorial on How to Save Taylor Swift's 'Reputation' Clips in High-Quality Audio and Video Formats</u></a></li>
-<li><a href="https://win-web.techidaily.com/explore-and-save-private-scenes-from-clips4sale-confidential-premium-video-library/"><u>Explore and Save Private Scenes From Clips4Sale: Confidential Premium Video Library</u></a></li>
-<li><a href="https://win-web.techidaily.com/get-your-favorite-napster-tunes-in-crystal-clear-mp3-format-on-windows-or-macos-devices/"><u>Get Your Favorite Napster Tunes in Crystal Clear MP3 Format on Windows or macOS Devices</u></a></li>
-<li><a href="https://win-web.techidaily.com/get-your-favorite-opera-show-clips-how-to-use-opera-softwares-video-grabber-feature/"><u>Get Your Favorite Opera Show Clips: How to Use Opera Software's Video Grabber Feature</u></a></li>
-<li><a href="https://fox-that.techidaily.com/guide-to-preventing-ipad-sounds-during-iphone-calls-a-step-by-step-process/"><u>Guide to Preventing iPad Sounds During iPhone Calls: A Step-by-Step Process</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-use-google-assistant-on-your-lock-screen-of-oppo-reno-11f-5g-phone-by-drfone-android/"><u>In 2024, How to Use Google Assistant on Your Lock Screen Of Oppo Reno 11F 5G Phone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-ultimate-guide-to-free-pptp-vpn-for-beginners-on-apple-iphone-14-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, Ultimate Guide to Free PPTP VPN For Beginners On Apple iPhone 14 Pro | Dr.fone</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/regain-control-over-your-device-a-comprehensive-guide-on-iphone-resets-with-no-backup-via-stellar/"><u>Regain Control Over Your Device: A Comprehensive Guide on iPhone Resets with No Backup via Stellar</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-cut-and-edit-3gp-files-with-ease-updated-2023/"><u>Updated 2024 Approved Cut and Edit 3GP Files with Ease Updated 2023</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-how-can-i-watch-facebook-videos-on-my-apple-tv-in-2024/"><u>[New] How Can I Watch Facebook Videos on My Apple TV, In 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-where-to-find-top-notch-instagram-ringtones-and-how-to-make-a-keen-ringt/"><u>[New] Where to Find Top-Notch Instagram Ringtones & How to Make a Keen Ringt</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-top-places-to-access-westeros-themed-phone-sounds/"><u>[Updated] Top Places to Access Westeros-Themed Phone Sounds</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-itel-a60-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Itel A60 Without Power Button | Dr.fone</u></a></li>
+<li><a href="https://win-web.techidaily.com/discover-the-ultimate-reasons-for-choosing-microsoft-edge-unveiling-its-3-stellar-advantages/"><u>Discover the Ultimate Reasons for Choosing Microsoft Edge - Unveiling Its 3 Stellar Advantages!</u></a></li>
+<li><a href="https://win-web.techidaily.com/former-microsoft-leader-steve-ballmer-reveals-personal-reflections-on-bravery-techcrunch/"><u>Former Microsoft Leader Steve Ballmer Reveals Personal Reflections on Bravery | TechCrunch</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-your-nokia-c12-plus-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How to Change Your Nokia C12 Plus Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/how-to-safely-dissolve-an-inactive-linkedin-account-for-2024/"><u>How to Safely Dissolve an Inactive LinkedIn Account for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-honor-70-lite-5g-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Transfer Music from Honor 70 Lite 5G to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-copyright-free-audio-treasury-for-gamers-online/"><u>In 2024, Copyright-Free Audio Treasury for Gamers Online</u></a></li>
+<li><a href="https://win-web.techidaily.com/in-depth-analysis-of-jabras-evolve2-75-audio-gear-the-ultimate-hybrid-work-companion-featuring-anc-and-all-day-conversations-techreviewzdnet/"><u>In-Depth Analysis of Jabra's Evolve2 75 Audio Gear: The Ultimate Hybrid Work Companion Featuring ANC & All-Day Conversations | TechReviewZDNet</u></a></li>
+<li><a href="https://win-web.techidaily.com/singapore-adopts-microsoft-copilot-next-gen-tech-in-legal-services-zdnet-insights/"><u>Singapore Adopts Microsoft Copilot: Next-Gen Tech in Legal Services | ZDNet Insights</u></a></li>
+<li><a href="https://win-web.techidaily.com/steven-ballmer-previously-at-the-helm-of-microsoft-discusses-his-courageous-traits-or-lack-thereof-the-verge/"><u>Steven Ballmer, Previously at the Helm of Microsoft, Discusses His Courageous Traits or Lack Thereof | The Verge</u></a></li>
+<li><a href="https://win-web.techidaily.com/tech-review-how-microsofts-new-lineup-of-easy-to-repair-laptops-outshines-rivals-leaving-apple-to-catch-up-zdnet/"><u>Tech Review: How Microsoft's New Lineup of Easy-to-Repair Laptops Outshines Rivals, Leaving Apple to Catch Up | ZDNET</u></a></li>
 </ul></div>
 

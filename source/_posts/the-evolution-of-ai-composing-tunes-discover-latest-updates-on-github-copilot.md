@@ -1,7 +1,7 @@
 ---
 title: "The Evolution of AI Composing Tunes: Discover Latest Updates on GitHub Copilot"
-date: 2024-09-29T17:39:18.150Z
-updated: 2024-10-05T18:43:18.234Z
+date: 2024-10-06T02:56:00.322Z
+updated: 2024-10-11T07:34:46.105Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -71,10 +71,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -96,13 +96,6 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -143,15 +136,22 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
-  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,24 +196,22 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-shorten-videos-for-instagram-a-mac-guide/"><u>[New] In 2024, Shorten Videos for Instagram A Mac Guide</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-latest-trends-in-mobile-viewing-android-edition-vr360/"><u>[New] Latest Trends in Mobile Viewing - Android Edition (VR/360)</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-unlocking-secure-video-sharing-youtube-to-gmail-with-google-access/"><u>[New] Unlocking Secure Video Sharing YouTube to Gmail with Google Access</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-resolving-fb-message-app-video-not-sending-error-on-mobile-devices/"><u>[Updated] Resolving FB Message App Video Not Sending Error on Mobile Devices</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-enhanced-connectivity-sending-social-media-content-between-facebook-and-whatsapp/"><u>2024 Approved Enhanced Connectivity Sending Social Media Content Between Facebook & WhatsApp</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-unveiling-the-apple-podcast-submission-process/"><u>2024 Approved Unveiling the Apple Podcast Submission Process</u></a></li>
-<li><a href="https://win-web.techidaily.com/amd-virtual-chip-emulator-optimize-gaming-and-live-capture-experience/"><u>AMD Virtual Chip Emulator: Optimize Gaming & Live Capture Experience</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/from-camera-to-feed-iphone-and-android-broadcast-guide-for-facebook-for-2024/"><u>From Camera to Feed IPhone & Android Broadcast Guide for Facebook for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-pioneering-avengers-the-marvellous-world-builders/"><u>In 2024, Pioneering Avengers The Marvellous World-Builders</u></a></li>
-<li><a href="https://win-web.techidaily.com/microsoft-azures-new-radius-platform-boosts-cross-cloud-development-with-open-source-solutions-itproportal/"><u>Microsoft Azure's New Radius Platform Boosts Cross-Cloud Development with Open Source Solutions | ITProPortal</u></a></li>
-<li><a href="https://win-web.techidaily.com/moving-music-forward-how-to-convert-and-transfer-spotify-playlists-onto-deezer/"><u>Moving Music Forward: How to Convert and Transfer Spotify Playlists Onto Deezer</u></a></li>
-<li><a href="https://win-web.techidaily.com/navigating-the-rules-a-detailed-look-at-mirillis-legal-framework-for-user-engagement/"><u>Navigating the Rules: A Detailed Look at Mirillis' Legal Framework for User Engagement</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/reaction-videos-boil-down-to-expressing-your-attitude-about-the-topic-you-feel-strongly-about-and-here-are-5-reaction-video-makers-you-should-try-for-2024.m/"><u>Reaction Videos Boil Down to Expressing Your Attitude About the Topic You Feel Strongly About, and Here Are 5 Reaction Video Makers You Should Try for 2024</u></a></li>
-<li><a href="https://facebook.techidaily.com/regaining-fb-login-without-codes-a-step-by-step-guide/"><u>Regaining FB Login Without Codes: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-web.techidaily.com/resolving-audio-problems-in-downloaded-1080p-youtube-clips/"><u>Resolving Audio Problems in Downloaded 1080P YouTube Clips</u></a></li>
-<li><a href="https://win-web.techidaily.com/resolving-the-action-critical-error-101-effective-fixes-and-tips/"><u>Resolving the 'Action!' Critical Error 101: Effective Fixes & Tips</u></a></li>
-<li><a href="https://win-web.techidaily.com/salsaindy-dance-collection-free-downloads-in-mp4movaviwmv-formats/"><u>SalsaIndy Dance Collection - Free Downloads in MP4/MOV/AVI/WMV Formats</u></a></li>
-<li><a href="https://win-web.techidaily.com/simplify-your-inbox-discover-the-one-time-email-hack-to-eliminate-clutter-no-junk-diets-needed/"><u>Simplify Your Inbox: Discover the One-Time Email Hack to Eliminate Clutter, No Junk Diets Needed!</u></a></li>
-<li><a href="https://win-web.techidaily.com/top-choice-for-beemp3-conversion-a-superior-solution-for-macos-and-windows-by-allavsoft/"><u>Top Choice for BeeMp3 Conversion: A Superior Solution for macOS & Windows by Allavsoft</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-level-up-your-playtime-examining-kinemaster-on-android/"><u>[New] Level Up Your Playtime Examining KineMaster on Android</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-paramounts-best-vr-movies-to-watch-now/"><u>[New] Paramount's Best VR Movies to Watch Now</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-fast-windows-quick-skim-a-step-by-step-guide/"><u>[Updated] Fast Windows Quick Skim A Step-by-Step Guide</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-evaluating-active-presenter-8s-performance/"><u>2024 Approved Evaluating Active Presenter 8'S Performance</u></a></li>
+<li><a href="https://win-web.techidaily.com/capture-the-winter-spirit-how-to-feature-bing-dwen-dwen-in-your-photos-for-beijing-2022-olympic-games/"><u>Capture the Winter Spirit: How to Feature Bing Dwen Dwen in Your Photos for Beijing 2022 Olympic Games</u></a></li>
+<li><a href="https://win-web.techidaily.com/effortlessly-switch-from-flash-to-modern-web-standards-the-ultimate-guide-for-converting-flv-videos-to-html5/"><u>Effortlessly Switch From Flash to Modern Web Standards: The Ultimate Guide for Converting FLV Videos to HTML5</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-analog-to-digital-safeguarding-older-photographic-memories-for-2024/"><u>From Analog to Digital Safeguarding Older Photographic Memories for 2024</u></a></li>
+<li><a href="https://win-web.techidaily.com/guidelines-on-how-to-save-sys-speaker-volume-without-spending-a-penny/"><u>Guidelines on How to Save Sys Speaker Volume without Spending a Penny</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-set-up-iphone-xs-max-face-id-by-drfone-ios-unlock-ios-unlock/"><u>How to Set up iPhone XS Max Face ID?</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-android-unlock-code-sim-unlock-your-realme-11x-5g-phone-and-remove-locked-screen-by-drfone-android/"><u>In 2024, Android Unlock Code Sim Unlock Your Realme 11X 5G Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-streamline-your-content-following-twitpic-rules/"><u>In 2024, Streamline Your Content Following Twitpic Rules</u></a></li>
+<li><a href="https://win-web.techidaily.com/resolving-quick-timeout-issues-in-windows-stop-your-pc-from-ending-session-after-just-3-seconds/"><u>Resolving Quick Timeout Issues in Windows: Stop Your PC From Ending Session After Just 3 Seconds!</u></a></li>
+<li><a href="https://win-web.techidaily.com/revive-your-iphones-lost-tracks-a-step-by-step-guide-to-iphone-music-retrieval/"><u>Revive Your iPhone's Lost Tracks: A Step-by-Step Guide to iPhone Music Retrieval</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-guide-to-building-custom-ai-chatbot-from-personal-data/"><u>Step-by-Step Guide to Building Custom AI Chatbot From Personal Data</u></a></li>
+<li><a href="https://win-web.techidaily.com/ultimate-tutorial-on-image-enhancement-using-apowerpdf/"><u>Ultimate Tutorial on Image Enhancement Using ApowerPDF</u></a></li>
+<li><a href="https://win-web.techidaily.com/windows-11-takes-the-lead-amongst-engineering-circles-insights-from-microsoft-on-latest-os-trend-zdnet-news/"><u>Windows 11 Takes the Lead Amongst Engineering Circles - Insights From Microsoft on Latest OS Trend | ZDNet News</u></a></li>
+<li><a href="https://win-web.techidaily.com/zdnets-best-picks-the-indispensable-11-tools-for-windows-and-mac-users/"><u>ZDNet's Best Picks: The Indispensable 11 Tools for Windows & Mac Users</u></a></li>
 </ul></div>
 

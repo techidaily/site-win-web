@@ -1,7 +1,7 @@
 ---
 title: Pay to Keep Your PC Updated? Find Out How Much Microsoft Plans to Charge for Windows 11 Updates From Next Year Onwards | ZDNet Insight
-date: 2024-09-28T21:17:02.011Z
-updated: 2024-10-05T19:38:13.660Z
+date: 2024-10-08T18:15:15.617Z
+updated: 2024-10-11T13:02:00.770Z
 tags:
   - microsoft
 categories:
@@ -53,13 +53,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -71,16 +64,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -136,16 +123,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<span id="1993654">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -155,15 +136,22 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -208,18 +196,16 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-avoiding-the-ignored-making-your-video-a-staff-pick-on-vimeo/"><u>[New] In 2024, Avoiding the Ignored Making Your Video a Staff Pick on Vimeo</u></a></li>
-<li><a href="https://win-web.techidaily.com/discover-the-fate-of-microsofts-complimentary-windows-11-update-initiative-insights-and-news/"><u>Discover the Fate of Microsoft's Complimentary Windows 11 Update Initiative - Insights & News</u></a></li>
-<li><a href="https://win-web.techidaily.com/discover-the-ultimate-reasons-for-choosing-microsoft-edge-unveiling-its-3-stellar-advantages/"><u>Discover the Ultimate Reasons for Choosing Microsoft Edge - Unveiling Its 3 Stellar Advantages!</u></a></li>
-<li><a href="https://win-web.techidaily.com/former-microsoft-leader-steve-ballmer-reveals-personal-reflections-on-bravery-techcrunch/"><u>Former Microsoft Leader Steve Ballmer Reveals Personal Reflections on Bravery | TechCrunch</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-remove-find-my-iphone-without-apple-id-on-your-iphone-8-plus-by-drfone-ios/"><u>How to Remove Find My iPhone without Apple ID On your iPhone 8 Plus?</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-unlock-sony-xperia-5-v-without-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Sony Xperia 5 V Without Password?</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-ultra-creations-synopsis-studio-25-detailed-analysis-2023/"><u>In 2024, Ultra Creations Synopsis Studio 25 Detailed Analysis, 2023</u></a></li>
-<li><a href="https://win-web.techidaily.com/in-depth-analysis-of-jabras-evolve2-75-audio-gear-the-ultimate-hybrid-work-companion-featuring-anc-and-all-day-conversations-techreviewzdnet/"><u>In-Depth Analysis of Jabra's Evolve2 75 Audio Gear: The Ultimate Hybrid Work Companion Featuring ANC & All-Day Conversations | TechReviewZDNet</u></a></li>
-<li><a href="https://windows11.techidaily.com/mending-the-game-pass-network-issue-a-guide-for-windows-users/"><u>Mending the Game Pass Network Issue: A Guide for Windows Users</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/simple-steps-integrating-sound-files-into-your-macs-itunes-library/"><u>Simple Steps: Integrating Sound Files Into Your Mac's iTunes Library</u></a></li>
-<li><a href="https://win-web.techidaily.com/singapore-adopts-microsoft-copilot-next-gen-tech-in-legal-services-zdnet-insights/"><u>Singapore Adopts Microsoft Copilot: Next-Gen Tech in Legal Services | ZDNet Insights</u></a></li>
-<li><a href="https://win-web.techidaily.com/steven-ballmer-previously-at-the-helm-of-microsoft-discusses-his-courageous-traits-or-lack-thereof-the-verge/"><u>Steven Ballmer, Previously at the Helm of Microsoft, Discusses His Courageous Traits or Lack Thereof | The Verge</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/ultimate-guide-converting-imovie-projects-into-hd-quality-mp4-format/"><u>Ultimate Guide: Converting iMovie Projects Into HD-Quality MP4 Format</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-top-creators-revolutionizing-virtual-environments/"><u>[New] Top Creators Revolutionizing Virtual Environments</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-the-2-step-guide-to-smoothly-record-google-hangoutsmeetings/"><u>[Updated] In 2024, The 2-Step Guide to Smoothly Record Google Hangouts/Meetings</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unveiling-the-power-of-zoom-in-kinemaster-editing/"><u>[Updated] Unveiling the Power of Zoom in Kinemaster Editing</u></a></li>
+<li><a href="https://video-capture.techidaily.com/1726027649647-clipchamp/"><u>「Clipchamp」での動画編集: 簡単なガイド - 音楽トラックの追加手順</u></a></li>
+<li><a href="https://win-web.techidaily.com/1726028249305-powerpoint/"><u>「オートスピーチ機能を活用したPowerPoint音声記録ガイド」</u></a></li>
+<li><a href="https://win-web.techidaily.com/1-easy-techniques-switching-images-from-jpeg-format-to-gif-a-dual-approach/"><u>1. Easy Techniques: Switching Images From JPEG Format to GIF - A Dual Approach</u></a></li>
+<li><a href="https://win-dash.techidaily.com/direct-links-to-latest-easycap-driver-software-free/"><u>Direct Links to Latest EasyCap Driver Software [Free]</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/full-guide-to-unlock-iphone-15-plus-with-itunes-drfone-by-drfone-ios/"><u>Full Guide to Unlock iPhone 15 Plus with iTunes | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/step-by-step-guide-reverting-from-macos-ventura-back-to-monterey-or-previous-versions/"><u>Step-by-Step Guide: Reverting From macOS Ventura Back to Monterey or Previous Versions</u></a></li>
+<li><a href="https://win-web.techidaily.com/the-ultimate-guide-to-cropping-vids-for-instagram-success-discover-three-effective-strategies/"><u>The Ultimate Guide to Cropping Vids for Instagram Success – Discover Three Effective Strategies!</u></a></li>
+<li><a href="https://win-web.techidaily.com/top-7-tools-and-extensions-for-screenshots-in-mozilla-firefox-how-to-guide/"><u>Top 7 Tools and Extensions for Screenshots in Mozilla Firefox - How To Guide</u></a></li>
 </ul></div>
 

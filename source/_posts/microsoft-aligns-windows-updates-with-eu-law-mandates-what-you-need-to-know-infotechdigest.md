@@ -1,7 +1,7 @@
 ---
 title: Microsoft Aligns Windows Updates with EU Law Mandates – What You Need to Know | InfoTechDigest
-date: 2024-10-03T17:44:25.627Z
-updated: 2024-10-05T17:31:42.909Z
+date: 2024-10-10T10:26:30.425Z
+updated: 2024-10-11T01:47:55.339Z
 tags:
   - windows
 categories:
@@ -40,10 +40,10 @@ Next, right-click on any empty area of the Desktop. In the popup menu, move to N
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Rename the new folder
@@ -85,10 +85,10 @@ When done, click Next.
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 8\. Name the shortcut
@@ -98,10 +98,10 @@ At the next screen, you can now enter any name you wish for the shortcut. Click 
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 9\. Change the icon
@@ -111,10 +111,10 @@ To change the icon from the generic folder image, right-click on it and select P
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 10\. Launch your new icon
@@ -156,24 +156,22 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-the-ultimate-test-mycam-cams-features-analyzed/"><u>[New] 2024 Approved The Ultimate Test MyCam Cam's Features Analyzed</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-time-travel-through-snapshots-using-camera-roll-on-snapchat/"><u>[New] In 2024, Time-Travel Through Snapshots Using Camera Roll on Snapchat</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-easy-video-calls-with-googles-hangouts-on-your-android/"><u>[Updated] 2024 Approved Easy Video Calls with Google's Hangouts on Your Android</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-youtube-video-shooting-equipment-list-what-you-need-to-start-recording-videos/"><u>[Updated] 2024 Approved YouTube Video Shooting Equipment List What You Need to Start Recording Videos</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-the-hidden-truths-about-youtube-earnings/"><u>[Updated] The Hidden Truths About YouTube Earnings</u></a></li>
-<li><a href="https://win-web.techidaily.com/capture-the-winter-spirit-how-to-feature-bing-dwen-dwen-in-your-photos-for-beijing-2022-olympic-games/"><u>Capture the Winter Spirit: How to Feature Bing Dwen Dwen in Your Photos for Beijing 2022 Olympic Games</u></a></li>
-<li><a href="https://win-web.techidaily.com/download-our-free-tool-transform-your-pdfs-into-professional-powerpoint-presentations/"><u>Download Our Free Tool – Transform Your PDFs Into Professional PowerPoint Presentations</u></a></li>
-<li><a href="https://win-web.techidaily.com/fast-start-ultimate-tutorial-on-downloading-and-setting-up-video-editor-pro-studio/"><u>Fast Start: Ultimate Tutorial on Downloading & Setting Up Video Editor Pro Studio</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/from-today-to-tomorrow-the-drone-evolution-story-for-2024/"><u>From Today to Tomorrow The Drone Evolution Story for 2024</u></a></li>
-<li><a href="https://discover-blog.techidaily.com/guida-rapida-al-riconversione-di-video-avchd-m2ts-a-formato-mp4-senza-compromettere-la-qualita-i-metodi-piu-efficienti/"><u>Guida Rapida Al Riconversione Di Video AVCHD M2TS a Formato MP4 Senza Compromettere La Qualità: I Metodi Più Efficienti</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-motorola-g54-5g-drfone-by-drfone-virtual-android/"><u>How to Spy on Text Messages from Computer & Motorola G54 5G | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-infinix-note-30-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On Infinix Note 30 | Dr.fone</u></a></li>
-<li><a href="https://win-web.techidaily.com/mastering-remote-presentation-connect-your-android-device-with-powerpoint/"><u>Mastering Remote Presentation: Connect Your Android Device with PowerPoint</u></a></li>
-<li><a href="https://win-web.techidaily.com/resolving-quick-timeout-issues-in-windows-stop-your-pc-from-ending-session-after-just-3-seconds/"><u>Resolving Quick Timeout Issues in Windows: Stop Your PC From Ending Session After Just 3 Seconds!</u></a></li>
-<li><a href="https://win-web.techidaily.com/revive-your-iphones-lost-tracks-a-step-by-step-guide-to-iphone-music-retrieval/"><u>Revive Your iPhone's Lost Tracks: A Step-by-Step Guide to iPhone Music Retrieval</u></a></li>
-<li><a href="https://win-web.techidaily.com/simple-methods-transferring-images-from-your-android-device-to-pc/"><u>Simple Methods: Transferring Images From Your Android Device to PC</u></a></li>
-<li><a href="https://win-web.techidaily.com/top-6-effective-phone-call-voice-modifiers-for-android-and-desktop-devices/"><u>Top 6 Effective Phone Call Voice Modifiers for Android & Desktop Devices</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/unlocking-made-easy-the-best-10-apps-for-unlocking-your-honor-100-device-by-drfone-android/"><u>Unlocking Made Easy The Best 10 Apps for Unlocking Your Honor 100 Device</u></a></li>
-<li><a href="https://win-web.techidaily.com/win-an-apowersoft-elite-membership-with-our-background-eraser-giveaway-share-and-compete-today/"><u>Win an Apowersoft Elite Membership with Our Background Eraser Giveaway – Share & Compete Today!</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-discover-the-leading-apps-for-instagrams-vertical-igtv-edits-for-2024/"><u>[New] Discover the Leading Apps for Instagram's Vertical IGTV Edits for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unleash-the-power-of-online-livestreams-with-us-today/"><u>[New] Unleash the Power of Online Livestreams with Us Today</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-your-gateway-to-classic-games-best-in-class-5gb-advance-emulators-compatible-with-pcs-for-2024/"><u>[New] Your Gateway to Classic Games Best-in-Class 5GB Advance Emulators Compatible with PCs for 2024</u></a></li>
+<li><a href="https://win-web.techidaily.com/2022s-top-seating-innovation-an-exclusive-review-of-andaseat-kaiser-3-on-zdnet/"><u>2022'S Top Seating Innovation: An Exclusive Review of AndaSeat Kaiser 3 on ZDNET</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-step-by-step-techniques-for-convincing-reddit-readers/"><u>2024 Approved Step-By-Step Techniques for Convincing Reddit Readers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unusual-video-orientation-what-causes-sideway-images-on-instagram/"><u>2024 Approved Unusual Video Orientation What Causes Sideway Images on Instagram</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-analysis-and-overview-of-aphacas-bt69-the-leading-choice-for-bluetooth-enabled-car-radio-upgrades/"><u>Comprehensive Analysis and Overview of Aphaca's BT69 - The Leading Choice for Bluetooth-Enabled Car Radio Upgrades</u></a></li>
+<li><a href="https://win-web.techidaily.com/former-microsoft-leader-steve-ballmer-reveals-personal-reflections-on-bravery-techcrunch/"><u>Former Microsoft Leader Steve Ballmer Reveals Personal Reflections on Bravery | TechCrunch</u></a></li>
+<li><a href="https://win-web.techidaily.com/in-depth-analysis-of-jabras-evolve2-75-audio-gear-the-ultimate-hybrid-work-companion-featuring-anc-and-all-day-conversations-techreviewzdnet/"><u>In-Depth Analysis of Jabra's Evolve2 75 Audio Gear: The Ultimate Hybrid Work Companion Featuring ANC & All-Day Conversations | TechReviewZDNet</u></a></li>
+<li><a href="https://win-web.techidaily.com/singapore-adopts-microsoft-copilot-next-gen-tech-in-legal-services-zdnet-insights/"><u>Singapore Adopts Microsoft Copilot: Next-Gen Tech in Legal Services | ZDNet Insights</u></a></li>
+<li><a href="https://win-web.techidaily.com/steven-ballmer-previously-at-the-helm-of-microsoft-discusses-his-courageous-traits-or-lack-thereof-the-verge/"><u>Steven Ballmer, Previously at the Helm of Microsoft, Discusses His Courageous Traits or Lack Thereof | The Verge</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/streamlined-converting-top-six-free-ios-apps-for-youtube-to-mp3/"><u>Streamlined Converting Top Six Free iOS Apps for YouTube-to-MP3</u></a></li>
+<li><a href="https://win-web.techidaily.com/tech-review-how-microsofts-new-lineup-of-easy-to-repair-laptops-outshines-rivals-leaving-apple-to-catch-up-zdnet/"><u>Tech Review: How Microsoft's New Lineup of Easy-to-Repair Laptops Outshines Rivals, Leaving Apple to Catch Up | ZDNET</u></a></li>
+<li><a href="https://win-web.techidaily.com/transform-your-macbook-into-a-touchscreen-masterpiece-with-this-compact-portable-display-discover-more-on-zdnet/"><u>Transform Your MacBook Into a Touchscreen Masterpiece with This Compact Portable Display - Discover More on ZDNet!</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/ultimate-drone-collection-available-now-for-2024/"><u>Ultimate Drone Collection Available Now for 2024</u></a></li>
+<li><a href="https://win-web.techidaily.com/ultimate-guide-leading-soundproof-window-treatments-for-noise-reduction-hometechreview/"><u>Ultimate Guide: Leading Soundproof Window Treatments for Noise Reduction | HomeTechReview</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-the-top-6-alternatives-to-twitch-for-your-streaming-needs-for-2024/"><u>Updated The Top 6 Alternatives to Twitch for Your Streaming Needs for 2024</u></a></li>
 </ul></div>
 

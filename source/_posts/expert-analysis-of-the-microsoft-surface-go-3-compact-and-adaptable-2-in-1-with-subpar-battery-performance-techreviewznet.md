@@ -1,7 +1,7 @@
 ---
 title: "Expert Analysis of the Microsoft Surface Go 3: Compact & Adaptable 2-in-1 with Subpar Battery Performance | TechReviewZNet"
-date: 2024-09-28T22:59:30.508Z
-updated: 2024-10-05T21:07:16.944Z
+date: 2024-10-09T19:02:30.642Z
+updated: 2024-10-11T07:48:17.346Z
 tags:
   - microsoft
 categories:
@@ -53,13 +53,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -69,6 +62,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -89,6 +89,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -123,10 +130,16 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983553">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -136,22 +149,15 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
-  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,22 +202,22 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-mastering-youtube-success-via-creator-studio-complete-handbook/"><u>[New] 2024 Approved Mastering YouTube Success via Creator Studio Complete Handbook</u></a></li>
-<li><a href="https://win-web.techidaily.com/1-flippdf-pro-for-ios-effortlessly-transform-your-pdfs-into-interactive-ebooks-with-touchscreen-navigation/"><u>1) FlipPDF Pro for iOS: Effortlessly Transform Your PDFs Into Interactive eBooks with Touchscreen Navigation</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-accelerated-image-viewer-in-windows-environment/"><u>2024 Approved Accelerated Image Viewer in Windows Environment</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-the-systematic-search-for-concealed-youtube-repositories/"><u>2024 Approved The Systematic Search for Concealed YouTube Repositories</u></a></li>
-<li><a href="https://win-web.techidaily.com/adjusting-page-layouts-in-flipbuilder-moving-flipbooks-left-or-right/"><u>Adjusting Page Layouts in FlipBuilder: Moving Flipbooks Left or Right</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/boost-traffic-insights-and-performance-through-cookiebot-integration/"><u>Boost Traffic Insights & Performance Through Cookiebot Integration</u></a></li>
-<li><a href="https://win-web.techidaily.com/can-want-links-retain-their-effectiveness-when-zooming-inout-on-a-website-using-flipbuilder/"><u>Can Want Links Retain Their Effectiveness When Zooming In/Out on a Website Using FlipBuilder?</u></a></li>
-<li><a href="https://win-web.techidaily.com/create-interactive-flipbooks-from-pdf-documents-with-easy-page-extraction-discover-how-flipbuildercom/"><u>Create Interactive FlipBooks From PDF Documents with Easy Page Extraction - Discover How [FlipBuilder.com]</u></a></li>
-<li><a href="https://win-web.techidaily.com/creating-a-compelling-info-flashbook-a-guide-to-displaying-your-business-details-on-flipbuilder/"><u>Creating a Compelling Info-Flashbook: A Guide to Displaying Your Business Details on FlipBuilder</u></a></li>
-<li><a href="https://win-web.techidaily.com/effortless-object-deletion-for-seamless-presentations-on-flipbuildercom/"><u>Effortless Object Deletion for Seamless Presentations on FlipBuilder.com</u></a></li>
-<li><a href="https://win-web.techidaily.com/expert-guide-mastering-flip-pdf-pro-your-ultimate-comprehensive-resource/"><u>Expert Guide: Mastering Flip PDF Pro - Your Ultimate Comprehensive Resource</u></a></li>
-<li><a href="https://win-web.techidaily.com/expert-tips-for-turning-off-thumbnail-previews-in-flipbooks-with-flipbuilder-software/"><u>Expert Tips for Turning Off Thumbnail Previews in Flipbooks with FlipBuilder Software</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/freshly-released-download-and-install-microsoft-bluetooth-driver-compatible-with-windows-11-10-8-and/"><u>Freshly Released: Download & Install Microsoft Bluetooth Driver Compatible with Windows 11, 10, 8 &</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-vivo-v27e-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Vivo V27e | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-xiaomi-civi-3-disney-100th-anniversary-edition-by-fonelab-android-recover-photos/"><u>How to recover deleted photos from Xiaomi Civi 3 Disney 100th Anniversary Edition.</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-on-xiaomi-redmi-note-12r-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location on Xiaomi Redmi Note 12R | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/smart-selections-the-premier-list-of-costless-streamers-apps-and-software/"><u>Smart Selections The Premier List of Costless Streamers Apps & Software</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-the-art-of-instagram-videography-capturing-attention/"><u>[New] 2024 Approved The Art of Instagram Videography Capturing Attention</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-elite-multiplatform-recorder-for-pcs/"><u>[New] Elite Multiplatform Recorder for PCs</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-venturing-into-virtual-steps-top-treadmill-analysis/"><u>[Updated] Venturing Into Virtual Steps Top Treadmill Analysis</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/chorus-to-clips-soundtracking-in-imovie-for-2024/"><u>Chorus to Clips Soundtracking in iMovie for 2024</u></a></li>
+<li><a href="https://win-web.techidaily.com/copilot-takes-the-lead-in-next-gen-ai-music-composition-techniques-latest-update-by-zdnet/"><u>Copilot Takes the Lead in Next-Gen AI Music Composition Techniques | Latest Update by ZDNET</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/fitbit-versa-lite-reviewed-excellent-performance-for-cost-conscious-consumers/"><u>Fitbit Versa Lite Reviewed - Excellent Performance for Cost-Conscious Consumers</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/-fixing-fame-is-it-youtubes-shorts-or-tiktok-for-quick-content-conquest-in-2024/"><u>Flash-Fixing Fame Is It YouTubes Shorts or TikTok for Quick Content Conquest, In 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-vivo-s18-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On Vivo S18? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-honor-v-purse-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to Honor V Purse Phones? | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-fourfold-path-to-blurring-iphone-images/"><u>In 2024, The Fourfold Path to Blurring iPhone Images</u></a></li>
+<li><a href="https://win-web.techidaily.com/microsoft-innovates-with-revamped-generative-search-blending-the-classic-and-cutting-edge-zdnet-insight/"><u>Microsoft Innovates with Revamped Generative Search: Blending the Classic and Cutting-Edge | ZDNet Insight</u></a></li>
+<li><a href="https://win-web.techidaily.com/microsofts-latest-innovations-revealed-highlights-from-the-recent-surface-and-ai-showcase-zdnet-coverage/"><u>Microsoft's Latest Innovations Revealed: Highlights From the Recent Surface & AI Showcase - ZDNet Coverage</u></a></li>
+<li><a href="https://win-web.techidaily.com/microsofts-latest-security-scare-reaction-warranted-zdnet-insights/"><u>Microsoft's Latest Security Scare? Reaction Warranted! | ZDNet Insights</u></a></li>
+<li><a href="https://win-web.techidaily.com/navigating-microsoft-365-tips-and-tricks-for-effective-management-on-windows-11-insights-from-zdnet/"><u>Navigating Microsoft 365: Tips and Tricks for Effective Management on Windows 11 - Insights From ZDNet</u></a></li>
+<li><a href="https://win-web.techidaily.com/pay-to-keep-your-pc-updated-find-out-how-much-microsoft-plans-to-charge-for-windows-11-updates-from-next-year-onwards-zdnet-insight/"><u>Pay to Keep Your PC Updated? Find Out How Much Microsoft Plans to Charge for Windows 11 Updates From Next Year Onwards | ZDNet Insight</u></a></li>
+<li><a href="https://win-web.techidaily.com/the-evolution-of-ai-composing-tunes-discover-latest-updates-on-github-copilot/"><u>The Evolution of AI Composing Tunes: Discover Latest Updates on GitHub Copilot</u></a></li>
+<li><a href="https://win-web.techidaily.com/will-you-pay-for-windows-11-updates-in-the-future-microsoft-reveals-new-pricing-strategy-for-next-years-software-enhancements/"><u>Will You Pay For Windows 11 Updates in the Future? Microsoft Reveals New Pricing Strategy for Next Year's Software Enhancements</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Boost Your Productivity: Top 5 Strategies to Overcome Distractions and Enhance Your Focus on Writing & Work Tasks | ZDNet Insights"
-date: 2024-10-01T16:50:09.688Z
-updated: 2024-10-05T17:59:31.076Z
+date: 2024-10-09T09:54:12.248Z
+updated: 2024-10-11T09:29:24.006Z
 tags:
   - windows
 categories:
@@ -33,18 +33,18 @@ First, make sure you're signed into your Windows 11 PC with an account that has 
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Create a new folder
 
 Next, right-click on any empty area of the Desktop. In the popup menu, move to New and select the command for Folder**.**
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Rename the new folder
 
@@ -55,18 +55,18 @@ When done, press Enter.
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
+  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Launch the icon
 
 Double-click the icon, and a window opens with all the available settings. The commands are organized by Control Panel applet, so you can browse through the various categories, including Backup and Restore, Devices and Printers, File History, Mouse, Programs and Features, Security and Maintenance, Troubleshooting, and User Accounts.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
-  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Search for a command
 
@@ -91,18 +91,18 @@ When done, click Next.
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 8\. Name the shortcut
 
 At the next screen, you can now enter any name you wish for the shortcut. Click Finish.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 9\. Change the icon
 
@@ -111,10 +111,10 @@ To change the icon from the generic folder image, right-click on it and select P
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 10\. Launch your new icon
@@ -156,18 +156,18 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-leveraging-obs-for-smooth-streaming-mac-and-pc-users-guide/"><u>[New] 2024 Approved Leveraging OBS for Smooth Streaming Mac & PC Users' Guide</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-a-detailed-exploration-into-sourcing-high-quality-backdrops/"><u>[New] In 2024, A Detailed Exploration Into Sourcing High-Quality Backdrops</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-the-perfect-guide-to-making-your-video-memories-last-with-gifs/"><u>[Updated] The Perfect Guide to Making Your Video Memories Last with GIFs</u></a></li>
-<li><a href="https://win-web.techidaily.com/1-top-strategies-for-streaming-your-ipad-content-onto-television/"><u>1. Top Strategies for Streaming Your iPad Content Onto Television</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-premier-mobile-podcast-apps/"><u>2024 Approved Premier Mobile Podcast Apps</u></a></li>
-<li><a href="https://win-web.techidaily.com/best-methods-to-seamlessly-stream-your-mac-screen-to-a-television/"><u>Best Methods to Seamlessly Stream Your Mac Screen to a Television</u></a></li>
-<li><a href="https://win-web.techidaily.com/download-our-free-tool-transform-your-pdfs-into-professional-powerpoint-presentations/"><u>Download Our Free Tool – Transform Your PDFs Into Professional PowerPoint Presentations</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/embrace-passion-italys-romantic-flirtations/"><u>Embrace Passion: Italy's Romantic Flirtations</u></a></li>
-<li><a href="https://win-web.techidaily.com/fast-start-ultimate-tutorial-on-downloading-and-setting-up-video-editor-pro-studio/"><u>Fast Start: Ultimate Tutorial on Downloading & Setting Up Video Editor Pro Studio</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-successfully-bypass-icloud-activation-lock-from-iphone-11-pro-by-drfone-ios/"><u>How to Successfully Bypass iCloud Activation Lock from iPhone 11 Pro</u></a></li>
-<li><a href="https://win-web.techidaily.com/instant-tips-how-to-enjoy-footage-in-a-snail-pace-with-these-simple-steps/"><u>Instant Tips: How to Enjoy Footage in a Snail-Pace with These Simple Steps</u></a></li>
-<li><a href="https://win-web.techidaily.com/simple-steps-converting-your-youtube-videos-for-seamless-viewing-on-an-ipad/"><u>Simple Steps: Converting Your YouTube Videos for Seamless Viewing on an iPad</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-overcoming-minecraft-lan-play-hurdles/"><u>Step-by-Step Guide: Overcoming Minecraft LAN Play Hurdles</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-exclusive-list-of-leading-free-video-editing-programs/"><u>[New] 2024 Approved Exclusive List of Leading Free Video Editing Programs</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-freeweb-cams-features-uncovered-in-detail-for-2024/"><u>[Updated] FreeWeb Cam's Features Uncovered in Detail for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-from-beginner-to-pro-the-top-tips-for-instagram-stories-for-2024/"><u>[Updated] From Beginner to Pro The Top Tips for Instagram Stories for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-step-by-step-process-for-successful-obs-integration-on-macos/"><u>[Updated] In 2024, Step-by-Step Process for Successful OBS Integration on macOS</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/complete-guide-to-adding-and-enjoying-the-boys-add-on-via-matrix-aio-on-kodi-platform/"><u>Complete Guide to Adding and Enjoying the Boys Add-On via Matrix AIO on Kodi Platform</u></a></li>
+<li><a href="https://win-web.techidaily.com/convert-and-download-your-distrify-videos-as-mp4-avi-or-mov-formats-on-pc-and-mac/"><u>Convert and Download Your Distrify Videos as MP4, AVI or MOV Formats on PC & Mac</u></a></li>
+<li><a href="https://win-web.techidaily.com/convert-biqle-adult-content-save-hd-movies-in-mp4movaviflv-for-pc-and-mac/"><u>Convert Biqle Adult Content - Save HD Movies in MP4/MOV/AVI/FLV for PC & MAC</u></a></li>
+<li><a href="https://win-web.techidaily.com/convert-your-favorite-online-videos-into-any-format-using-pyvideo-includes-mp4-mov-and-avi-options/"><u>Convert Your Favorite Online Videos Into Any Format Using PyVideo: Includes MP4, MOV, and AVI Options</u></a></li>
+<li><a href="https://win-web.techidaily.com/download-clips-from-hulu-effortlessly-with-hd-downloader-plus-mp4-avi-formats-on-windowsmacosx-compatible-devices/"><u>Download Clips From Hulu Effortlessly with HD Downloader Plus – MP4, AVI Formats on Windows/MacOSX Compatible Devices</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-11-best-location-changers-for-honor-x7b-drfone-by-drfone-virtual-android/"><u>In 2024, 11 Best Location Changers for Honor X7b | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-beginners-paradise-the-best-free-and-paid-video-editing-software/"><u>In 2024, Beginners Paradise The Best Free and Paid Video Editing Software</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/overcome-cyberpunk-2077s-ice-age-update-patches-game-freezes/"><u>Overcome Cyberpunk 2077'S Ice Age: Update Patches Game Freezes</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-the-ultimate-vllo-experience-on-mac-download-and-alternatives/"><u>Updated 2024 Approved The Ultimate VLLO Experience on Mac Download and Alternatives</u></a></li>
 </ul></div>
 

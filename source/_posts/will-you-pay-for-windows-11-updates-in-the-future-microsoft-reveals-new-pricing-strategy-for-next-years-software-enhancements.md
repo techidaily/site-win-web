@@ -1,7 +1,7 @@
 ---
 title: Will You Pay For Windows 11 Updates in the Future? Microsoft Reveals New Pricing Strategy for Next Year's Software Enhancements
-date: 2024-09-30T22:51:54.807Z
-updated: 2024-10-05T23:38:14.355Z
+date: 2024-10-03T23:16:13.869Z
+updated: 2024-10-11T12:53:47.597Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -64,10 +71,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -89,6 +96,19 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -122,41 +142,21 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
-<!-- affiliate ads begin -->
-<span id="1975658">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -202,18 +202,22 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-from-outdated-oss-to-the-latest-windows-11-unlocked/"><u>[New] From Outdated OSs to the Latest Windows 11 Unlocked</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-snippet-storyboarding-procedure/"><u>[Updated] 2024 Approved Snippet Storyboarding Procedure</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-are-product-critiques-online-generated-income/"><u>[Updated] Are Product Critiques Online Generated Income?</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-perfect-phone-match-up-for-samsungs-virtual-reality-dreams-update-2023/"><u>[Updated] Perfect Phone Match-Up for Samsung's Virtual Reality Dreams - Update 2023</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-efficient-use-of-obs-studio-for-android-devices/"><u>2024 Approved Efficient Use of OBS Studio for Android Devices</u></a></li>
-<li><a href="https://win-web.techidaily.com/mastering-local-account-safety-a-guide-to-security-answers-with-tips-by-zdnet/"><u>Mastering Local Account Safety: A Guide to Security Answers with Tips by ZDNet</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/maximizing-connectivity-with-the-tp-link-re505x-extender-a-review/"><u>Maximizing Connectivity with the TP-Link RE505X Extender - A Review</u></a></li>
-<li><a href="https://win-web.techidaily.com/microsoft-aligns-windows-updates-with-eu-law-mandates-what-you-need-to-know-infotechdigest/"><u>Microsoft Aligns Windows Updates with EU Law Mandates – What You Need to Know | InfoTechDigest</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/profit-making-on-youtube-breakdown-of-critical-view-criteria-for-2024/"><u>Profit-Making on YouTube Breakdown of Critical View Criteria for 2024</u></a></li>
-<li><a href="https://win-web.techidaily.com/revolutionizing-online-surfing-master-the-art-of-organized-browsing-using-arc-profiles-according-to-zdnet-strategies/"><u>Revolutionizing Online Surfing: Master the Art of Organized Browsing Using Arc Profiles, According to ZDNet Strategies</u></a></li>
-<li><a href="https://win-web.techidaily.com/step-by-step-guide-to-pairing-an-android-smartphone-with-windows-11-for-seamless-integration/"><u>Step-by-Step Guide to Pairing an Android Smartphone with Windows 11 for Seamless Integration</u></a></li>
-<li><a href="https://win-web.techidaily.com/the-ongoing-battle-with-windows-vulnerabilities-a-zdnet-analysis/"><u>The Ongoing Battle with Windows Vulnerabilities - A ZDNet Analysis</u></a></li>
-<li><a href="https://win-web.techidaily.com/urban-legend-debunked-microsoft-preserves-essential-windows-control-panel-functionality-innovationhub/"><u>Urban Legend Debunked: Microsoft Preserves Essential Windows Control Panel Functionality | InnovationHub</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-premium-steadicams-tailored-for-uav-filmmaking-scenarios-for-2024/"><u>[New] Premium Steadicams Tailored for UAV Filmmaking Scenarios for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-laughter-ledger-twittersphere-tales/"><u>2024 Approved Laughter Ledger Twittersphere Tales</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-review-the-lenovo-thinkpad-x12-2-in-1-tablet-featuring-robust-performance-and-an-excellent-input-device/"><u>Comprehensive Review: The Lenovo ThinkPad X12 2-in-1 Tablet, Featuring Robust Performance & an Excellent Input Device</u></a></li>
+<li><a href="https://driver-install.techidaily.com/gtx-960-graphics-card-newest-driver-updates/"><u>GTX 960 Graphics Card: Newest Driver Updates</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-easily-rip-dvd-movies-onto-your-pc-using-windows-11/"><u>How To Easily Rip DVD Movies Onto Your PC Using Windows 11!</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-watch-hulu-outside-us-on-realme-c53-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Realme C53 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/reliable-user-guide-to-fix-poco-m6-5g-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Poco M6 5G Running Slow and Freezing | Dr.fone</u></a></li>
+<li><a href="https://win-web.techidaily.com/resolving-video-cannot-be-plays-error-150-in-google-slides-troubleshooting-guide/"><u>Resolving 'Video Cannot Be Plays' Error 150 in Google Slides | Troubleshooting Guide</u></a></li>
+<li><a href="https://win-web.techidaily.com/rethinking-convenience-the-downsides-of-buying-premixed-fire-starter-packs-or-fire-sticks-for-your-adventures/"><u>Rethinking Convenience: The Downsides of Buying Premixed Fire Starter Packs or 'Fire Sticks' For Your Adventures</u></a></li>
+<li><a href="https://extra-information.techidaily.com/selecting-premium-microphones-for-ultra-hd-videography/"><u>Selecting Premium Microphones for Ultra-HD Videography</u></a></li>
+<li><a href="https://win-web.techidaily.com/skype/"><u>Skypeで効率的にオンリーボイスを記録するコツ</u></a></li>
+<li><a href="https://win-web.techidaily.com/step-by-step-guide-converting-various-video-and-audio-files-effortlessly/"><u>Step-by-Step Guide: Converting Various Video and Audio Files Effortlessly</u></a></li>
+<li><a href="https://win-web.techidaily.com/step-by-step-guide-installing-youcut-video-editor-on-windows-and-macos/"><u>Step-by-Step Guide: Installing YouCut Video Editor on Windows and macOS</u></a></li>
+<li><a href="https://win-web.techidaily.com/top-10-highly-rated-xvid-video-players-compatible-with-pc-systems/"><u>Top 10 Highly Rated Xvid Video Players Compatible with PC Systems</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/top-10-photorecovery-apps-ultimate-guide-for-windows-and-mac-users/"><u>Top 10 Photorecovery Apps: Ultimate Guide for Windows & Mac Users</u></a></li>
+<li><a href="https://win-web.techidaily.com/ultimate-mp4-video-transformation-tool-leading-hd-to-mp4-converter-with-advanced-features/"><u>Ultimate MP4 Video Transformation Tool: Leading HD to MP4 Converter with Advanced Features</u></a></li>
+<li><a href="https://win-web.techidaily.com/vlc-and/"><u>VLC ネットワークストリーム再生の失敗原因解説&修正法</u></a></li>
 </ul></div>
 
