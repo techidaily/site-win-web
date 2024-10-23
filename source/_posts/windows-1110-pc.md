@@ -1,7 +1,7 @@
 ---
 title: 如何在 Windows 11/10 PC 中重新获取删除的免费文件
-date: 2024-10-08T01:33:06.749Z
-updated: 2024-10-10T19:36:09.765Z
+date: 2024-10-16T18:37:51.672Z
+updated: 2024-10-22T20:15:26.683Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/48f1b4b94f775b917cb35db1cb2a6e0b4e7bb5a94596326658045bbf739cd9ff.jpg
@@ -50,13 +50,6 @@ Share this: ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-arti
 | **Pros**      | **✔** Established reputation **✔** Powerful imaging and cloning **✔** Support for RAID arrays                                                                                                                                                                                    | **✔** User-friendly interface **✔** Active development **✔** Comprehensive backup and clone solutions                                                                                                                                                                                         |
 | **Cons**      | **✖** Discontinued **✖** Complex interface **✖** Compatibility issues                                                                                                                                                                                                            | **✖** Advanced features locked in the free version                                                                                                                                                                                                                                            |
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## About Norton Ghost
 
 Norton Ghost is one **disk imaging and cloning tool** that firstly developed in the 1990s. It can help you make backup images of the whole hard disk, selected partitions or only those files that mean the most to you. When something goes wrong, Norton Ghost can [restore your computer to previous functional status](https://tools.techidaily.com/ubackup/products/). Besides, it can also help you clone one hard drive to another hard drive.
@@ -64,15 +57,22 @@ Norton Ghost is one **disk imaging and cloning tool** that firstly developed in 
 In a word, if you want to make an image back for your computer or want to clone to the new hard drive, Norton Ghost is not a bad choice. However, now Norton Ghost is **no longer available for the Home user**. It was **discontinued by Symantec in 2013**. Indeed you can still download the latest version - Norton Ghost 15, but it only offers a 30-day free trial and then you need to pay for it.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Use Norton Ghost 15 Step by Step
 
 Here in this guide, you will get the detailed steps about how to use Symantec Ghost in Windows 11/10/8/7\. You can simply search “**Norton Ghost 15 download**” via your browser to get the tool. As we have mentioned above, it only offers a 30-day free trial. If you prefer a free tool to help you backup, restore or clone your hard drive, you can refer to the [next part](https://tools.techidaily.com/ubackup/products/) to get the best free alternative to Norton Ghost.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Image Your Computer with Norton Ghost
 
@@ -83,10 +83,10 @@ Here in this guide, you will get the detailed steps about how to use Symantec Gh
 [![Create Backup](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/others/norton-ghost/create-backup.png)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3\. The **Easy Setup** screen will appear.
@@ -97,6 +97,19 @@ Here in this guide, you will get the detailed steps about how to use Symantec Gh
 [![Click Custom](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/others/norton-ghost/click-custom.png)
 
 4\. Finally, click **OK** to confirm.
+
+<!-- affiliate ads begin -->
+<span id="1975658">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Restore Image with Norton Ghost
 
@@ -121,10 +134,10 @@ On **Recover My Computer** screen, find and choose the right system restore poin
 👉 **Note:** If your computer cannot run Windows normally, you can use the Symantec Recovery Disk CD to help you boot your computer. Depending on which version of the product you have purchased, Symantec Recovery Disk is either included on your product CD or as a separate CD. If you don't have a floppy drive, you can create a [Norton Ghost Bootable USB](https://tools.techidaily.com/ubackup/products/) instead.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Clone Disk with Norton Ghost
@@ -134,6 +147,13 @@ On **Recover My Computer** screen, find and choose the right system restore poin
 2\. On the **Tools** page, click **Copy My Hard Drive** and follow the steps in the wizard to copy the drive.
 
 👉 **Note:** The drivers that are used to run the hardware on one computer will likely not match the drivers on a second computer. So you’d better not use the Copy Drive feature to set up a hard drive that will be used in another computer.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Best Free Alternative to Norton Ghost
 
@@ -156,13 +176,6 @@ Download it to have a try! If you are using a server system, such as, server 200
 
 Secure Download
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Create Image Backup
 
 Take disk backup as an example. Follow the step below to backup your computer disk.
@@ -177,13 +190,6 @@ Select the corresponding backup methods if you want to backup system, partition 
 
 [![Add Disk](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/std/backup/disk-backup/add-disk.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3\. Choose a destination path to save the disk image. You can save the backup image on a local hard drive, external hard drive, USB flash drive, or network drive, etc. Click **Start Backup** when you are ready.
 
 [![Select Backup Destination](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/std/backup/disk-backup/select-backup-destination.png)
@@ -194,10 +200,10 @@ Select the corresponding backup methods if you want to backup system, partition 
 * If you want to [upgrade Windows 10 to Windows 11](https://tools.techidaily.com/ubackup/products/) without losing files, this software is very useful. It backs up everything you want, either in the system partition or entire disk, and you can use it to restore files or system as needed.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Restore Disk & Files
@@ -223,13 +229,6 @@ You can directly clone hard drive to another one with the **[Disk Clone](https:/
 
 * The free version of AOMEI Backupper only supports cloning a data disk. To clone a disk with OS installed, you can [upgrade](https://tools.techidaily.com/ubackup/products/) to higher versions to enjoy it.
 * The [System Clone](https://tools.techidaily.com/ubackup/products/) feature can help you only clone system to new hard drive, which uses less disk space than disk clone. Also, it requires a higher version.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -264,6 +263,13 @@ Was the provided information useful? Your vote is important to us!
 [Yes](https://tools.techidaily.com/ubackup/products/)[No](https://tools.techidaily.com/ubackup/products/)
 
 ![Lena](https://www.ubackup.com/assets/images/author/Lena.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 [Lena](https://tools.techidaily.com/ubackup/products/) · Editor
 
@@ -314,20 +320,19 @@ Safeguard any data of your computer with backup, sync and clone.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-audio-animation-for-dynamic-snapchat-films/"><u>[New] 2024 Approved Audio Animation for Dynamic Snapchat Films</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-top-10-affordable-accessible-tools-to-transform-videos/"><u>[New] Top 10 Affordable, Accessible Tools to Transform Videos</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-access-all-movies-ioss-no1-freepluspaid-film-apps-guide/"><u>[Updated] Access All Movies IOS's No.1, FREE+Paid Film Apps Guide</u></a></li>
-<li><a href="https://win-web.techidaily.com/capture-the-winter-spirit-how-to-feature-bing-dwen-dwen-in-your-photos-for-beijing-2022-olympic-games/"><u>Capture the Winter Spirit: How to Feature Bing Dwen Dwen in Your Photos for Beijing 2022 Olympic Games</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/converting-and-transferring-encrypted-itunes-video-content-for-use-on-kindle-firestick-and-kobo-devices/"><u>Converting and Transferring Encrypted iTunes Video Content for Use on Kindle Firestick & Kobo Devices</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/downloading-and-installing-canon-mg2520-windows-drivers-a-comprehensive-walkthrough/"><u>Downloading & Installing Canon MG2520 Windows Drivers: A Comprehensive Walkthrough</u></a></li>
-<li><a href="https://win-web.techidaily.com/effortlessly-switch-from-flash-to-modern-web-standards-the-ultimate-guide-for-converting-flv-videos-to-html5/"><u>Effortlessly Switch From Flash to Modern Web Standards: The Ultimate Guide for Converting FLV Videos to HTML5</u></a></li>
-<li><a href="https://win-web.techidaily.com/guidelines-on-how-to-save-sys-speaker-volume-without-spending-a-penny/"><u>Guidelines on How to Save Sys Speaker Volume without Spending a Penny</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/leading-free-artificial-intelligence-image-creation-software/"><u>Leading Free Artificial Intelligence Image Creation Software</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/prevent-these-8-key-mishaps-on-your-youtube-journey/"><u>Prevent These 8 Key Mishaps on Your YouTube Journey</u></a></li>
-<li><a href="https://win-web.techidaily.com/resolving-quick-timeout-issues-in-windows-stop-your-pc-from-ending-session-after-just-3-seconds/"><u>Resolving Quick Timeout Issues in Windows: Stop Your PC From Ending Session After Just 3 Seconds!</u></a></li>
-<li><a href="https://win-web.techidaily.com/revive-your-iphones-lost-tracks-a-step-by-step-guide-to-iphone-music-retrieval/"><u>Revive Your iPhone's Lost Tracks: A Step-by-Step Guide to iPhone Music Retrieval</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-vanished-contacts-solutions-for-iphone-users/"><u>Troubleshooting Vanished Contacts: Solutions for iPhone Users</u></a></li>
-<li><a href="https://win-web.techidaily.com/ultimate-tutorial-on-image-enhancement-using-apowerpdf/"><u>Ultimate Tutorial on Image Enhancement Using ApowerPDF</u></a></li>
-<li><a href="https://win-web.techidaily.com/zdnets-best-picks-the-indispensable-11-tools-for-windows-and-mac-users/"><u>ZDNet's Best Picks: The Indispensable 11 Tools for Windows & Mac Users</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-precision-videoplayers-for-high-definition-on-android/"><u>[New] Precision Videoplayers for High Definition on Android</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-the-podcasters-guide-to-seamless-streaming-setup-for-2024/"><u>[New] The Podcaster’s Guide to Seamless Streaming Setup for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-proactive-measures-to-save-and-secure-your-classroom-talks-on-macos/"><u>[Updated] In 2024, Proactive Measures to Save and Secure Your Classroom Talks on MacOS</u></a></li>
+<li><a href="https://win-web.techidaily.com/2-installationsmethoden-vom-usb-flashlaufwerk-zu-einer-neuen-festplatte-unter-windows-10/"><u>2 Installationsmethoden: Vom USB-Flashlaufwerk Zu Einer Neuen Festplatte Unter Windows 10</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-how-to-capture-your-nintendo-switch-game-video/"><u>2024 Approved How To Capture Your Nintendo Switch Game Video</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-perfect-partnership-a-guide-to-linking-insta-with-tiktok/"><u>2024 Approved Perfect Partnership A Guide to Linking Insta with TikTok</u></a></li>
+<li><a href="https://win-web.techidaily.com/7-auf-windows-11-verschiebt/"><u>7 Auf Windows 11 Verschiebt</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/best-of-both-worlds-top-high-quality-zero-dollar-webm-tools/"><u>Best of Both Worlds Top High-Quality, Zero-Dollar WebM Tools</u></a></li>
+<li><a href="https://win-web.techidaily.com/mastering-server-preservation-on-windows-techniques-for-editions-2012-through-2022/"><u>Mastering Server Preservation on Windows: Techniques for Editions 2012 Through 2022</u></a></li>
+<li><a href="https://win-web.techidaily.com/mise-a-jour-complete-pour-aomei-backupper-comment-passer-a-la-version-actuelle/"><u>Mise À Jour Complète Pour AOMEI Backupper: Comment Passer À La Version Actuelle?</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/pet-cube-revolutionizes-long-distance-animal-care/"><u>Pet Cube Revolutionizes Long-Distance Animal Care</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/pro-filmmakers-camera-essentials-the-best-10-list-for-2024/"><u>Pro Filmmaker's Camera Essentials - The Best 10 List for 2024</u></a></li>
+<li><a href="https://win-web.techidaily.com/problembehebungsanleitung-icloud-daten-sind-nicht-synchron-auf-macos/"><u>Problembehebungsanleitung: ICloud-Daten Sind Nicht Synchron Auf macOS</u></a></li>
+<li><a href="https://win-web.techidaily.com/wiederherstellen-von-windows-nativen-einstellungen-erfolgreiche-ansatze-zur-systemwiederherstellung-uber-den-rechnerstart/"><u>Wiederherstellen Von Windows Nativen Einstellungen: Erfolgreiche Ansätze Zur Systemwiederherstellung Über Den Rechnerstart</u></a></li>
 </ul></div>
 
