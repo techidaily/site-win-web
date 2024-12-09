@@ -1,7 +1,7 @@
 ---
 title: "PCDJ's Newest Release: Get Your Hands on DeckDJ 3.6 for an Enhanced Mixing Experience!"
-date: 2024-11-26T23:10:42.619Z
-updated: 2024-11-30T17:39:41.704Z
+date: 2024-12-05T09:15:28.186Z
+updated: 2024-12-08T18:53:00.923Z
 tags:
   - product
 categories:
@@ -35,7 +35,7 @@ We’ve **swatted a few annoying bugs** as well, including a memory issue presen
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What’s New, Changed Or Fixed In DEX 3.6.0.1
@@ -62,7 +62,7 @@ We’ve **swatted a few annoying bugs** as well, including a memory issue presen
 _Have questions about DEX 3.6 **VDJ mixing software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -84,22 +84,19 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2016/05/dex36publicrelease-coverim
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-premier-pro-templates-of-the-year-free-version/"><u>[New] Premier Pro Templates of the Year - Free Version</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-capturing-stunning-hdr-portraits-step-by-step-instructions/"><u>[Updated] Capturing Stunning HDR Portraits Step-by-Step Instructions</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-list-of-tamil-ringtones-purchase-hubs-and-hacks/"><u>[Updated] The Ultimate List of Tamil Ringtones Purchase Hubs & Hacks</u></a></li>
-<li><a href="https://win-web.techidaily.com/1-creation-facile-dune-clone-de-cartouche-sd-a-partir-du-plus-efficace-utilitaire-libre-pour-windows/"><u>1. Création Facile D'une Clone De Cartouche SD À Partir Du Plus Efficace Utilitaire Libre Pour Windows</u></a></li>
-<li><a href="https://win-web.techidaily.com/can-changing-format-delete-old-files-stored-on-an-sd-memory-card/"><u>Can Changing Format Delete Old Files Stored on an SD Memory Card?</u></a></li>
-<li><a href="https://win-web.techidaily.com/ccleaner-googleseo/"><u>CCleanerで消去されたファイルの回復方法 - Google検索向けSEOタイトル</u></a></li>
-<li><a href="https://win-web.techidaily.com/comparing-vmware-esxi-and-openstack-unveiling-key-distinctions/"><u>Comparing VMware ESXi and OpenStack: Unveiling Key Distinctions</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/complete-guide-on-unlocking-iphone-15-pro-with-a-broken-screen-by-drfone-ios/"><u>Complete Guide on Unlocking iPhone 15 Pro with a Broken Screen?</u></a></li>
-<li><a href="https://win-web.techidaily.com/effortless-iphone-data-removal-tool-complete-icloud-cleanup-at-no-cost/"><u>Effortless iPhone Data Removal Tool - Complete iCloud Cleanup at No Cost</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-expand-your-playnite-digital-library-on-windows-pcs/"><u>How to Expand Your Playnite Digital Library on Windows PCs</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-unsupported-command-messages-on-computer-displays/"><u>How to Fix ‘Unsupported Command’ Messages on Computer Displays</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-do-you-get-sun-stone-evolutions-in-pokemon-for-motorola-edge-40-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How Do You Get Sun Stone Evolutions in Pokémon For Motorola Edge 40 Pro? | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-ispoofer-on-tecno-spark-10c-drfone-by-drfone-virtual-android/"><u>In 2024, How to use iSpoofer on Tecno Spark 10C? | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/step-by-step-guide-to-infectious-internet-memes-gifs-for-2024/"><u>Step-by-Step Guide to Infectious Internet Memes (GIFs) for 2024</u></a></li>
-<li><a href="https://win-web.techidaily.com/strategie-efficaci-di-protezione-dati-back-up-incrementali-versus-differenziali-spiegati/"><u>Strategie Efficaci Di Protezione Dati: Back-Up Incrementali versus Differenziali Spiegati</u></a></li>
-<li><a href="https://win-web.techidaily.com/understanding-quick-vs-full-disk-formatting-key-distinctions-explained/"><u>Understanding Quick Vs. Full Disk Formatting: Key Distinctions Explained</u></a></li>
-<li><a href="https://win-web.techidaily.com/windowsusb/"><u>WindowsコマンドラインでUSBデバイス上の非表示ファイル閲覧ガイド</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-excellence-in-hd-conversion-elevate-your-views-for-2024/"><u>[Updated] Excellence in HD Conversion Elevate Your Views for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-from-passive-to-profitable-youtube-revenue-techniques/"><u>[Updated] From Passive to Profitable YouTube Revenue Techniques</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-guide-to-ios-screen-recording-essentials-for-2024/"><u>[Updated] Guide to iOS Screen Recording Essentials for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/essential-fixes-for-6-common-gpt-flaws/"><u>Essential Fixes for 6 Common GPT Flaws</u></a></li>
+<li><a href="https://win-web.techidaily.com/exclusive-offer-for-our-subscribers-upgrade-to-karaoke-cloud-pro-and-unlock-plus20-songs-each-weekly-playlist/"><u>Exclusive Offer for Our Subscribers! Upgrade to Karaoke Cloud Pro & Unlock +20 Songs Each Weekly Playlist.</u></a></li>
+<li><a href="https://win-web.techidaily.com/from-beatport-to-tidal-x-dex-3-dj-software-how-to-effortlessly-import-your-digital-sound-collection/"><u>From Beatport to Tidal X DEX 3 DJ Software: How to Effortlessly Import Your Digital Sound Collection</u></a></li>
+<li><a href="https://win-web.techidaily.com/guide-to-relocating-files-expert-tips-from-yl-computings-yl-software/"><u>Guide to Relocating Files: Expert Tips From YL Computing's YL Software</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/high-speed-sd-accessory-for-sony-a7c-model/"><u>High-Speed SD Accessory for Sony A7C Model</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/rustic-country-themed-wallpaper-collection-high-resolution-backgrounds-and-imagery-for-inspiration/"><u>Rustic Country-Themed Wallpaper Collection - High-Resolution Backgrounds & Imagery for Inspiration</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-understated-charm-of-android-13-embracing-simplicity-over-spectacle/"><u>The Understated Charm of Android 13: Embracing Simplicity Over Spectacle</u></a></li>
+<li><a href="https://win-web.techidaily.com/troubleshooting-guide-overcoming-connection-issues-with-wi-fi-networks-expert-tips-from-yl-computing/"><u>Troubleshooting Guide: Overcoming Connection Issues with Wi-Fi Networks - Expert Tips From YL Computing</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-how-to-add-video-and-audio-transition-between-scenesclips/"><u>Updated How to Add Video and Audio Transition Between Scenes/Clips</u></a></li>
+<li><a href="https://win-web.techidaily.com/verifying-your-laptops-cooling-system-efficiency-expert-tips-from-yl-computing/"><u>Verifying Your Laptop's Cooling System Efficiency - Expert Tips From YL Computing</u></a></li>
+<li><a href="https://win-web.techidaily.com/yl-software-explains-common-reasons-behind-your-pcs-freezes-and-how-to-fix-them/"><u>YL Software Explains: Common Reasons Behind Your PC's Freezes and How to Fix Them</u></a></li>
 </ul></div>
 
