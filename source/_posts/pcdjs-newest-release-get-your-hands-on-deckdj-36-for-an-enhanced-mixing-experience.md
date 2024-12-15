@@ -1,7 +1,7 @@
 ---
 title: "PCDJ's Newest Release: Get Your Hands on DeckDJ 3.6 for an Enhanced Mixing Experience!"
-date: 2024-12-05T09:15:28.186Z
-updated: 2024-12-08T18:53:00.923Z
+date: 2024-12-13T05:32:10.619Z
+updated: 2024-12-15T00:46:37.007Z
 tags:
   - product
 categories:
@@ -35,7 +35,7 @@ We’ve **swatted a few annoying bugs** as well, including a memory issue presen
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What’s New, Changed Or Fixed In DEX 3.6.0.1
@@ -62,7 +62,7 @@ We’ve **swatted a few annoying bugs** as well, including a memory issue presen
 _Have questions about DEX 3.6 **VDJ mixing software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -84,19 +84,16 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2016/05/dex36publicrelease-coverim
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/updated-excellence-in-hd-conversion-elevate-your-views-for-2024/"><u>[Updated] Excellence in HD Conversion Elevate Your Views for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-from-passive-to-profitable-youtube-revenue-techniques/"><u>[Updated] From Passive to Profitable YouTube Revenue Techniques</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-guide-to-ios-screen-recording-essentials-for-2024/"><u>[Updated] Guide to iOS Screen Recording Essentials for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/essential-fixes-for-6-common-gpt-flaws/"><u>Essential Fixes for 6 Common GPT Flaws</u></a></li>
-<li><a href="https://win-web.techidaily.com/exclusive-offer-for-our-subscribers-upgrade-to-karaoke-cloud-pro-and-unlock-plus20-songs-each-weekly-playlist/"><u>Exclusive Offer for Our Subscribers! Upgrade to Karaoke Cloud Pro & Unlock +20 Songs Each Weekly Playlist.</u></a></li>
-<li><a href="https://win-web.techidaily.com/from-beatport-to-tidal-x-dex-3-dj-software-how-to-effortlessly-import-your-digital-sound-collection/"><u>From Beatport to Tidal X DEX 3 DJ Software: How to Effortlessly Import Your Digital Sound Collection</u></a></li>
-<li><a href="https://win-web.techidaily.com/guide-to-relocating-files-expert-tips-from-yl-computings-yl-software/"><u>Guide to Relocating Files: Expert Tips From YL Computing's YL Software</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/high-speed-sd-accessory-for-sony-a7c-model/"><u>High-Speed SD Accessory for Sony A7C Model</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/rustic-country-themed-wallpaper-collection-high-resolution-backgrounds-and-imagery-for-inspiration/"><u>Rustic Country-Themed Wallpaper Collection - High-Resolution Backgrounds & Imagery for Inspiration</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-understated-charm-of-android-13-embracing-simplicity-over-spectacle/"><u>The Understated Charm of Android 13: Embracing Simplicity Over Spectacle</u></a></li>
-<li><a href="https://win-web.techidaily.com/troubleshooting-guide-overcoming-connection-issues-with-wi-fi-networks-expert-tips-from-yl-computing/"><u>Troubleshooting Guide: Overcoming Connection Issues with Wi-Fi Networks - Expert Tips From YL Computing</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-how-to-add-video-and-audio-transition-between-scenesclips/"><u>Updated How to Add Video and Audio Transition Between Scenes/Clips</u></a></li>
-<li><a href="https://win-web.techidaily.com/verifying-your-laptops-cooling-system-efficiency-expert-tips-from-yl-computing/"><u>Verifying Your Laptop's Cooling System Efficiency - Expert Tips From YL Computing</u></a></li>
-<li><a href="https://win-web.techidaily.com/yl-software-explains-common-reasons-behind-your-pcs-freezes-and-how-to-fix-them/"><u>YL Software Explains: Common Reasons Behind Your PC's Freezes and How to Fix Them</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-boost-your-instagram-presence-optimal-tracking-tools-revealed/"><u>[New] 2024 Approved Boost Your Instagram Presence Optimal Tracking Tools Revealed</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-10-premier-vimeo-extraction-programs-reviewed/"><u>[Updated] In 2024, 10 Premier Vimeo Extraction Programs Reviewed</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-premium-rate-free-discovering-the-elite-10-luts/"><u>2024 Approved Premium-Rate Free Discovering the Elite 10 LUTs</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-top-free-video-recorders-including-apowersoft/"><u>2024 Approved Top Free Video Recorders, Including Apowersoft</u></a></li>
+<li><a href="https://win-web.techidaily.com/boost-your-computers-efficiency-with-expert-advice-by-yl-software/"><u>Boost Your Computer's Efficiency with Expert Advice by YL Software</u></a></li>
+<li><a href="https://win-web.techidaily.com/enhancing-system-speed-and-stability-with-yl-software-strategies/"><u>Enhancing System Speed and Stability with YL Software Strategies</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-honor-play-8t-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Honor Play 8T – What Can I Do? | Dr.fone</u></a></li>
+<li><a href="https://win-web.techidaily.com/solving-display-driver-problems-a-comprehensive-guide-by-yl-software/"><u>Solving Display Driver Problems: A Comprehensive Guide by YL Software</u></a></li>
+<li><a href="https://win-web.techidaily.com/understanding-the-issues-diagnosing-non-responsive-keyboards-insights-from-yl-computing/"><u>Understanding the Issues: Diagnosing Non-Responsive Keyboards - Insights From YL Computing</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlock-your-itel-a60ss-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>Unlock Your Itel A60ss Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/updated-essential-tools-for-creating-dynamic-talking-avatars/"><u>Updated Essential Tools for Creating Dynamic Talking Avatars</u></a></li>
 </ul></div>
 

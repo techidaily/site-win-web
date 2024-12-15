@@ -1,7 +1,7 @@
 ---
 title: "Pro Mixing Secrets on Pioneer Touch XTENTED 3: Harnessing DEX Search Tools for Optimal Performance"
-date: 2024-12-03T04:56:57.095Z
-updated: 2024-12-09T09:08:36.924Z
+date: 2024-12-11T00:52:04.566Z
+updated: 2024-12-14T18:29:57.433Z
 tags:
   - product
 categories:
@@ -33,7 +33,7 @@ eg. if you want to search all Dance songs with bpm 128 from the 90’s in key 10
 **Here’s a video tutorial showcasing the new search options in PCDJ DEX 3.2 DJ software:**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -55,22 +55,22 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2015/01/dex32searchtips-coverimage
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-finding-the-perfect-video-dimensions-on-facebook/"><u>[New] In 2024, Finding the Perfect Video Dimensions on Facebook</u></a></li>
-<li><a href="https://win-web.techidaily.com/1-complete-guide-eliminating-malware-from-your-pc-with-yls-expert-tips/"><u>1. Complete Guide: Eliminating Malware From Your PC with YL's Expert Tips</u></a></li>
-<li><a href="https://extra-information.techidaily.com/crafting-spectacular-time-lapses-from-gopro-hdrs/"><u>Crafting Spectacular Time Lapses From GoPro HDRs</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-from-nubia-z50s-pro-by-drfone-android/"><u>How to Bypass FRP from Nubia Z50S Pro?</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-from-honor-magic-5-pro-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Honor Magic 5 Pro Devices</u></a></li>
-<li><a href="https://win-web.techidaily.com/identifying-and-correcting-bad-audio-performance-the-role-of-sound-configuration-in-quality-degradation-by-yl-software/"><u>Identifying and Correcting Bad Audio Performance: The Role of Sound Configuration in Quality Degradation by YL Software</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/in-depth-analysis-exploring-the-features-and-capabilities-of-the-latest-galaxy-s24-ultra-from-samsung/"><u>In-Depth Analysis: Exploring the Features and Capabilities of the Latest Galaxy S24 Ultra From Samsung</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/maximizing-performance-how-hyper-revolutionizes-laptops-with-advanced-hubs-docks-and-ssd-enclosures-zdnets-expert-take/"><u>Maximizing Performance: How Hyper Revolutionizes Laptops with Advanced Hubs, Docks, and SSD Enclosures – ZDNET's Expert Take</u></a></li>
-<li><a href="https://win-web.techidaily.com/multitask-across-world-times-a-guide-to-setting-up-multiple-zones-on-your-pcs-system-clock-insights-from-yl-computing-experts/"><u>Multitask Across World Times: A Guide to Setting Up Multiple Zones on Your PC's System Clock - Insights From YL Computing Experts</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcoming-connectivity-hurdles-spotify-and-windows-11/"><u>Overcoming Connectivity Hurdles: Spotify & Windows 11</u></a></li>
-<li><a href="https://win-web.techidaily.com/professional-skyline-r34-hd-wallpaper-collection-crisp-detailed-graphics-from-yl-software-solutions/"><u>Professional Skyline R34 HD Wallpaper Collection - Crisp, Detailed Graphics From YL Software Solutions</u></a></li>
-<li><a href="https://win-web.techidaily.com/setting-up-your-screen-configuration-a-guide-by-yl-computing/"><u>Setting Up Your Screen Configuration: A Guide by YL Computing</u></a></li>
-<li><a href="https://win-web.techidaily.com/solve-common-print-and-scan-hiccups-with-yl-computing-discover-top-tips-in-our-yl-software-guide/"><u>Solve Common Print & Scan Hiccups with YL Computing - Discover Top Tips in Our YL Software Guide!</u></a></li>
-<li><a href="https://win-web.techidaily.com/solving-windows-control-panel-issues-a-comprehensive-guide-by-yl-computing/"><u>Solving Windows Control Panel Issues: A Comprehensive Guide by YL Computing</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/unlock-your-honor-play-40cs-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>Unlock Your Honor Play 40Cs Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
-<li><a href="https://win-web.techidaily.com/unveiling-the-steps-accurate-hardware-problem-identification-guided-by-yl-tech-experts/"><u>Unveiling the Steps: Accurate Hardware Problem Identification - Guided by YL Tech Experts</u></a></li>
-<li><a href="https://meme-emoji.techidaily.com/updated-is-this-a-pigeon-meme-generator-for-2024/"><u>Updated Is This a Pigeon Meme Generator for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-revive-your-missing-iphone-x-crucial-tips-revealed/"><u>[New] 2024 Approved Revive Your Missing iPhone X Crucial Tips Revealed</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-discovering-your-lately-watched-fb-movies-made-simple/"><u>[New] Discovering Your Lately Watched Fb Movies Made Simple</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-elevate-your-gaming-yt-presence-a-hashtag-focused-manual/"><u>[New] Elevate Your Gaming YT Presence A Hashtag-Focused Manual</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-a-seamless-journey-from-blurred-borders-to-sharp-focus/"><u>[Updated] In 2024, A Seamless Journey From Blurred Borders to Sharp Focus</u></a></li>
+<li><a href="https://win-web.techidaily.com/1-tailoring-audio-preferences-on-your-pc-a-step-by-step-guide-with-windows-control-panel-explore-options-at-xyz-tech-solutions/"><u>1. Tailoring Audio Preferences on Your PC: A Step-by-Step Guide with Windows Control Panel - Explore Options at XYZ Tech Solutions</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-asus-rog-phone-8-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Asus ROG Phone 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/expert-evaluation-top-performance-testing-of-the-evga-supernova-750-watt-psu/"><u>Expert Evaluation: Top-Performance Testing of the Evga Supernova 750 Watt PSU</u></a></li>
+<li><a href="https://win-web.techidaily.com/exploring-the-objectives-of-mao-zedongs-great-leap-forward-campaign-in-chinese-history/"><u>Exploring the Objectives of Mao Zedong’s Great Leap Forward Campaign in Chinese History</u></a></li>
+<li><a href="https://win-web.techidaily.com/how-to-fix-undetected-hardware-components-in-your-computer-system-expert-advice-from-yl-computing-solutions/"><u>How to Fix Undetected Hardware Components in Your Computer System – Expert Advice From YL Computing Solutions</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-pictures-from-motorola-moto-g24-by-fonelab-android-recover-pictures/"><u>How to Rescue Lost Pictures from Motorola Moto G24?</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-icloud-activation-lock-and-icloud-account-on-apple-iphone-14-pro-max-by-drfone-ios/"><u>In 2024, How to Unlock iCloud Activation Lock and iCloud Account On Apple iPhone 14 Pro Max?</u></a></li>
+<li><a href="https://win-web.techidaily.com/maximizing-thermal-management-effective-techniques-for-better-heat-dissipation-by-yl-software-experts/"><u>Maximizing Thermal Management: Effective Techniques for Better Heat Dissipation by YL Software Experts</u></a></li>
+<li><a href="https://win-web.techidaily.com/solving-blue-screen-dilemmas-in-seconds-expert-advice-from-yl-software-team/"><u>Solving Blue Screen Dilemmas in Seconds - Expert Advice From YL Software Team</u></a></li>
+<li><a href="https://win-web.techidaily.com/understanding-crypto-wallets-an-in-depth-guide-by-yl-computing/"><u>Understanding Crypto Wallets: An In-Depth Guide by YL Computing</u></a></li>
+<li><a href="https://win-web.techidaily.com/understanding-yl-computing-reasons-behind-receiving-an-obsolete-driver-notification-with-yl-software-solutions/"><u>Understanding YL Computing: Reasons Behind Receiving an 'Obsolete Driver' Notification with YL Software Solutions.</u></a></li>
+<li><a href="https://win-web.techidaily.com/unexpected-reboots-solved-identifying-the-culprits-behind-spontaneous-computer-restarts-insights-by-yl-software/"><u>Unexpected Reboots Solved: Identifying the Culprits Behind Spontaneous Computer Restarts - Insights by YL Software</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-realme-gt-5-pro-drfone-by-drfone-virtual-android/"><u>What is Fake GPS Location Pro and Is It Good On Realme GT 5 Pro? | Dr.fone</u></a></li>
 </ul></div>
 

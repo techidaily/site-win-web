@@ -1,7 +1,7 @@
 ---
 title: "Maximize Your DJ Skills: 5 Essential Techniques with DJ DEX on iPad | Learn From Pros"
-date: 2024-12-04T07:24:24.114Z
-updated: 2024-12-08T18:56:52.292Z
+date: 2024-12-11T16:03:14.544Z
+updated: 2024-12-14T20:27:36.226Z
 tags:
   - product
 categories:
@@ -21,7 +21,7 @@ The much anticipated V2 of [DJ DEX is now available in the App Store](https://it
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5 Tips for Getting the Most out of DJ DEX
@@ -55,13 +55,13 @@ DJ DEX doesn’t work with cloud-stored files (yet). So be sure to open up the m
 [![DJ DEX app platters](https://i2.wp.com/pcdj.com/wp-content/uploads/2018/05/IMG_0192.png?resize=495%2C400&ssl=1 "DJ DEX app platters")![DJ DEX app platters](https://i2.wp.com/pcdj.com/wp-content/uploads/2018/05/IMG_0192.png?resize=495%2C400&ssl=1 "DJ DEX app platters")](https://i2.wp.com/pcdj.com/wp-content/uploads/2018/05/IMG%5F0192.png?fit=1030%2C773&ssl=1 "Platter Display Mode")[![DJ DEX app eq](https://i1.wp.com/pcdj.com/wp-content/uploads/2018/05/IMG_0195.png?resize=495%2C400&ssl=1 "DJ DEX app eq")![DJ DEX app eq](https://i1.wp.com/pcdj.com/wp-content/uploads/2018/05/IMG_0195.png?resize=495%2C400&ssl=1 "DJ DEX app eq")](https://i1.wp.com/pcdj.com/wp-content/uploads/2018/05/IMG%5F0195.png?fit=1030%2C773&ssl=1 "Equalizer")[![DJ DEX app effects](https://i2.wp.com/pcdj.com/wp-content/uploads/2018/05/IMG_0194.png?resize=495%2C400&ssl=1 "DJ DEX app effects")![DJ DEX app effects](https://i2.wp.com/pcdj.com/wp-content/uploads/2018/05/IMG_0194.png?resize=495%2C400&ssl=1 "DJ DEX app effects")](https://i2.wp.com/pcdj.com/wp-content/uploads/2018/05/IMG%5F0194.png?fit=1030%2C773&ssl=1 "X/Y Effects Pads")[![DJ DEX app horizontal waveforms](https://i0.wp.com/pcdj.com/wp-content/uploads/2018/05/IMG_0193.png?resize=495%2C400&ssl=1 "DJ DEX app horizontal waveforms")![DJ DEX app horizontal waveforms](https://i0.wp.com/pcdj.com/wp-content/uploads/2018/05/IMG_0193.png?resize=495%2C400&ssl=1 "DJ DEX app horizontal waveforms")](https://i0.wp.com/pcdj.com/wp-content/uploads/2018/05/IMG%5F0193.png?fit=1030%2C773&ssl=1 "Horizontal Waveform Mode")[![DJ DEX app loops](https://i2.wp.com/pcdj.com/wp-content/uploads/2018/05/IMG_0196.png?resize=495%2C400&ssl=1 "DJ DEX app loops")![DJ DEX app loops](https://i2.wp.com/pcdj.com/wp-content/uploads/2018/05/IMG_0196.png?resize=495%2C400&ssl=1 "DJ DEX app loops")](https://i2.wp.com/pcdj.com/wp-content/uploads/2018/05/IMG%5F0196.png?fit=1030%2C773&ssl=1 "Looping Controls")[![DJ DEX App hot cues](https://i0.wp.com/pcdj.com/wp-content/uploads/2018/05/IMG_0197.png?resize=495%2C400&ssl=1 "DJ DEX App hot cues")![DJ DEX App hot cues](https://i0.wp.com/pcdj.com/wp-content/uploads/2018/05/IMG_0197.png?resize=495%2C400&ssl=1 "DJ DEX App hot cues")](https://i0.wp.com/pcdj.com/wp-content/uploads/2018/05/IMG%5F0197.png?fit=1030%2C773&ssl=1 "Hot Cues")[![DJ DEX App Settings](https://i0.wp.com/pcdj.com/wp-content/uploads/2018/05/IMG_0198.png?resize=495%2C400&ssl=1 "DJ DEX App Settings")![DJ DEX App Settings](https://i0.wp.com/pcdj.com/wp-content/uploads/2018/05/IMG_0198.png?resize=495%2C400&ssl=1 "DJ DEX App Settings")](https://i0.wp.com/pcdj.com/wp-content/uploads/2018/05/IMG%5F0198.png?fit=1030%2C773&ssl=1 "Preferences")[![DJ DEX app splash screen](https://i2.wp.com/pcdj.com/wp-content/uploads/2018/05/IMG_0199.png?resize=495%2C400&ssl=1 "DJ DEX app splash screen")![DJ DEX app splash screen](https://i2.wp.com/pcdj.com/wp-content/uploads/2018/05/IMG_0199.png?resize=495%2C400&ssl=1 "DJ DEX app splash screen")](https://i2.wp.com/pcdj.com/wp-content/uploads/2018/05/IMG%5F0199.png?fit=1030%2C773&ssl=1 "Loading/Splash Screen")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 _Have questions about the DJ DEX **iPad DJ app**? Leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -83,20 +83,21 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2018/05/djdex-tips-update.jpg?fit=
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-exploring-new-design-dimensions-integrating-typesetting-into-ae/"><u>[New] 2024 Approved Exploring New Design Dimensions Integrating Typesetting Into AE</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-beginners-guide-to-solo-youtube-broadcasting-from-yourphone/"><u>[Updated] Beginner's Guide to Solo YouTube Broadcasting From Yourphone</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-transforming-igtv-with-multi-language-captioning/"><u>[Updated] In 2024, Transforming IGTV with Multi-Language Captioning</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-soaring-above-limits-hubsans-new-h501s-x4-examined-for-2024/"><u>[Updated] Soaring Above Limits Hubsan's New H501S X4 Examined for 2024</u></a></li>
-<li><a href="https://win-web.techidaily.com/1-steps-to-turn-off-auto-updating-on-your-windows-pc-tips-by-yl-software/"><u>1. Steps to Turn Off Auto-Updating on Your Windows PC - Tips by YL Software</u></a></li>
-<li><a href="https://win-guides.techidaily.com/convert-and-download-top-rated-films-in-hd-as-mp4-mov-or-avi-compatible-with-both-macos-and-windows/"><u>Convert & Download Top-Rated Films in HD as MP4, MOV or AVI - Compatible with Both macOS and Windows</u></a></li>
-<li><a href="https://win-web.techidaily.com/experience-unlimited-vocal-enjoyment-explore-sparkling-tracks-ready-to-sing-on-karaoke-cloud-pro-with-pcdj/"><u>Experience Unlimited Vocal Enjoyment: Explore Sparkling Tracks Ready-to-Sing on Karaoke Cloud Pro with PCDJ</u></a></li>
-<li><a href="https://video-capture.techidaily.com/innovative-game-recording-on-modern-win10-systems-for-2024/"><u>Innovative Game Recording on Modern Win10 Systems for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/metaverse-journeys-top-10-films-that-bring-alien-worlds-to-life-for-2024/"><u>Metaverse Journeys Top 10 Films That Bring Alien Worlds to Life for 2024</u></a></li>
-<li><a href="https://win-web.techidaily.com/overcoming-compatibility-issues-between-older-pcs-and-new-applications-tips-from-yl-software-experts/"><u>Overcoming Compatibility Issues Between Older PCs and New Applications - Tips From YL Software Experts</u></a></li>
-<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-nubia-red-magic-9-proplus-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on Nubia Red Magic 9 Pro+ and Browser | Dr.fone</u></a></li>
-<li><a href="https://win-web.techidaily.com/solution-guide-for-no-internet-connection-issues-according-to-yl-software-experts/"><u>Solution Guide for No Internet Connection Issues, According to YL Software Experts</u></a></li>
-<li><a href="https://win-web.techidaily.com/tailoring-screen-settings-for-optimal-viewing-insights-from-yl-software-experts/"><u>Tailoring Screen Settings for Optimal Viewing: Insights From YL Software Experts</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/the-sound-of-success-tailoring-audio-for-instagram-content/"><u>The Sound of Success Tailoring Audio for Instagram Content</u></a></li>
-<li><a href="https://win-web.techidaily.com/troubleshooting-guide-identifying-the-reasons-why-your-cddvd-drive-wont-function/"><u>Troubleshooting Guide: Identifying the Reasons Why Your CD/DVD Drive Won't Function</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-fullframe-alliance-how-to-choose-your-mcn-strategically/"><u>[New] 2024 Approved FullFrame Alliance How to Choose Your MCN Strategically</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/he-complete-angle-manipulation-handbook-for-youtube-videos/"><u>[New] The Complete Angle Manipulation Handbook for YouTube Videos</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-design-and-produce-your-fb-profile-vids/"><u>[Updated] 2024 Approved Design and Produce Your FB Profile Vids</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-how-to-maintain-youtube-session-in-the-background/"><u>[Updated] 2024 Approved How to Maintain YouTube Session in the Background</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-zooms-finest-audio-to-text-solutions-complimentary-and-subscriptions/"><u>[Updated] 2024 Approved Zoom's Finest Audio-to-Text Solutions Complimentary & Subscriptions</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-novices-guide-to-hassle-free-nft-generation/"><u>[Updated] Novice's Guide to Hassle-Free NFT Generation</u></a></li>
+<li><a href="https://win-web.techidaily.com/yl-software/"><u>武则天的礼仪装饰元素和意义：YL Software深度探究</u></a></li>
+<li><a href="https://win-web.techidaily.com/comprehensive-tutorial-by-yl-software-the-ultimate-strategy-for-buying-and-selling-digital-coins/"><u>Comprehensive Tutorial by YL Software: The Ultimate Strategy for Buying and Selling Digital Coins</u></a></li>
+<li><a href="https://win-web.techidaily.com/easy-steps-for-zipping-files-with-yl-computings-windows-10-tutorial/"><u>Easy Steps for Zipping Files with YL Computing's Windows 10 Tutorial</u></a></li>
+<li><a href="https://win-web.techidaily.com/efficiently-configure-power-settings-in-windows-os-with-our-expert-yl-guides/"><u>Efficiently Configure Power Settings in Windows OS with Our Expert YL Guides</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-unlock-icloud-activation-lock-and-icloud-account-from-iphone-15-plus-by-drfone-ios/"><u>How to Unlock iCloud Activation Lock and iCloud Account From iPhone 15 Plus?</u></a></li>
+<li><a href="https://win-web.techidaily.com/identifying-and-fixing-non-recognition-issues-in-your-systems-hardware-insights-from-yl-software-experts/"><u>Identifying & Fixing Non-Recognition Issues in Your System's Hardware: Insights From YL Software Experts</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/leading-window-11-slide-creators-discover-the-ultimate-list-of-2024s-best-software-solutions/"><u>Leading Window 11 Slide Creators: Discover the Ultimate List of 2024'S Best Software Solutions</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/lg-um7300-49-inch-television-analysis-the-essential-cost-effective-4k-tv-choice/"><u>LG UM7300 49-Inch Television Analysis: The Essential Cost-Effective 4K TV Choice</u></a></li>
+<li><a href="https://win-web.techidaily.com/step-by-step-guide-to-opening-the-windows-control-panel-folder-tips-from-yl-computing/"><u>Step-by-Step Guide to Opening the Windows Control Panel Folder - Tips From YL Computing</u></a></li>
+<li><a href="https://win-web.techidaily.com/step-by-step-guide-switching-your-desktop-wallpaper-with-ease-tips-from-yl-computing/"><u>Step-by-Step Guide: Switching Your Desktop Wallpaper with Ease - Tips From YL Computing</u></a></li>
 </ul></div>
 
