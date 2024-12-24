@@ -1,7 +1,7 @@
 ---
 title: Get Your Hands on the DX 3.8 Release Candidate! Premier DJ Software Now Available – First Look Inside!
-date: 2024-12-08T09:35:59.640Z
-updated: 2024-12-15T09:01:02.423Z
+date: 2024-12-17T00:37:17.584Z
+updated: 2024-12-23T21:46:17.364Z
 tags:
   - product
 categories:
@@ -31,7 +31,7 @@ Be sure to test drive the new ‘_always in sync_‘ beat-lock engine and all ot
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Here’s What’s New, Changed And Fixed In DEX 3.8 RC2 (Since Monday’s Release)
@@ -49,7 +49,7 @@ Be sure to test drive the new ‘_always in sync_‘ beat-lock engine and all ot
 _In the event you wish to roll back to the prior 3.7.5.1 release of DEX 3 you can find it on the [DEX 3 support page here](https://tools.techidaily.com/pcdj/products/)._ 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### DEX 3.8 | NEW FEATURES OVERVIEW
@@ -57,7 +57,7 @@ _In the event you wish to roll back to the prior 3.7.5.1 release of DEX 3 you ca
 _Have questions about our **best DJ mixing software**, DEX 3.8? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -79,20 +79,17 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2017/05/downloaddex3rc2-coverimage
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-guide-to-building-massive-memes/"><u>[New] 2024 Approved Guide to Building Massive Memes</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-top-5-pro-level-photovideo-creators-with-soundtracks/"><u>[New] Top 5 Pro-Level Photo/Video Creators with Soundtracks</u></a></li>
-<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-oppo-a78-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Oppo A78 5G | Dr.fone</u></a></li>
-<li><a href="https://win-web.techidaily.com/boost-computer-efficiency-a-guide-to-disabling-unused-windows-services-with-yl-computings-help/"><u>Boost Computer Efficiency: A Guide to Disabling Unused Windows Services with YL Computing's Help</u></a></li>
-<li><a href="https://win-web.techidaily.com/detecting-hardware-malfunctions-a-comprehensive-guide-by-yl-computing/"><u>Detecting Hardware Malfunctions: A Comprehensive Guide by YL Computing</u></a></li>
-<li><a href="https://windows11.techidaily.com/easy-steps-to-activatedeactivate-secure-boot-and-tpm-in-virtualbox/"><u>Easy Steps to Activate/Deactivate Secure Boot & TPM in VirtualBox</u></a></li>
-<li><a href="https://win-web.techidaily.com/efficiently-remove-unwanted-data-in-windows-with-step-by-step-instructions-by-yl-software-professionals/"><u>Efficiently Remove Unwanted Data in Windows with Step-by-Step Instructions by YL Software Professionals</u></a></li>
-<li><a href="https://win-web.techidaily.com/efficiently-resolving-windows-memory-problems-a-step-by-step-guide-by-yl-computing/"><u>Efficiently Resolving Windows Memory Problems: A Step-by-Step Guide by YL Computing</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-the-issue-32-bit-application-faces-critical-error-print-driver-host-not-responding/"><u>Fixing the Issue: 32-Bit Application Faces Critical Error - Print Driver Host Not Responding</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-filmmaking-made-simple-a-smartphone-guide-to-youtube-thumbnails/"><u>In 2024, Filmmaking Made Simple A Smartphone Guide to YouTube Thumbnails</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-stream-like-a-champion-youtubes-ultimate-techniques/"><u>In 2024, Stream Like a Champion YouTube's Ultimate Techniques</u></a></li>
-<li><a href="https://win-web.techidaily.com/personalizing-your-computer-screen-a-comprehensive-guide-by-yl-software/"><u>Personalizing Your Computer Screen: A Comprehensive Guide by YL Software</u></a></li>
-<li><a href="https://win-web.techidaily.com/resolving-scan-issues-troubleshooting-your-scanners-incompatibility-with-specific-systems-expert-insights-from-yl-computing/"><u>Resolving Scan Issues: Troubleshooting Your Scanner's Incompatibility with Specific Systems - Expert Insights From YL Computing</u></a></li>
-<li><a href="https://program-issues.techidaily.com/stop-fifa-20-from-crashing-on-your-computer-full-step-by-step-troubleshooting-tutorial/"><u>Stop FIFA 20 From Crashing on Your Computer - Full Step-by-Step Troubleshooting Tutorial</u></a></li>
-<li><a href="https://win-web.techidaily.com/ultimate-guide-enhancing-speed-and-efficiency-in-windows-11-tips-from-yl-computing-experts/"><u>Ultimate Guide: Enhancing Speed & Efficiency in Windows 11 - Tips From YL Computing Experts</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-nintendo-switch-pugilists-the-ultimate-10-game-guidebook-for-2024/"><u>[New] Nintendo Switch Pugilists The Ultimate 10-Game Guidebook for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-in-search-of-quality-identifying-the-top-5-virtual-title-designers/"><u>[Updated] 2024 Approved In Search of Quality Identifying the Top 5 Virtual Title Designers</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-top-5-multimedia-sensation-apps-iphoneandroid-showdown/"><u>[Updated] 2024 Approved Top 5 Multimedia Sensation Apps IPhone/Android Showdown</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-ideal-gopro-filmmakers-choice-tools-for-2024/"><u>[Updated] Ideal GoPro Filmmakers' Choice Tools for 2024</u></a></li>
+<li><a href="https://win-web.techidaily.com/boost-your-apps-velocity-top-tips-from-yl-computing-on-enhancing-software-efficiency/"><u>Boost Your App's Velocity: Top Tips From YL Computing on Enhancing Software Efficiency</u></a></li>
+<li><a href="https://win-web.techidaily.com/dynamic-hit-monkey-visuals-high-quality-imagery-and-desktop-pictures-yl-digital-art/"><u>Dynamic Hit-Monkey Visuals: High-Quality Imagery & Desktop Pictures - YL Digital Art</u></a></li>
+<li><a href="https://win-web.techidaily.com/expert-tips-for-efficiently-handling-user-profiles-in-your-organization-with-yl-software-solutions/"><u>Expert Tips for Efficiently Handling User Profiles in Your Organization with YL Software Solutions</u></a></li>
+<li><a href="https://extra-information.techidaily.com/from-joke-to-share-perfecting-the-meme-process/"><u>From Joke to Share Perfecting the Meme Process</u></a></li>
+<li><a href="https://win-web.techidaily.com/how-does-the-windows-security-suite-enhance-safety-with-its-built-in-firewall-feature-insights-by-yl-tech/"><u>How Does the Windows Security Suite Enhance Safety with Its Built-In Firewall Feature? – Insights by YL Tech</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-firmware-and-drivers-for-logitech-mk710-secure-your-free-download-today/"><u>Latest Firmware & Drivers for Logitech MK710: Secure Your Free Download Today!</u></a></li>
+<li><a href="https://win-web.techidaily.com/step-by-step-guide-turning-onoff-secure-boot-feature-on-your-pc-with-windows-11-tips-from-yl-computing/"><u>Step-by-Step Guide: Turning On/Off Secure Boot Feature on Your PC with Windows 11 - Tips From YL Computing</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-why-is-my-discord-camera-not-responding/"><u>Troubleshooting Tips: Why Is My Discord Camera Not Responding?</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Announcing the Launch of DEX Version 3.11.0.1: Latest Update in PCDJ DJ Software - Press Release"
-date: 2024-12-08T19:33:17.513Z
-updated: 2024-12-15T00:36:37.269Z
+date: 2024-12-18T00:48:14.512Z
+updated: 2024-12-23T21:49:28.291Z
 tags:
   - product
 categories:
@@ -21,7 +21,7 @@ thumbnail: https://thmb.techidaily.com/3631238ca7c06e0c64e4d00a9d13c9e8220b196fb
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## DJ Software and Karaoke Software designers Digital 1 Audio have raised the bar for Disc Jockey’s and venues with their DEX 3.11 all-in-one entertainment software update.
@@ -80,7 +80,7 @@ SYSTEM REQUIREMENTS: MAC
 Since 1999, Digital 1 Audio/PCDJ has been recognized as a leading developer and manufacturer of DJ and Karaoke live performance software. More than 80,000 professional DJs around the world now spin with their computer using one of company’s entertainment products.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### DEX 3.11 Overview Videos
@@ -88,7 +88,7 @@ Since 1999, Digital 1 Audio/PCDJ has been recognized as a leading developer and 
 New Features
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -110,24 +110,22 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2018/07/dex3-press-release.jpg?fit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-streamlining-earnings-with-youtube-studio-techniques/"><u>[New] In 2024, Streamlining Earnings with Youtube Studio Techniques</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-mastering-audio-on-windows-best-8-podcast-applications-unveiled/"><u>[New] Mastering Audio on Windows Best 8 Podcast Applications Unveiled</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-zippyzoom-echoframe-capture/"><u>2024 Approved ZippyZoom EchoFrame Capture</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/alert-newly-uncovered-security-flaw-in-google-chrome-demands-prompt-patching-action/"><u>Alert: Newly Uncovered Security Flaw in Google Chrome Demands Prompt Patching Action!</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/boost-your-laptops-speed-and-efficiency-with-expert-settings-adjustments-by-yl-software/"><u>Boost Your Laptop's Speed and Efficiency with Expert Settings Adjustments by YL Software</u></a></li>
-<li><a href="https://howto.techidaily.com/bricked-your-zte-nubia-z60-ultra-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your ZTE Nubia Z60 Ultra? Heres A Full Solution | Dr.fone</u></a></li>
-<li><a href="https://win-web.techidaily.com/building-a-balanced-crypto-asset-allocation-with-expert-advice-from-yl-software/"><u>Building a Balanced Crypto Asset Allocation with Expert Advice From YL Software</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/experience-professional-sound-mixing-with-the-complimentary-m-audio-ultratrack-software/"><u>Experience Professional Sound Mixing with the Complimentary M-Audio UltraTrack Software</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/festplattensicherheit-mit-r-drive-erfahren-sie-uber-effektive-alternativmethoden-fur-ihr-datenabbildungsszenario/"><u>Festplattensicherheit Mit R-Drive - Erfahren Sie Über Effektive Alternativmethoden Für Ihr Datenabbildungsszenario!</u></a></li>
-<li><a href="https://win-web.techidaily.com/high-definition-duck-graphics-and-desktop-pictures-create-the-perfect-ambiance-with-yl-computing/"><u>High-Definition Duck Graphics & Desktop Pictures - Create the Perfect Ambiance with YL Computing</u></a></li>
-<li><a href="https://win-web.techidaily.com/how-to-customize-your-network-preferences-insights-from-yl-software-experts/"><u>How to Customize Your Network Preferences: Insights From YL Software Experts</u></a></li>
-<li><a href="https://win-web.techidaily.com/how-to-diagnose-issues-with-your-graphics-card-an-in-depth-guide-by-yl-software-professionals/"><u>How To Diagnose Issues With Your Graphics Card: An In-Depth Guide by YL Software Professionals</u></a></li>
-<li><a href="https://win-web.techidaily.com/how-to-prevent-bad-image-scanning-results-with-tips-from-yl-software-professionals/"><u>How To Prevent Bad Image Scanning Results With Tips From YL Software Professionals</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-oneplus-ace-2-pro-by-drfone-android/"><u>In 2024, 10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On OnePlus Ace 2 Pro</u></a></li>
-<li><a href="https://win-web.techidaily.com/mastering-security-optimal-approaches-to-scan-and-protect-with-windows-defender-by-experts-at-yl-software/"><u>Mastering Security: Optimal Approaches to Scan and Protect with Windows Defender by Experts at YL Software</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/the-ultimate-guide-to-mac-videos-for-snapchat-for-2024/"><u>The Ultimate Guide to Mac Videos for Snapchat for 2024</u></a></li>
-<li><a href="https://win-web.techidaily.com/this-weeks-top-50-tracks-spotlighted-on-karaoke-cloud-pro-v512-a-must-play-for-music-lovers/"><u>This Week's Top 50 Tracks Spotlighted on Karaoke Cloud Pro v5.12 - A Must-Play for Music Lovers!</u></a></li>
-<li><a href="https://win-web.techidaily.com/understanding-japans-strategic-goals-during-world-war-ii-an-in-depth-analysis-by-yl-computing/"><u>Understanding Japan's Strategic Goals During World War II: An In-Depth Analysis by YL Computing</u></a></li>
-<li><a href="https://win-web.techidaily.com/yearly-highlights-of-pcdj-a-comprehensive-look-back-at-2017/"><u>Yearly Highlights of PCDJ: A Comprehensive Look Back at 2017</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-win11s-best-videography-applications-explored-for-2024/"><u>[New] Win11's Best Videography Applications Explored for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-how-to-effortlessly-convert-spoken-language-into-written-content-using-microsoft-word/"><u>[Updated] 2024 Approved How to Effortlessly Convert Spoken Language Into Written Content Using Microsoft Word</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-vimeo-vs-youtube-differences-between-vimeo-and-youtube/"><u>2024 Approved Vimeo vs YouTube Differences Between Vimeo and YouTube</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/a-complete-guide-to-oem-unlocking-on-honor-magic-v2-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Honor Magic V2</u></a></li>
+<li><a href="https://win-web.techidaily.com/assessing-graphic-card-speed-on-your-laptop-a-guide-by-yl-software-experts/"><u>Assessing Graphic Card Speed on Your Laptop: A Guide by YL Software Experts</u></a></li>
+<li><a href="https://win-web.techidaily.com/audio-anomalies-detected-how-to-fix-when-your-sound-card-fails-to-emit-sound-expert-advice-from-yl-computing/"><u>Audio Anomalies Detected! How to Fix When Your Sound Card Fails to Emit Sound – Expert Advice From YL Computing</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209873704-9781945026553-bring-him-home/"><u>Bring Him Home | Free Book</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/download-now-top-20-premiere-pro-title-templates-for-2024/"><u>Download Now Top 20 Premiere Pro Title Templates for 2024</u></a></li>
+<li><a href="https://win-web.techidaily.com/download-stunning-lady-sylvanas-windrunner-visual-graphics-and-photo-collections-by-yl-software/"><u>Download Stunning Lady Sylvanas Windrunner Visual Graphics and Photo Collections by YL Software</u></a></li>
+<li><a href="https://win-web.techidaily.com/evolving-power-structures-tracing-the-influence-of-mao-zedongs-revolution-on-modern-chinese-governance/"><u>Evolving Power Structures: Tracing the Influence of Mao Zedong’s Revolution on Modern Chinese Governance</u></a></li>
+<li><a href="https://win-web.techidaily.com/exploring-extra-capabilities-unveiling-the-hidden-functions-of-microsofts-windows-defender-a-deep-dive-by-yl-computing/"><u>Exploring Extra Capabilities: Unveiling the Hidden Functions of Microsoft's Windows Defender - A Deep Dive by YL Computing</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/resolving-missing-haldll-issues-on-windows-xp-a-comprehensive-guide/"><u>Resolving 'Missing hal.dll' Issues on Windows XP: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-web.techidaily.com/reviving-your-dead-laptop-battery-or-charger-expert-advice-from-yl-computing/"><u>Reviving Your Dead Laptop Battery or Charger: Expert Advice From YL Computing</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-iphone-tethering-woes-expert-fixes-for-when-your-phone-hotspot-fails-you/"><u>Solving iPhone Tethering Woes: Expert Fixes for When Your Phone Hotspot Fails You</u></a></li>
+<li><a href="https://win-web.techidaily.com/step-by-step-guide-adding-new-users-in-windows-tips-from-yl-computing/"><u>Step-by-Step Guide: Adding New Users in Windows - Tips From YL Computing</u></a></li>
+<li><a href="https://win-web.techidaily.com/top-reasons-behind-gpu-malfunctions-insights-from-yl-computing/"><u>Top Reasons Behind GPU Malfunctions: Insights From YL Computing</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/ultimate-guide-to-catch-the-regional-located-pokemon-for-oppo-find-x7-ultra-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Catch the Regional-Located Pokemon For Oppo Find X7 Ultra | Dr.fone</u></a></li>
 </ul></div>
 

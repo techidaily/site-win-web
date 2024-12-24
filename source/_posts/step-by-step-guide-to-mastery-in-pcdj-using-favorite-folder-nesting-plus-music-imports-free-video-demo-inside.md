@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide to Mastery in PCDJ: Using Favorite Folder Nesting + Music Imports – Free Video Demo Inside!"
-date: 2024-12-11T03:29:43.696Z
-updated: 2024-12-15T10:02:03.963Z
+date: 2024-12-17T09:46:15.939Z
+updated: 2024-12-23T19:35:05.703Z
 tags:
   - product
 categories:
@@ -26,7 +26,7 @@ Using favorites has another major benefit in comparison to lists – they’re d
 #### VIDEO DEMONSTRATION OF NESTING FAVORITE FOLDERS IN PCDJ DEX 3 DJ SOFTWARE
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -48,22 +48,22 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2014/09/foldersfavorites-coverimag
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-how-to-screen-record-on-hp-laptop-best-4-ways-to-use/"><u>[New] 2024 Approved How to Screen Record on Hp Laptop? - Best 4 Ways to Use</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-core-skills-in-video-and-film-creation-for-2024/"><u>[New] Core Skills in Video and Film Creation for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-icy-inspirations-top-olympic-triumphs/"><u>[New] Icy Inspirations Top Olympic Triumphs</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-hitch-youtube-sounds-into-imovie-tracks-swiftly/"><u>[New] In 2024, Hitch YouTube Sounds Into iMovie Tracks Swiftly</u></a></li>
-<li><a href="https://win-web.techidaily.com/configuring-your-windows-mouse-and-touchpad-a-comprehensive-guide-by-yl-computing/"><u>Configuring Your Windows Mouse & Touchpad: A Comprehensive Guide by YL Computing</u></a></li>
-<li><a href="https://win-web.techidaily.com/expand-your-systems-potential-with-yl-software-learn-how-to-update-windows-registry-entries/"><u>Expand Your System's Potential with YL Software - Learn How to Update Windows Registry Entries</u></a></li>
-<li><a href="https://win-web.techidaily.com/how-can-i-fix-a-distorted-audio-output-on-my-pcs-sound-card-expert-advice-by-yl-computing/"><u>How Can I Fix a Distorted Audio Output on My PC's Sound Card? - Expert Advice by YL Computing</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-pause-life360-location-sharing-for-xiaomi-redmi-k70-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How To Pause Life360 Location Sharing For Xiaomi Redmi K70 Pro | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-leading-20-anime-theme-anthems/"><u>In 2024, Leading 20 Anime Theme Anthems</u></a></li>
-<li><a href="https://win-web.techidaily.com/master-resetting-windows-for-beginners-complete-reinstallation-techniques-by-yl-computing-experts/"><u>Master Resetting Windows for Beginners: Complete Reinstallation Techniques by YL Computing Experts</u></a></li>
-<li><a href="https://win-web.techidaily.com/stunning-digital-landscapes-for-your-pc-professional-hd-background-graphics-and-imagery-from-yl-computing/"><u>Stunning Digital Landscapes for Your PC: Professional HD Background Graphics and Imagery From YL Computing</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/swift-techniques-for-eliminating-old-gpt-dialogues/"><u>Swift Techniques for Eliminating Old GPT Dialogues</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/the-best-android-sim-unlock-code-generators-unlock-your-oppo-phone-hassle-free-by-drfone-android/"><u>The Best Android SIM Unlock Code Generators Unlock Your Oppo Phone Hassle-Free</u></a></li>
-<li><a href="https://win-web.techidaily.com/updating-your-windows-defender-threat-database-essential-tips-and-tricks-from-yl-software-solutions/"><u>Updating Your Windows Defender Threat Database: Essential Tips and Tricks From YL Software Solutions</u></a></li>
-<li><a href="https://win-web.techidaily.com/windows-11-wallpaper-personalization-a-step-by-step-guide-tips-by-techgenius/"><u>Windows 11 Wallpaper Personalization: A Step-by-Step Guide - Tips by TechGenius</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/wizards-whisper-are-voice-changer-apps-actual-magic-unveil-other-choices/"><u>Wizard's Whisper Are Voice Changer Apps Actual Magic? Unveil Other Choices</u></a></li>
-<li><a href="https://win-web.techidaily.com/yls-comprehensive-tutorial-on-how-to-print-your-text-files-using-simple-methods/"><u>YL's Comprehensive Tutorial on How To Print Your Text Files Using Simple Methods</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-perfecting-screen-magnification-techniques-on-ms-teams/"><u>[Updated] 2024 Approved Perfecting Screen Magnification Techniques on MS Teams</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-vimeo-simplified-platform-for-content-creators/"><u>[Updated] In 2024, Vimeo Simplified Platform for Content Creators</u></a></li>
+<li><a href="https://article-posts.techidaily.com/budget-friendly-4k-imaging-sources/"><u>Budget-Friendly 4K Imaging Sources</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/classic-stop-motion-animations-ranking-the-best-15-for-2024/"><u>Classic Stop-Motion Animations Ranking the Best 15 for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/english-clubs-shun-social-networking-initiate-platform-strike/"><u>English Clubs Shun Social Networking, Initiate Platform Strike</u></a></li>
+<li><a href="https://app-tips.techidaily.com/enhancing-password-manager-security-expert-tips-and-techniques-zdnet/"><u>Enhancing Password Manager Security: Expert Tips & Techniques [ZDNet]</u></a></li>
+<li><a href="https://win-web.techidaily.com/fukushima-cooling-water-release-sparks-protests-and-chinese-call-harassment-insights-by-yl-software/"><u>Fukushima Cooling Water Release Sparks Protests and Chinese Call Harassment – Insights by YL Software</u></a></li>
+<li><a href="https://win-web.techidaily.com/high-definition-bmw-x4-m-wallpaper-collection-and-desktop-imagery-inspired-by-yl-computings-design/"><u>High-Definition BMW X4 M Wallpaper Collection & Desktop Imagery - Inspired by YL Computing's Design</u></a></li>
+<li><a href="https://win-web.techidaily.com/join-the-conversation-leave-a-pcdj-review-and-help-others-decide/"><u>Join the Conversation – Leave a PCDJ Review & Help Others Decide!</u></a></li>
+<li><a href="https://win-web.techidaily.com/master-file-movements-step-by-step-instructions-for-shifting-data-within-windows-folders-expert-advice-from-yl-software-solutions/"><u>Master File Movements: Step-by-Step Instructions for Shifting Data Within Windows Folders – Expert Advice From YL Software Solutions</u></a></li>
+<li><a href="https://win-web.techidaily.com/mastering-system-settings-how-to-customize-your-language-and-region-in-the-control-panel-with-yl-software-expertise/"><u>Mastering System Settings: How to Customize Your Language and Region in the Control Panel with YL Software Expertise</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/quick-setup-software-package-hp-officejet-pro-8600-for-pcs/"><u>Quick Setup Software Package: HP OfficeJet Pro 8600 for PCs</u></a></li>
+<li><a href="https://win-web.techidaily.com/troubleshooting-network-connection-issues-with-your-scanner-insights-from-yl-computings-expertise/"><u>Troubleshooting Network Connection Issues with Your Scanner - Insights From YL Computing's Expertise</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-steps-for-missing-msodll-error-in-windows/"><u>Troubleshooting Steps for 'Missing mso.dll Error' In Windows</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/ultimate-guide-to-selecting-superior-dvd-copy-software-on-windows-1011-ensuring-seamless-playbacks-and-reliable-data-saving/"><u>Ultimate Guide to Selecting Superior DVD Copy Software on Windows 10/11: Ensuring Seamless Playbacks and Reliable Data Saving</u></a></li>
+<li><a href="https://win-web.techidaily.com/understanding-and-evaluating-windows-memory-usage-insights-from-yl-software-solutions/"><u>Understanding and Evaluating Windows Memory Usage: Insights From YL Software Solutions</u></a></li>
+<li><a href="https://win-web.techidaily.com/verifying-proper-ram-functionality-on-your-pc-tech-tips-by-yl-computing/"><u>Verifying Proper RAM Functionality on Your PC - Tech Tips by YL Computing</u></a></li>
 </ul></div>
 

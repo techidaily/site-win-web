@@ -1,7 +1,7 @@
 ---
 title: "PCDJ's Newest Release: Get Your Hands on DeckDJ 3.6 for an Enhanced Mixing Experience!"
-date: 2024-12-13T05:32:10.619Z
-updated: 2024-12-15T00:46:37.007Z
+date: 2024-12-16T18:16:14.272Z
+updated: 2024-12-23T22:18:11.639Z
 tags:
   - product
 categories:
@@ -35,7 +35,7 @@ We’ve **swatted a few annoying bugs** as well, including a memory issue presen
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What’s New, Changed Or Fixed In DEX 3.6.0.1
@@ -62,7 +62,7 @@ We’ve **swatted a few annoying bugs** as well, including a memory issue presen
 _Have questions about DEX 3.6 **VDJ mixing software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -84,16 +84,21 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2016/05/dex36publicrelease-coverim
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-boost-your-instagram-presence-optimal-tracking-tools-revealed/"><u>[New] 2024 Approved Boost Your Instagram Presence Optimal Tracking Tools Revealed</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-10-premier-vimeo-extraction-programs-reviewed/"><u>[Updated] In 2024, 10 Premier Vimeo Extraction Programs Reviewed</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-premium-rate-free-discovering-the-elite-10-luts/"><u>2024 Approved Premium-Rate Free Discovering the Elite 10 LUTs</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-top-free-video-recorders-including-apowersoft/"><u>2024 Approved Top Free Video Recorders, Including Apowersoft</u></a></li>
-<li><a href="https://win-web.techidaily.com/boost-your-computers-efficiency-with-expert-advice-by-yl-software/"><u>Boost Your Computer's Efficiency with Expert Advice by YL Software</u></a></li>
-<li><a href="https://win-web.techidaily.com/enhancing-system-speed-and-stability-with-yl-software-strategies/"><u>Enhancing System Speed and Stability with YL Software Strategies</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-honor-play-8t-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Honor Play 8T – What Can I Do? | Dr.fone</u></a></li>
-<li><a href="https://win-web.techidaily.com/solving-display-driver-problems-a-comprehensive-guide-by-yl-software/"><u>Solving Display Driver Problems: A Comprehensive Guide by YL Software</u></a></li>
-<li><a href="https://win-web.techidaily.com/understanding-the-issues-diagnosing-non-responsive-keyboards-insights-from-yl-computing/"><u>Understanding the Issues: Diagnosing Non-Responsive Keyboards - Insights From YL Computing</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/unlock-your-itel-a60ss-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>Unlock Your Itel A60ss Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
-<li><a href="https://ai-topics.techidaily.com/updated-essential-tools-for-creating-dynamic-talking-avatars/"><u>Updated Essential Tools for Creating Dynamic Talking Avatars</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/rom-vids-to-dollars-navigating-youtubes-monetization-landscape/"><u>[New] From Vids to Dollars Navigating YouTube's Monetization Landscape</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-no-license-plenty-of-melodies-top-10-online-websites/"><u>[Updated] 2024 Approved No License, Plenty of Melodies - Top 10 Online Websites</u></a></li>
+<li><a href="https://win-web.techidaily.com/1-troubleshooting-tips-reviving-your-non-responsive-scanner-expert-advice-by-yl-computing/"><u>1. Troubleshooting Tips: Reviving Your Non-Responsive Scanner - Expert Advice by YL Computing</u></a></li>
+<li><a href="https://win-web.techidaily.com/connect-and-share-your-pcs-wi-fi-with-another-computer-using-yl-software-tips/"><u>Connect and Share Your PC's Wi-Fi with Another Computer Using YL Software Tips</u></a></li>
+<li><a href="https://win-web.techidaily.com/ensuring-peak-performance-a-guide-to-optimal-operating-system-functionality-with-yl-computing/"><u>Ensuring Peak Performance: A Guide to Optimal Operating System Functionality with YL Computing</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-oneplus-11-5g-drfone-by-drfone-virtual-android/"><u>How to Change Location on TikTok to See More Content On your OnePlus 11 5G | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-restore-voice-chat-functionality-in-among-us-on-your-pc-quick-fix-guide/"><u>How To Restore Voice Chat Functionality In Among Us On Your PC - Quick Fix Guide</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-poco-m6-pro-5g-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Poco M6 Pro 5G phone? | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-streamlined-social-media-prime-twitter-unfollow-tools-overview/"><u>In 2024, Streamlined Social Media Prime Twitter Unfollow Tools Overview</u></a></li>
+<li><a href="https://win-web.techidaily.com/maximizing-your-pcs-potential-expert-tips-from-yl-computing/"><u>Maximizing Your PC's Potential - Expert Tips From YL Computing</u></a></li>
+<li><a href="https://win-web.techidaily.com/overcoming-your-pcs-audio-hurdles-expert-tips-for-managing-sound-cards-by-yl-computing/"><u>Overcoming Your PC's Audio Hurdles: Expert Tips for Managing Sound Cards by YL Computing</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-messages-back-from-lava-blaze-2-pro-by-fonelab-android-recover-messages/"><u>Simple ways to get lost messages back from Lava Blaze 2 Pro</u></a></li>
+<li><a href="https://win-web.techidaily.com/step-by-step-guide-removing-apps-on-your-pc-tips-from-yl-software-experts/"><u>Step-by-Step Guide: Removing Apps on Your PC - Tips From YL Software Experts</u></a></li>
+<li><a href="https://facebook.techidaily.com/tech-titans-role-in-curtailing-deceptive-online-advertising-practices/"><u>Tech Titans' Role in Curtailing Deceptive Online Advertising Practices</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-the-ultimate-list-5-free-mov-video-merger-software-options/"><u>Updated 2024 Approved The Ultimate List 5 Free MOV Video Merger Software Options</u></a></li>
+<li><a href="https://win-web.techidaily.com/yl-softwares-ultimate-collection-of-king-trollex-background-images-and-digital-wallpaper-designs/"><u>YL Software's Ultimate Collection of King Trollex Background Images and Digital Wallpaper Designs</u></a></li>
 </ul></div>
 
