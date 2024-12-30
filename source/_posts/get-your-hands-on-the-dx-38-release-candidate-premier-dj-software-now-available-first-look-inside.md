@@ -1,7 +1,7 @@
 ---
 title: Get Your Hands on the DX 3.8 Release Candidate! Premier DJ Software Now Available – First Look Inside!
-date: 2024-12-17T00:37:17.584Z
-updated: 2024-12-23T21:46:17.364Z
+date: 2024-12-25T18:28:10.536Z
+updated: 2024-12-29T22:04:54.189Z
 tags:
   - product
 categories:
@@ -31,7 +31,7 @@ Be sure to test drive the new ‘_always in sync_‘ beat-lock engine and all ot
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Here’s What’s New, Changed And Fixed In DEX 3.8 RC2 (Since Monday’s Release)
@@ -49,7 +49,7 @@ Be sure to test drive the new ‘_always in sync_‘ beat-lock engine and all ot
 _In the event you wish to roll back to the prior 3.7.5.1 release of DEX 3 you can find it on the [DEX 3 support page here](https://tools.techidaily.com/pcdj/products/)._ 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### DEX 3.8 | NEW FEATURES OVERVIEW
@@ -57,7 +57,7 @@ _In the event you wish to roll back to the prior 3.7.5.1 release of DEX 3 you ca
 _Have questions about our **best DJ mixing software**, DEX 3.8? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -79,17 +79,22 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2017/05/downloaddex3rc2-coverimage
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-nintendo-switch-pugilists-the-ultimate-10-game-guidebook-for-2024/"><u>[New] Nintendo Switch Pugilists The Ultimate 10-Game Guidebook for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-in-search-of-quality-identifying-the-top-5-virtual-title-designers/"><u>[Updated] 2024 Approved In Search of Quality Identifying the Top 5 Virtual Title Designers</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-top-5-multimedia-sensation-apps-iphoneandroid-showdown/"><u>[Updated] 2024 Approved Top 5 Multimedia Sensation Apps IPhone/Android Showdown</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-ideal-gopro-filmmakers-choice-tools-for-2024/"><u>[Updated] Ideal GoPro Filmmakers' Choice Tools for 2024</u></a></li>
-<li><a href="https://win-web.techidaily.com/boost-your-apps-velocity-top-tips-from-yl-computing-on-enhancing-software-efficiency/"><u>Boost Your App's Velocity: Top Tips From YL Computing on Enhancing Software Efficiency</u></a></li>
-<li><a href="https://win-web.techidaily.com/dynamic-hit-monkey-visuals-high-quality-imagery-and-desktop-pictures-yl-digital-art/"><u>Dynamic Hit-Monkey Visuals: High-Quality Imagery & Desktop Pictures - YL Digital Art</u></a></li>
-<li><a href="https://win-web.techidaily.com/expert-tips-for-efficiently-handling-user-profiles-in-your-organization-with-yl-software-solutions/"><u>Expert Tips for Efficiently Handling User Profiles in Your Organization with YL Software Solutions</u></a></li>
-<li><a href="https://extra-information.techidaily.com/from-joke-to-share-perfecting-the-meme-process/"><u>From Joke to Share Perfecting the Meme Process</u></a></li>
-<li><a href="https://win-web.techidaily.com/how-does-the-windows-security-suite-enhance-safety-with-its-built-in-firewall-feature-insights-by-yl-tech/"><u>How Does the Windows Security Suite Enhance Safety with Its Built-In Firewall Feature? – Insights by YL Tech</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/latest-firmware-and-drivers-for-logitech-mk710-secure-your-free-download-today/"><u>Latest Firmware & Drivers for Logitech MK710: Secure Your Free Download Today!</u></a></li>
-<li><a href="https://win-web.techidaily.com/step-by-step-guide-turning-onoff-secure-boot-feature-on-your-pc-with-windows-11-tips-from-yl-computing/"><u>Step-by-Step Guide: Turning On/Off Secure Boot Feature on Your PC with Windows 11 - Tips From YL Computing</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-why-is-my-discord-camera-not-responding/"><u>Troubleshooting Tips: Why Is My Discord Camera Not Responding?</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-spotting-youtubes-curated-conversations/"><u>[Updated] Spotting YouTube's Curated Conversations</u></a></li>
+<li><a href="https://win-data.techidaily.com/1-choosing-the-ideal-output-format-html-zip-exe-or-dvd-a-comprehensive-guide-flipbuildercom/"><u>1) Choosing the Ideal Output Format: HTML, ZIP, EXE, or DVD - A Comprehensive Guide [FlipBuilder.com]</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/556s6zat44gr5oml44gr5ywl44km44kl44k544k44o844or5pw05ykz55so5yaz55yf44oe44o844or/"><u>瞬間に手に入れるスタール整備用写真ツール</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/breaking-beyond-bose-and-sonos-the-ultimate-speaker-system-that-took-my-breath-away-featured-in-zdnet/"><u>Breaking Beyond Bose and Sonos: The Ultimate Speaker System That Took My Breath Away | Featured in ZDNet</u></a></li>
+<li><a href="https://techtrends.techidaily.com/change-up-your-mail-alerts-how-to-assign-custom-sound-notifications-for-gmail/"><u>Change Up Your Mail Alerts! How to Assign Custom Sound Notifications for Gmail</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/effortless-techniques-to-share-igtv-in-stories-for-2024/"><u>Effortless Techniques to Share IGTV in Stories for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/evaluating-expenditure-on-turning-songs-into-visuals/"><u>Evaluating Expenditure on Turning Songs Into Visuals</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/game-recorder-mastery-top-5-techniques-for-windows-11-for-2024/"><u>Game Recorder Mastery Top 5 Techniques for Windows 11 for 2024</u></a></li>
+<li><a href="https://win-web.techidaily.com/high-definition-duck-graphics-and-desktop-pictures-create-the-perfect-ambiance-with-yl-computing/"><u>High-Definition Duck Graphics & Desktop Pictures - Create the Perfect Ambiance with YL Computing</u></a></li>
+<li><a href="https://win-web.techidaily.com/how-to-diagnose-issues-with-your-graphics-card-an-in-depth-guide-by-yl-software-professionals/"><u>How To Diagnose Issues With Your Graphics Card: An In-Depth Guide by YL Software Professionals</u></a></li>
+<li><a href="https://win-web.techidaily.com/how-to-prevent-bad-image-scanning-results-with-tips-from-yl-software-professionals/"><u>How To Prevent Bad Image Scanning Results With Tips From YL Software Professionals</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirror-your-apple-iphone-14-display-drfone-by-drfone-ios/"><u>In 2024, How to Screen Mirror your Apple iPhone 14 Display? | Dr.fone</u></a></li>
+<li><a href="https://win-web.techidaily.com/mastering-security-optimal-approaches-to-scan-and-protect-with-windows-defender-by-experts-at-yl-software/"><u>Mastering Security: Optimal Approaches to Scan and Protect with Windows Defender by Experts at YL Software</u></a></li>
+<li><a href="https://win-web.techidaily.com/maximize-your-dj-skills-5-essential-techniques-with-dj-dex-on-ipad-learn-from-pros/"><u>Maximize Your DJ Skills: 5 Essential Techniques with DJ DEX on iPad | Learn From Pros</u></a></li>
+<li><a href="https://win-web.techidaily.com/top-ranked-pc-cleaning-tools-reviewed-by-yl-software-enhance-your-systems-performance/"><u>Top-Ranked PC Cleaning Tools Reviewed by YL Software - Enhance Your System's Performance</u></a></li>
+<li><a href="https://win-web.techidaily.com/troubleshooting-vga-problems-how-to-identify-video-card-errors-in-windows-tips-from-experts-at-yl-software/"><u>Troubleshooting VGA Problems: How to Identify Video Card Errors in Windows, Tips From Experts at YL Software</u></a></li>
+<li><a href="https://win-web.techidaily.com/unveiling-the-details-of-yls-blockchain-tools-a-comprehensive-guide-to-checking-your-crypto-asset-balances/"><u>Unveiling the Details of YL's Blockchain Tools: A Comprehensive Guide to Checking Your Crypto Asset Balances</u></a></li>
 </ul></div>
 

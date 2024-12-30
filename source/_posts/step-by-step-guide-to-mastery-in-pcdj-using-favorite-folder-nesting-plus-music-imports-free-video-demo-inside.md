@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide to Mastery in PCDJ: Using Favorite Folder Nesting + Music Imports – Free Video Demo Inside!"
-date: 2024-12-17T09:46:15.939Z
-updated: 2024-12-23T19:35:05.703Z
+date: 2024-12-27T16:31:45.113Z
+updated: 2024-12-29T19:20:37.720Z
 tags:
   - product
 categories:
@@ -26,7 +26,7 @@ Using favorites has another major benefit in comparison to lists – they’re d
 #### VIDEO DEMONSTRATION OF NESTING FAVORITE FOLDERS IN PCDJ DEX 3 DJ SOFTWARE
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -48,22 +48,16 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2014/09/foldersfavorites-coverimag
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/updated-2024-approved-perfecting-screen-magnification-techniques-on-ms-teams/"><u>[Updated] 2024 Approved Perfecting Screen Magnification Techniques on MS Teams</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-vimeo-simplified-platform-for-content-creators/"><u>[Updated] In 2024, Vimeo Simplified Platform for Content Creators</u></a></li>
-<li><a href="https://article-posts.techidaily.com/budget-friendly-4k-imaging-sources/"><u>Budget-Friendly 4K Imaging Sources</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/classic-stop-motion-animations-ranking-the-best-15-for-2024/"><u>Classic Stop-Motion Animations Ranking the Best 15 for 2024</u></a></li>
-<li><a href="https://facebook.techidaily.com/english-clubs-shun-social-networking-initiate-platform-strike/"><u>English Clubs Shun Social Networking, Initiate Platform Strike</u></a></li>
-<li><a href="https://app-tips.techidaily.com/enhancing-password-manager-security-expert-tips-and-techniques-zdnet/"><u>Enhancing Password Manager Security: Expert Tips & Techniques [ZDNet]</u></a></li>
-<li><a href="https://win-web.techidaily.com/fukushima-cooling-water-release-sparks-protests-and-chinese-call-harassment-insights-by-yl-software/"><u>Fukushima Cooling Water Release Sparks Protests and Chinese Call Harassment – Insights by YL Software</u></a></li>
-<li><a href="https://win-web.techidaily.com/high-definition-bmw-x4-m-wallpaper-collection-and-desktop-imagery-inspired-by-yl-computings-design/"><u>High-Definition BMW X4 M Wallpaper Collection & Desktop Imagery - Inspired by YL Computing's Design</u></a></li>
-<li><a href="https://win-web.techidaily.com/join-the-conversation-leave-a-pcdj-review-and-help-others-decide/"><u>Join the Conversation – Leave a PCDJ Review & Help Others Decide!</u></a></li>
-<li><a href="https://win-web.techidaily.com/master-file-movements-step-by-step-instructions-for-shifting-data-within-windows-folders-expert-advice-from-yl-software-solutions/"><u>Master File Movements: Step-by-Step Instructions for Shifting Data Within Windows Folders – Expert Advice From YL Software Solutions</u></a></li>
-<li><a href="https://win-web.techidaily.com/mastering-system-settings-how-to-customize-your-language-and-region-in-the-control-panel-with-yl-software-expertise/"><u>Mastering System Settings: How to Customize Your Language and Region in the Control Panel with YL Software Expertise</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/quick-setup-software-package-hp-officejet-pro-8600-for-pcs/"><u>Quick Setup Software Package: HP OfficeJet Pro 8600 for PCs</u></a></li>
-<li><a href="https://win-web.techidaily.com/troubleshooting-network-connection-issues-with-your-scanner-insights-from-yl-computings-expertise/"><u>Troubleshooting Network Connection Issues with Your Scanner - Insights From YL Computing's Expertise</u></a></li>
-<li><a href="https://techtrends.techidaily.com/troubleshooting-steps-for-missing-msodll-error-in-windows/"><u>Troubleshooting Steps for 'Missing mso.dll Error' In Windows</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/ultimate-guide-to-selecting-superior-dvd-copy-software-on-windows-1011-ensuring-seamless-playbacks-and-reliable-data-saving/"><u>Ultimate Guide to Selecting Superior DVD Copy Software on Windows 10/11: Ensuring Seamless Playbacks and Reliable Data Saving</u></a></li>
-<li><a href="https://win-web.techidaily.com/understanding-and-evaluating-windows-memory-usage-insights-from-yl-software-solutions/"><u>Understanding and Evaluating Windows Memory Usage: Insights From YL Software Solutions</u></a></li>
-<li><a href="https://win-web.techidaily.com/verifying-proper-ram-functionality-on-your-pc-tech-tips-by-yl-computing/"><u>Verifying Proper RAM Functionality on Your PC - Tech Tips by YL Computing</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-audience-retention-through-reel-magic-boomers-on-ig/"><u>[New] Audience Retention Through Reel Magic Boomers on IG</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-master-soft-edges-on-digital-images-mobilepc/"><u>[Updated] Master Soft Edges on Digital Images, Mobile/PC</u></a></li>
+<li><a href="https://win-web.techidaily.com/easy-instructions-for-modifying-printer-configuration-expertise-by-yl-software/"><u>Easy Instructions for Modifying Printer Configuration - Expertise by YL Software</u></a></li>
+<li><a href="https://win-web.techidaily.com/exploring-cryptocurrency-limitations-potential-challenges-and-considerations-expert-analysis-by-yl-software/"><u>Exploring Cryptocurrency Limitations: Potential Challenges and Considerations – Expert Analysis by YL Software</u></a></li>
+<li><a href="https://win-web.techidaily.com/fix-your-windows-graphic-card-problems-with-yl-computings-step-by-step-solutions/"><u>Fix Your Windows Graphic Card Problems with YL Computing's Step-by-Step Solutions</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-securely-obtain-and-set-up-epson-xp-830-software-on-your-pc/"><u>How to Securely Obtain and Set Up Epson XP-830 Software on Your PC</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-full-guide-to-bypass-sony-xperia-10-v-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Sony Xperia 10 V FRP</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/navigating-the-challenges-common-missteps-in-corporate-ai-integration-and-how-to-avoid-them/"><u>Navigating the Challenges: Common Missteps in Corporate AI Integration & How to Avoid Them</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/rx-fanfare-update-pack-for-2024/"><u>RX Fanfare Update Pack for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/top-6-ways-to-transfer-text-messages-from-vivo-y100i-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 6 Ways to Transfer Text Messages from Vivo Y100i to Other Android Devices | Dr.fone</u></a></li>
+<li><a href="https://win-web.techidaily.com/unveiling-consequences-how-did-the-initial-sino-japanese-war-shape-modern-asia-insights-from-yl-computings-tech-expertise/"><u>Unveiling Consequences: How Did the Initial Sino-Japanese War Shape Modern Asia? Insights From YL Computing's Tech Expertise</u></a></li>
 </ul></div>
 

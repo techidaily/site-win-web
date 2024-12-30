@@ -1,7 +1,7 @@
 ---
 title: "Maximize Your DJ Skills: 5 Essential Techniques with DJ DEX on iPad | Learn From Pros"
-date: 2024-12-17T06:35:53.025Z
-updated: 2024-12-23T20:44:23.299Z
+date: 2024-12-25T21:06:39.770Z
+updated: 2024-12-30T01:08:05.958Z
 tags:
   - product
 categories:
@@ -21,7 +21,7 @@ The much anticipated V2 of [DJ DEX is now available in the App Store](https://it
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5 Tips for Getting the Most out of DJ DEX
@@ -55,13 +55,13 @@ DJ DEX doesn’t work with cloud-stored files (yet). So be sure to open up the m
 [![DJ DEX app platters](https://i2.wp.com/pcdj.com/wp-content/uploads/2018/05/IMG_0192.png?resize=495%2C400&ssl=1 "DJ DEX app platters")![DJ DEX app platters](https://i2.wp.com/pcdj.com/wp-content/uploads/2018/05/IMG_0192.png?resize=495%2C400&ssl=1 "DJ DEX app platters")](https://i2.wp.com/pcdj.com/wp-content/uploads/2018/05/IMG%5F0192.png?fit=1030%2C773&ssl=1 "Platter Display Mode")[![DJ DEX app eq](https://i1.wp.com/pcdj.com/wp-content/uploads/2018/05/IMG_0195.png?resize=495%2C400&ssl=1 "DJ DEX app eq")![DJ DEX app eq](https://i1.wp.com/pcdj.com/wp-content/uploads/2018/05/IMG_0195.png?resize=495%2C400&ssl=1 "DJ DEX app eq")](https://i1.wp.com/pcdj.com/wp-content/uploads/2018/05/IMG%5F0195.png?fit=1030%2C773&ssl=1 "Equalizer")[![DJ DEX app effects](https://i2.wp.com/pcdj.com/wp-content/uploads/2018/05/IMG_0194.png?resize=495%2C400&ssl=1 "DJ DEX app effects")![DJ DEX app effects](https://i2.wp.com/pcdj.com/wp-content/uploads/2018/05/IMG_0194.png?resize=495%2C400&ssl=1 "DJ DEX app effects")](https://i2.wp.com/pcdj.com/wp-content/uploads/2018/05/IMG%5F0194.png?fit=1030%2C773&ssl=1 "X/Y Effects Pads")[![DJ DEX app horizontal waveforms](https://i0.wp.com/pcdj.com/wp-content/uploads/2018/05/IMG_0193.png?resize=495%2C400&ssl=1 "DJ DEX app horizontal waveforms")![DJ DEX app horizontal waveforms](https://i0.wp.com/pcdj.com/wp-content/uploads/2018/05/IMG_0193.png?resize=495%2C400&ssl=1 "DJ DEX app horizontal waveforms")](https://i0.wp.com/pcdj.com/wp-content/uploads/2018/05/IMG%5F0193.png?fit=1030%2C773&ssl=1 "Horizontal Waveform Mode")[![DJ DEX app loops](https://i2.wp.com/pcdj.com/wp-content/uploads/2018/05/IMG_0196.png?resize=495%2C400&ssl=1 "DJ DEX app loops")![DJ DEX app loops](https://i2.wp.com/pcdj.com/wp-content/uploads/2018/05/IMG_0196.png?resize=495%2C400&ssl=1 "DJ DEX app loops")](https://i2.wp.com/pcdj.com/wp-content/uploads/2018/05/IMG%5F0196.png?fit=1030%2C773&ssl=1 "Looping Controls")[![DJ DEX App hot cues](https://i0.wp.com/pcdj.com/wp-content/uploads/2018/05/IMG_0197.png?resize=495%2C400&ssl=1 "DJ DEX App hot cues")![DJ DEX App hot cues](https://i0.wp.com/pcdj.com/wp-content/uploads/2018/05/IMG_0197.png?resize=495%2C400&ssl=1 "DJ DEX App hot cues")](https://i0.wp.com/pcdj.com/wp-content/uploads/2018/05/IMG%5F0197.png?fit=1030%2C773&ssl=1 "Hot Cues")[![DJ DEX App Settings](https://i0.wp.com/pcdj.com/wp-content/uploads/2018/05/IMG_0198.png?resize=495%2C400&ssl=1 "DJ DEX App Settings")![DJ DEX App Settings](https://i0.wp.com/pcdj.com/wp-content/uploads/2018/05/IMG_0198.png?resize=495%2C400&ssl=1 "DJ DEX App Settings")](https://i0.wp.com/pcdj.com/wp-content/uploads/2018/05/IMG%5F0198.png?fit=1030%2C773&ssl=1 "Preferences")[![DJ DEX app splash screen](https://i2.wp.com/pcdj.com/wp-content/uploads/2018/05/IMG_0199.png?resize=495%2C400&ssl=1 "DJ DEX app splash screen")![DJ DEX app splash screen](https://i2.wp.com/pcdj.com/wp-content/uploads/2018/05/IMG_0199.png?resize=495%2C400&ssl=1 "DJ DEX app splash screen")](https://i2.wp.com/pcdj.com/wp-content/uploads/2018/05/IMG%5F0199.png?fit=1030%2C773&ssl=1 "Loading/Splash Screen")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 _Have questions about the DJ DEX **iPad DJ app**? Leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -83,17 +83,22 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2018/05/djdex-tips-update.jpg?fit=
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-deciding-on-your-video-recorder-heroes-obs-or-bandicam/"><u>[Updated] In 2024, Deciding on Your Video Recorder Heroes OBS or Bandicam</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-seamless-youtube-editing-the-ultimate-finalcut-pro-guidebook/"><u>[Updated] Seamless YouTube Editing The Ultimate FinalCut Pro Guidebook</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/approved-mastering-channel-artistry-explore-these-10-visual-creation-tools/"><u>2024 Approved Mastering Channel Artistry Explore These 10 Visual Creation Tools</u></a></li>
-<li><a href="https://win-web.techidaily.com/disabling-automatic-windows-updates-via-the-control-panel-a-step-by-step-guide-tips-from-techwhiz/"><u>Disabling Automatic Windows Updates via the Control Panel: A Step-by-Step Guide - Tips From TechWhiz</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/erfahren-sie-von-der-winxvideo-ai-effizientes-screen-webcam-und-sprachaufzeichnungsprogramm/"><u>Erfahren Sie Von Der WinxVideo-AI: Effizientes Screen-, Webcam- Und Sprachaufzeichnungsprogramm</u></a></li>
-<li><a href="https://win-web.techidaily.com/exploring-the-latest-red-mobile-35-template-by-pcdj-showcase/"><u>Exploring the Latest: RED Mobile 3.5 Template by PCDJ Showcase</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-detecting-block-status-recognizing-on-snapchat-silence-for-2024/"><u>[Updated] Detecting Block Status Recognizing On-Snapchat Silence for 2024</u></a></li>
+<li><a href="https://win-top.techidaily.com/16-ways-to-capture-a-screen-on-mac-using-moveavi-tips-and-tricks/"><u>16 Ways to Capture a Screen on Mac Using Moveavi - Tips and Tricks</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/a-comprehve-solutions-to-overcome-the-504-gateway-timeout-hurdle/"><u>A Comprehve Solutions to Overcome the 504 Gateway Timeout Hurdle</u></a></li>
+<li><a href="https://win-web.techidaily.com/announcing-the-launch-of-dex-version-31101-latest-update-in-pcdj-dj-software-press-release/"><u>Announcing the Launch of DEX Version 3.11.0.1: Latest Update in PCDJ DJ Software - Press Release</u></a></li>
+<li><a href="https://win-web.techidaily.com/exploring-the-impact-and-aftermath-of-the-opium-conflicts-insights-from-yl-computing-and-software-solutions/"><u>Exploring the Impact and Aftermath of the Opium Conflicts: Insights From YL Computing & Software Solutions</u></a></li>
 <li><a href="https://win-web.techidaily.com/exploring-windows-control-panel-configuration-a-step-by-step-guide-by-yl-computing/"><u>Exploring Windows Control Panel Configuration: A Step-by-Step Guide by YL Computing</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/fix-excel-2016-formula-not-showing-result-stellar-by-stellar-guide/"><u>Fix Excel 2016 formula not showing result | Stellar</u></a></li>
-<li><a href="https://win-web.techidaily.com/premium-ferrari-california-t-desktop-backgrounds-by-yl-computing/"><u>Premium Ferrari California T Desktop Backgrounds by YL Computing</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/1723262411529-slash-your-costs-with-the-alienware-bundle-shop-a-34-oled-monitor-and-aurora-r1e-pc-for-700-less-gamers-dream-deal-inside/"><u>Slash Your Costs with the Alienware Bundle: Shop a 34 OLED Monitor & Aurora R1e PC for $700 Less - Gamer's Dream Deal Inside</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-lenovo-thinkphone-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Lenovo ThinkPhone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-xiaomi-redmi-13c-5g-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Xiaomi Redmi 13C 5G</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-infinix-note-30i-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Infinix Note 30i to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-liberating-your-media-experience-free-movplay-software/"><u>In 2024, Liberating Your Media Experience Free MOV/PLAY Software</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-seamless-clip-recording-solutions/"><u>In 2024, Seamless Clip Recording Solutions</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-mastering-color-consistency-a-powerdirector-tutorial-for-video-editors/"><u>New 2024 Approved Mastering Color Consistency A PowerDirector Tutorial for Video Editors</u></a></li>
+<li><a href="https://win-web.techidaily.com/resolving-no-image-issues-on-screens-essential-advice-by-yl-software-experts/"><u>Resolving No-Image Issues on Screens: Essential Advice by YL Software Experts</u></a></li>
+<li><a href="https://win-web.techidaily.com/solving-multi-page-scanning-issues-a-guide-by-yl-computing/"><u>Solving Multi-Page Scanning Issues - A Guide by YL Computing</u></a></li>
+<li><a href="https://win-web.techidaily.com/speeding-up-your-system-effective-solutions-for-faster-pc-operation-by-yl-computing-expert-guidance/"><u>Speeding Up Your System: Effective Solutions for Faster PC Operation by YL Computing Expert Guidance</u></a></li>
+<li><a href="https://win-web.techidaily.com/tailor-made-efficiency-setting-up-custom-keyboard-combinations-using-yl-software/"><u>Tailor-Made Efficiency: Setting Up Custom Keyboard Combinations Using YL Software</u></a></li>
 <li><a href="https://win-web.techidaily.com/unstuck-from-stagnation-expert-advice-for-fixing-a-jammed-scanner-device-insights-and-solutions-with-yl-software/"><u>Unstuck From Stagnation: Expert Advice for Fixing a Jammed Scanner Device – Insights and Solutions with YL Software</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/movavi-flac-ogg/"><u>무료 오디오 제품 바꾸기 - Movavi FLAC 및 OGG 소싱 도구</u></a></li>
 </ul></div>
 
