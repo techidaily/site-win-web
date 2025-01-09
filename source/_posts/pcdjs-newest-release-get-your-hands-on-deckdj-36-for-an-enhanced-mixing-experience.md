@@ -1,7 +1,7 @@
 ---
 title: "PCDJ's Newest Release: Get Your Hands on DeckDJ 3.6 for an Enhanced Mixing Experience!"
-date: 2024-12-25T16:56:47.695Z
-updated: 2024-12-29T16:54:10.454Z
+date: 2025-01-06T23:21:23.814Z
+updated: 2025-01-08T16:29:02.775Z
 tags:
   - product
 categories:
@@ -35,7 +35,7 @@ We’ve **swatted a few annoying bugs** as well, including a memory issue presen
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What’s New, Changed Or Fixed In DEX 3.6.0.1
@@ -62,7 +62,7 @@ We’ve **swatted a few annoying bugs** as well, including a memory issue presen
 _Have questions about DEX 3.6 **VDJ mixing software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -84,22 +84,22 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2016/05/dex36publicrelease-coverim
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-concoct-clever-caricatures/"><u>[Updated] 2024 Approved Concoct Clever Caricatures</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-mastering-voice-changes-in-psgames/"><u>[Updated] In 2024, Mastering Voice Changes in PSGames</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-setting-up-sports-content-sharing-on-a-mac-device/"><u>[Updated] In 2024, Setting Up Sports Content Sharing on a Mac Device</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-filmmakers-guide-to-capturing-clear-sea-footage/"><u>[Updated] The Filmmaker's Guide to Capturing Clear Sea Footage</u></a></li>
-<li><a href="https://win-web.techidaily.com/changing-file-extensions-on-windows-a-step-by-step-guide-tips-from-yl-computing/"><u>Changing File Extensions on Windows: A Step-by-Step Guide - Tips From YL Computing</u></a></li>
-<li><a href="https://win-web.techidaily.com/charting-the-course-of-advancement-insights-into-chinas-transformation-during-the-ming-dynasty-with-yl-digital-solutions/"><u>Charting the Course of Advancement: Insights Into China's Transformation During the Ming Dynasty with YL Digital Solutions</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/commercial-ventures-enhanced-by-virtual-engineering/"><u>Commercial Ventures Enhanced by Virtual Engineering</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/1402724-9781782791492-how-to-appreciate-an-aries/"><u>How to Appreciate an Aries | Free Book</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-cutting-edge-approaches-for-recording-and-sharing-sporting-games/"><u>In 2024, Cutting-Edge Approaches for Recording & Sharing Sporting Games</u></a></li>
-<li><a href="https://win-web.techidaily.com/mastering-risk-free-cryptocurrency-investment-with-tips-by-yl-software-professionals/"><u>Mastering Risk-Free Cryptocurrency Investment with Tips by YL Software Professionals</u></a></li>
-<li><a href="https://win-web.techidaily.com/neural-plasticity-refers-to-the-braint-ability-to-reorganize-itself-by-forming-new-neural-connections-throughout-life/"><u>Neural Plasticity Refers to the Brain't Ability to Reorganize Itself by Forming New Neural Connections Throughout Life.</u></a></li>
-<li><a href="https://some-tips.techidaily.com/optimal-energy-solutions-for-gopro-hero5-certified-and-third-party-for-2024/"><u>Optimal Energy Solutions for GoPro Hero5 Certified & Third-Party for 2024</u></a></li>
-<li><a href="https://win-web.techidaily.com/persistent-scanner-halts-during-long-sessions-explained-by-yl-software-experts/"><u>Persistent Scanner Halts During Long Sessions Explained by YL Software Experts</u></a></li>
-<li><a href="https://blog-min.techidaily.com/share-the-love-how-to-send-kobo-ebooks-to-pals-effortlessly/"><u>Share the Love: How to Send Kobo eBooks to Pals Effortlessly</u></a></li>
-<li><a href="https://win-web.techidaily.com/transitioning-from-integrated-to-discrete-graphics-cards-a-step-by-step-guide-yl-software/"><u>Transitioning From Integrated to Discrete Graphics Cards - A Step-by-Step Guide (YL Software)</u></a></li>
-<li><a href="https://win-web.techidaily.com/unveiling-333-discover-the-cutting-edge-karaoke-functions-upgraded-for-pioneer-cdjs/"><u>Unveiling 3.3.3 - Discover the Cutting-Edge Karaoke Functions Upgraded for Pioneer CDJs</u></a></li>
-<li><a href="https://win-web.techidaily.com/yl-software-insights-detecting-and-troubleshooting-hard-drive-errors-effectively/"><u>YL Software Insights: Detecting and Troubleshooting Hard Drive Errors Effectively</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-affordable-webm-streaming-alternatives-unveiled-for-2024/"><u>[New] Affordable WebM Streaming Alternatives Unveiled for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/udget-friendly-tactics-to-increase-your-youtube-video-impact-for-2024/"><u>[New] Budget-Friendly Tactics to Increase Your YouTube Video Impact for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-innovating-image-vision-mastering-hdr-in-photoshop/"><u>[Updated] Innovating Image Vision Mastering HDR in Photoshop</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-precise-mac-photo-tips-mastering-five-quick-and-effective-methods/"><u>[Updated] Precise Mac Photo Tips Mastering Five Quick and Effective Methods</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-vr-headset-showdown-the-best-of-2023-for-pc/"><u>2024 Approved VR Headset Showdown The Best of 2023 for PC</u></a></li>
+<li><a href="https://win-web.techidaily.com/curating-a-successful-cryptocurrency-portfolio-with-expert-advice-from-yl-software/"><u>Curating a Successful Cryptocurrency Portfolio with Expert Advice From YL Software</u></a></li>
+<li><a href="https://win-web.techidaily.com/dazzling-backdrops-explore-yl-softwares-curated-selection-of-felicia-chiao-background-images-and-graphics/"><u>Dazzling Backdrops: Explore YL Software's Curated Selection of Felicia Chiao Background Images and Graphics</u></a></li>
+<li><a href="https://win-web.techidaily.com/disabling-automatic-windows-updates-via-the-control-panel-a-step-by-step-guide-tips-from-techwhiz/"><u>Disabling Automatic Windows Updates via the Control Panel: A Step-by-Step Guide - Tips From TechWhiz</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ting-the-end-scene-in-youtube-productions-for-2024/"><u>Elevating the End Scene in YouTube Productions for 2024</u></a></li>
+<li><a href="https://win-web.techidaily.com/exploring-the-latest-red-mobile-35-template-by-pcdj-showcase/"><u>Exploring the Latest: RED Mobile 3.5 Template by PCDJ Showcase</u></a></li>
+<li><a href="https://win-web.techidaily.com/exploring-the-origins-the-dawn-of-chinas-unification-a-historical-insight-by-yl-computing-and-yl-software/"><u>Exploring the Origins: The Dawn of China's Unification - A Historical Insight by YL Computing & YL Software</u></a></li>
+<li><a href="https://win-web.techidaily.com/how-to-fix-non-responsive-device-components-with-tips-from-yl-software-experts/"><u>How to Fix Non-Responsive Device Components with Tips From YL Software Experts</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-sharefake-location-on-whatsapp-for-lava-blaze-2-pro-drfone-by-drfone-virtual-android/"><u>How to Share/Fake Location on WhatsApp for Lava Blaze 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-samsung-galaxy-xcover-6-pro-tactical-edition-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Samsung Galaxy XCover 6 Pro Tactical Edition Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/masterclass-in-crafting-empowerment-videos-for-viewers-for-2024/"><u>Masterclass in Crafting Empowerment Videos for Viewers for 2024</u></a></li>
+<li><a href="https://win-web.techidaily.com/premium-ferrari-california-t-desktop-backgrounds-by-yl-computing/"><u>Premium Ferrari California T Desktop Backgrounds by YL Computing</u></a></li>
+<li><a href="https://win-web.techidaily.com/troubleshooting-and-resolving-sound-issues-in-windows-a-step-by-step-fix-for-a-nonfunctional-sound-card-digitalexpertise/"><u>Troubleshooting and Resolving Sound Issues in Windows: A Step-by-Step Fix for a Nonfunctional Sound Card – DigitalExpertise</u></a></li>
 </ul></div>
 

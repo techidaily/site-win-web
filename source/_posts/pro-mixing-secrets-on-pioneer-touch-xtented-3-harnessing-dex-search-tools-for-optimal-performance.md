@@ -1,7 +1,7 @@
 ---
 title: "Pro Mixing Secrets on Pioneer Touch XTENTED 3: Harnessing DEX Search Tools for Optimal Performance"
-date: 2024-12-23T19:45:28.207Z
-updated: 2024-12-29T22:48:27.607Z
+date: 2025-01-04T03:33:47.122Z
+updated: 2025-01-09T01:03:38.011Z
 tags:
   - product
 categories:
@@ -33,7 +33,7 @@ eg. if you want to search all Dance songs with bpm 128 from the 90’s in key 10
 **Here’s a video tutorial showcasing the new search options in PCDJ DEX 3.2 DJ software:**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -55,20 +55,19 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2015/01/dex32searchtips-coverimage
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-full-facebook-call-archive-feature-guide/"><u>[Updated] In 2024, Full-Facebook Call Archive Feature Guide</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-nimbusaieditor-soaring-edits-to-new-heights/"><u>[Updated] In 2024, NimbusAiEditor Soaring Edits to New Heights</u></a></li>
-<li><a href="https://os-tips.techidaily.com/create-your-own-custom-iphone-ringtones-with-our-free-m4r-editor/"><u>Create Your Own Custom iPhone Ringtones with Our Free M4R Editor</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-and-installation-instructions-for-the-ultimate-logitech-driving-force-gt-experience-on-pcs-windows-71011/"><u>Download and Installation Instructions for the Ultimate Logitech Driving Force GT Experience on PCs (Windows 7/10/11)</u></a></li>
-<li><a href="https://win-web.techidaily.com/fukushima-cooling-water-release-sparks-protests-and-chinese-call-harassment-insights-by-yl-software/"><u>Fukushima Cooling Water Release Sparks Protests and Chinese Call Harassment – Insights by YL Software</u></a></li>
-<li><a href="https://win-web.techidaily.com/high-definition-bmw-x4-m-wallpaper-collection-and-desktop-imagery-inspired-by-yl-computings-design/"><u>High-Definition BMW X4 M Wallpaper Collection & Desktop Imagery - Inspired by YL Computing's Design</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/24-unlocking-youtubes-full-potential-advanced-banner-strategies/"><u>In 2024, Unlocking YouTube's Full Potential Advanced Banner Strategies</u></a></li>
-<li><a href="https://win-web.techidaily.com/join-the-conversation-leave-a-pcdj-review-and-help-others-decide/"><u>Join the Conversation – Leave a PCDJ Review & Help Others Decide!</u></a></li>
-<li><a href="https://win-web.techidaily.com/master-file-movements-step-by-step-instructions-for-shifting-data-within-windows-folders-expert-advice-from-yl-software-solutions/"><u>Master File Movements: Step-by-Step Instructions for Shifting Data Within Windows Folders – Expert Advice From YL Software Solutions</u></a></li>
-<li><a href="https://win-web.techidaily.com/mastering-system-settings-how-to-customize-your-language-and-region-in-the-control-panel-with-yl-software-expertise/"><u>Mastering System Settings: How to Customize Your Language and Region in the Control Panel with YL Software Expertise</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-your-photos-after-note-30-vip-racing-edition-has-been-deleted-by-fonelab-android-recover-photos/"><u>Recover your photos after Note 30 VIP Racing Edition has been deleted.</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-resolving-issues-with-battle-royale-call-of-duty-warzone-not-locating-pvp-games/"><u>Troubleshooting Steps: Resolving Issues with Battle Royale - Call of Duty: Warzone Not Locating PvP Games</u></a></li>
-<li><a href="https://win-web.techidaily.com/understanding-and-evaluating-windows-memory-usage-insights-from-yl-software-solutions/"><u>Understanding and Evaluating Windows Memory Usage: Insights From YL Software Solutions</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-official-4-best-ways-to-get-filmora-discount-codes-for-2024/"><u>Updated Official 4 Best Ways to Get Filmora Discount Codes for 2024</u></a></li>
-<li><a href="https://win-web.techidaily.com/verifying-proper-ram-functionality-on-your-pc-tech-tips-by-yl-computing/"><u>Verifying Proper RAM Functionality on Your PC - Tech Tips by YL Computing</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-recording-made-simple-your-phone-cookbook-for-snapping-stories-for-2024/"><u>[New] Recording Made Simple Your Phone' Cookbook for Snapping Stories for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-webcam-integration-for-flawless-gameplay-logs/"><u>[New] Webcam Integration for Flawless Gameplay Logs</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/comparing-wrist-tech-why-you-might-prefer-a-google-pixel-watch-over-an-apple-watch-series-8-zdnet/"><u>Comparing Wrist Tech: Why You Might Prefer a Google Pixel Watch over an Apple Watch Series 8 | ZDNET</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/discovering-snapchats-video-capabilities-with-ease-for-2024/"><u>Discovering Snapchat's Video Capabilities with Ease for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-the-windows-menu-with-superior-powers/"><u>Enhancing the Windows Menu with Superior Powers</u></a></li>
+<li><a href="https://win-web.techidaily.com/expand-your-systems-potential-with-yl-software-learn-how-to-update-windows-registry-entries/"><u>Expand Your System's Potential with YL Software - Learn How to Update Windows Registry Entries</u></a></li>
+<li><a href="https://win-web.techidaily.com/how-to-fix-undetected-hardware-components-in-your-computer-system-expert-advice-from-yl-computing-solutions/"><u>How to Fix Undetected Hardware Components in Your Computer System – Expert Advice From YL Computing Solutions</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-remove-iphone-15-pro-sim-lock-by-drfone-ios/"><u>In 2024, How to Remove iPhone 15 Pro SIM Lock?</u></a></li>
+<li><a href="https://win-web.techidaily.com/master-the-art-of-deletion-learn-how-to-erase-files-effectively-using-yl-software-techniques/"><u>Master the Art of Deletion: Learn How to Erase Files Effectively Using YL Software Techniques</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/optimizing-video-creation-in-obs-studio/"><u>Optimizing Video Creation in OBS Studio</u></a></li>
+<li><a href="https://win-web.techidaily.com/stunning-digital-landscapes-for-your-pc-professional-hd-background-graphics-and-imagery-from-yl-computing/"><u>Stunning Digital Landscapes for Your PC: Professional HD Background Graphics and Imagery From YL Computing</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-comprehensive-guide-to-13-leading-free-pdf-editors-as-of-july-2024/"><u>The Comprehensive Guide to 13 Leading Free PDF Editors as of July 2024</u></a></li>
+<li><a href="https://win-web.techidaily.com/updating-your-windows-defender-threat-database-essential-tips-and-tricks-from-yl-software-solutions/"><u>Updating Your Windows Defender Threat Database: Essential Tips and Tricks From YL Software Solutions</u></a></li>
+<li><a href="https://win-web.techidaily.com/yls-comprehensive-tutorial-on-how-to-print-your-text-files-using-simple-methods/"><u>YL's Comprehensive Tutorial on How To Print Your Text Files Using Simple Methods</u></a></li>
 </ul></div>
 

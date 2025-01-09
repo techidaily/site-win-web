@@ -1,7 +1,7 @@
 ---
 title: Get Your Hands on the DX 3.8 Release Candidate! Premier DJ Software Now Available – First Look Inside!
-date: 2024-12-25T18:28:10.536Z
-updated: 2024-12-29T22:04:54.189Z
+date: 2025-01-05T01:13:08.396Z
+updated: 2025-01-09T09:33:08.841Z
 tags:
   - product
 categories:
@@ -31,7 +31,7 @@ Be sure to test drive the new ‘_always in sync_‘ beat-lock engine and all ot
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Here’s What’s New, Changed And Fixed In DEX 3.8 RC2 (Since Monday’s Release)
@@ -49,7 +49,7 @@ Be sure to test drive the new ‘_always in sync_‘ beat-lock engine and all ot
 _In the event you wish to roll back to the prior 3.7.5.1 release of DEX 3 you can find it on the [DEX 3 support page here](https://tools.techidaily.com/pcdj/products/)._ 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### DEX 3.8 | NEW FEATURES OVERVIEW
@@ -57,7 +57,7 @@ _In the event you wish to roll back to the prior 3.7.5.1 release of DEX 3 you ca
 _Have questions about our **best DJ mixing software**, DEX 3.8? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -79,22 +79,24 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2017/05/downloaddex3rc2-coverimage
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/updated-spotting-youtubes-curated-conversations/"><u>[Updated] Spotting YouTube's Curated Conversations</u></a></li>
-<li><a href="https://win-data.techidaily.com/1-choosing-the-ideal-output-format-html-zip-exe-or-dvd-a-comprehensive-guide-flipbuildercom/"><u>1) Choosing the Ideal Output Format: HTML, ZIP, EXE, or DVD - A Comprehensive Guide [FlipBuilder.com]</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/556s6zat44gr5oml44gr5ywl44km44kl44k544k44o844or5pw05ykz55so5yaz55yf44oe44o844or/"><u>瞬間に手に入れるスタール整備用写真ツール</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/breaking-beyond-bose-and-sonos-the-ultimate-speaker-system-that-took-my-breath-away-featured-in-zdnet/"><u>Breaking Beyond Bose and Sonos: The Ultimate Speaker System That Took My Breath Away | Featured in ZDNet</u></a></li>
-<li><a href="https://techtrends.techidaily.com/change-up-your-mail-alerts-how-to-assign-custom-sound-notifications-for-gmail/"><u>Change Up Your Mail Alerts! How to Assign Custom Sound Notifications for Gmail</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/effortless-techniques-to-share-igtv-in-stories-for-2024/"><u>Effortless Techniques to Share IGTV in Stories for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/evaluating-expenditure-on-turning-songs-into-visuals/"><u>Evaluating Expenditure on Turning Songs Into Visuals</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/game-recorder-mastery-top-5-techniques-for-windows-11-for-2024/"><u>Game Recorder Mastery Top 5 Techniques for Windows 11 for 2024</u></a></li>
-<li><a href="https://win-web.techidaily.com/high-definition-duck-graphics-and-desktop-pictures-create-the-perfect-ambiance-with-yl-computing/"><u>High-Definition Duck Graphics & Desktop Pictures - Create the Perfect Ambiance with YL Computing</u></a></li>
-<li><a href="https://win-web.techidaily.com/how-to-diagnose-issues-with-your-graphics-card-an-in-depth-guide-by-yl-software-professionals/"><u>How To Diagnose Issues With Your Graphics Card: An In-Depth Guide by YL Software Professionals</u></a></li>
-<li><a href="https://win-web.techidaily.com/how-to-prevent-bad-image-scanning-results-with-tips-from-yl-software-professionals/"><u>How To Prevent Bad Image Scanning Results With Tips From YL Software Professionals</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirror-your-apple-iphone-14-display-drfone-by-drfone-ios/"><u>In 2024, How to Screen Mirror your Apple iPhone 14 Display? | Dr.fone</u></a></li>
-<li><a href="https://win-web.techidaily.com/mastering-security-optimal-approaches-to-scan-and-protect-with-windows-defender-by-experts-at-yl-software/"><u>Mastering Security: Optimal Approaches to Scan and Protect with Windows Defender by Experts at YL Software</u></a></li>
-<li><a href="https://win-web.techidaily.com/maximize-your-dj-skills-5-essential-techniques-with-dj-dex-on-ipad-learn-from-pros/"><u>Maximize Your DJ Skills: 5 Essential Techniques with DJ DEX on iPad | Learn From Pros</u></a></li>
-<li><a href="https://win-web.techidaily.com/top-ranked-pc-cleaning-tools-reviewed-by-yl-software-enhance-your-systems-performance/"><u>Top-Ranked PC Cleaning Tools Reviewed by YL Software - Enhance Your System's Performance</u></a></li>
-<li><a href="https://win-web.techidaily.com/troubleshooting-vga-problems-how-to-identify-video-card-errors-in-windows-tips-from-experts-at-yl-software/"><u>Troubleshooting VGA Problems: How to Identify Video Card Errors in Windows, Tips From Experts at YL Software</u></a></li>
-<li><a href="https://win-web.techidaily.com/unveiling-the-details-of-yls-blockchain-tools-a-comprehensive-guide-to-checking-your-crypto-asset-balances/"><u>Unveiling the Details of YL's Blockchain Tools: A Comprehensive Guide to Checking Your Crypto Asset Balances</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-melodic-instagram-reels-blending-music-voiceovers/"><u>[New] Melodic Instagram Reels Blending Music, Voiceovers</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-cash-creation-in-content-a-deep-dive-into-vids-and-videos/"><u>[Updated] 2024 Approved Cash Creation in Content A Deep Dive Into Vids and Videos</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-the-ultimate-collection-best-zero-price-photo-editing-software/"><u>[Updated] The Ultimate Collection Best Zero-Price Photo Editing Software</u></a></li>
+<li><a href="https://win-web.techidaily.com/1-tailoring-audio-preferences-on-your-pc-a-step-by-step-guide-with-windows-control-panel-explore-options-at-xyz-tech-solutions/"><u>1. Tailoring Audio Preferences on Your PC: A Step-by-Step Guide with Windows Control Panel - Explore Options at XYZ Tech Solutions</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/bridge-ppt-content-with-video-channeling-for-2024/"><u>Bridge PPT Content with Video Channeling for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/cinema-in-your-palm-three-cost-effective-techniques-to-blend-beats-and-videos-on-iphone/"><u>Cinema in Your Palm – Three Cost-Effective Techniques to Blend Beats and Videos on iPhone</u></a></li>
+<li><a href="https://win-web.techidaily.com/expand-your-systems-potential-with-yl-software-learn-how-to-update-windows-registry-entries/"><u>Expand Your System's Potential with YL Software - Learn How to Update Windows Registry Entries</u></a></li>
+<li><a href="https://win-web.techidaily.com/exploring-the-objectives-of-mao-zedongs-great-leap-forward-campaign-in-chinese-history/"><u>Exploring the Objectives of Mao Zedong’s Great Leap Forward Campaign in Chinese History</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-10-visionary-global-tech-pioneers-view-artificial-intelligence-advancements/"><u>How 10 Visionary Global Tech Pioneers View Artificial Intelligence Advancements</u></a></li>
+<li><a href="https://win-web.techidaily.com/how-to-fix-undetected-hardware-components-in-your-computer-system-expert-advice-from-yl-computing-solutions/"><u>How to Fix Undetected Hardware Components in Your Computer System – Expert Advice From YL Computing Solutions</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-foundations-in-digital-visual-narratives/"><u>In 2024, Foundations in Digital Visual Narratives</u></a></li>
+<li><a href="https://win-web.techidaily.com/master-the-art-of-deletion-learn-how-to-erase-files-effectively-using-yl-software-techniques/"><u>Master the Art of Deletion: Learn How to Erase Files Effectively Using YL Software Techniques</u></a></li>
+<li><a href="https://win-web.techidaily.com/maximizing-thermal-management-effective-techniques-for-better-heat-dissipation-by-yl-software-experts/"><u>Maximizing Thermal Management: Effective Techniques for Better Heat Dissipation by YL Software Experts</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-windows-error-code-0xc0000005/"><u>Overcoming Windows Error Code 0XC0000005</u></a></li>
+<li><a href="https://win-web.techidaily.com/solving-blue-screen-dilemmas-in-seconds-expert-advice-from-yl-software-team/"><u>Solving Blue Screen Dilemmas in Seconds - Expert Advice From YL Software Team</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/switching-from-samsung-galaxy-s24-ultra-to-google-pixel-9-pro-xl-a-one-month-review-i-wont-forget-insights-by-zdnet/"><u>Switching From Samsung Galaxy S24 Ultra to Google Pixel 9 Pro XL: A One-Month Review I Won’t Forget - Insights by ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-elite-quartet-of-ai-hardware-innovations-taking-center-stage/"><u>The Elite Quartet of AI Hardware Innovations Taking Center Stage</u></a></li>
+<li><a href="https://win-web.techidaily.com/understanding-yl-computing-reasons-behind-receiving-an-obsolete-driver-notification-with-yl-software-solutions/"><u>Understanding YL Computing: Reasons Behind Receiving an 'Obsolete Driver' Notification with YL Software Solutions.</u></a></li>
+<li><a href="https://win-web.techidaily.com/unexpected-reboots-solved-identifying-the-culprits-behind-spontaneous-computer-restarts-insights-by-yl-software/"><u>Unexpected Reboots Solved: Identifying the Culprits Behind Spontaneous Computer Restarts - Insights by YL Software</u></a></li>
 </ul></div>
 
