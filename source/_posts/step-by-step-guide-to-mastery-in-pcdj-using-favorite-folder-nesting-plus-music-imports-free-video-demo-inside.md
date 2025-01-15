@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide to Mastery in PCDJ: Using Favorite Folder Nesting + Music Imports – Free Video Demo Inside!"
-date: 2025-01-03T07:33:15.045Z
-updated: 2025-01-09T08:32:25.314Z
+date: 2025-01-13T18:38:48.743Z
+updated: 2025-01-14T18:45:55.637Z
 tags:
   - product
 categories:
@@ -26,7 +26,7 @@ Using favorites has another major benefit in comparison to lists – they’re d
 #### VIDEO DEMONSTRATION OF NESTING FAVORITE FOLDERS IN PCDJ DEX 3 DJ SOFTWARE
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -48,17 +48,16 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2014/09/foldersfavorites-coverimag
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-web.techidaily.com/1-tailoring-audio-preferences-on-your-pc-a-step-by-step-guide-with-windows-control-panel-explore-options-at-xyz-tech-solutions/"><u>1. Tailoring Audio Preferences on Your PC: A Step-by-Step Guide with Windows Control Panel - Explore Options at XYZ Tech Solutions</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-awaken-the-artist-within-selective-shots-for-inspiration/"><u>2024 Approved Awaken the Artist Within Selective Shots for Inspiration</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-tecno-spark-go-2023-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On Tecno Spark Go (2023) | Dr.fone</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/la-semaine-francaise-comprendre-les-mots/"><u>La Semaine Française: Comprendre Les Mots</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/language-labyrinth-korean-turkish-roots/"><u>Language Labyrinth: Korean-Turkish Roots</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/mastering-the-art-of-iphones-detailed-photography-for-2024/"><u>Mastering the Art of iPhone's Detailed Photography for 2024</u></a></li>
-<li><a href="https://win-web.techidaily.com/maximizing-thermal-management-effective-techniques-for-better-heat-dissipation-by-yl-software-experts/"><u>Maximizing Thermal Management: Effective Techniques for Better Heat Dissipation by YL Software Experts</u></a></li>
-<li><a href="https://win-web.techidaily.com/solving-blue-screen-dilemmas-in-seconds-expert-advice-from-yl-software-team/"><u>Solving Blue Screen Dilemmas in Seconds - Expert Advice From YL Software Team</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-ultimate-analysis-of-budget-android-phones-spotlight-on-samsung-galaxy-a20/"><u>The Ultimate Analysis of Budget Android Phones: Spotlight on Samsung Galaxy A20</u></a></li>
-<li><a href="https://win-web.techidaily.com/understanding-yl-computing-reasons-behind-receiving-an-obsolete-driver-notification-with-yl-software-solutions/"><u>Understanding YL Computing: Reasons Behind Receiving an 'Obsolete Driver' Notification with YL Software Solutions.</u></a></li>
-<li><a href="https://win-web.techidaily.com/unexpected-reboots-solved-identifying-the-culprits-behind-spontaneous-computer-restarts-insights-by-yl-software/"><u>Unexpected Reboots Solved: Identifying the Culprits Behind Spontaneous Computer Restarts - Insights by YL Software</u></a></li>
-<li><a href="https://ai-video.techidaily.com/updated-in-2024-a-complete-guide-of-top-7-video-language-translators/"><u>Updated In 2024, A Complete Guide of Top 7 Video Language Translators</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-pursuing-perfection-on-track-compiling-top-5-simulators/"><u>[Updated] In 2024, Pursuing Perfection on Track Compiling Top 5 Simulators</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/a-perfect-guide-to-remove-or-disable-google-smart-lock-on-samsung-galaxy-s24-ultra-by-drfone-android/"><u>A Perfect Guide To Remove or Disable Google Smart Lock On Samsung Galaxy S24 Ultra</u></a></li>
+<li><a href="https://win-web.techidaily.com/adjusting-windows-defender-settings-for-tailored-scans-insights-from-yl-computing-experts/"><u>Adjusting Windows Defender Settings for Tailored Scans: Insights From YL Computing Experts</u></a></li>
+<li><a href="https://win-web.techidaily.com/catch-up-on-todays-hits-free-music-video-downloads-from-video-pool-by-dj-pcdj/"><u>Catch Up on Today’s Hits: Free Music Video Downloads From Video Pool by DJ PCDJ!</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/convert-and-enjoy-the-ultimate-free-software-winx-dvd-to-mp4-ripper-for-windows-11-users/"><u>Convert and Enjoy: The Ultimate Free Software, WinX DVD to MP4 Ripper for Windows 11 Users</u></a></li>
+<li><a href="https://win-web.techidaily.com/elegant-komi-san-wallpapers-and-screen-savers-ultimate-collection-by-yl-software/"><u>Elegant Komi-San Wallpapers & Screen Savers: Ultimate Collection by YL Software</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-oneplus-11-5g-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock OnePlus 11 5G Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://win-web.techidaily.com/is-there-a-cost-associated-with-using-yl-computings-tools-detailed-pricing-info/"><u>Is There a Cost Associated with Using YL Computing's Tools - Detailed Pricing Info</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/key-windows-apps-for-the-switcher-from-mac-users-to-windows-warriors/"><u>Key Windows Apps for the Switcher: From Mac Users to Windows Warriors</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/supercharge-apple-watch-longevity-with-essential-setting-modifications-expert-guide/"><u>Supercharge Apple Watch Longevity with Essential Setting Modifications - Expert Guide</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/the-ultimate-guide-to-metaverse-memes-and-diy-humor-mastery/"><u>The Ultimate Guide to Metaverse Memes and DIY Humor Mastery</u></a></li>
 </ul></div>
 

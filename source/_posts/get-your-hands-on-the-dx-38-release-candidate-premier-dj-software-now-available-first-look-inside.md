@@ -1,7 +1,7 @@
 ---
 title: Get Your Hands on the DX 3.8 Release Candidate! Premier DJ Software Now Available – First Look Inside!
-date: 2025-01-05T01:13:08.396Z
-updated: 2025-01-09T09:33:08.841Z
+date: 2025-01-11T17:20:19.356Z
+updated: 2025-01-14T20:41:11.107Z
 tags:
   - product
 categories:
@@ -31,7 +31,7 @@ Be sure to test drive the new ‘_always in sync_‘ beat-lock engine and all ot
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Here’s What’s New, Changed And Fixed In DEX 3.8 RC2 (Since Monday’s Release)
@@ -49,7 +49,7 @@ Be sure to test drive the new ‘_always in sync_‘ beat-lock engine and all ot
 _In the event you wish to roll back to the prior 3.7.5.1 release of DEX 3 you can find it on the [DEX 3 support page here](https://tools.techidaily.com/pcdj/products/)._ 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### DEX 3.8 | NEW FEATURES OVERVIEW
@@ -57,7 +57,7 @@ _In the event you wish to roll back to the prior 3.7.5.1 release of DEX 3 you ca
 _Have questions about our **best DJ mixing software**, DEX 3.8? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -79,24 +79,17 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2017/05/downloaddex3rc2-coverimage
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-melodic-instagram-reels-blending-music-voiceovers/"><u>[New] Melodic Instagram Reels Blending Music, Voiceovers</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-cash-creation-in-content-a-deep-dive-into-vids-and-videos/"><u>[Updated] 2024 Approved Cash Creation in Content A Deep Dive Into Vids and Videos</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-the-ultimate-collection-best-zero-price-photo-editing-software/"><u>[Updated] The Ultimate Collection Best Zero-Price Photo Editing Software</u></a></li>
-<li><a href="https://win-web.techidaily.com/1-tailoring-audio-preferences-on-your-pc-a-step-by-step-guide-with-windows-control-panel-explore-options-at-xyz-tech-solutions/"><u>1. Tailoring Audio Preferences on Your PC: A Step-by-Step Guide with Windows Control Panel - Explore Options at XYZ Tech Solutions</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/bridge-ppt-content-with-video-channeling-for-2024/"><u>Bridge PPT Content with Video Channeling for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/cinema-in-your-palm-three-cost-effective-techniques-to-blend-beats-and-videos-on-iphone/"><u>Cinema in Your Palm – Three Cost-Effective Techniques to Blend Beats and Videos on iPhone</u></a></li>
-<li><a href="https://win-web.techidaily.com/expand-your-systems-potential-with-yl-software-learn-how-to-update-windows-registry-entries/"><u>Expand Your System's Potential with YL Software - Learn How to Update Windows Registry Entries</u></a></li>
-<li><a href="https://win-web.techidaily.com/exploring-the-objectives-of-mao-zedongs-great-leap-forward-campaign-in-chinese-history/"><u>Exploring the Objectives of Mao Zedong’s Great Leap Forward Campaign in Chinese History</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-10-visionary-global-tech-pioneers-view-artificial-intelligence-advancements/"><u>How 10 Visionary Global Tech Pioneers View Artificial Intelligence Advancements</u></a></li>
-<li><a href="https://win-web.techidaily.com/how-to-fix-undetected-hardware-components-in-your-computer-system-expert-advice-from-yl-computing-solutions/"><u>How to Fix Undetected Hardware Components in Your Computer System – Expert Advice From YL Computing Solutions</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-foundations-in-digital-visual-narratives/"><u>In 2024, Foundations in Digital Visual Narratives</u></a></li>
-<li><a href="https://win-web.techidaily.com/master-the-art-of-deletion-learn-how-to-erase-files-effectively-using-yl-software-techniques/"><u>Master the Art of Deletion: Learn How to Erase Files Effectively Using YL Software Techniques</u></a></li>
-<li><a href="https://win-web.techidaily.com/maximizing-thermal-management-effective-techniques-for-better-heat-dissipation-by-yl-software-experts/"><u>Maximizing Thermal Management: Effective Techniques for Better Heat Dissipation by YL Software Experts</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-windows-error-code-0xc0000005/"><u>Overcoming Windows Error Code 0XC0000005</u></a></li>
-<li><a href="https://win-web.techidaily.com/solving-blue-screen-dilemmas-in-seconds-expert-advice-from-yl-software-team/"><u>Solving Blue Screen Dilemmas in Seconds - Expert Advice From YL Software Team</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/switching-from-samsung-galaxy-s24-ultra-to-google-pixel-9-pro-xl-a-one-month-review-i-wont-forget-insights-by-zdnet/"><u>Switching From Samsung Galaxy S24 Ultra to Google Pixel 9 Pro XL: A One-Month Review I Won’t Forget - Insights by ZDNet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-elite-quartet-of-ai-hardware-innovations-taking-center-stage/"><u>The Elite Quartet of AI Hardware Innovations Taking Center Stage</u></a></li>
-<li><a href="https://win-web.techidaily.com/understanding-yl-computing-reasons-behind-receiving-an-obsolete-driver-notification-with-yl-software-solutions/"><u>Understanding YL Computing: Reasons Behind Receiving an 'Obsolete Driver' Notification with YL Software Solutions.</u></a></li>
-<li><a href="https://win-web.techidaily.com/unexpected-reboots-solved-identifying-the-culprits-behind-spontaneous-computer-restarts-insights-by-yl-software/"><u>Unexpected Reboots Solved: Identifying the Culprits Behind Spontaneous Computer Restarts - Insights by YL Software</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-mastering-the-art-of-preview-premiere-pro-edition/"><u>[New] Mastering the Art of Preview Premiere Pro Edition</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-win10-gaming-sessions-best-recording-approaches/"><u>[New] Win10 Gaming Sessions Best Recording Approaches</u></a></li>
+<li><a href="https://fake-location.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-zte-axon-40-lite-drfone-by-drfone-virtual-android/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On ZTE Axon 40 Lite | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/apple-iphone-14-pro-max-asking-for-passcode-after-ios-1714-update-what-to-do-drfone-by-drfone-ios/"><u>Apple iPhone 14 Pro Max Asking for Passcode after iOS 17/14 Update, What to Do? | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/experience-audio-freedom-with-discounted-sonos-roam-sl-grab-your-32-savings-now-get-the-best-on-zdnet/"><u>Experience Audio Freedom with Discounted Sonos Roam SL: Grab Your $32 Savings Now – Get the Best on ZDNET!</u></a></li>
+<li><a href="https://win-web.techidaily.com/mastering-windows-raid-setup-an-in-depth-and-complete-how-to-guide/"><u>Mastering Windows RAID Setup: An In-Depth and Complete How-To Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcoming-connection-hurdles-in-the-world-of-league-of-legends/"><u>Overcoming Connection Hurdles in the World of League of Legends</u></a></li>
+<li><a href="https://win-web.techidaily.com/schutze-deine-dateien-mit-dem-norton-pc-cloud-backup-fuhre-es-einfach-durch/"><u>Schütze Deine Dateien Mit Dem Norton PC Cloud Backup - Führe Es Einfach Durch!</u></a></li>
+<li><a href="https://win-web.techidaily.com/sechs-effektive-techniken-fur-den-transfer-von-dateien-zwischen-iphone-und-iphone-se/"><u>Sechs Effektive Techniken Für Den Transfer Von Dateien Zwischen iPhone Und iPhone SE</u></a></li>
+<li><a href="https://win-web.techidaily.com/sicherung-des-systemzustands-eine-anleitung-zur-verwendung-von-wbadmin-fur-backups/"><u>Sicherung Des Systemzustands: Eine Anleitung Zur Verwendung Von WBAdmin Für Backups</u></a></li>
+<li><a href="https://win-web.techidaily.com/solving-the-problem-of-non-responsive-itunes-on-windows-10-discover-8-reliable-methods/"><u>Solving the Problem of Non-Responsive iTunes on Windows 10 - Discover 8 Reliable Methods</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/egies-to-triple-your-earnings-on-youtube-shorts/"><u>Strategies to Triple Your Earnings on Youtube Shorts</u></a></li>
 </ul></div>
 

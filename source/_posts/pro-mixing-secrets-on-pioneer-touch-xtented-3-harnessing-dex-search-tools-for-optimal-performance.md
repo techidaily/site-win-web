@@ -1,7 +1,7 @@
 ---
 title: "Pro Mixing Secrets on Pioneer Touch XTENTED 3: Harnessing DEX Search Tools for Optimal Performance"
-date: 2025-01-04T03:33:47.122Z
-updated: 2025-01-09T01:03:38.011Z
+date: 2025-01-12T22:29:35.517Z
+updated: 2025-01-14T23:21:47.413Z
 tags:
   - product
 categories:
@@ -33,7 +33,7 @@ eg. if you want to search all Dance songs with bpm 128 from the 90’s in key 10
 **Here’s a video tutorial showcasing the new search options in PCDJ DEX 3.2 DJ software:**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -55,19 +55,22 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2015/01/dex32searchtips-coverimage
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-recording-made-simple-your-phone-cookbook-for-snapping-stories-for-2024/"><u>[New] Recording Made Simple Your Phone' Cookbook for Snapping Stories for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-webcam-integration-for-flawless-gameplay-logs/"><u>[New] Webcam Integration for Flawless Gameplay Logs</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/comparing-wrist-tech-why-you-might-prefer-a-google-pixel-watch-over-an-apple-watch-series-8-zdnet/"><u>Comparing Wrist Tech: Why You Might Prefer a Google Pixel Watch over an Apple Watch Series 8 | ZDNET</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/discovering-snapchats-video-capabilities-with-ease-for-2024/"><u>Discovering Snapchat's Video Capabilities with Ease for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enhancing-the-windows-menu-with-superior-powers/"><u>Enhancing the Windows Menu with Superior Powers</u></a></li>
-<li><a href="https://win-web.techidaily.com/expand-your-systems-potential-with-yl-software-learn-how-to-update-windows-registry-entries/"><u>Expand Your System's Potential with YL Software - Learn How to Update Windows Registry Entries</u></a></li>
-<li><a href="https://win-web.techidaily.com/how-to-fix-undetected-hardware-components-in-your-computer-system-expert-advice-from-yl-computing-solutions/"><u>How to Fix Undetected Hardware Components in Your Computer System – Expert Advice From YL Computing Solutions</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-remove-iphone-15-pro-sim-lock-by-drfone-ios/"><u>In 2024, How to Remove iPhone 15 Pro SIM Lock?</u></a></li>
-<li><a href="https://win-web.techidaily.com/master-the-art-of-deletion-learn-how-to-erase-files-effectively-using-yl-software-techniques/"><u>Master the Art of Deletion: Learn How to Erase Files Effectively Using YL Software Techniques</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/optimizing-video-creation-in-obs-studio/"><u>Optimizing Video Creation in OBS Studio</u></a></li>
-<li><a href="https://win-web.techidaily.com/stunning-digital-landscapes-for-your-pc-professional-hd-background-graphics-and-imagery-from-yl-computing/"><u>Stunning Digital Landscapes for Your PC: Professional HD Background Graphics and Imagery From YL Computing</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-comprehensive-guide-to-13-leading-free-pdf-editors-as-of-july-2024/"><u>The Comprehensive Guide to 13 Leading Free PDF Editors as of July 2024</u></a></li>
-<li><a href="https://win-web.techidaily.com/updating-your-windows-defender-threat-database-essential-tips-and-tricks-from-yl-software-solutions/"><u>Updating Your Windows Defender Threat Database: Essential Tips and Tricks From YL Software Solutions</u></a></li>
-<li><a href="https://win-web.techidaily.com/yls-comprehensive-tutorial-on-how-to-print-your-text-files-using-simple-methods/"><u>YL's Comprehensive Tutorial on How To Print Your Text Files Using Simple Methods</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-unlocking-vlcs-potential-for-mpeg-4-and-diverse-file-alterations-for-2024/"><u>[New] Unlocking VLC's Potential for MPEG-4 and Diverse File Alterations for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-choreographing-pictures-and-tunes-in-video/"><u>[Updated] 2024 Approved Choreographing Pictures & Tunes in Video</u></a></li>
+<li><a href="https://win-web.techidaily.com/1728489439743-windows-10/"><u>如何修正Windows 10 隔間封存器錯誤和數據失真問題</u></a></li>
+<li><a href="https://win-web.techidaily.com/1728481524586-windows-111087/"><u>最佳 Windows 系統 (11/10/8/7) 圖像恢復器選用指南</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/ancestral-creations-public-domain-masterpieces-for-2024/"><u>Ancestral Creations Public Domain Masterpieces for 2024</u></a></li>
+<li><a href="https://win-web.techidaily.com/boost-your-uploads-and-downloads-mastering-amazon-s3-transfer-acceleration-techniques/"><u>Boost Your Uploads & Downloads: Mastering Amazon S3 Transfer Acceleration Techniques</u></a></li>
+<li><a href="https://win-web.techidaily.com/clone-prozess-von-festplatten-auf-ssds-mit-clonezilla-eine-einfache-und-effiziente-methode/"><u>Clone-Prozess Von Festplatten Auf SSDs Mit Clonezilla: Eine Einfache Und Effiziente Methode</u></a></li>
+<li><a href="https://win-web.techidaily.com/emeditor-mastering-the-removal-of-gaps-between-numerals-and-fractions-for-cleaner-text-formatting/"><u>EmEditor: Mastering the Removal of Gaps Between Numerals and Fractions for Cleaner Text Formatting</u></a></li>
+<li><a href="https://win-web.techidaily.com/expert-tips-protecting-your-connections-by-moving-iphone-contact-info-to-your-google-profile/"><u>Expert Tips: Protecting Your Connections by Moving iPhone Contact Info to Your Google Profile</u></a></li>
+<li><a href="https://win-web.techidaily.com/guia-paso-a-paso-para-descargar-de-forma-gratuita-archivos-del-programa-wps-una-solucion-simple/"><u>Guía Paso a Paso Para Descargar De Forma Gratuita Archivos Del Programa WPS: Una Solución Simple</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-get-back-deleted-iphone-photographs-on-icloud-using-these-8-effective-tips/"><u>How To Get Back Deleted iPhone Photographs on iCloud Using These 8 Effective Tips</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-asus-rog-phone-8-pro-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Asus ROG Phone 8 Pro? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-nokia-xr21-drfone-by-drfone-virtual-android/"><u>In 2024, Reasons why Pokémon GPS does not Work On Nokia XR21? | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-sculpting-digital-landscapes-with-windows-10s-latest-features/"><u>In 2024, Sculpting Digital Landscapes with Windows 10'S Latest Features</u></a></li>
+<li><a href="https://win-web.techidaily.com/mise-a-jour-complete-pour-aomei-backupper-comment-passer-a-la-version-actuelle/"><u>Mise À Jour Complète Pour AOMEI Backupper: Comment Passer À La Version Actuelle?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ultimate-guide-to-transferring-videos-onto-your-handheld-game-consoles-psp-psp-2000-psp-3000-and-psp-go/"><u>Ultimate Guide to Transferring Videos Onto Your Handheld Game Consoles (PSP, PSP 2000, PSP 3000, & PSP Go)</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unleashing-your-wi-fis-potential-an-in-depth-look-at-netgears-nighthawk-x4-range-extender/"><u>Unleashing Your Wi-Fi's Potential: An In-Depth Look at Netgear's Nighthawk X4 Range Extender</u></a></li>
 </ul></div>
 
