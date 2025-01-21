@@ -1,7 +1,7 @@
 ---
 title: Get Your Hands on the DX 3.8 Release Candidate! Premier DJ Software Now Available – First Look Inside!
-date: 2025-01-11T17:20:19.356Z
-updated: 2025-01-14T20:41:11.107Z
+date: 2025-01-19T02:20:58.089Z
+updated: 2025-01-20T21:58:21.805Z
 tags:
   - product
 categories:
@@ -31,7 +31,7 @@ Be sure to test drive the new ‘_always in sync_‘ beat-lock engine and all ot
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Here’s What’s New, Changed And Fixed In DEX 3.8 RC2 (Since Monday’s Release)
@@ -49,7 +49,7 @@ Be sure to test drive the new ‘_always in sync_‘ beat-lock engine and all ot
 _In the event you wish to roll back to the prior 3.7.5.1 release of DEX 3 you can find it on the [DEX 3 support page here](https://tools.techidaily.com/pcdj/products/)._ 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### DEX 3.8 | NEW FEATURES OVERVIEW
@@ -57,7 +57,7 @@ _In the event you wish to roll back to the prior 3.7.5.1 release of DEX 3 you ca
 _Have questions about our **best DJ mixing software**, DEX 3.8? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -79,17 +79,18 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2017/05/downloaddex3rc2-coverimage
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-mastering-the-art-of-preview-premiere-pro-edition/"><u>[New] Mastering the Art of Preview Premiere Pro Edition</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-win10-gaming-sessions-best-recording-approaches/"><u>[New] Win10 Gaming Sessions Best Recording Approaches</u></a></li>
-<li><a href="https://fake-location.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-zte-axon-40-lite-drfone-by-drfone-virtual-android/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On ZTE Axon 40 Lite | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/apple-iphone-14-pro-max-asking-for-passcode-after-ios-1714-update-what-to-do-drfone-by-drfone-ios/"><u>Apple iPhone 14 Pro Max Asking for Passcode after iOS 17/14 Update, What to Do? | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/experience-audio-freedom-with-discounted-sonos-roam-sl-grab-your-32-savings-now-get-the-best-on-zdnet/"><u>Experience Audio Freedom with Discounted Sonos Roam SL: Grab Your $32 Savings Now – Get the Best on ZDNET!</u></a></li>
-<li><a href="https://win-web.techidaily.com/mastering-windows-raid-setup-an-in-depth-and-complete-how-to-guide/"><u>Mastering Windows RAID Setup: An In-Depth and Complete How-To Guide</u></a></li>
-<li><a href="https://win-blog.techidaily.com/overcoming-connection-hurdles-in-the-world-of-league-of-legends/"><u>Overcoming Connection Hurdles in the World of League of Legends</u></a></li>
-<li><a href="https://win-web.techidaily.com/schutze-deine-dateien-mit-dem-norton-pc-cloud-backup-fuhre-es-einfach-durch/"><u>Schütze Deine Dateien Mit Dem Norton PC Cloud Backup - Führe Es Einfach Durch!</u></a></li>
-<li><a href="https://win-web.techidaily.com/sechs-effektive-techniken-fur-den-transfer-von-dateien-zwischen-iphone-und-iphone-se/"><u>Sechs Effektive Techniken Für Den Transfer Von Dateien Zwischen iPhone Und iPhone SE</u></a></li>
-<li><a href="https://win-web.techidaily.com/sicherung-des-systemzustands-eine-anleitung-zur-verwendung-von-wbadmin-fur-backups/"><u>Sicherung Des Systemzustands: Eine Anleitung Zur Verwendung Von WBAdmin Für Backups</u></a></li>
-<li><a href="https://win-web.techidaily.com/solving-the-problem-of-non-responsive-itunes-on-windows-10-discover-8-reliable-methods/"><u>Solving the Problem of Non-Responsive iTunes on Windows 10 - Discover 8 Reliable Methods</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/egies-to-triple-your-earnings-on-youtube-shorts/"><u>Strategies to Triple Your Earnings on Youtube Shorts</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-understanding-the-fundamentals-of-online-tales/"><u>[Updated] Understanding the Fundamentals of Online Tales</u></a></li>
+<li><a href="https://win-web.techidaily.com/1728478484644-windows-112/"><u>新しいWindows 11で安全なデータ保護:2つの効果的なバックアップ戦略</u></a></li>
+<li><a href="https://driver-error.techidaily.com/comprehensive-fixes-to-tackle-the-blue-screen-of-death-code-0x0000007e-in-windows-7/"><u>Comprehensive Fixes to Tackle the Blue Screen of Death (Code: 0X0000007E) in Windows 7</u></a></li>
+<li><a href="https://win-web.techidaily.com/ensuring-safety-with-every-save-how-to-efficiently-backup-windows-11-folders-to-an-external-hard-drive-unveiling-three-techniques/"><u>Ensuring Safety with Every Save: How to Efficiently Backup Windows 11 Folders to an External Hard Drive – Unveiling Three Techniques</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-cards-of-xiaomi-redmi-note-13-5g-without-puk-codes-by-drfone-android/"><u>How To Unlock SIM Cards Of Xiaomi Redmi Note 13 5G Without PUK Codes</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/innovative-apps-transforming-linguistic-skills/"><u>Innovative Apps Transforming Linguistic Skills</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-harmonious-humans-cutting-out-clamor-from-your-compiled-charts-digitally-for-2024/"><u>New Harmonious Humans Cutting Out Clamor From Your Compiled Charts Digitally for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/no-more-elgato-driver-errors-effortless-repair-techniques-for-the-hyperdrive-s60/"><u>No More Elgato Driver Errors: Effortless Repair Techniques for the Hyperdrive S60</u></a></li>
+<li><a href="https://win-web.techidaily.com/pcnas/"><u>PC用の最適なNASバックアップ手法 - 専門家が推薦！</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-motorola-moto-g73-5g-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Motorola Moto G73 5G? 7 Ways to Resolve | Dr.fone</u></a></li>
+<li><a href="https://win-web.techidaily.com/revive-your-lost-files-restore-accidentally-deleted-documents/"><u>Revive Your Lost Files – Restore Accidentally Deleted Documents</u></a></li>
+<li><a href="https://win-web.techidaily.com/solutions-rapides-pour-le-probleme-du-double-clic-infructueux-sur-windows-11/"><u>Solutions Rapides Pour Le Problème Du Double-Clic Infructueux Sur Windows 11</u></a></li>
+<li><a href="https://win-web.techidaily.com/ungkapan-cukup-wajar-bagaimana-restorasi-gagal-pencabut-file-yang-tidak-terkausat-sekalian-dasar-dasar-memang-kejam/"><u>Ungkapan Cukup Wajar? Bagaimana Restorasi Gagal Pencabut File Yang Tidak Terkausat Sekalian [Dasar-Dasar Memang Kejam!]</u></a></li>
 </ul></div>
 

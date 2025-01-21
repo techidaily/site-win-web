@@ -1,7 +1,7 @@
 ---
 title: "Announcing the Launch of DEX Version 3.11.0.1: Latest Update in PCDJ DJ Software - Press Release"
-date: 2025-01-12T21:05:47.424Z
-updated: 2025-01-14T18:36:38.496Z
+date: 2025-01-15T02:16:35.029Z
+updated: 2025-01-21T01:06:38.151Z
 tags:
   - product
 categories:
@@ -21,7 +21,7 @@ thumbnail: https://thmb.techidaily.com/3631238ca7c06e0c64e4d00a9d13c9e8220b196fb
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## DJ Software and Karaoke Software designers Digital 1 Audio have raised the bar for Disc Jockey’s and venues with their DEX 3.11 all-in-one entertainment software update.
@@ -80,7 +80,7 @@ SYSTEM REQUIREMENTS: MAC
 Since 1999, Digital 1 Audio/PCDJ has been recognized as a leading developer and manufacturer of DJ and Karaoke live performance software. More than 80,000 professional DJs around the world now spin with their computer using one of company’s entertainment products.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### DEX 3.11 Overview Videos
@@ -88,7 +88,7 @@ Since 1999, Digital 1 Audio/PCDJ has been recognized as a leading developer and 
 New Features
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -110,24 +110,14 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2018/07/dex3-press-release.jpg?fit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-motivating-moments-on-the-silver-screen/"><u>[New] 2024 Approved Motivating Moments on the Silver Screen</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-the-2023-shift-in-facebooks-video-presentation-style/"><u>[New] 2024 Approved The 2023 Shift in Facebook’s Video Presentation Style</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-fusing-fun-and-functionality-top-6-engaging-video-formats/"><u>[Updated] 2024 Approved Fusing Fun and Functionality Top 6 Engaging Video Formats</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-bridging-the-gap-connecting-instagram-to-your-facebook-account-for-2024/"><u>[Updated] Bridging the Gap Connecting Instagram to Your Facebook Account for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-share-a-private-youtube-video-with-google-account/"><u>[Updated] In 2024, How to Share a Private YouTube Video with Google Account?</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-maximizing-snapchat-earning-potential-step-by-step/"><u>[Updated] Maximizing Snapchat Earning Potential Step by Step</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-navigating-youtubes-partnership-opportunities-in-cp2024/"><u>[Updated] Navigating Youtube's Partnership Opportunities in CP2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-vegas-pro-2021-unpacked-game-changer-or-just-another-tool-for-2024/"><u>[Updated] Vegas Pro 2021 Unpacked Game Changer or Just Another Tool for 2024</u></a></li>
-<li><a href="https://win-web.techidaily.com/1728482813523-5/"><u>5有效方法恢復已删除磁盘中的文件 - 教学详解</u></a></li>
-<li><a href="https://win-web.techidaily.com/1728491619560-windows/"><u>發現Windows系列內損失分割區文件的最有效恢復方法</u></a></li>
-<li><a href="https://blog-min.techidaily.com/android-to-apple-how-to-transfer-photos-from-vivo-s17e-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Android to Apple How To Transfer Photos From Vivo S17e to iPad Easily | Dr.fone</u></a></li>
-<li><a href="https://win-web.techidaily.com/comment-resoudre-le-probleme-de-demarrage-dans-windows-7/"><u>Comment Résoudre Le Problème De Démarrage Dans Windows 7</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-samsung-galaxy-f54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use GPS Joystick to Fake GPS Location On Samsung Galaxy F54 5G | Dr.fone</u></a></li>
-<li><a href="https://win-web.techidaily.com/jedem-einsteiger-zuganglicher-windows-server-backup-prozess-mit-amazon-drive/"><u>Jedem Einsteiger Zugänglicher Windows Server Backup-Prozess Mit Amazon Drive</u></a></li>
-<li><a href="https://win-web.techidaily.com/mastering-systemklon-und-systemmigration-eine-schrittweise-anleitung-zur-erfolgreichen-umsetzung/"><u>Mastering Systemklon Und Systemmigration: Eine Schrittweise Anleitung Zur Erfolgreichen Umsetzung</u></a></li>
-<li><a href="https://win-web.techidaily.com/meilleur-logiciel-de-duplication-ssd-optimise-pour-lexar-avec-un-manuel-dutilisation-detaille-a-linterieur/"><u>Meilleur Logiciel De Duplication SSD - Optimisé Pour Lexar Avec Un Manuel D'Utilisation Détaillé À L'Intérieur</u></a></li>
-<li><a href="https://win-web.techidaily.com/mov-filmdateien-wiederherstellen-effiziente-methoden-fur-geloschte-videodateien/"><u>MOV-Filmdateien Wiederherstellen: Effiziente Methoden Für Gelöschte Videodateien</u></a></li>
-<li><a href="https://win-web.techidaily.com/problemi-con-windows-10-center-sync-scopri-come-risolvere-i-problemi-comuni-del-centro-sincronizzazione/"><u>Problemi Con Windows 10 Center Sync? Scopri Come Risolvere I Problemi Comuni Del Centro Sincronizzazione</u></a></li>
-<li><a href="https://win-web.techidaily.com/wie-man-eine-defekte-datentragerrestaurierung-auf-einem-laptop-durchfuhrt/"><u>Wie Man Eine Defekte Datenträgerrestaurierung Auf Einem Laptop Durchführt</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-effective-techniques-to-prevent-photos-app-crashes-on-windows-11/"><u>[New] In 2024, Effective Techniques to Prevent Photos App Crashes on Windows 11</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-keeping-your-views-private-top-5-insta-tools/"><u>[New] In 2024, Keeping Your Views Private - Top 5 Insta Tools</u></a></li>
+<li><a href="https://win-web.techidaily.com/addressing-vmware-vcsas-logged-volume-capacity-issues-with-easy-solutions/"><u>Addressing VMware VCSA's Logged Volume Capacity Issues with Easy Solutions</u></a></li>
+<li><a href="https://win-web.techidaily.com/guia-paso-a-paso-para-cambiar-de-disco-duro-hdd-por-ssd-en-pc-con-windows-versiones-11-10-8-e-7/"><u>Guía Paso a Paso Para Cambiar De Disco Duro HDD Por SSD en PC Con Windows (Versiones 11, 10, 8, E 7)</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-unlock-your-potential-one-thousand-new-likesmonth/"><u>In 2024, Unlock Your Potential One Thousand New Likes/Month</u></a></li>
+<li><a href="https://win-web.techidaily.com/step-by-step-guide-restoring-your-pc-after-a-system-failure-on-windows-1011/"><u>Step-by-Step Guide: Restoring Your PC After a System Failure on Windows 10/11</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-definitive-list-of-grove-add-ons-for-stemma-qt-raspberry-pi-and-arduino-edition/"><u>The Definitive List of Grove Add-Ons for Stemma QT, Raspberry Pi & Arduino - Edition</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/the-social-networks-roadmap-making-the-most-of-daily-use-for-2024/"><u>The Social Network's Roadmap Making the Most of Daily Use for 2024</u></a></li>
+<li><a href="https://win-web.techidaily.com/top-5-methods-for-successfully-restoring-deleted-files-from-a-zip-archive-on-your-pc/"><u>Top 5 Methods for Successfully Restoring Deleted Files From a .zip Archive on Your PC</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide to Mastery in PCDJ: Using Favorite Folder Nesting + Music Imports – Free Video Demo Inside!"
-date: 2025-01-13T18:38:48.743Z
-updated: 2025-01-14T18:45:55.637Z
+date: 2025-01-14T21:36:05.476Z
+updated: 2025-01-20T18:57:17.205Z
 tags:
   - product
 categories:
@@ -26,7 +26,7 @@ Using favorites has another major benefit in comparison to lists – they’re d
 #### VIDEO DEMONSTRATION OF NESTING FAVORITE FOLDERS IN PCDJ DEX 3 DJ SOFTWARE
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -48,16 +48,22 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2014/09/foldersfavorites-coverimag
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-pursuing-perfection-on-track-compiling-top-5-simulators/"><u>[Updated] In 2024, Pursuing Perfection on Track Compiling Top 5 Simulators</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/a-perfect-guide-to-remove-or-disable-google-smart-lock-on-samsung-galaxy-s24-ultra-by-drfone-android/"><u>A Perfect Guide To Remove or Disable Google Smart Lock On Samsung Galaxy S24 Ultra</u></a></li>
-<li><a href="https://win-web.techidaily.com/adjusting-windows-defender-settings-for-tailored-scans-insights-from-yl-computing-experts/"><u>Adjusting Windows Defender Settings for Tailored Scans: Insights From YL Computing Experts</u></a></li>
-<li><a href="https://win-web.techidaily.com/catch-up-on-todays-hits-free-music-video-downloads-from-video-pool-by-dj-pcdj/"><u>Catch Up on Today’s Hits: Free Music Video Downloads From Video Pool by DJ PCDJ!</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/convert-and-enjoy-the-ultimate-free-software-winx-dvd-to-mp4-ripper-for-windows-11-users/"><u>Convert and Enjoy: The Ultimate Free Software, WinX DVD to MP4 Ripper for Windows 11 Users</u></a></li>
-<li><a href="https://win-web.techidaily.com/elegant-komi-san-wallpapers-and-screen-savers-ultimate-collection-by-yl-software/"><u>Elegant Komi-San Wallpapers & Screen Savers: Ultimate Collection by YL Software</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-oneplus-11-5g-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock OnePlus 11 5G Phone Password Without Factory Reset?</u></a></li>
-<li><a href="https://win-web.techidaily.com/is-there-a-cost-associated-with-using-yl-computings-tools-detailed-pricing-info/"><u>Is There a Cost Associated with Using YL Computing's Tools - Detailed Pricing Info</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/key-windows-apps-for-the-switcher-from-mac-users-to-windows-warriors/"><u>Key Windows Apps for the Switcher: From Mac Users to Windows Warriors</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/supercharge-apple-watch-longevity-with-essential-setting-modifications-expert-guide/"><u>Supercharge Apple Watch Longevity with Essential Setting Modifications - Expert Guide</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/the-ultimate-guide-to-metaverse-memes-and-diy-humor-mastery/"><u>The Ultimate Guide to Metaverse Memes and DIY Humor Mastery</u></a></li>
+<li><a href="https://fox-making.techidaily.com/1726792607057-y-3/"><u> [Y = -3 </u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-4-ways-to-go-live-on-tiktok-on-computer-for-2024/"><u>[New] 4 Ways to Go Live on TikTok on Computer for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-affordable-4k-cameras-guide-(1k-top-picks/"><u>[New] Affordable 4K Cameras Guide (<$1K) - Top Picks</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-optimizing-speed-on-vimeo-content/"><u>[Updated] Optimizing Speed on Vimeo Content</u></a></li>
+<li><a href="https://win-web.techidaily.com/discover-essential-operations-leveraging-windows-registry-with-yl-software-solutions/"><u>Discover Essential Operations: Leveraging Windows Registry with YL Software Solutions</u></a></li>
+<li><a href="https://win-web.techidaily.com/elevate-your-karaoke-session-with-cloud-pros-choicest-tracks-sweeping-singers-off-their-feet/"><u>Elevate Your Karaoke Session with Cloud Pro's Choicest Tracks, Sweeping Singers Off Their Feet!</u></a></li>
+<li><a href="https://win-web.techidaily.com/elevate-your-screen-with-squid-game-inspired-imagery-from-yl-software-a-gateway-to-cinematic-wallpapers/"><u>Elevate Your Screen with 'Squid Game'-Inspired Imagery From YL Software – A Gateway to Cinematic Wallpapers</u></a></li>
+<li><a href="https://win-web.techidaily.com/fixing-an-offline-printer-issue-with-simple-steps-from-yl-software-experts/"><u>Fixing an 'Offline' Printer Issue with Simple Steps From YL Software Experts</u></a></li>
+<li><a href="https://discover-able.techidaily.com/how-to-find-and-manage-bookmark-files-within-google-chromes-storage-system/"><u>How to Find and Manage Bookmark Files Within Google Chrome's Storage System</u></a></li>
+<li><a href="https://win-web.techidaily.com/passionate-picture-gallery-with-hd-quality-wallpapers-curated-by-yl-software/"><u>Passionate Picture Gallery with HD Quality Wallpapers - Curated by YL Software</u></a></li>
+<li><a href="https://win-web.techidaily.com/pcdjs-newest-release-get-your-hands-on-deckdj-36-for-an-enhanced-mixing-experience/"><u>PCDJ's Newest Release: Get Your Hands on DeckDJ 3.6 for an Enhanced Mixing Experience!</u></a></li>
+<li><a href="https://fox-access.techidaily.com/photojester-snapyour-chuckles/"><u>PhotoJester SnapYour Chuckles</u></a></li>
+<li><a href="https://techidaily.com/step-by-step-guide-installing-microsofts-copilot-ai-assistant-on-macos/"><u>Step-by-Step Guide: Installing Microsoft's Copilot AI Assistant on macOS</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-stop-windows-ts-constant-restarts-with-simple-solutions/"><u>Step-by-Step Guide: Stop Windows T's Constant Restarts with Simple Solutions</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-13-free-dvd-player-software-compatible-with-windows-11-enhance-your-media-experience/"><u>Top 13 Free DVD Player Software Compatible with Windows 11: Enhance Your Media Experience</u></a></li>
+<li><a href="https://win-web.techidaily.com/top-techniques-to-accelerate-your-computers-performance-insights-from-yl-computing-and-yl-software/"><u>Top Techniques to Accelerate Your Computer's Performance: Insights From YL Computing & YL Software</u></a></li>
+<li><a href="https://win-web.techidaily.com/yl-softwares-comprehensive-tutorial-on-fine-tuning-sound-control-options/"><u>YL Software's Comprehensive Tutorial on Fine-Tuning Sound Control Options</u></a></li>
 </ul></div>
 
