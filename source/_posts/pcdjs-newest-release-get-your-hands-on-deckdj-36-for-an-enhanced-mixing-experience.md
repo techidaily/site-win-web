@@ -1,7 +1,7 @@
 ---
 title: "PCDJ's Newest Release: Get Your Hands on DeckDJ 3.6 for an Enhanced Mixing Experience!"
-date: 2025-01-16T00:04:17.965Z
-updated: 2025-01-21T03:46:49.884Z
+date: 2025-01-23T23:57:13.802Z
+updated: 2025-01-26T16:27:48.379Z
 tags:
   - product
 categories:
@@ -35,7 +35,7 @@ We’ve **swatted a few annoying bugs** as well, including a memory issue presen
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What’s New, Changed Or Fixed In DEX 3.6.0.1
@@ -62,7 +62,7 @@ We’ve **swatted a few annoying bugs** as well, including a memory issue presen
 _Have questions about DEX 3.6 **VDJ mixing software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -84,21 +84,16 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2016/05/dex36publicrelease-coverim
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/updated-innovative-iphone-close-up-techniques-for-photo-excellence-for-2024/"><u>[Updated] Innovative iPhone Close-Up Techniques for Photo Excellence for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-secure-your-facetime-discussions-with-screen-record/"><u>2024 Approved Secure Your FaceTime Discussions with Screen Record</u></a></li>
-<li><a href="https://win-web.techidaily.com/1728489439743-windows-10/"><u>如何修正Windows 10 隔間封存器錯誤和數據失真問題</u></a></li>
-<li><a href="https://win-web.techidaily.com/acquire-aomei-system-recovery-expert-and-advanced-aomei-secure-backup-solutions-for-multiple-pcs/"><u>Acquire AOMEI System Recovery Expert & Advanced AOMEI Secure Backup Solutions for Multiple PCs</u></a></li>
-<li><a href="https://win-web.techidaily.com/clone-prozess-von-festplatten-auf-ssds-mit-clonezilla-eine-einfache-und-effiziente-methode/"><u>Clone-Prozess Von Festplatten Auf SSDs Mit Clonezilla: Eine Einfache Und Effiziente Methode</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/concealing-clock-show-dates-on-windows-interface/"><u>Concealing Clock, Show Dates on Windows Interface</u></a></li>
-<li><a href="https://win-web.techidaily.com/emeditor-mastering-the-removal-of-gaps-between-numerals-and-fractions-for-cleaner-text-formatting/"><u>EmEditor: Mastering the Removal of Gaps Between Numerals and Fractions for Cleaner Text Formatting</u></a></li>
-<li><a href="https://win-web.techidaily.com/expert-tips-protecting-your-connections-by-moving-iphone-contact-info-to-your-google-profile/"><u>Expert Tips: Protecting Your Connections by Moving iPhone Contact Info to Your Google Profile</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/experts-pick-of-best-image-restoration-programs-for-windows-and-apple-devices/"><u>Expert's Pick of Best Image Restoration Programs for Windows and Apple Devices</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/visionary-to-victory-channel-command-school-for-2024/"><u>From Visionary to Victory Channel Command School for 2024</u></a></li>
-<li><a href="https://win-web.techidaily.com/guia-paso-a-paso-para-descargar-de-forma-gratuita-archivos-del-programa-wps-una-solucion-simple/"><u>Guía Paso a Paso Para Descargar De Forma Gratuita Archivos Del Programa WPS: Una Solución Simple</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/hoherwertige-videobearbeitung-mit-kunstlicher-intelligenz-von-winxvideo-erreichen/"><u>Höherwertige Videobearbeitung Mit Künstlicher Intelligenz Von Winxvideo Erreichen!</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-do-xiaomi-redmi-note-12-5g-screen-sharing-drfone-by-drfone-android/"><u>How To Do Xiaomi Redmi Note 12 5G Screen Sharing | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-icloud-unlocker-download-unlock-icloud-lock-for-your-apple-iphone-14-plus-by-drfone-ios/"><u>In 2024, iCloud Unlocker Download Unlock iCloud Lock for your Apple iPhone 14 Plus</u></a></li>
-<li><a href="https://win-web.techidaily.com/resoudre-les-problemes-de-fausses-limitations-de-stockage-apres-avoir-clone-un-disque-dur-explication-claire-et-pratique/"><u>Résoudre Les Problèmes De Fausses Limitations De Stockage Après Avoir Cloné Un Disque Dur : Explication Claire Et Pratique</u></a></li>
-<li><a href="https://driver-download.techidaily.com/ultimate-gaming-improvement-with-updated-drivers-for-the-acer-predator-helios-300/"><u>Ultimate Gaming Improvement with Updated Drivers for the Acer Predator Helios 300</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-mastering-the-art-of-selecting-top-online-vhs-image-adjustments/"><u>[Updated] 2024 Approved Mastering the Art of Selecting Top Online VHS Image Adjustments</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-pushing-limits-with-vr-which-console-and-controller-fits-best/"><u>[Updated] In 2024, Pushing Limits with VR Which Console and Controller Fits Best?</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/closing-the-distance-zoom-in-for-a-clearer-picture/"><u>Closing the Distance Zoom in for a Clearer Picture</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/o-create-a-youtube-music-playlist-for-2024/"><u>How to Create a YouTube Music Playlist for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-fix-low-frame-rate-in-forza-horizon-5-tips-and-tricks/"><u>How to Fix Low Frame Rate in Forza Horizon 5: Tips & Tricks</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-integrated-guide-for-mobile-and-pc-session-records/"><u>In 2024, Integrated Guide for Mobile & PC Session Records</u></a></li>
+<li><a href="https://win-web.techidaily.com/1728475032768-nas/"><u>NASデータ失われたら速やかに復元！バッファローを使ってみる方法</u></a></li>
+<li><a href="https://win-web.techidaily.com/outlook-2010and/"><u>Outlook 2010のメールアカウントを安全にエクスポート&バックアップする詳細ガイド</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcome-star-wars-squadrons-bugs-easily-mastered-solutions-for-players/"><u>Overcome Star Wars: Squadrons Bugs Easily - Mastered Solutions for Players</u></a></li>
+<li><a href="https://win-web.techidaily.com/quick-and-easy-cloning-of-windows/"><u>Quick and Easy Cloning of Windows 지갑을 여러 컴퓨터에 도입하기 위한 세 가지 단계</u></a></li>
+<li><a href="https://win-web.techidaily.com/1728504019733-windows-11/"><u>Windows 11 系统防护功能显示为灰色的问题及其修复方法</u></a></li>
 </ul></div>
 
