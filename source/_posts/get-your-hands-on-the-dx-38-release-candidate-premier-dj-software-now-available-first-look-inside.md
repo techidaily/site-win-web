@@ -1,7 +1,7 @@
 ---
 title: Get Your Hands on the DX 3.8 Release Candidate! Premier DJ Software Now Available – First Look Inside!
-date: 2025-01-23T23:49:13.321Z
-updated: 2025-01-26T23:24:53.622Z
+date: 2025-02-05T23:44:03.260Z
+updated: 2025-02-08T19:16:02.718Z
 tags:
   - product
 categories:
@@ -31,7 +31,7 @@ Be sure to test drive the new ‘_always in sync_‘ beat-lock engine and all ot
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Here’s What’s New, Changed And Fixed In DEX 3.8 RC2 (Since Monday’s Release)
@@ -49,7 +49,7 @@ Be sure to test drive the new ‘_always in sync_‘ beat-lock engine and all ot
 _In the event you wish to roll back to the prior 3.7.5.1 release of DEX 3 you can find it on the [DEX 3 support page here](https://tools.techidaily.com/pcdj/products/)._ 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### DEX 3.8 | NEW FEATURES OVERVIEW
@@ -57,7 +57,7 @@ _In the event you wish to roll back to the prior 3.7.5.1 release of DEX 3 you ca
 _Have questions about our **best DJ mixing software**, DEX 3.8? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -79,19 +79,21 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2017/05/downloaddex3rc2-coverimage
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/nveiling-the-art-of-youtube-split-screens-for-2024/"><u>[New] Unveiling the Art of YouTube Split-Screens for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-surging-up-the-search-listings-key-tips-for-optimizing-your-videos/"><u>[Updated] In 2024, Surging Up the Search Listings Key Tips for Optimizing Your Videos</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-mastering-screen-sharing-on-windows-11-via-zoom/"><u>[Updated] Mastering Screen Sharing on Windows 11 via Zoom</u></a></li>
-<li><a href="https://win-web.techidaily.com/download-stunning-lady-sylvanas-windrunner-visual-graphics-and-photo-collections-by-yl-software/"><u>Download Stunning Lady Sylvanas Windrunner Visual Graphics and Photo Collections by YL Software</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/effective-ways-to-fix-checkra1n-error-31-from-iphone-6-plus-by-drfone-ios/"><u>Effective Ways To Fix Checkra1n Error 31 From iPhone 6 Plus</u></a></li>
-<li><a href="https://win-web.techidaily.com/essential-print-device-upkeep-top-tips-from-yl-computings-expertise/"><u>Essential Print Device Upkeep: Top Tips From YL Computing's Expertise</u></a></li>
-<li><a href="https://win-web.techidaily.com/evolving-power-structures-tracing-the-influence-of-mao-zedongs-revolution-on-modern-chinese-governance/"><u>Evolving Power Structures: Tracing the Influence of Mao Zedong’s Revolution on Modern Chinese Governance</u></a></li>
-<li><a href="https://win-web.techidaily.com/exploring-extra-capabilities-unveiling-the-hidden-functions-of-microsofts-windows-defender-a-deep-dive-by-yl-computing/"><u>Exploring Extra Capabilities: Unveiling the Hidden Functions of Microsoft's Windows Defender - A Deep Dive by YL Computing</u></a></li>
-<li><a href="https://fox-that.techidaily.com/imessage-disappearing-act-heres-what-it-means-and-how-to-check-for-a-block/"><u>IMessage Disappearing Act? Here’s What It Means and How to Check for a Block</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-a-oppo-k11x-easily-by-drfone-android/"><u>In 2024, How To Unlock a Oppo K11x Easily?</u></a></li>
-<li><a href="https://win-web.techidaily.com/interactive-live-display-of-the-cross-by-jesus-in-ultra-hd-quality-by-yl-digital-solutions/"><u>Interactive Live-Display of the Cross by Jesus in Ultra-HD Quality - By YL Digital Solutions</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/resetting-macs-dns-records-a-comprehensive-guide/"><u>Resetting Mac's DNS Records: A Comprehensive Guide</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/the-ultimate-entry-editor-for-diverse-tech-landscape-of-2023-for-2024/"><u>The Ultimate Entry Editor for Diverse Tech Landscape of 2023 for 2024</u></a></li>
-<li><a href="https://win-web.techidaily.com/yls-guide-to-steering-clear-of-cryptocurrency-deceptions-strategies-for-safety-yl-tech-solutions/"><u>YL's Guide to Steering Clear of Cryptocurrency Deceptions - Strategies for Safety | YL Tech Solutions</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-sending-non-retwitted-videos-from-your-mobile-browser-to-twitter/"><u>[New] 2024 Approved Sending Non-Retwitted Videos From Your Mobile Browser to Twitter</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-the-5-best-voice-recorders-to-complement-your-apple-device/"><u>[New] In 2024, The 5 Best Voice Recorders to Complement Your Apple Device</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-supreme-narrative-designers-den/"><u>[Updated] In 2024, Supreme Narrative Designer's Den</u></a></li>
+<li><a href="https://win-web.techidaily.com/1728492779737-windows-server-202/"><u>「Windows Server 202#を効率的にインストールする方法：詳細な手引き」</u></a></li>
+<li><a href="https://win-web.techidaily.com/comment-resoudre-le-probleme-fonctionnent-mal-avec-diskpart-methodes-utiles-5-astuces/"><u>Comment Résoudre Le Problème 'Fonctionnent Mal' Avec Diskpart - Méthodes Utiles (5 Astuces)</u></a></li>
+<li><a href="https://win-web.techidaily.com/guide-facile-comment-utiliser-une-cle-usb-recuperation-windows-11-sur-des-systemes-distincts/"><u>Guide Facile : Comment Utiliser Une Clé USB Récupération Windows 11 Sur Des Systèmes Distincts</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-advanced-strategies-for-youtube-audio-editing-mastery/"><u>In 2024, Advanced Strategies for YouTube Audio Editing Mastery</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-circle-everything-you-need-to-know-on-honor-x8b-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Circle Everything You Need to Know On Honor X8b | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-in-depth-look-at-nikons-4k-powerhouse-j5/"><u>In 2024, The In-Depth Look at Nikon's 4K Powerhouse - J5</u></a></li>
+<li><a href="https://program-issues.techidaily.com/persistent-problems-eliminate-gta-5-game-crashes-with-these-fixes/"><u>Persistent Problems? Eliminate GTA 5 Game Crashes with These Fixes</u></a></li>
+<li><a href="https://win-web.techidaily.com/procedura-facile-per-copia-dati-in-cloud-con-dropbox-2-opzioni-gratis/"><u>Procedura Facile per Copia Dati in Cloud Con DropBox - 2 Opzioni Gratis</u></a></li>
+<li><a href="https://win-web.techidaily.com/schritt-fur-schritt-anleitung-zum-sicheren-backup-ihres-systems-unter-windows-einstellen-bevor-sie-es-neu-installieren/"><u>Schritt-Für-Schritt-Anleitung Zum Sicheren Backup Ihres Systems Unter Windows Einstellen, Bevor Sie Es Neu Installieren</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/slomo-mastery-unleashed-in-depth-2024-review/"><u>SloMo Mastery Unleashed In-Depth 2024 Review</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ltimate-list-best-history-yt-channels-for-knowledge-seekers-for-2024/"><u>The Ultimate List Best History YT Channels For Knowledge Seekers for 2024</u></a></li>
+<li><a href="https://win-web.techidaily.com/troubleshooting-steps-for-itunes-home-sharing-problems-on-various-versions-of-windows-os/"><u>Troubleshooting Steps for iTunes Home Sharing Problems on Various Versions of Windows OS</u></a></li>
+<li><a href="https://win-web.techidaily.com/windows-11usbos/"><u>Windows 11用初学者のガイド：外付けUSBドライブへのOSバックアップ</u></a></li>
 </ul></div>
 

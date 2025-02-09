@@ -1,7 +1,7 @@
 ---
 title: Essential System Specifications for Optimal Performance
-date: 2025-01-14T03:44:59.870Z
-updated: 2025-01-21T07:13:11.270Z
+date: 2025-02-03T16:08:19.587Z
+updated: 2025-02-08T16:06:10.161Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/58c0c03589ad5318adbacb770fdc6992f0cc6897996afbcf99c8f0373ebae00e.jpg
@@ -17,10 +17,6 @@ thumbnail: https://thmb.techidaily.com/58c0c03589ad5318adbacb770fdc6992f0cc68979
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Logiciel de sauvegarde NAS Buffalo le plus efficace ! \[Guide inclus\]
 
@@ -47,11 +43,11 @@ NAS Buffalo est la solution idéale pour la protection des données et peut faci
 
 [![buffalo](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/others/image/nas-buffalo.png)
 
-Ne vous inquiétez pas trop. Vous pouvez envisager d'utiliser un logiciel de sauvegarde NAS tiers pour vous aider. [AOMEI Backupper Standard](https://tools.techidaily.com/ubackup/products/) est un excellent choix en raison de sa grande compatibilité (prise en charge de Windows 7/8/10/11/XP/Vista), de sa gratuité, de sa facilité d'utilisation, de sa flexibilité et de ses fonctionnalités riches.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+Ne vous inquiétez pas trop. Vous pouvez envisager d'utiliser un logiciel de sauvegarde NAS tiers pour vous aider. [AOMEI Backupper Standard](https://tools.techidaily.com/ubackup/products/) est un excellent choix en raison de sa grande compatibilité (prise en charge de Windows 7/8/10/11/XP/Vista), de sa gratuité, de sa facilité d'utilisation, de sa flexibilité et de ses fonctionnalités riches.
 
 ## Avantages du logiciel de sauvegarde NAS Buffalo - AOMEI Backupper Standard
 
@@ -72,6 +68,10 @@ Toutes les opérations s'effectuent dans une interface intuitive, ce qui permet 
 Meilleur logiciel de sauvegarde Windows gratuit pour usage personnel.
 
 [**Télécharger gratuiciel** Windows 11/10/8.1/8/7](https://tools.techidaily.com/ubackup/products/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Comment utiliser le logiciel de sauvegarde NAS Buffalo pour Windows pour sauvegarder des fichiers
 
@@ -97,6 +97,10 @@ Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le no
 
 [![ajouter périphérique share ou nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/emplacement-reseau.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Étape 3.** Cliquez là où la flèche pointe et sélectionnez le disque externe préparé comme destination.
 
 [![destination](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/choix-chemin-destinations.png)
@@ -106,7 +110,7 @@ Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le no
 [![mode planifier](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/mode-planifier.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Par défaut, ce logiciel créera une sauvegarde complète et 6 sauvegardes incrémentielles si vous définissez une tâche de sauvegarde planifiée. Cela peut entraîner un problème d'espace disque plein à long terme, il est donc recommandé d'activer le [Plan de sauvegarde](https://tools.techidaily.com/ubackup/products/) et de supprimer automatiquement les fichiers de sauvegarde. Pour profiter de ces fonctions, passez à l'édition [Professional](https://tools.techidaily.com/ubackup/products/).
@@ -116,14 +120,6 @@ Et la sauvegarde incrémentielle nécessite une récupération plus complexe tan
 De plus, vous pouvez activer la notification par e-mail une fois la tâche terminée. Commenter, fractionner, compresser l'image de sauvegarde ou sélectionner un mode de sauvegarde, etc.
 
 [![options](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/options-sauvegarder/sauvegarde-options.png "AOMEI Email SMS Notification Settings")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Dernières réflexions sur l'utilitaire de sauvegarde Buffalo
 
@@ -146,7 +142,7 @@ Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour no
 Éditrice senior d'AOMEI Technology qui rédige principalement des articles sur la sauvegarde, la synchronisation, le clonage et la restauration de l'ordinateur, tout dans le but de proposer des solutions simples aux utilisateurs pour protéger les données de leur ordinateur. Grâce à ses expertises informatiques, elle propose souvent des astuces très utiles.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Autres articles connexes
@@ -178,10 +174,14 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Propre & Sûr
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -198,16 +198,20 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-legendary-lens-showdown-sj6-vs-the-four-k-visionaries-of-xiaomi/"><u>[New] In 2024, Legendary Lens Showdown SJ6 Vs. The Four-K Visionaries of Xiaomi</u></a></li>
-<li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-samsung-galaxy-a14-4g-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for Samsung Galaxy A14 4G | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-5-secrets-to-successful-and-memorable-titles/"><u>2024 Approved 5 Secrets to Successful and Memorable Titles</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-the-ultimate-framework-for-selecting-winning-podcast-names/"><u>2024 Approved The Ultimate Framework for Selecting Winning Podcast Names</u></a></li>
-<li><a href="https://win-web.techidaily.com/easy-instructions-for-modifying-printer-configuration-expertise-by-yl-software/"><u>Easy Instructions for Modifying Printer Configuration - Expertise by YL Software</u></a></li>
-<li><a href="https://win-web.techidaily.com/exploring-cryptocurrency-limitations-potential-challenges-and-considerations-expert-analysis-by-yl-software/"><u>Exploring Cryptocurrency Limitations: Potential Challenges and Considerations – Expert Analysis by YL Software</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-motorola-moto-g34-5g-drfone-by-drfone-virtual-android/"><u>How can I get more stardust in pokemon go On Motorola Moto G34 5G? | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-ways-to-find-unlocking-codes-for-infinix-gt-10-pro-phones-by-drfone-android/"><u>In 2024, Ways To Find Unlocking Codes For Infinix GT 10 Pro Phones</u></a></li>
-<li><a href="https://win-web.techidaily.com/unlocking-prosperity-the-benefits-of-embracing-cryptocurrency-with-insights-from-yl-computing/"><u>Unlocking Prosperity: The Benefits of Embracing Cryptocurrency with Insights From YL Computing</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unveiling-8-exceptional-alternatives-to-traditional-mobile-numbers-apps/"><u>Unveiling 8 Exceptional Alternatives to Traditional Mobile Numbers Apps</u></a></li>
-<li><a href="https://win-web.techidaily.com/unveiling-consequences-how-did-the-initial-sino-japanese-war-shape-modern-asia-insights-from-yl-computings-tech-expertise/"><u>Unveiling Consequences: How Did the Initial Sino-Japanese War Shape Modern Asia? Insights From YL Computing's Tech Expertise</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-metaverse-visibility-your-step-by-step-avatar-design/"><u>[New] 2024 Approved Metaverse Visibility Your Step-by-Step Avatar Design</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-rapid-route-to-reclaimed-reddit-articles/"><u>[New] 2024 Approved Rapid Route to Reclaimed Reddit Articles</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-integrating-youtube-into-your-social-media-strategy-facebook-for-2024/"><u>[Updated] Integrating YouTube Into Your Social Media Strategy - Facebook for 2024</u></a></li>
+<li><a href="https://win-web.techidaily.com/discover-essential-operations-leveraging-windows-registry-with-yl-software-solutions/"><u>Discover Essential Operations: Leveraging Windows Registry with YL Software Solutions</u></a></li>
+<li><a href="https://win-web.techidaily.com/elevate-your-karaoke-session-with-cloud-pros-choicest-tracks-sweeping-singers-off-their-feet/"><u>Elevate Your Karaoke Session with Cloud Pro's Choicest Tracks, Sweeping Singers Off Their Feet!</u></a></li>
+<li><a href="https://win-web.techidaily.com/elevate-your-screen-with-squid-game-inspired-imagery-from-yl-software-a-gateway-to-cinematic-wallpapers/"><u>Elevate Your Screen with 'Squid Game'-Inspired Imagery From YL Software – A Gateway to Cinematic Wallpapers</u></a></li>
+<li><a href="https://win-web.techidaily.com/fixing-an-offline-printer-issue-with-simple-steps-from-yl-software-experts/"><u>Fixing an 'Offline' Printer Issue with Simple Steps From YL Software Experts</u></a></li>
+<li><a href="https://fox-that.techidaily.com/get-back-online-effective-techniques-for-resolving-safari-issues-on-iphones-top-10/"><u>Get Back Online: Effective Techniques for Resolving Safari Issues on iPhones (Top 10)</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-a-locked-nokia-c12-phone-by-drfone-android/"><u>How to Reset a Locked Nokia C12 Phone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/numeric-precision-the-art-of-editing-tiktok-counts/"><u>Numeric Precision The Art of Editing TikTok Counts</u></a></li>
+<li><a href="https://win-web.techidaily.com/passionate-picture-gallery-with-hd-quality-wallpapers-curated-by-yl-software/"><u>Passionate Picture Gallery with HD Quality Wallpapers - Curated by YL Software</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/rhythm-rendezvous-optimal-dj-video-selections-for-2024/"><u>Rhythm Rendezvous Optimal DJ Video Selections for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/the-creators-lab-building-an-unstoppable-channel-for-2024/"><u>The Creator's Lab Building an Unstoppable Channel for 2024</u></a></li>
+<li><a href="https://win-web.techidaily.com/top-techniques-to-accelerate-your-computers-performance-insights-from-yl-computing-and-yl-software/"><u>Top Techniques to Accelerate Your Computer's Performance: Insights From YL Computing & YL Software</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-xiaomi-redmi-13c-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Xiaomi Redmi 13C | Dr.fone</u></a></li>
 </ul></div>
 

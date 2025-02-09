@@ -1,7 +1,7 @@
 ---
 title: "PCDJ's Newest Release: Get Your Hands on DeckDJ 3.6 for an Enhanced Mixing Experience!"
-date: 2025-01-23T23:57:13.802Z
-updated: 2025-01-26T16:27:48.379Z
+date: 2025-02-04T17:32:54.294Z
+updated: 2025-02-09T01:05:35.821Z
 tags:
   - product
 categories:
@@ -35,7 +35,7 @@ We’ve **swatted a few annoying bugs** as well, including a memory issue presen
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What’s New, Changed Or Fixed In DEX 3.6.0.1
@@ -62,7 +62,7 @@ We’ve **swatted a few annoying bugs** as well, including a memory issue presen
 _Have questions about DEX 3.6 **VDJ mixing software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -84,16 +84,20 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2016/05/dex36publicrelease-coverim
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-mastering-the-art-of-selecting-top-online-vhs-image-adjustments/"><u>[Updated] 2024 Approved Mastering the Art of Selecting Top Online VHS Image Adjustments</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-pushing-limits-with-vr-which-console-and-controller-fits-best/"><u>[Updated] In 2024, Pushing Limits with VR Which Console and Controller Fits Best?</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/closing-the-distance-zoom-in-for-a-clearer-picture/"><u>Closing the Distance Zoom in for a Clearer Picture</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/o-create-a-youtube-music-playlist-for-2024/"><u>How to Create a YouTube Music Playlist for 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/how-to-fix-low-frame-rate-in-forza-horizon-5-tips-and-tricks/"><u>How to Fix Low Frame Rate in Forza Horizon 5: Tips & Tricks</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-integrated-guide-for-mobile-and-pc-session-records/"><u>In 2024, Integrated Guide for Mobile & PC Session Records</u></a></li>
-<li><a href="https://win-web.techidaily.com/1728475032768-nas/"><u>NASデータ失われたら速やかに復元！バッファローを使ってみる方法</u></a></li>
-<li><a href="https://win-web.techidaily.com/outlook-2010and/"><u>Outlook 2010のメールアカウントを安全にエクスポート&バックアップする詳細ガイド</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcome-star-wars-squadrons-bugs-easily-mastered-solutions-for-players/"><u>Overcome Star Wars: Squadrons Bugs Easily - Mastered Solutions for Players</u></a></li>
-<li><a href="https://win-web.techidaily.com/quick-and-easy-cloning-of-windows/"><u>Quick and Easy Cloning of Windows 지갑을 여러 컴퓨터에 도입하기 위한 세 가지 단계</u></a></li>
-<li><a href="https://win-web.techidaily.com/1728504019733-windows-11/"><u>Windows 11 系统防护功能显示为灰色的问题及其修复方法</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-getting-the-most-out-of-your-youtube-videos-thumbnails-extraction-for-2024/"><u>[New] Getting the Most Out of Your Youtube Videos Thumbnails Extraction for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-maximizing-engagement-essential-strategies-for-facebook-video-promotion-for-2024/"><u>[New] Maximizing Engagement Essential Strategies for Facebook Video Promotion for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-top-eco-friendly-filming-tech-mastery-guide/"><u>[Updated] In 2024, Top Eco-Friendly Filming Tech Mastery Guide</u></a></li>
+<li><a href="https://win-web.techidaily.com/1-assessing-the-safety-of-encryption-based-crypto-wallet-balance-verification-tools-by-yl-computing/"><u>1. Assessing the Safety of Encryption-Based Crypto Wallet Balance Verification Tools by YL Computing</u></a></li>
+<li><a href="https://win-web.techidaily.com/50-songs-a-week-the-ultimate-guide-to-mastering-magic-number-karaoke-on-cloudkaraokepro-dj-success/"><u>50 Songs a Week: The Ultimate Guide to Mastering 'Magic Number' Karaoke on CloudKaraokePro | DJ Success</u></a></li>
+<li><a href="https://win-web.techidaily.com/diagnosing-slow-graphics-card-issues-expert-advice-by-yl-computing-and-yl-software/"><u>Diagnosing Slow Graphics Card Issues: Expert Advice by YL Computing & YL Software</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/effective-ways-to-fix-checkra1n-error-31-from-apple-iphone-15-plus-by-drfone-ios/"><u>Effective Ways To Fix Checkra1n Error 31 From Apple iPhone 15 Plus</u></a></li>
+<li><a href="https://win-web.techidaily.com/fixing-an-offline-printer-issue-with-simple-steps-from-yl-software-experts/"><u>Fixing an 'Offline' Printer Issue with Simple Steps From YL Software Experts</u></a></li>
+<li><a href="https://win-web.techidaily.com/how-to-fix-a-broken-cpu-expert-tips-from-yl-computing-and-software/"><u>How to Fix a Broken CPU: Expert Tips From YL Computing & Software</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-2-ways-to-monitor-apple-iphone-6-activity-drfone-by-drfone-virtual-ios/"><u>In 2024, 2 Ways to Monitor Apple iPhone 6 Activity | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-igniting-virality-with-captivating-fb-giveaway-campaigns/"><u>In 2024, Igniting Virality with Captivating FB Giveaway Campaigns</u></a></li>
+<li><a href="https://location-social.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-vivo-v29e-drfone-by-drfone-virtual-android/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Vivo V29e | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/the-ultimate-line-up-of-artistic-software-for-windows-10/"><u>The Ultimate Line-Up of Artistic Software for Windows 10</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/outube-spotlight-key-influences-on-your-viewership-position-for-2024/"><u>Top YouTube Spotlight Key Influences on Your Viewership Position for 2024</u></a></li>
+<li><a href="https://win-web.techidaily.com/yl-softwares-comprehensive-tutorial-on-fine-tuning-sound-control-options/"><u>YL Software's Comprehensive Tutorial on Fine-Tuning Sound Control Options</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Pro Mixing Secrets on Pioneer Touch XTENTED 3: Harnessing DEX Search Tools for Optimal Performance"
-date: 2025-01-19T22:49:23.901Z
-updated: 2025-01-26T16:05:16.676Z
+date: 2025-02-06T20:44:26.486Z
+updated: 2025-02-09T01:37:03.544Z
 tags:
   - product
 categories:
@@ -33,7 +33,7 @@ eg. if you want to search all Dance songs with bpm 128 from the 90’s in key 10
 **Here’s a video tutorial showcasing the new search options in PCDJ DEX 3.2 DJ software:**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -55,20 +55,20 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2015/01/dex32searchtips-coverimage
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-unveiling-secrets-of-effortless-screen-sharing-in-meet/"><u>[New] 2024 Approved Unveiling Secrets of Effortless Screen Sharing in Meet</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-step-by-step-uploading-videos-to-instagram-on-desktop/"><u>[Updated] 2024 Approved Step-by-Step Uploading Videos to Instagram on Desktop</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-a-detailed-walkthrough-for-integrating-instagram-effects-on-archive-media-for-2024/"><u>[Updated] A Detailed Walkthrough for Integrating Instagram Effects on Archive Media for 2024</u></a></li>
-<li><a href="https://win-web.techidaily.com/1728478484644-windows-112/"><u>新しいWindows 11で安全なデータ保護:2つの効果的なバックアップ戦略</u></a></li>
-<li><a href="https://win-web.techidaily.com/ensuring-safety-with-every-save-how-to-efficiently-backup-windows-11-folders-to-an-external-hard-drive-unveiling-three-techniques/"><u>Ensuring Safety with Every Save: How to Efficiently Backup Windows 11 Folders to an External Hard Drive – Unveiling Three Techniques</u></a></li>
-<li><a href="https://win-dash.techidaily.com/get-the-new-intel-matrix-storage-management-software-and-drivers-for-windows-11-10-8-and-ebuild-eses-compatible-drivers/"><u>Get the New Intel Matrix Storage Management Software & Drivers for Windows 11, 10, 8, and Ebuild (eSES) Compatible Drivers</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-a-comprehensive-guide-to-share-facebook-videos-with-whatsapp/"><u>In 2024, A Comprehensive Guide to Share Facebook Videos with WhatsApp</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-nokia-c12-pro-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Nokia C12 Pro Location on Skout | Dr.fone</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-the-ultimate-guide-to-animation-creation-top-software-for-2024/"><u>New The Ultimate Guide to Animation Creation Top Software for 2024</u></a></li>
-<li><a href="https://win-web.techidaily.com/pcnas/"><u>PC用の最適なNASバックアップ手法 - 専門家が推薦！</u></a></li>
-<li><a href="https://win-web.techidaily.com/pcie-ssdhdd-2024/"><u>PCIe SSDへのHDD変換 - 最新手順：2024年の簡単なチェインワークフロー</u></a></li>
-<li><a href="https://win-web.techidaily.com/revive-your-lost-files-restore-accidentally-deleted-documents/"><u>Revive Your Lost Files – Restore Accidentally Deleted Documents</u></a></li>
-<li><a href="https://win-web.techidaily.com/solutions-rapides-pour-le-probleme-du-double-clic-infructueux-sur-windows-11/"><u>Solutions Rapides Pour Le Problème Du Double-Clic Infructueux Sur Windows 11</u></a></li>
-<li><a href="https://win-web.techidaily.com/ungkapan-cukup-wajar-bagaimana-restorasi-gagal-pencabut-file-yang-tidak-terkausat-sekalian-dasar-dasar-memang-kejam/"><u>Ungkapan Cukup Wajar? Bagaimana Restorasi Gagal Pencabut File Yang Tidak Terkausat Sekalian [Dasar-Dasar Memang Kejam!]</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/update-your-scansnap-s1300i-software-with-these-simple-tips/"><u>Update Your ScanSnap S1300i Software with These Simple Tips!</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-strategies-to-speedy-up-vimeo-videos/"><u>[New] 2024 Approved Strategies to Speedy Up Vimeo Videos</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-embark-on-your-video-vision-start-your-youtube-channel/"><u>[Updated] 2024 Approved Embark on Your Video Vision Start Your YouTube Channel</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-rapid-rhythm-revelations-audio-and-actors-dance/"><u>[Updated] In 2024, Rapid Rhythm Revelations Audio and Actors' Dance</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-the-seventh-line-up-of-all-weather-action-cams/"><u>[Updated] In 2024, The Seventh Line-Up of All-Weather Action Cams</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/1-identifying-the-root-cause-of-mysterious-app-failures-expert-tips-from-yl-computing/"><u>1. Identifying the Root Cause of Mysterious App Failures: Expert Tips From YL Computing</u></a></li>
+<li><a href="https://win-web.techidaily.com/yl-software/"><u>武则天的礼仪装饰元素和意义：YL Software深度探究</u></a></li>
+<li><a href="https://win-web.techidaily.com/comprehensive-tutorial-by-yl-software-the-ultimate-strategy-for-buying-and-selling-digital-coins/"><u>Comprehensive Tutorial by YL Software: The Ultimate Strategy for Buying and Selling Digital Coins</u></a></li>
+<li><a href="https://win-web.techidaily.com/easy-steps-for-zipping-files-with-yl-computings-windows-10-tutorial/"><u>Easy Steps for Zipping Files with YL Computing's Windows 10 Tutorial</u></a></li>
+<li><a href="https://win-web.techidaily.com/efficiently-configure-power-settings-in-windows-os-with-our-expert-yl-guides/"><u>Efficiently Configure Power Settings in Windows OS with Our Expert YL Guides</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exclusive-look-at-the-most-effective-irobot-vacuum-cleaners-of-2024-tested-for-you-by-wirecutter/"><u>Exclusive Look at the Most Effective iRobot Vacuum Cleaners of 2024 - Tested for You by Wirecutter</u></a></li>
+<li><a href="https://win-web.techidaily.com/identifying-and-fixing-non-recognition-issues-in-your-systems-hardware-insights-from-yl-software-experts/"><u>Identifying & Fixing Non-Recognition Issues in Your System's Hardware: Insights From YL Software Experts</u></a></li>
+<li><a href="https://win-web.techidaily.com/identifying-frequent-indicators-how-to-recognize-windows-memory-issues-expert-advice-from-yl-computing/"><u>Identifying Frequent Indicators: How to Recognize Windows Memory Issues - Expert Advice From YL Computing</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-itel-p55plus-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Itel P55+</u></a></li>
+<li><a href="https://win-web.techidaily.com/step-by-step-guide-to-opening-the-windows-control-panel-folder-tips-from-yl-computing/"><u>Step-by-Step Guide to Opening the Windows Control Panel Folder - Tips From YL Computing</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ichotomy-of-youtube-rights-and-cc-licenses-for-2024/"><u>The Dichotomy of YouTube Rights and CC Licenses for 2024</u></a></li>
 </ul></div>
 
