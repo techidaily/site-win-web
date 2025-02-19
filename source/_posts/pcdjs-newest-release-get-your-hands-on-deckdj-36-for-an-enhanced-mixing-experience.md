@@ -1,7 +1,7 @@
 ---
 title: "PCDJ's Newest Release: Get Your Hands on DeckDJ 3.6 for an Enhanced Mixing Experience!"
-date: 2025-02-04T17:32:54.294Z
-updated: 2025-02-09T01:05:35.821Z
+date: 2025-02-15T17:01:48.127Z
+updated: 2025-02-19T00:06:48.913Z
 tags:
   - product
 categories:
@@ -35,7 +35,7 @@ We’ve **swatted a few annoying bugs** as well, including a memory issue presen
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What’s New, Changed Or Fixed In DEX 3.6.0.1
@@ -62,7 +62,7 @@ We’ve **swatted a few annoying bugs** as well, including a memory issue presen
 _Have questions about DEX 3.6 **VDJ mixing software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -84,20 +84,24 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2016/05/dex36publicrelease-coverim
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-getting-the-most-out-of-your-youtube-videos-thumbnails-extraction-for-2024/"><u>[New] Getting the Most Out of Your Youtube Videos Thumbnails Extraction for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-maximizing-engagement-essential-strategies-for-facebook-video-promotion-for-2024/"><u>[New] Maximizing Engagement Essential Strategies for Facebook Video Promotion for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-top-eco-friendly-filming-tech-mastery-guide/"><u>[Updated] In 2024, Top Eco-Friendly Filming Tech Mastery Guide</u></a></li>
-<li><a href="https://win-web.techidaily.com/1-assessing-the-safety-of-encryption-based-crypto-wallet-balance-verification-tools-by-yl-computing/"><u>1. Assessing the Safety of Encryption-Based Crypto Wallet Balance Verification Tools by YL Computing</u></a></li>
-<li><a href="https://win-web.techidaily.com/50-songs-a-week-the-ultimate-guide-to-mastering-magic-number-karaoke-on-cloudkaraokepro-dj-success/"><u>50 Songs a Week: The Ultimate Guide to Mastering 'Magic Number' Karaoke on CloudKaraokePro | DJ Success</u></a></li>
-<li><a href="https://win-web.techidaily.com/diagnosing-slow-graphics-card-issues-expert-advice-by-yl-computing-and-yl-software/"><u>Diagnosing Slow Graphics Card Issues: Expert Advice by YL Computing & YL Software</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/effective-ways-to-fix-checkra1n-error-31-from-apple-iphone-15-plus-by-drfone-ios/"><u>Effective Ways To Fix Checkra1n Error 31 From Apple iPhone 15 Plus</u></a></li>
-<li><a href="https://win-web.techidaily.com/fixing-an-offline-printer-issue-with-simple-steps-from-yl-software-experts/"><u>Fixing an 'Offline' Printer Issue with Simple Steps From YL Software Experts</u></a></li>
-<li><a href="https://win-web.techidaily.com/how-to-fix-a-broken-cpu-expert-tips-from-yl-computing-and-software/"><u>How to Fix a Broken CPU: Expert Tips From YL Computing & Software</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-2-ways-to-monitor-apple-iphone-6-activity-drfone-by-drfone-virtual-ios/"><u>In 2024, 2 Ways to Monitor Apple iPhone 6 Activity | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-igniting-virality-with-captivating-fb-giveaway-campaigns/"><u>In 2024, Igniting Virality with Captivating FB Giveaway Campaigns</u></a></li>
-<li><a href="https://location-social.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-vivo-v29e-drfone-by-drfone-virtual-android/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Vivo V29e | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/the-ultimate-line-up-of-artistic-software-for-windows-10/"><u>The Ultimate Line-Up of Artistic Software for Windows 10</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/outube-spotlight-key-influences-on-your-viewership-position-for-2024/"><u>Top YouTube Spotlight Key Influences on Your Viewership Position for 2024</u></a></li>
-<li><a href="https://win-web.techidaily.com/yl-softwares-comprehensive-tutorial-on-fine-tuning-sound-control-options/"><u>YL Software's Comprehensive Tutorial on Fine-Tuning Sound Control Options</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-essential-tips-streamline-mac-screen-captures-using-keyboard-tricks/"><u>[New] Essential Tips Streamline Mac Screen Captures Using Keyboard Tricks</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-integrating-videos-into-youtube-shelves-a-practical-guide/"><u>[New] Integrating Videos Into YouTube Shelves A Practical Guide</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-top-6-iphone-tools-for-erasing-unwanted-items-in-images/"><u>[Updated] 2024 Approved Top 6 iPhone Tools for Erasing Unwanted Items in Images</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-ensuring-effective-monetization-strategies-for-yt-channels/"><u>[Updated] Ensuring Effective Monetization Strategies for YT Channels</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-expertly-curated-animated-type-library/"><u>[Updated] Expertly Curated Animated Type Library</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-the-future-of-finance-15-must-watch-market-videos-for-2024/"><u>[Updated] The Future of Finance 15 Must-Watch Market Videos for 2024</u></a></li>
+<li><a href="https://win-web.techidaily.com/configuring-your-windows-mouse-and-touchpad-a-comprehensive-guide-by-yl-computing/"><u>Configuring Your Windows Mouse & Touchpad: A Comprehensive Guide by YL Computing</u></a></li>
+<li><a href="https://win-web.techidaily.com/expand-your-systems-potential-with-yl-software-learn-how-to-update-windows-registry-entries/"><u>Expand Your System's Potential with YL Software - Learn How to Update Windows Registry Entries</u></a></li>
+<li><a href="https://win-web.techidaily.com/exploring-the-objectives-of-mao-zedongs-great-leap-forward-campaign-in-chinese-history/"><u>Exploring the Objectives of Mao Zedong’s Great Leap Forward Campaign in Chinese History</u></a></li>
+<li><a href="https://win-web.techidaily.com/how-to-fix-undetected-hardware-components-in-your-computer-system-expert-advice-from-yl-computing-solutions/"><u>How to Fix Undetected Hardware Components in Your Computer System – Expert Advice From YL Computing Solutions</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-premier-8-webcams-to-elevate-your-livestreams/"><u>In 2024, Premier 8 Webcams to Elevate Your Livestreams</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/increasing-onscreen-detail-in-virtual-spaces-for-2024/"><u>Increasing Onscreen Detail in Virtual Spaces for 2024</u></a></li>
+<li><a href="https://win-web.techidaily.com/master-resetting-windows-for-beginners-complete-reinstallation-techniques-by-yl-computing-experts/"><u>Master Resetting Windows for Beginners: Complete Reinstallation Techniques by YL Computing Experts</u></a></li>
+<li><a href="https://win-web.techidaily.com/master-the-art-of-deletion-learn-how-to-erase-files-effectively-using-yl-software-techniques/"><u>Master the Art of Deletion: Learn How to Erase Files Effectively Using YL Software Techniques</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-speakers-not-connected-errors-on-your-pc-running-windows-11-8-or-7-expert-tips-included/"><u>Overcoming 'Speakers Not Connected' Errors on Your PC Running Windows 11, 8 or 7 - Expert Tips Included</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/recovering-graphics-options-lockout-issue/"><u>Recovering Graphics Options Lockout Issue</u></a></li>
+<li><a href="https://win-web.techidaily.com/stunning-digital-landscapes-for-your-pc-professional-hd-background-graphics-and-imagery-from-yl-computing/"><u>Stunning Digital Landscapes for Your PC: Professional HD Background Graphics and Imagery From YL Computing</u></a></li>
+<li><a href="https://win-web.techidaily.com/updating-your-windows-defender-threat-database-essential-tips-and-tricks-from-yl-software-solutions/"><u>Updating Your Windows Defender Threat Database: Essential Tips and Tricks From YL Software Solutions</u></a></li>
+<li><a href="https://win-web.techidaily.com/yls-comprehensive-tutorial-on-how-to-print-your-text-files-using-simple-methods/"><u>YL's Comprehensive Tutorial on How To Print Your Text Files Using Simple Methods</u></a></li>
 </ul></div>
 

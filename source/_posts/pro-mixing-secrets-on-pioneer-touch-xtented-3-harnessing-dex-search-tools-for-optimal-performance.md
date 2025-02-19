@@ -1,7 +1,7 @@
 ---
 title: "Pro Mixing Secrets on Pioneer Touch XTENTED 3: Harnessing DEX Search Tools for Optimal Performance"
-date: 2025-02-06T20:44:26.486Z
-updated: 2025-02-09T01:37:03.544Z
+date: 2025-02-16T00:05:25.101Z
+updated: 2025-02-18T20:14:07.535Z
 tags:
   - product
 categories:
@@ -33,7 +33,7 @@ eg. if you want to search all Dance songs with bpm 128 from the 90’s in key 10
 **Here’s a video tutorial showcasing the new search options in PCDJ DEX 3.2 DJ software:**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -55,20 +55,19 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2015/01/dex32searchtips-coverimage
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-strategies-to-speedy-up-vimeo-videos/"><u>[New] 2024 Approved Strategies to Speedy Up Vimeo Videos</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-embark-on-your-video-vision-start-your-youtube-channel/"><u>[Updated] 2024 Approved Embark on Your Video Vision Start Your YouTube Channel</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-rapid-rhythm-revelations-audio-and-actors-dance/"><u>[Updated] In 2024, Rapid Rhythm Revelations Audio and Actors' Dance</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-the-seventh-line-up-of-all-weather-action-cams/"><u>[Updated] In 2024, The Seventh Line-Up of All-Weather Action Cams</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/1-identifying-the-root-cause-of-mysterious-app-failures-expert-tips-from-yl-computing/"><u>1. Identifying the Root Cause of Mysterious App Failures: Expert Tips From YL Computing</u></a></li>
-<li><a href="https://win-web.techidaily.com/yl-software/"><u>武则天的礼仪装饰元素和意义：YL Software深度探究</u></a></li>
-<li><a href="https://win-web.techidaily.com/comprehensive-tutorial-by-yl-software-the-ultimate-strategy-for-buying-and-selling-digital-coins/"><u>Comprehensive Tutorial by YL Software: The Ultimate Strategy for Buying and Selling Digital Coins</u></a></li>
-<li><a href="https://win-web.techidaily.com/easy-steps-for-zipping-files-with-yl-computings-windows-10-tutorial/"><u>Easy Steps for Zipping Files with YL Computing's Windows 10 Tutorial</u></a></li>
-<li><a href="https://win-web.techidaily.com/efficiently-configure-power-settings-in-windows-os-with-our-expert-yl-guides/"><u>Efficiently Configure Power Settings in Windows OS with Our Expert YL Guides</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exclusive-look-at-the-most-effective-irobot-vacuum-cleaners-of-2024-tested-for-you-by-wirecutter/"><u>Exclusive Look at the Most Effective iRobot Vacuum Cleaners of 2024 - Tested for You by Wirecutter</u></a></li>
-<li><a href="https://win-web.techidaily.com/identifying-and-fixing-non-recognition-issues-in-your-systems-hardware-insights-from-yl-software-experts/"><u>Identifying & Fixing Non-Recognition Issues in Your System's Hardware: Insights From YL Software Experts</u></a></li>
-<li><a href="https://win-web.techidaily.com/identifying-frequent-indicators-how-to-recognize-windows-memory-issues-expert-advice-from-yl-computing/"><u>Identifying Frequent Indicators: How to Recognize Windows Memory Issues - Expert Advice From YL Computing</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-itel-p55plus-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Itel P55+</u></a></li>
-<li><a href="https://win-web.techidaily.com/step-by-step-guide-to-opening-the-windows-control-panel-folder-tips-from-yl-computing/"><u>Step-by-Step Guide to Opening the Windows Control Panel Folder - Tips From YL Computing</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ichotomy-of-youtube-rights-and-cc-licenses-for-2024/"><u>The Dichotomy of YouTube Rights and CC Licenses for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-simplifying-subtitle-access-three-ways-to-download-youtubes-srt-captions/"><u>[New] Simplifying Subtitle Access Three Ways to Download YouTube's SRT Captions</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-illuminate-images-top-3-methods-for-captivating-comments-for-2024/"><u>[Updated] Illuminate Images Top 3 Methods for Captivating Comments for 2024</u></a></li>
+<li><a href="https://win-web.techidaily.com/1726030498348-windowsmac/"><u>「フリーで使える動画エンコードツールをWindowsとMacにインストールする方法」</u></a></li>
+<li><a href="https://win-web.techidaily.com/44cm44oc44kk44k344o844gr44ki44kl44oq44ki44or44k44kk44og44kq44o844oh44kj44kq55sf5psplus6ycb44gu6kiy6yyy5oml5rov44cn/"><u>「ボイシーによるリアルタイムオーディオ生放送の記録手法」</u></a></li>
+<li><a href="https://win-web.techidaily.com/1-how-to-resolve-video-playback-issues-on-your-iphone-fast-fixes-and-solutions/"><u>1. How to Resolve Video Playback Issues on Your iPhone - Fast Fixes and Solutions</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/complete-guide-solving-windows-10-upgrade-issues-with-expert-advice/"><u>Complete Guide: Solving Windows 10 Upgrade Issues with Expert Advice</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experience-unbeatable-deals-on-cooling-the-thermalright-phantom-spirit-120-se-at-an-amazing-35/"><u>Experience Unbeatable Deals on Cooling: The Thermalright Phantom Spirit 120 SE at an Amazing $35!</u></a></li>
+<li><a href="https://win-web.techidaily.com/fixing-the-hd-video-buffering-problem-in-vlc-media-player/"><u>Fixing the HD Video Buffering Problem in VLC Media Player</u></a></li>
+<li><a href="https://win-web.techidaily.com/free-access-best-hong-kong-drama-series-in-english-dubbing-top-picks-to-binge/"><u>Free Access: Best Hong Kong Drama Series in English Dubbing - Top Picks to Binge!</u></a></li>
+<li><a href="https://win-web.techidaily.com/guide-to-relocating-files-expert-tips-from-yl-computings-yl-software/"><u>Guide to Relocating Files: Expert Tips From YL Computing's YL Software</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-vivo-v29-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Pokemon Go Route Not Working On Vivo V29 Pro? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/rootjunky-apk-to-bypass-google-frp-lock-for-poco-c55-by-drfone-android/"><u>Rootjunky APK To Bypass Google FRP Lock For Poco C55</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-successful-strategies-for-resetting-unresponsive-airpods/"><u>Step-by-Step Guide: Successful Strategies for Resetting Unresponsive AirPods</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/troubleshooting-guide-downloading-and-setting-up-the-epson-xp-830-drivers/"><u>Troubleshooting Guide: Downloading & Setting Up the Epson XP-830 Drivers</u></a></li>
 </ul></div>
 
