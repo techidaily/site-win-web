@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Mastering vCenter File-Level Data Backups & Recovery"
-date: 2025-02-04T16:13:52.383Z
-updated: 2025-02-08T16:50:30.913Z
+date: 2025-03-02T16:32:53.692Z
+updated: 2025-03-07T17:03:57.625Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/c5b0ebae4367079e280b487ce588fc466a9ede57f33408103ebb2dc34b6570fb.jpg
@@ -18,10 +18,6 @@ thumbnail: https://thmb.techidaily.com/c5b0ebae4367079e280b487ce588fc466a9ede57f
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Logiciel de sauvegarde NAS Buffalo le plus efficace ! \[Guide inclus\]
 
 Vous obtiendrez le logiciel de sauvegarde NAS Buffalo le plus simple pour Windows 11/10/8/7/XP/Vista. Apprenez à l'utiliser pour sauvegarder automatiquement des fichiers en quelques étapes simples.
@@ -32,20 +28,12 @@ Par[Aurore](https://tools.techidaily.com/ubackup/products/)Publié le 26/06/2024
 
 Partager sur : ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-fb-24.svg) ![twitter](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-tw-24.svg) ![instagram](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-in-24.svg) ![reddit](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-reddit-24.svg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Table des matières** 
 
 1. [Logiciel de sauvegarde NAS Buffalo pour système Windows](https://tools.techidaily.com/ubackup/products/)
 2. [Avantages du logiciel de sauvegarde NAS Buffalo - AOMEI Backupper Standard](https://tools.techidaily.com/ubackup/products/)
 3. [Comment utiliser le logiciel de sauvegarde NAS Buffalo pour Windows pour sauvegarder des fichiers](https://tools.techidaily.com/ubackup/products/)
 4. [Dernières réflexions sur l'utilitaire de sauvegarde Buffalo](https://tools.techidaily.com/ubackup/products/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Logiciel de sauvegarde NAS Buffalo pour système Windows
 
@@ -56,10 +44,6 @@ NAS Buffalo est la solution idéale pour la protection des données et peut faci
 [![buffalo](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/others/image/nas-buffalo.png)
 
 Ne vous inquiétez pas trop. Vous pouvez envisager d'utiliser un logiciel de sauvegarde NAS tiers pour vous aider. [AOMEI Backupper Standard](https://tools.techidaily.com/ubackup/products/) est un excellent choix en raison de sa grande compatibilité (prise en charge de Windows 7/8/10/11/XP/Vista), de sa gratuité, de sa facilité d'utilisation, de sa flexibilité et de ses fonctionnalités riches.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Avantages du logiciel de sauvegarde NAS Buffalo - AOMEI Backupper Standard
 
@@ -104,10 +88,6 @@ Cliquez sur **Share/NAS** pour ouvrir la fenêtre suivante.
 Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le nom d'affichage, l'adresse IP, le nom d'utilisateur et le mot de passe pour connecter votre espace de stockage NAS Buffalo. Double-cliquez ensuite dessus dans le volet de gauche et sélectionnez ce que vous souhaitez sauvegarder dans la liste de droite.
 
 [![ajouter périphérique share ou nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/emplacement-reseau.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Étape 3.** Cliquez là où la flèche pointe et sélectionnez le disque externe préparé comme destination.
 
@@ -165,10 +145,6 @@ Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour no
 
 [Oui](https://tools.techidaily.com/ubackup/products/)[Non](https://tools.techidaily.com/ubackup/products/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Obtenez gratuitement AOMEI Backupper
 
 Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchronisation et le clonage.
@@ -176,10 +152,6 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 [**Télécharger gratuiciel**  Windows 11/10/8.1/8/7](https://tools.techidaily.com/ubackup/products/) 
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Propre & Sûr
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
 
@@ -198,22 +170,16 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-elite-camera-drones-10-unveiling-visuals-like-never-before/"><u>[New] 2024 Approved Elite Camera Drones #10 Unveiling Visuals Like Never Before</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-in-2024-finding-your-lost-footage-no-vids-on-a6400/"><u>[New] In 2024, Finding Your Lost Footage No Vids On A6400</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-leap-into-the-future-a-guide-for-windows-11-installation/"><u>[New] Leap Into the Future A Guide for Windows 11 Installation</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-9-uncharted-upscales-for-vivid-visuals/"><u>[Updated] 9 Uncharted Upscales for Vivid Visuals</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-mastering-obs-installation-and-usage-on-mac-systems/"><u>[Updated] Mastering OBS Installation and Usage on Mac Systems</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/2024s-highly-recommended-extended-mouse-pads-list-find-the-best-fit/"><u>2024'S Highly Recommended Extended Mouse Pads List – Find the Best Fit!</u></a></li>
-<li><a href="https://win-web.techidaily.com/u-yl-software/"><u>破除金融黑暗，实现巨富之梦: U兄的神奇投资智慧——万亿孤独路上的原创指南 YL Software</u></a></li>
-<li><a href="https://win-web.techidaily.com/can-you-program-windows-defender-for-regular-scans-tips-from-yl-software-experts/"><u>Can You Program Windows Defender for Regular Scans? Tips From YL Software Experts</u></a></li>
-<li><a href="https://win-web.techidaily.com/compress-and-save-space-mastering-windows-file-shrinkage-with-yls-expertise/"><u>Compress and Save Space: Mastering Windows File Shrinkage with YL's Expertise</u></a></li>
-<li><a href="https://win-web.techidaily.com/decoding-the-importance-of-registry-components-in-pcs-with-yl-computings-expert-insights/"><u>Decoding the Importance of Registry Components in PCs with YL Computing's Expert Insights</u></a></li>
-<li><a href="https://win-web.techidaily.com/high-definition-mercedes-amg-gt4-2019-wallpapers-and-desktop-backgrounds-by-yl-computing-powered-by-yl-software/"><u>High-Definition Mercedes AMG GT4 2019 Wallpapers & Desktop Backgrounds by YL Computing - Powered by YL Software</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-oppo-reno-10-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Fixing Foneazy MockGo Not Working On Oppo Reno 10 Pro+ 5G | Dr.fone</u></a></li>
-<li><a href="https://win-web.techidaily.com/mastering-your-pcs-performance-a-step-by-step-guide-to-optimizing-and-refreshing-your-windows-registry-tips-from-yl-computing/"><u>Mastering Your PC's Performance: A Step-by-Step Guide to Optimizing & Refreshing Your Windows Registry - Tips From YL Computing</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-the-most-effective-windows-to-do-apps/"><u>Navigating the Most Effective Windows To-Do Apps</u></a></li>
-<li><a href="https://win-web.techidaily.com/optimize-your-system-a-guide-to-deleting-superfluous-data-from-your-pc-with-help-from-yl-computing/"><u>Optimize Your System: A Guide to Deleting Superfluous Data From Your PC with Help From YL Computing</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/sonys-missed-opportunity-an-in-depth-review-of-the-lackluster-game-godfall/"><u>Sony's Missed Opportunity: An In-Depth Review of the Lackluster Game 'Godfall'</u></a></li>
-<li><a href="https://win-web.techidaily.com/the-ultimate-tips-on-boosting-your-system-with-yls-windows-registry-tuning-techniques/"><u>The Ultimate Tips on Boosting Your System with YL's Windows Registry Tuning Techniques</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-boosting-visual-and-auditory-composition-with-custom-filters-and-melodies-windows-10-photos/"><u>[New] In 2024, Boosting Visual & Auditory Composition with Custom Filters & Melodies (Windows 10 Photos)</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-how-to-reverse-video-on-instagram/"><u>[Updated] In 2024, How to Reverse Video on Instagram</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-ways-to-track-samsung-galaxy-z-flip-5-without-them-knowing-drfone-by-drfone-virtual-android/"><u>3 Ways to Track Samsung Galaxy Z Flip 5 without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://win-web.techidaily.com/boost-your-uploads-and-downloads-mastering-amazon-s3-transfer-acceleration-techniques/"><u>Boost Your Uploads & Downloads: Mastering Amazon S3 Transfer Acceleration Techniques</u></a></li>
+<li><a href="https://win-web.techidaily.com/emeditor-mastering-the-removal-of-gaps-between-numerals-and-fractions-for-cleaner-text-formatting/"><u>EmEditor: Mastering the Removal of Gaps Between Numerals and Fractions for Cleaner Text Formatting</u></a></li>
+<li><a href="https://win-web.techidaily.com/expert-tips-protecting-your-connections-by-moving-iphone-contact-info-to-your-google-profile/"><u>Expert Tips: Protecting Your Connections by Moving iPhone Contact Info to Your Google Profile</u></a></li>
+<li><a href="https://win-web.techidaily.com/guia-paso-a-paso-para-descargar-de-forma-gratuita-archivos-del-programa-wps-una-solucion-simple/"><u>Guía Paso a Paso Para Descargar De Forma Gratuita Archivos Del Programa WPS: Una Solución Simple</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-exit-android-factory-mode-on-oppo-a1x-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Exit Android Factory Mode On Oppo A1x 5G? | Dr.fone</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/how-to-upgrade-your-dell-inspiron/"><u>How to Upgrade Your Dell Inspiron</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-beginners-guide-to-successfully-playing-pokemon-unite/"><u>The Beginner's Guide to Successfully Playing Pokémon Unite</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/update-your-pc-with-realteks-official-rtl8188cu-driver-for-enhanced-wi-fi-on-windows-11-7/"><u>Update Your PC with Realtek's Official RTL8188CU Driver for Enhanced Wi-Fi on Windows 11, 7</u></a></li>
 </ul></div>
 

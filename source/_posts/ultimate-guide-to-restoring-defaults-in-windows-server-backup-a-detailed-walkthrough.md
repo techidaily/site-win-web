@@ -1,7 +1,7 @@
 ---
 title: Ultimate Guide to Restoring Defaults in Windows Server Backup - A Detailed Walkthrough
-date: 2025-02-05T23:28:49.280Z
-updated: 2025-02-08T16:26:41.691Z
+date: 2025-03-06T16:43:43.231Z
+updated: 2025-03-07T19:13:49.516Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/93e8b8eb6bc88169936766a6461fe23e663eb59793bd9736b13ed221555fa6ea.jpg
@@ -24,17 +24,9 @@ This page covers 4 ways on how to recover files from ransomware and offers some 
 
 ![Kelsey](https://www.ubackup.com/assets/images/author/kelsey-avatar.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 By[Kelsey](https://tools.techidaily.com/ubackup/products/)/ Updated on April 2, 2024
 
 Share this: [![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-fb-24.svg)](https://www.ubackup.com/data-recovery-disk/javascript:void%280%29;) [![twitter](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-tw-24.svg)](https://www.ubackup.com/data-recovery-disk/javascript:void%280%29;) [![instagram](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-in-24.svg)](https://www.ubackup.com/data-recovery-disk/javascript:void%280%29;) [![reddit](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-reddit-24.svg)](https://www.ubackup.com/data-recovery-disk/javascript:void%280%29;) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Table of Contents** 
 
@@ -55,10 +47,6 @@ When a storage device or computer is infected by a ransomware virus, your files 
 If you are looking for methods on how to recover ransomware-infected files, you have come to the right place. In the following chapter, we will show you some practical ways to [recover lost data](https://tools.techidaily.com/ubackup/products/) from ransomware attacks.
 
 [![Recover Files From Ransomware](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/others/recover-files-from-ransomware.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to recover files from ransomware attack in 4 ways
 
@@ -96,10 +84,6 @@ You can expand the Deleted files folder and Other missing files folder to select
 
 [![Select Deleted Excel Files Click Recover](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows-recovery/select-deleted-excel-files-click-recover.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Method 2\. Recover ransomware infected files via Backup and Restore
 
 If you have a backup available, restoring files is as simple as ABC. You can easily recover encrypted files by finding the corresponding backup file and restoring the data you need. But this option is possible only when you regularly back up your data.
@@ -114,21 +98,9 @@ Step 2\. Tap on the **Restore my files** position in the Restore tab.
 
 ![Windows Backup Restore My Files](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 3\. Click **Browse for files** to locate your lost data and choose to save your recovered files in your original location or another destination as needed.
 
 [![Browse For Files To Restore](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/browse-for-files-to-restore.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 3\. Get back files from ransomware using File History
 
@@ -141,10 +113,6 @@ Step 1\. Go to **Control Panel** \> **System and Security**, and click on **File
 Step 2\. Press the **Restore personal files** button on the left panel. Please make sure your File History is turned on.
 
 [![Restore Personal Files](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/restore-personal-files.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step 3\. Find the files you want to recover and click the arrow pointing left or right to choose the version you need. And then, click the **Recover** button.
 
@@ -160,17 +128,9 @@ Step 1\. Press **Win + S** to open the Windows search box, type **Create a resto
 
 [![Create A Restore Point Open](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/create-a-restore-point-open.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 2\. Click on **System Restore** \> **Next**.
 
 [![System Drive On System Restore Next](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/system-drive-on-system-restore-next.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step 3\. Choose a restore point from the list and tap on **Scan for affected programs** to check the items that will be deleted after the restore. Then, click **Close**.
 
@@ -256,21 +216,18 @@ Recover deleted & lost data from any disasters in Windows.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-a-professionals-secret-efficiently-incorporating-luts-into-premiere-pro/"><u>[New] A Professional's Secret Efficiently Incorporating LUTs Into Premiere Pro</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-a-taste-of-film-home-cooks-visual-journey/"><u>[Updated] 2024 Approved A Taste of Film Home Cook's Visual Journey</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-boosting-channel-profitability-famebit-powered-sponsorship-tactics/"><u>[Updated] 2024 Approved Boosting Channel Profitability FameBit-Powered Sponsorship Tactics</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-faster-insights-slower-pace-balancing-youtube-playback-rate/"><u>[Updated] In 2024, Faster Insights, Slower Pace Balancing YouTube Playback Rate</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-trend-driven-infographics-the-leaders-in-23/"><u>[Updated] Trend-Driven Infographics The Leaders in '23</u></a></li>
-<li><a href="https://win-web.techidaily.com/2-installationsmethoden-vom-usb-flashlaufwerk-zu-einer-neuen-festplatte-unter-windows-10/"><u>2 Installationsmethoden: Vom USB-Flashlaufwerk Zu Einer Neuen Festplatte Unter Windows 10</u></a></li>
-<li><a href="https://win-web.techidaily.com/7-auf-windows-11-verschiebt/"><u>7 Auf Windows 11 Verschiebt</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/future-workforce-how-ai-revolutionizes-employment/"><u>Future Workforce: How AI Revolutionizes Employment</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-leave-a-life360-group-on-huawei-p60-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How To Leave a Life360 Group On Huawei P60 Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://win-web.techidaily.com/mastering-server-preservation-on-windows-techniques-for-editions-2012-through-2022/"><u>Mastering Server Preservation on Windows: Techniques for Editions 2012 Through 2022</u></a></li>
-<li><a href="https://win-web.techidaily.com/metodos-efectivos-para-desactivar-la-actualizacion-periodica-en-outlook-de-apple-computadoras/"><u>Métodos Efectivos Para Desactivar La Actualización Periódica en Outlook De Apple Computadoras</u></a></li>
-<li><a href="https://win-web.techidaily.com/problembehebungsanleitung-icloud-daten-sind-nicht-synchron-auf-macos/"><u>Problembehebungsanleitung: ICloud-Daten Sind Nicht Synchron Auf macOS</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/safari-browser-keeps-freezing-or-crashing-on-iphone-and-ipad-solutions/"><u>Safari Browser Keeps Freezing or Crashing on iPhone and iPad - Solutions</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/safe-and-swift-guide-to-converting-dvds-into-digital-files-on-computers/"><u>Safe & Swift Guide to Converting DVDs Into Digital Files on Computers</u></a></li>
-<li><a href="https://win-web.techidaily.com/step-by-step-guide-mastering-vcenter-file-level-data-backups-and-recovery/"><u>Step-by-Step Guide: Mastering vCenter File-Level Data Backups & Recovery</u></a></li>
-<li><a href="https://win-web.techidaily.com/wiederherstellen-von-windows-nativen-einstellungen-erfolgreiche-ansatze-zur-systemwiederherstellung-uber-den-rechnerstart/"><u>Wiederherstellen Von Windows Nativen Einstellungen: Erfolgreiche Ansätze Zur Systemwiederherstellung Über Den Rechnerstart</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-excellence-unleashed-the-pinnacle-fps-selections/"><u>[Updated] Excellence Unleashed The Pinnacle FPS Selections</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-the-ultimate-guide-for-lenovo-screen-recording-enthusiasts/"><u>[Updated] In 2024, The Ultimate Guide for Lenovo Screen Recording Enthusiasts</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-mastering-youtube-adjust-your-video-privacy-settings/"><u>[Updated] Mastering YouTube Adjust Your Video Privacy Settings</u></a></li>
+<li><a href="https://techtrends.techidaily.com/dealing-with-msxml4dll-errors-steps-to-locate-and-fix-the-issue/"><u>Dealing with Msxml4.dll Errors: Steps to Locate and Fix the Issue</u></a></li>
+<li><a href="https://win-bits.techidaily.com/desk-decor-stunning-magneto-from-x-men-wallpaper-and-image-collections-by-yl-computing-your-ultimate-source-for-digital-art/"><u>Desk Décor: Stunning Magneto From X-Men Wallpaper & Image Collections by YL Computing - Your Ultimate Source for Digital Art</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1725288698902-dvd/"><u>DVD膨張縮小ソフトに見られる一般的なエラーへの解決方法</u></a></li>
+<li><a href="https://win-web.techidaily.com/how-to-transfer-your-entire-windows-system-to-an-external-hdd/"><u>How to Transfer Your Entire Windows System to an External HDD</u></a></li>
+<li><a href="https://win-web.techidaily.com/les-options-superieures-a-wd-smartware-pour-les-systemes-dexploitation-windows-10-and-11-guide-comparatif/"><u>Les Options Supérieures À WD Smartware Pour Les Systèmes D'Exploitation Windows 10 & 11 : Guide Comparatif</u></a></li>
+<li><a href="https://win-web.techidaily.com/professionelle-anweisungen-zur-sicherung-ihrer-yahoo-mail-mails-auf-lokale-festplatten-vier-effektive-strategien/"><u>Professionelle Anweisungen Zur Sicherung Ihrer Yahoo Mail-Mails Auf Lokale Festplatten – Vier Effektive Strategien</u></a></li>
+<li><a href="https://win-web.techidaily.com/quick-guide-to-reviving-your-efi-partition-in-windows-11/"><u>Quick Guide to Reviving Your EFI Partition in Windows 11</u></a></li>
+<li><a href="https://win-web.techidaily.com/reversing-an-accidentally-deleted-main-profile-solutions-for-windows-11-users/"><u>Reversing an Accidentally Deleted Main Profile: Solutions for Windows 11 Users</u></a></li>
+<li><a href="https://win-web.techidaily.com/step-by-step-tutorial-for-shifting-video-content-onto-any-ipad-model-proairmini-from-computer/"><u>Step-by-Step Tutorial for Shifting Video Content Onto Any iPad Model (Pro/Air/Mini) From Computer</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/your-blueprint-to-windows-11-mastery/"><u>Your Blueprint to Windows 11 Mastery</u></a></li>
 </ul></div>
 

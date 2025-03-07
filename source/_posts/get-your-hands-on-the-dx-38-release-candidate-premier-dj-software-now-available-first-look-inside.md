@@ -1,7 +1,7 @@
 ---
 title: Get Your Hands on the DX 3.8 Release Candidate! Premier DJ Software Now Available – First Look Inside!
-date: 2025-02-12T21:22:55.611Z
-updated: 2025-02-18T16:02:09.223Z
+date: 2025-03-06T16:04:56.751Z
+updated: 2025-03-07T16:53:47.771Z
 tags:
   - product
 categories:
@@ -30,10 +30,6 @@ Be sure to test drive the new ‘_always in sync_‘ beat-lock engine and all ot
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Here’s What’s New, Changed And Fixed In DEX 3.8 RC2 (Since Monday’s Release)
 
 * Fixed ASIO bug (crash when accessing certain ASIO drivers is fixed)
@@ -48,17 +44,9 @@ Be sure to test drive the new ‘_always in sync_‘ beat-lock engine and all ot
 
 _In the event you wish to roll back to the prior 3.7.5.1 release of DEX 3 you can find it on the [DEX 3 support page here](https://tools.techidaily.com/pcdj/products/)._ 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### DEX 3.8 | NEW FEATURES OVERVIEW
 
 _Have questions about our **best DJ mixing software**, DEX 3.8? Please leave them in the comments section below!_
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### _Related_
 
@@ -79,21 +67,21 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2017/05/downloaddex3rc2-coverimage
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-top-5-techniques-for-captivating-your-twitch-audience-for-2024/"><u>[New] Top 5 Techniques for Captivating Your Twitch Audience for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-apex-sporting-cameras-for-extreme-enthusiasts/"><u>[Updated] Apex Sporting Cameras for Extreme Enthusiasts</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-the-best-video-editors-for-youtube/"><u>[Updated] The Best Video Editors for YouTube</u></a></li>
-<li><a href="https://win-web.techidaily.com/1728491109175-windows-115/"><u>「Windows 11」でパスワードを無くしたら、これを試せ！5か条</u></a></li>
-<li><a href="https://win-web.techidaily.com/1-steps-to-modify-your-vmware-vcenter-server-name-successfully/"><u>1. Steps to Modify Your VMware vCenter Server Name Successfully</u></a></li>
-<li><a href="https://win-web.techidaily.com/dll/"><u>方法ガイド：DLLがないか、または見つけられないエラー修正に向けて！</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/enhanced-dall-e-3-new-editing-features-added-with-room-for-improvement/"><u>Enhanced DALL-E 3: New Editing Features Added with Room for Improvement</u></a></li>
-<li><a href="https://win-web.techidaily.com/fallout-4-serfs-disappeared-from-pcs-swift-fix-guide/"><u>Fallout 4 Serfs Disappeared From PCS - Swift Fix Guide</u></a></li>
-<li><a href="https://win-web.techidaily.com/guaranteed-methods-to-securely-backup-every-file-on-windows-amoeba/"><u>Guaranteed Methods to Securely Backup Every File on Windows Amoeba</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-nokia-c300-drfone-by-drfone-virtual-android/"><u>How to use Snapchat Location Spoofer to Protect Your Privacy On Nokia C300? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-honor-magic-5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Spotify Location After Moving to Another Country On Honor Magic 5 Pro | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-tecno-spark-10-5g-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Tecno Spark 10 5G Location without Installing Software? | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/intel-nuc-driver-updates-simplified-expert-techniques-for-speed-and-ease/"><u>Intel NUC Driver Updates Simplified - Expert Techniques for Speed and Ease</u></a></li>
-<li><a href="https://extra-information.techidaily.com/intova-edge-x-a-deep-dive-into-video-capture/"><u>Intova Edge X A Deep Dive Into Video Capture</u></a></li>
-<li><a href="https://win-web.techidaily.com/master-the-art-of-cross-device-sync-top-7-techniques-for-transferring-files-from-ipad-to-computer-with-ease/"><u>Master the Art of Cross-Device Sync: Top 7 Techniques for Transferring Files From iPad to Computer with Ease</u></a></li>
-<li><a href="https://win-web.techidaily.com/ricostruisci-la-tua-partizione-efi-persa-con-due-metodi-efficaci-per-windows-10/"><u>Ricostruisci La Tua Partizione EFI Persa Con Due Metodi Efficaci per Windows 10</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-perfecting-iphone-timelapse-techniques/"><u>[New] 2024 Approved Perfecting iPhone Timelapse Techniques</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-captivate-audiences-quickly-shortcuts-for-youtube-trailers-with-filmora/"><u>[Updated] Captivate Audiences Quickly Shortcuts for YouTube Trailers with Filmora</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-easily-download-specific-youtube-sections-for-2024/"><u>[Updated] Easily Download Specific YouTube Sections for 2024</u></a></li>
+<li><a href="https://win-web.techidaily.com/1-efficient-steps-for-setting-up-incremental-backups-on-windows-server-hyper-v/"><u>1. Efficient Steps for Setting Up Incremental Backups on Windows Server Hyper-V</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-the-most-massive-lifting-machines-in-the-sky/"><u>2024 Approved The Most Massive Lifting Machines in the Sky</u></a></li>
+<li><a href="https://win-web.techidaily.com/7windows-11-23h2/"><u>7効果的な手順でWindows 11 バージョン23H2のインストール中に発生する一般的なエラーを解決</u></a></li>
+<li><a href="https://win-web.techidaily.com/1728468826626-iphone/"><u>如何在重新設定iPhone后恢复删除数据？-专业指南解析</u></a></li>
+<li><a href="https://win-web.techidaily.com/1728501258048-windows-11-onedrive/"><u>提高Windows 11 OneDrive上传速度的有效解决方案及其其他可行途径</u></a></li>
+<li><a href="https://win-web.techidaily.com/create-your-own-startup-disk-using-the-windows-automated-installation-kit-aik/"><u>Create Your Own Startup Disk Using the Windows Automated Installation Kit (AIK)</u></a></li>
+<li><a href="https://win-web.techidaily.com/grundlegende-techniken-zur-wiederherstellung-von-hyper-v-prufpunkten-zwei-effiziente-losungen-erklart/"><u>Grundlegende Techniken Zur Wiederherstellung Von Hyper-V-Prüfpunkten - Zwei Effiziente Lösungen Erklärt</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-repair-a-black-screen-glitch-in-steam-games-updated-strategies/"><u>How to Repair a Black Screen Glitch in Steam Games (Updated Strategies )</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-nokia-g22-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track WhatsApp Messages on Nokia G22 Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/mp4-video-repair-tool-repair-corrupt-damaged-unplayable-video-files-of-meizu-21-by-stellar-video-repair-mobile-video-repair/"><u>MP4 Video Repair Tool - Repair corrupt, damaged, unplayable video files of Meizu 21</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-2024-approved-becoming-a-pro-in-tiktok-live-shopping-your-complete-guide/"><u>New 2024 Approved Becoming a Pro in TikTok Live Shopping Your Complete Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/office-environmentals-vs-playstation-specifications/"><u>Office Environmentals Vs. PlayStation Specifications</u></a></li>
+<li><a href="https://win-web.techidaily.com/1728491117968-windows-11usb/"><u>Windows 11下如何有效地从USB清空数据: 四种不同方法</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "For Temperature Conversion, if Multiple Temperatures Are Provided Within One Statement or Sentence, List Each Converted Temperature Separately and Format Them as Follows: Original: XX°F = YY.Y°C."
-date: 2025-02-04T23:02:03.375Z
-updated: 2025-02-08T23:50:48.267Z
+date: 2025-03-03T18:24:07.895Z
+updated: 2025-03-07T16:18:45.703Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/30033eb1d439e3a5ccb9587805c5084ce6ce6344b14d88b85b8e477a0430e0fc.jpg
@@ -23,10 +23,6 @@ thumbnail: https://thmb.techidaily.com/30033eb1d439e3a5ccb9587805c5084ce6ce6344b
 This page covers 4 ways on how to recover files from ransomware and offers some tips that can help you prevent ransomware attacks.
 
 ![Kelsey](https://www.ubackup.com/assets/images/author/kelsey-avatar.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 By[Kelsey](https://tools.techidaily.com/ubackup/products/)/ Updated on April 2, 2024
 
@@ -88,10 +84,6 @@ You can expand the Deleted files folder and Other missing files folder to select
 
 [![Select Deleted Excel Files Click Recover](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows-recovery/select-deleted-excel-files-click-recover.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Method 2\. Recover ransomware infected files via Backup and Restore
 
 If you have a backup available, restoring files is as simple as ABC. You can easily recover encrypted files by finding the corresponding backup file and restoring the data you need. But this option is possible only when you regularly back up your data.
@@ -110,10 +102,6 @@ Step 3\. Click **Browse for files** to locate your lost data and choose to save 
 
 [![Browse For Files To Restore](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/browse-for-files-to-restore.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Method 3\. Get back files from ransomware using File History
 
 If you have used File History to save a copy of your precious data, you can follow the steps below to figure out how to recover encrypted files from ransomware. You can use this tool to [recover permanently deleted folders](https://tools.techidaily.com/ubackup/products/) and files on your computer as well.
@@ -130,10 +118,6 @@ Step 3\. Find the files you want to recover and click the arrow pointing left or
 
 [![Restore Deleted File](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/restore-deleted-file.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Method 4\. Recover from ransomware through system restore
 
 If you have created a restore point for your system, the system restore can bring your PC back to a previous point in time. This means that you can get back files on your computer that have been encrypted by ransomware through a system restore point.
@@ -144,10 +128,6 @@ Step 1\. Press **Win + S** to open the Windows search box, type **Create a resto
 
 [![Create A Restore Point Open](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/create-a-restore-point-open.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 2\. Click on **System Restore** \> **Next**.
 
 [![System Drive On System Restore Next](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/system-drive-on-system-restore-next.png)
@@ -155,10 +135,6 @@ Step 2\. Click on **System Restore** \> **Next**.
 Step 3\. Choose a restore point from the list and tap on **Scan for affected programs** to check the items that will be deleted after the restore. Then, click **Close**.
 
 [![Scan For Affected Programs Close](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/scan-for-affected-programs-close.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step 4\. Press **Next**. Confirm the selected restore point and click **Finish**. Then, hit **Yes** to begin the [recovery of deleted files](https://tools.techidaily.com/ubackup/products/).
 
@@ -191,17 +167,9 @@ Was the provided information useful? Your vote is important to us!
 
 ![Kelsey](https://www.ubackup.com/assets/images/author/kelsey-avatar.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 [Kelsey](https://tools.techidaily.com/ubackup/products/) · Editor
 
 Kelsey is an English editor of AOMEI Technology. She is passionate about helping people find effective ways to deal with all problems in computer. She has great insights into data backup and recovery, disk partition and clone, and other data protection measures. She likes learn computer skills to improve herself and enjoy quality time with family and friends. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Related Articles
 
@@ -231,15 +199,7 @@ Recover deleted & lost data from any disasters in Windows.
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Clean & Secure
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.ubackup.com/resource/images/ub-mr-theme/ub-article-mr-img-dibu.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -256,24 +216,16 @@ Recover deleted & lost data from any disasters in Windows.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/he-future-of-advertising-on-youtube-shorts-for-2024/"><u>[New] The Future of Advertising on YouTube Shorts for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-maximizing-value-in-your-cloud-service-expenditure/"><u>[Updated] Maximizing Value in Your Cloud Service Expenditure</u></a></li>
-<li><a href="https://win-web.techidaily.com/t7/"><u>容易なサムスンT7ドライブ形式変更手順をご紹介</u></a></li>
-<li><a href="https://win-web.techidaily.com/1728493551412-ssd5/"><u>外部SSD上のデータ不足？失われたフォルダ・ファイルを回復するための5つの方法</u></a></li>
-<li><a href="https://win-web.techidaily.com/1728475323720-pc/"><u>自分で壊れたPCから完全データセキュリティを確保する方法</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/apple-vision-pro-on-sale-soon-heres-the-obstacle-course-you-must-conquer-for-early-access-digitaltechnews/"><u>Apple Vision Pro on Sale Soon? Here's the Obstacle Course You Must Conquer for Early Access | DigitalTechNews</u></a></li>
-<li><a href="https://win-web.techidaily.com/come-eseguire-il-cloning-di-tutte-le-partizioni-su-ununita-ssd-con-avvio-protetto-in-windows/"><u>Come Eseguire Il Cloning Di Tutte Le Partizioni Su Un'unità SSD Con Avvio Protetto in Windows</u></a></li>
-<li><a href="https://win-web.techidaily.com/como-utilizar-aomei-backupper-para-una-eficiente-clonacion-de-discos-el-programa-mas-fiel/"><u>Cómo Utilizar AOMEI Backupper Para Una Eficiente Clonación De Discos - El Programa Más Fiel</u></a></li>
-<li><a href="https://win-web.techidaily.com/effizientes-verfahren-zur-wiederherstellung-geloschter-dokumente-von-microsoft-onedrive/"><u>Effizientes Verfahren Zur Wiederherstellung Gelöschter Dokumente Von Microsoft OneDrive</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixes-for-playing-call-of-duty-black-ops-cold-war-in-quiet-mode-on-your-pc/"><u>Fixes for Playing Call of Duty: Black Ops Cold War in Quiet Mode on Your PC</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-old-messages-from-your-motorola-moto-g24-by-fonelab-android-recover-messages/"><u>How to recover old messages from your Motorola Moto G24</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mastering-the-art-of-social-media-with-chatgpt-techniques-for-better-engagement-and-content-creation/"><u>Mastering the Art of Social Media with ChatGPT: Techniques for Better Engagement and Content Creation</u></a></li>
-<li><a href="https://win-blog.techidaily.com/1723010631772-phasmophobia-vr-malfunction-heres-how-you-can-repair-it/"><u>Phasmophobia VR Malfunction? Here's How You Can Repair It</u></a></li>
-<li><a href="https://win-web.techidaily.com/profi-tipps-fur-das-seamless-cloning-und-transfer-von-vms-mit-microsoft-hyper-v-methoden-zum-importieren-und-exportieren-erlautert/"><u>Profi-Tipps Für Das Seamless Cloning Und Transfer Von VMs Mit Microsoft Hyper-V: Methoden Zum Importieren Und Exportieren Erläutert</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-xiaomi-14-ultra-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Xiaomi 14 Ultra</u></a></li>
-<li><a href="https://win-web.techidaily.com/unleashing-your-sd-cards-potential-a-step-by-step-guide-to-unlocking-it-on-pc-mac-and-android-devices/"><u>Unleashing Your SD Card's Potential: A Step-by-Step Guide to Unlocking It on PC, Mac, and Android Devices</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ling-the-secrets-of-iphones-video-loops/"><u>Unveiling the Secrets of iPhone's Video Loops</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/2120395-9781633410138-walking-among-us/"><u>Walking Among Us | Free Book</u></a></li>
-<li><a href="https://win-web.techidaily.com/windows-11ssdtrim/"><u>Windows 11中启动和禁用SSD优化TRIM功能的步骤解析</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-motorola-moto-g73-5g-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Motorola Moto G73 5G Activity | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/craft-compelling-social-media-updates-quickly-with-chatgpts-help/"><u>Craft Compelling Social Media Updates Quickly with ChatGPT's Help</u></a></li>
+<li><a href="https://win-web.techidaily.com/einfache-schritte-zur-erstellung-von-inkrementeller-backup-fur-windows-server-hyper-v-virtual-machines/"><u>Einfache Schritte Zur Erstellung Von Inkrementeller Backup Für Windows Server Hyper-V Virtual Machines</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-crucial-info-every-asmr-viewer-should-absorb/"><u>In 2024, Crucial Info Every ASMR Viewer Should Absorb</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-no-fuss-tactics-for-saving-vimeo-footage/"><u>In 2024, No-Fuss Tactics for Saving Vimeo Footage</u></a></li>
+<li><a href="https://win-web.techidaily.com/master-stealth-mode-concealing-drives-on-windows-11/"><u>Master Stealth Mode: Concealing Drives on Windows 11</u></a></li>
+<li><a href="https://win-web.techidaily.com/quick-and-easy-cloning-of-windows/"><u>Quick and Easy Cloning of Windows 지갑을 여러 컴퓨터에 도입하기 위한 세 가지 단계</u></a></li>
+<li><a href="https://win-web.techidaily.com/retrieve-accidentally-erased-images-from-wechat-on-android-and-iphone-devices/"><u>Retrieve Accidentally Erased Images From WeChat on Android and iPhone Devices</u></a></li>
+<li><a href="https://win-web.techidaily.com/samsung-t1-ssd-format-utility-guide-step-by-step-usage-and-resets/"><u>Samsung T1 SSD Format Utility Guide - Step-by-Step Usage and Resets</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-nokia-c110-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Nokia C110</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/upgrading-from-the-iphone-13-and-15-pro-best-alternatives-after-apples-latest-announcement-tech-insights/"><u>Upgrading From the iPhone 13 & 15 Pro: Best Alternatives After Apple's Latest Announcement | Tech Insights</u></a></li>
 </ul></div>
 

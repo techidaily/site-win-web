@@ -1,7 +1,7 @@
 ---
 title: "Announcing the Launch of DEX Version 3.11.0.1: Latest Update in PCDJ DJ Software - Press Release"
-date: 2025-02-03T18:51:25.568Z
-updated: 2025-02-09T04:07:56.554Z
+date: 2025-03-03T17:29:17.652Z
+updated: 2025-03-07T16:04:01.866Z
 tags:
   - product
 categories:
@@ -19,10 +19,6 @@ thumbnail: https://thmb.techidaily.com/3631238ca7c06e0c64e4d00a9d13c9e8220b196fb
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## DJ Software and Karaoke Software designers Digital 1 Audio have raised the bar for Disc Jockey’s and venues with their DEX 3.11 all-in-one entertainment software update.
 
@@ -79,17 +75,9 @@ SYSTEM REQUIREMENTS: MAC
 
 Since 1999, Digital 1 Audio/PCDJ has been recognized as a leading developer and manufacturer of DJ and Karaoke live performance software. More than 80,000 professional DJs around the world now spin with their computer using one of company’s entertainment products.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### DEX 3.11 Overview Videos
 
 New Features
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### _Related_
 
@@ -110,22 +98,24 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2018/07/dex3-press-release.jpg?fit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-simple-steps-to-record-your-youtube-streams/"><u>[Updated] In 2024, Simple Steps to Record Your YouTube Streams</u></a></li>
-<li><a href="https://win-web.techidaily.com/20122022dhcp/"><u>2012到2022年转换DHCP服务器全面解析：一个详尽的指导</u></a></li>
-<li><a href="https://win-web.techidaily.com/samsungssd/"><u>新Samsungデータ転送：SSDが認められない場合の完全ガイド</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/best-free-mobile-editing-aids-to-elevate-your-images-quality-for-2024/"><u>Best FREE Mobile Editing Aids to Elevate Your Image's Quality for 2024</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/convertir-videos-flv-directamente-en-linea-proceso-gratuito-y-facil-con-movavi/"><u>Convertir Videos FLV Directamente en Línea, Proceso Gratuito Y Fácil Con Movavi</u></a></li>
-<li><a href="https://driver-download.techidaily.com/effects-processing/"><u>Effects Processing</u></a></li>
-<li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-vivo-y100t-drfone-by-drfone-virtual-android/"><u>Full Guide to Fix iToolab AnyGO Not Working On Vivo Y100t | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-honor-v-purse-drfone-by-drfone-virtual-android/"><u>How to get the dragon scale and evolution-enabled pokemon On Honor V Purse? | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-comparing-av1-and-vp9-which-is-more-advanced/"><u>In 2024, Comparing AV1 & VP9 Which Is More Advanced?</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/scopri-come-usare-i-comandi-della-riga-di-comando-per-recuperare-file-nascosti-dal-tuo-dispositivo-usb/"><u>Scopri Come Usare I Comandi Della Riga Di Comando per Recuperare File Nascosti Dal Tuo Dispositivo USB</u></a></li>
-<li><a href="https://win-web.techidaily.com/step-by-step-tutorial-setting-up-ghost-in-windows-11-and-connecting-it-to-your-google-drive/"><u>Step-by-Step Tutorial: Setting Up Ghost in Windows 11 and Connecting It to Your Google Drive</u></a></li>
-<li><a href="https://win-web.techidaily.com/top-3-methods-to-fix-memory-drain-issues-on-windows-server-201nine/"><u>Top 3 Methods to Fix Memory Drain Issues on Windows Server 201Nine</u></a></li>
-<li><a href="https://win-web.techidaily.com/top-rated-tools-for-transferring-data-from-usb-to-ssd-on-multiple-versions-of-windows/"><u>Top Rated Tools for Transferring Data From USB to SSD on Multiple Versions of Windows</u></a></li>
-<li><a href="https://win-web.techidaily.com/top-5-workarounds-fur-die-nicht-funktionierende-offline-funktion-von-apple-music/"><u>Top-5 Workarounds Für Die Nicht Funktionierende Offline-Funktion Von Apple Music</u></a></li>
-<li><a href="https://win-web.techidaily.com/uberfuhrung-von-hdd-datenteilen-auf-ssd-in-windows-1011-eine-anleitung-zu-zwei-erfolgversprechenden-ansatzen/"><u>Überführung Von HDD-Datenteilen Auf SSD in Windows 10/11 – Eine Anleitung Zu Zwei Erfolgversprechenden Ansätzen</u></a></li>
-<li><a href="https://win-web.techidaily.com/understanding-the-purpose-of-formatting-your-sd-card-what-you-need-to-know/"><u>Understanding the Purpose of Formatting Your SD Card: What You Need to Know</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/yt-favorites-top-10-music-videos-and-their-reactions/"><u>YT Favorites Top 10 Music Videos & Their Reactions</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-mastering-live-game-replays-with-fraps/"><u>[New] Mastering Live Game Replays with Fraps</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-sundae-surveillance-insightful-review-of-frozen-film-software-for-2024/"><u>[New] Sundae Surveillance Insightful Review of Frozen Film Software for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-conquering-the-labyrinth-of-lesser-known-youtube-content/"><u>[Updated] Conquering the Labyrinth of Lesser-Known YouTube Content</u></a></li>
+<li><a href="https://win-web.techidaily.com/2022s-top-seating-innovation-an-exclusive-review-of-andaseat-kaiser-3-on-zdnet/"><u>2022'S Top Seating Innovation: An Exclusive Review of AndaSeat Kaiser 3 on ZDNET</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-echoes-of-engagement-the-subtle-aspects-of-story-viewing/"><u>2024 Approved Echoes of Engagement The Subtle Aspects of Story Viewing</u></a></li>
+<li><a href="https://win-web.techidaily.com/boost-performance-on-your-pre-windows-10-device-top-5-free-hacks-compatible-with-windows-11-zdnet-insights/"><u>Boost Performance on Your Pre-Windows 10 Device: Top 5 Free Hacks Compatible With Windows 11 | ZDNET Insights</u></a></li>
+<li><a href="https://win-web.techidaily.com/boost-your-productivity-top-5-strategies-to-overcome-distractions-and-enhance-your-focus-on-writing-and-work-tasks-zdnet-insights/"><u>Boost Your Productivity: Top 5 Strategies to Overcome Distractions and Enhance Your Focus on Writing & Work Tasks | ZDNet Insights</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-vs-gemini-a-comparative-analysis-on-which-is-more-skilled-at-writing-code/"><u>ChatGPT Vs. Gemini: A Comparative Analysis on Which Is More Skilled at Writing Code</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-the-nuances-of-using-gptzero-for-detecting-ai-content/"><u>Exploring the Nuances of Using GPTZero for Detecting AI Content</u></a></li>
+<li><a href="https://network-issues.techidaily.com/improving-system-capability-for-software-setup-challenges/"><u>Improving System Capability for Software Setup Challenges</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-how-to-record-minecraft-gameplay-complete-guide/"><u>In 2024, How to Record Minecraft Gameplay [Complete Guide]</u></a></li>
+<li><a href="https://win-web.techidaily.com/in-depth-analysis-of-jabras-evolve2-75-audio-gear-the-ultimate-hybrid-work-companion-featuring-anc-and-all-day-conversations-techreviewzdnet/"><u>In-Depth Analysis of Jabra's Evolve2 75 Audio Gear: The Ultimate Hybrid Work Companion Featuring ANC & All-Day Conversations | TechReviewZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/seamless-microsoft-sculpt-keyboard-driver-installation-instructions/"><u>Seamless Microsoft Sculpt Keyboard Driver Installation Instructions</u></a></li>
+<li><a href="https://win-web.techidaily.com/singapore-adopts-microsoft-copilot-next-gen-tech-in-legal-services-zdnet-insights/"><u>Singapore Adopts Microsoft Copilot: Next-Gen Tech in Legal Services | ZDNet Insights</u></a></li>
+<li><a href="https://win-web.techidaily.com/steven-ballmer-previously-at-the-helm-of-microsoft-discusses-his-courageous-traits-or-lack-thereof-the-verge/"><u>Steven Ballmer, Previously at the Helm of Microsoft, Discusses His Courageous Traits or Lack Thereof | The Verge</u></a></li>
+<li><a href="https://win-web.techidaily.com/tech-review-how-microsofts-new-lineup-of-easy-to-repair-laptops-outshines-rivals-leaving-apple-to-catch-up-zdnet/"><u>Tech Review: How Microsoft's New Lineup of Easy-to-Repair Laptops Outshines Rivals, Leaving Apple to Catch Up | ZDNET</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-beginners-guide-to-combining-gpt-nupy-for-intelligent-text-generation/"><u>The Beginner's Guide to Combining GPT-Nupy for Intelligent Text Generation</u></a></li>
+<li><a href="https://win-web.techidaily.com/transform-your-macbook-into-a-touchscreen-masterpiece-with-this-compact-portable-display-discover-more-on-zdnet/"><u>Transform Your MacBook Into a Touchscreen Masterpiece with This Compact Portable Display - Discover More on ZDNet!</u></a></li>
+<li><a href="https://win-web.techidaily.com/ultimate-guide-leading-soundproof-window-treatments-for-noise-reduction-hometechreview/"><u>Ultimate Guide: Leading Soundproof Window Treatments for Noise Reduction | HomeTechReview</u></a></li>
 </ul></div>
 

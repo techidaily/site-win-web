@@ -1,7 +1,7 @@
 ---
 title: 遇到外接硬盘不能被检测时，请依次尝试这些方法！
-date: 2025-02-05T01:16:20.698Z
-updated: 2025-02-08T21:18:08.988Z
+date: 2025-02-28T18:16:59.282Z
+updated: 2025-03-07T17:27:10.757Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/94794ad0266b38c29cc913b5310b6833aba7a42cc29cc084bb2db9c76fd1be31.jpg
@@ -18,19 +18,11 @@ thumbnail: https://thmb.techidaily.com/94794ad0266b38c29cc913b5310b6833aba7a42cc
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Wie kann man den Papierkorb vom Desktop entfernen unter Windows 10?
 
 Wie kann man den Papierkorb vom Desktop entfernen? Eine effiziente Methode finden Sie auf dieser Seite. Sie können auch erfahren, wie Sie gelöschte Dateien aus dem Papierkorb wiederherstellen können, nachdem dieser geleert wurde, und Sie erhalten entsprechende Tipps zur Wiederherstellung des Papierkorbs.
 
 ![Holiday](https://www.ubackup.com/assets/images/author/Holiday.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Von[Holiday](https://tools.techidaily.com/ubackup/products/)/ Aktualisiert am 14.09.2024
 
@@ -58,17 +50,9 @@ Nicht zu vergessen sind die kürzlich gelöschten Dateien im Papierkorb. Sie wer
 
 [![Papierkorb leeren](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows-recovery/empty-recycle-bin.png "Papierkorb leeren")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Um Speicherplatz freizugeben, leeren viele Benutzer ihren Papierkorb. Aber ist es sicher, den Papierkorb zu löschen? Um spätere Bedauern zu vermeiden, öffnen Sie diesen temporären Speicherplatz, um zu prüfen, ob sich darin Dateien befinden, die Sie wiederherstellen möchten.
 
 Aber wenn der [Papierkorb als leer angezeigt wird](https://tools.techidaily.com/ubackup/products/), es aber nicht ist, was können Sie tun, um dies zu beheben? Lesen Sie bitte weiter, um die entsprechenden Methoden zu erhalten.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Teil 1\. Wie kann man den Papierkorb vom Desktop entfernen unter Windows 10?
 
@@ -90,10 +74,6 @@ Vor der dauerhaften Löschung des Papierkorbs sollten Sie sicherstellen, dass ke
 
 [![Papierkorb](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/other/windows/check-recycle-bin-click-ok.png "Papierkorb")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Teil 2\. Wie kann man den Papierkorb vom Desktop entfernen?
 
 Wenn Sie den Papierkorb mittels erhöhter Eingabeaufforderung zurücksetzen möchten, folgen Sie diesen klaren Schritten:
@@ -101,10 +81,6 @@ Wenn Sie den Papierkorb mittels erhöhter Eingabeaufforderung zurücksetzen möc
 **Schritt 1**. Öffnen Sie eine erhöhte Eingabeaufforderung, indem Sie „cmd“ in die Suchleiste eingeben und auf „**Als Administrator ausführen**“ klicken.
 
 [![Als Administrator ausführen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/other/windows/run-as-administrator.png "Als Administrator ausführen")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Schritt 2**. Geben Sie „**rd /s /q C:\\Papierkorb**“ in das Eingabeaufforderungsfenster ein und drücken Sie „**Enter**“, um den Vorgang zu starten. Wenn erforderlich, ersetzen Sie das Laufwerk C durch Ihren gewünschten Laufwerksbuchstaben.
 
@@ -130,10 +106,6 @@ Sicherer Download
 
 [![Scan starten](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/data-recovery-disk/windows-recovery/select-c-to-scan.png "Scan starten")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Schritt 2**. Suchen Sie nach Ihren gewünschten Dateien oder warten Sie, um Ihre gelöschten und anderen fehlenden Dateien nach der Schnell- und Tiefenscan anzuzeigen.
 
 [![Laufwerk scannen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/data-recovery-disk/windows-recovery/scanning-drive.png "Laufwerk scannen")
@@ -141,10 +113,6 @@ Sicherer Download
 **Schritt 3**. Gehen Sie zum Papierkorb, um die gewünschten Dateien zu lokalisieren. Klicken Sie dann auf „**x Dateien wiederherstellen**“, um die ausgewählten Dateien wiederherzustellen. Speichern Sie diese wiederhergestellten Dateien bitte an einem neuen Ort.
 
 [![x Dateien wiederherstellen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/data-recovery-disk/windows-recovery/select-deleted-excel-files-click-recover.png "x Dateien wiederherstellen")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Bonus-Tipps: Wie verhindert man Datenverlust auf Computern?**
 
@@ -239,10 +207,6 @@ Waren die angebotenen Informationen nützlich? Ihre Stimme ist wichtig für uns!
 
 [Ja](https://tools.techidaily.com/ubackup/products/)[Nein](https://tools.techidaily.com/ubackup/products/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## MyRecover Jetzt Kostenlos Erhalten
 
 Wiederherstellen von gelöschten und verlorenen Daten aus allen Katastrophen in Windows.
@@ -268,15 +232,24 @@ Wiederherstellen von gelöschten und verlorenen Daten aus allen Katastrophen in 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-ace-your-earnings-game-in-youtube-shorts/"><u>[New] 2024 Approved Ace Your Earnings Game in YouTube Shorts</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-crafting-compelling-metaverse-campaigns/"><u>[New] Crafting Compelling Metaverse Campaigns</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-virtual-universe-showdown-meta-and-omni-explored/"><u>[New] Virtual Universe Showdown Meta & Omni Explored</u></a></li>
-<li><a href="https://win-web.techidaily.com/effektivste-strategien-ihren-pc-mit-einer-neuen-festplatte-fur-windows-11-booten/"><u>Effektivste Strategien: Ihren PC Mit Einer Neuen Festplatte Für Windows 11 Booten</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-fix-logitech-keyboards-not-detected-on-windows-10/"><u>How to Fix Logitech Keyboards Not Detected on Windows 10</u></a></li>
-<li><a href="https://win-tutorials.techidaily.com/identifying-critical-hardware-issues-leading-to-memory-malfunction-insights-from-yl-software-experts/"><u>Identifying Critical Hardware Issues Leading to Memory Malfunction - Insights From YL Software Experts</u></a></li>
-<li><a href="https://win-web.techidaily.com/issues-with-moving-images-from-computer-to-iphone-comprehensive-fixes-inside/"><u>Issues with Moving Images From Computer to iPhone: Comprehensive Fixes Inside</u></a></li>
-<li><a href="https://win-web.techidaily.com/step-by-step-guide-removing-your-iphones-data-from-your-pc-or-mac/"><u>Step-by-Step Guide: Removing Your iPhone's Data From Your PC or Mac</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/the-ultimate-showdown-after-effects-vs-adobe-premiere-pro/"><u>The Ultimate Showdown After Effects vs Adobe Premiere Pro</u></a></li>
-<li><a href="https://win-web.techidaily.com/top-free-software-pour-copier-un-ssd-sur-un-nouveau-disque-dur/"><u>Top Free Software Pour Copier Un SSD Sur Un Nouveau Disque Dur</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-tips-and-tricks-for-iphone-audio-enthusiasts/"><u>[New] In 2024, Tips and Tricks for iPhone Audio Enthusiasts</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-visionedit-ace/"><u>[Updated] 2024 Approved VisionEdit Ace</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-transforming-brands-with-language-mastery-techniques/"><u>2024 Approved Transforming Brands with Language Mastery Techniques</u></a></li>
+<li><a href="https://win-web.techidaily.com/amd-virtual-chip-emulator-optimize-gaming-and-live-capture-experience/"><u>AMD Virtual Chip Emulator: Optimize Gaming & Live Capture Experience</u></a></li>
+<li><a href="https://win-web.techidaily.com/easymp4-converter-transfer-hilarious-collegehumor-skits-as-mp4-files/"><u>EasyMP4 Converter: Transfer Hilarious CollegeHumor Skits as MP4 Files</u></a></li>
+<li><a href="https://driver-install.techidaily.com/enhanced-system-stability-installing-fwu-e1659-on-win-oses/"><u>Enhanced System Stability: Installing FWU-E1659 on WIN OSes</u></a></li>
+<li><a href="https://win-web.techidaily.com/free-abc-song-mp3-download-access-educational-childrens-music/"><u>Free ABC Song MP3 Download: Access Educational Children's Music</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-beyond-acid-the-future-of-graphic-vectors/"><u>In 2024, Beyond ACID The Future of Graphic Vectors</u></a></li>
+<li><a href="https://win-web.techidaily.com/moving-music-forward-how-to-convert-and-transfer-spotify-playlists-onto-deezer/"><u>Moving Music Forward: How to Convert and Transfer Spotify Playlists Onto Deezer</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/navigating-subtitle-files-like-a-pro-in-macos/"><u>Navigating Subtitle Files Like a Pro in macOS</u></a></li>
+<li><a href="https://win-web.techidaily.com/navigating-the-rules-a-detailed-look-at-mirillis-legal-framework-for-user-engagement/"><u>Navigating the Rules: A Detailed Look at Mirillis' Legal Framework for User Engagement</u></a></li>
+<li><a href="https://win11.techidaily.com/powerful-practices-reactivating-explore-in-11os/"><u>Powerful Practices: Reactivating Explore in 11OS</u></a></li>
+<li><a href="https://win-web.techidaily.com/resolving-audio-problems-in-downloaded-1080p-youtube-clips/"><u>Resolving Audio Problems in Downloaded 1080P YouTube Clips</u></a></li>
+<li><a href="https://win-web.techidaily.com/resolving-the-action-critical-error-101-effective-fixes-and-tips/"><u>Resolving the 'Action!' Critical Error 101: Effective Fixes & Tips</u></a></li>
+<li><a href="https://win-web.techidaily.com/salsaindy-dance-collection-free-downloads-in-mp4movaviwmv-formats/"><u>SalsaIndy Dance Collection - Free Downloads in MP4/MOV/AVI/WMV Formats</u></a></li>
+<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-apple-iphone-6-plus-drfone-by-drfone-virtual-ios/"><u>The Best 8 VPN Hardware Devices Reviewed On Apple iPhone 6 Plus | Dr.fone</u></a></li>
+<li><a href="https://win-web.techidaily.com/top-choice-for-beemp3-conversion-a-superior-solution-for-macos-and-windows-by-allavsoft/"><u>Top Choice for BeeMp3 Conversion: A Superior Solution for macOS & Windows by Allavsoft</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/top-frameer-tools-perfect-pictures-with-ease-online/"><u>Top Frameer Tools Perfect Pictures with Ease Online</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-motorola-razr-40-ultra-drfone-by-drfone-virtual-android/"><u>What is the best Pokemon for pokemon pvp ranking On Motorola Razr 40 Ultra? | Dr.fone</u></a></li>
 </ul></div>
 

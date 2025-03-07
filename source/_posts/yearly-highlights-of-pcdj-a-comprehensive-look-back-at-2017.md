@@ -1,7 +1,7 @@
 ---
 title: "Yearly Highlights of PCDJ: A Comprehensive Look Back at 2017"
-date: 2025-02-13T18:41:22.024Z
-updated: 2025-02-19T04:02:00.089Z
+date: 2025-02-28T19:03:07.458Z
+updated: 2025-03-07T18:25:01.978Z
 tags:
   - product
 categories:
@@ -30,10 +30,6 @@ At the conclusion of each year we take a look back at he milestones and accompli
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2017 PCDJ Milestones
 
 * Upgraded and released versions 3.7.5.1 through 3.9.0.10 of [DEX 3](https://tools.techidaily.com/pcdj/products/) (and [DEX 3 RE](https://tools.techidaily.com/pcdj/products/))
@@ -61,10 +57,6 @@ While it’s clear we haven’t exactly been resting on our laurels in 2017 we�
 
 As always visit the blog here often for the latest news and subscribe to the PCDJ newsletter below to stay in the loop!
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### _Related_
 
 https://i2.wp.com/pcdj.com/wp-content/uploads/2017/12/pcdj2017-year-in-review.jpg?fit=706%2C360&ssl=1 360 706 Ryan Sherr https://www.pcdj.com/wp-content/uploads/2021/07/pcdj-main-logo-2.png Ryan Sherr2017-12-18 16:55:292018-10-02 12:57:28PCDJ 2017 | Year In Review}
@@ -84,19 +76,16 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2017/12/pcdj2017-year-in-review.jp
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-showcasing-design-brilliance-best-10-text-setups-in-ae/"><u>[Updated] In 2024, Showcasing Design Brilliance Best 10 Text Setups in AE</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-explore-the-world-through-ultra-hd-with-leading-mirrorless-cams/"><u>2024 Approved Explore the World Through Ultra-HD with Leading Mirrorless Cams</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-leading-lights-pioneering-video-and-sound-makers/"><u>2024 Approved Leading Lights Pioneering Video & Sound Makers</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/concealed-communication-tactics-preserving-your-chatgpt-discussions-unseen/"><u>Concealed Communication Tactics: Preserving Your ChatGPT Discussions Unseen</u></a></li>
-<li><a href="https://win-web.techidaily.com/creating-a-multi-page-pdf-for-flipbook-tips-and-tricks-for-seamless-imports/"><u>Creating a Multi-Page PDF for FlipBook: Tips and Tricks for Seamless Imports</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-tecno-spark-10-5g-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On Tecno Spark 10 5G? | Dr.fone</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-pricepoint-nimbus-economical-mass-storage-haven/"><u>In 2024, PricePoint Nimbus - Economical Mass Storage Haven</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-twitter-video-series-breakdown-area-format-duration/"><u>In 2024, Twitter Video Series Breakdown Area, Format, Duration</u></a></li>
-<li><a href="https://win-web.techidaily.com/step-by-step-guide-installing-youcut-video-editor-on-windows-and-macos/"><u>Step-by-Step Guide: Installing YouCut Video Editor on Windows and macOS</u></a></li>
-<li><a href="https://win-web.techidaily.com/top-10-highly-rated-xvid-video-players-compatible-with-pc-systems/"><u>Top 10 Highly Rated Xvid Video Players Compatible with PC Systems</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/top-5-samsung-galaxy-a25-5g-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>Top 5 Samsung Galaxy A25 5G Bypass FRP Tools for PC That Actually Work</u></a></li>
-<li><a href="https://win-web.techidaily.com/ultimate-mp4-video-transformation-tool-leading-hd-to-mp4-converter-with-advanced-features/"><u>Ultimate MP4 Video Transformation Tool: Leading HD to MP4 Converter with Advanced Features</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unlocking-tech-secrets-the-ultimate-resource-for-hardware-enthusiasts-at-toms-review/"><u>Unlocking Tech Secrets: The Ultimate Resource for Hardware Enthusiasts at Tom's Review</u></a></li>
-<li><a href="https://win-web.techidaily.com/vlc-and/"><u>VLC ネットワークストリーム再生の失敗原因解説&修正法</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/he-essential-guide-to-professional-thumbnail-dimensions-for-youtube-for-2024/"><u>[New] The Essential Guide to Professional Thumbnail Dimensions for YouTube for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-leading-titles-for-3d-visuals-and-lustrous-text-online/"><u>2024 Approved Leading Titles for 3D Visuals & Lustrous Text Online</u></a></li>
+<li><a href="https://win-web.techidaily.com/advanced-editing-techniques-using-emeditors-vertical-select-delete-feature-for-efficient-text-manipulation/"><u>Advanced Editing Techniques: Using EmEditor's Vertical Select-Delete Feature for Efficient Text Manipulation</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-accessing-windows-11s-security-settings/"><u>Guide: Accessing Windows 11'S Security Settings</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/high-quality-bleach-themed-hd-wallpaper-collection-premium-visuals-by-yl-software/"><u>High-Quality Bleach Themed HD Wallpaper Collection - Premium Visuals by YL Software</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-benq-bl2711u-27-professional-4k-monitor-review/"><u>In 2024, BENQ BL2711U 27” Professional 4K Monitor Review</u></a></li>
+<li><a href="https://techidaily.com/repair-damaged-unplayable-video-files-of-motorola-edge-40-by-stellar-video-repair-mobile-video-repair/"><u>Repair damaged, unplayable video files of Motorola Edge 40</u></a></li>
+<li><a href="https://win-web.techidaily.com/troppe-informazioni-per-clonare-un-disco-su-una-piattaforma-ridotta-ottimizzare-con-soluzioni-stabili/"><u>Troppe Informazioni per Clonare Un Disco Su Una Piattaforma Ridotta - Ottimizzare Con Soluzioni Stabili</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/ultimate-guide-to-the-toshiba-55lf711u2n3-55-fire-tv-smart-tv-perfect-for-amazon-prime-subscribers/"><u>Ultimate Guide to the Toshiba 55LF711U2n3 55” Fire TV Smart TV: Perfect for Amazon Prime Subscribers</u></a></li>
+<li><a href="https://win-web.techidaily.com/1728472474387-windows-server-2008-r2/"><u>Windows Server 2008 (R2)のシステムイメージ復元に必要な手順とヒント</u></a></li>
+<li><a href="https://win-web.techidaily.com/1728499604498-windowsos/"><u>Windows系OSに最高適合：パーティションソフトを無料で手に入れる方法</u></a></li>
 </ul></div>
 

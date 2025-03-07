@@ -1,7 +1,7 @@
 ---
 title: WeChat 会話履歴の迅速な回復術 - iPhoneユーザ向けレシピ
-date: 2025-02-07T23:21:25.567Z
-updated: 2025-02-08T18:42:46.743Z
+date: 2025-03-04T18:51:48.939Z
+updated: 2025-03-07T17:17:27.709Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/db6e8bb5b9330de241494205e28fd162607bcee64226c4e5f87f88fc35435d44.jpg
@@ -17,10 +17,6 @@ thumbnail: https://thmb.techidaily.com/db6e8bb5b9330de241494205e28fd162607bcee64
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Wie kann man den Papierkorb vom Desktop entfernen unter Windows 10?
 
@@ -70,25 +66,13 @@ Vor der dauerhaften Löschung des Papierkorbs sollten Sie sicherstellen, dass ke
 
 [![Designs](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/other/windows/themes.png "Designs")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Schritt 3**. Wählen Sie „**Desktopsymbol-Einstellungen**“ und suchen Sie das Symbol „**Papierkorb**“.
 
 [![Desktopsymbol-Einstellungen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/other/windows/desktop-icon-settings.png "Desktopsymbol-Einstellungen")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Schritt 4**. Suchen Sie das „**Papierkorb**“-Symbol, entfernen Sie das Häkchen und bestätigen Sie mit „**Übernehmen**“ und „**OK**“.
 
 [![Papierkorb](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/other/windows/check-recycle-bin-click-ok.png "Papierkorb")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Teil 2\. Wie kann man den Papierkorb vom Desktop entfernen?
 
@@ -101,14 +85,6 @@ Wenn Sie den Papierkorb mittels erhöhter Eingabeaufforderung zurücksetzen möc
 **Schritt 2**. Geben Sie „**rd /s /q C:\\Papierkorb**“ in das Eingabeaufforderungsfenster ein und drücken Sie „**Enter**“, um den Vorgang zu starten. Wenn erforderlich, ersetzen Sie das Laufwerk C durch Ihren gewünschten Laufwerksbuchstaben.
 
 [![cmd Papierkorb zurücksetzen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/other/windows/command-prompt/cmd-reset-recycle-bin.png "cmd Papierkorb zurücksetzen")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Teil 3\. Wie kann man gelöschte Dateien aus dem Papierkorb nach dem Leeren wiederherstellen?
 
@@ -137,10 +113,6 @@ Sicherer Download
 **Schritt 3**. Gehen Sie zum Papierkorb, um die gewünschten Dateien zu lokalisieren. Klicken Sie dann auf „**x Dateien wiederherstellen**“, um die ausgewählten Dateien wiederherzustellen. Speichern Sie diese wiederhergestellten Dateien bitte an einem neuen Ort.
 
 [![x Dateien wiederherstellen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/data-recovery-disk/windows-recovery/select-deleted-excel-files-click-recover.png "x Dateien wiederherstellen")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Bonus-Tipps: Wie verhindert man Datenverlust auf Computern?**
 
@@ -211,10 +183,6 @@ Waren die angebotenen Informationen nützlich? Ihre Stimme ist wichtig für uns!
 
 Holiday ist seit dem 1\. Juni 2020 bei AOMEI und beschäftigt sich mit Sichern & Wiederherstellen, Festplatten- und Partitionsverwaltung usw. für AOMEI. Ob Arbeit, Studien oder Leben, sie versucht gerne, neue Dinge zu lernen und denkt, dass Überraschungen auf sie warten, egal wann und wo.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Folgende Artikel könnten Sie auch interessieren
 
 ##### [Gelöschte Bilder vom Computer wiederherstellen | 5 einfache Wege](https://tools.techidaily.com/ubackup/products/)
@@ -247,10 +215,6 @@ Wiederherstellen von gelöschten und verlorenen Daten aus allen Katastrophen in 
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Sauber & Sicher
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.ubackup.com/resource/images/ub-mr-theme/ub-article-mr-img-dibu.png)
 
 <ins class="adsbygoogle"
@@ -268,17 +232,22 @@ Wiederherstellen von gelöschten und verlorenen Daten aus allen Katastrophen in 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-the-ultimate-solution-for-stopping-youtube-video-previews/"><u>[New] The Ultimate Solution for Stopping YouTube Video Previews</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-a-year-in-the-market-top-15-finance-videos/"><u>[Updated] 2024 Approved A Year in the Market Top 15 Finance Videos</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-from-novice-to-pro-a-tactical-guide-to-snapchat-marketing-for-2024/"><u>[Updated] From Novice to Pro A Tactical Guide to Snapchat Marketing for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-the-filmmakers-guide-to-stunning-spherical-videos-9-must-knows-for-2024/"><u>[Updated] The Filmmaker's Guide to Stunning Spherical Videos (9 Must-Knows) for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ck-guide-to-chroma-key-background/"><u>A Quick Guide to Chroma Key Background</u></a></li>
-<li><a href="https://win-web.techidaily.com/activate-your-windows-security-mastering-windows-11-firewall-settings-with-yl-software/"><u>Activate Your Windows Security: Mastering Windows 11 Firewall Settings with YL Software</u></a></li>
-<li><a href="https://win-web.techidaily.com/dynamic-hit-monkey-visuals-high-quality-imagery-and-desktop-pictures-yl-digital-art/"><u>Dynamic Hit-Monkey Visuals: High-Quality Imagery & Desktop Pictures - YL Digital Art</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/microsoft-surface-pro-and-the-copilotplus-experience-gorgeous-hardware-yet-ai-innovations-leave-something-to-be-desired/"><u>Microsoft Surface Pro and the Copilot+ Experience: Gorgeous Hardware, Yet AI Innovations Leave Something to Be Desired</u></a></li>
-<li><a href="https://win-web.techidaily.com/pcdjs-new-update-enhanced-karaoke-experience-with-kjs-showing-singers-alongside-lyrics-in-version-097619/"><u>PCDJ's New Update: Enhanced Karaoke Experience with KJs Showing Singers Alongside Lyrics in Version 0.9.7619</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-complete-handbook-to-windows-law-filters/"><u>The Complete Handbook to Window's LAW Filters</u></a></li>
-<li><a href="https://win-web.techidaily.com/understanding-your-pcs-cpu-heat-issue-an-in-depth-guide-by-yl-computing/"><u>Understanding Your PC's CPU Heat Issue: An In-Depth Guide by YL Computing</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/unlock-professional-editing-techniques-in-fcp-for-2024/"><u>Unlock Professional Editing Techniques in FCP for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-essential-techniques-for-enhancing-your-instagram-videos/"><u>[New] In 2024, Essential Techniques for Enhancing Your Instagram Videos</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-veil-of-secrecy-hiding-objects-from-digital-eyes/"><u>[New] In 2024, Veil of Secrecy Hiding Objects From Digital Eyes</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-mastering-the-airwaves-dji-drones-and-social-media-live/"><u>[New] Mastering the Airwaves DJI Drones and Social Media Live</u></a></li>
+<li><a href="https://win-web.techidaily.com/come-risolvere-gli-errori-della-modalita-provvisoria-su-windows-7/"><u>Come Risolvere Gli Errori Della Modalità Provvisoria Su Windows 7</u></a></li>
+<li><a href="https://win-web.techidaily.com/comment-recuperer-rapidement-windows-11-a-laide-dun-outil-de-restauration-par-cle-usb/"><u>Comment Récupérer Rapidement Windows 11 À L'aide D'un Outil De Restauration Par Clé USB</u></a></li>
+<li><a href="https://win-web.techidaily.com/discover-penny-the-acclaimed-writer-profile-by-aomei/"><u>Discover Penny: The Acclaimed Writer Profile by AOMEI</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/expert-tips-for-diagnosing-and-mending-driver-errors-on-your-hp-monitor-across-multiple-windows-editions/"><u>Expert Tips for Diagnosing and Mending Driver Errors on Your HP Monitor Across Multiple Windows Editions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-get-your-iphones-chatgpt-app-running-again-essential-techniques-and-tweaks/"><u>How To Get Your iPhone's ChatGPT App Running Again: Essential Techniques and Tweaks</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-unlock-apple-id-activation-lock-from-iphone-12-mini-by-drfone-ios/"><u>How to Unlock Apple ID Activation Lock From iPhone 12 mini?</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-fcpx-compressor-tutorial-from-basics-to-advanced-techniques/"><u>New In 2024, FCPX Compressor Tutorial From Basics to Advanced Techniques</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/optimal-action-capture-software-insights-for-2024/"><u>Optimal Action Capture Software Insights for 2024</u></a></li>
+<li><a href="https://win-web.techidaily.com/quick-guide-backing-up-all-your-outlook-emails-onto-your-computers-storage/"><u>Quick Guide: Backing Up All Your Outlook Emails Onto Your Computer's Storage</u></a></li>
+<li><a href="https://win-web.techidaily.com/step-by-step-masterclass-on-reinitializing-your-toshiba-portable-disk-hassle-free-methods/"><u>Step-by-Step Masterclass on Reinitializing Your Toshiba Portable Disk - Hassle-Free Methods</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unexpected-top-performers-in-the-tech-world-do-they-include-a-laptop-find-out-with-insights/"><u>Unexpected Top-Performers in the Tech World: Do They Include a Laptop? Find Out with Insights</u></a></li>
+<li><a href="https://win-web.techidaily.com/wiederherstellung-von-dateien-in-windows-11-6-einfache-methoden/"><u>Wiederherstellung Von Dateien in Windows 11: 6 Einfache Methoden</u></a></li>
+<li><a href="https://win-web.techidaily.com/windows-pc2023/"><u>Windows PC上恢復被删除文件的四个最佳技巧（2023年全新指南）</u></a></li>
+<li><a href="https://win-web.techidaily.com/1728466121485-ssd/"><u>サムスンSSD上の情報を完全に消去するためのセキュリティ洗浄手順</u></a></li>
 </ul></div>
 

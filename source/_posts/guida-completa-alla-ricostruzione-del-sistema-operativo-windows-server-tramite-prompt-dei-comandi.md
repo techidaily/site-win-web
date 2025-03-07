@@ -1,7 +1,7 @@
 ---
 title: Guida Completa Alla Ricostruzione Del Sistema Operativo Windows Server Tramite Prompt Dei Comandi
-date: 2025-02-05T19:23:51.325Z
-updated: 2025-02-08T20:10:09.346Z
+date: 2025-02-28T16:48:04.493Z
+updated: 2025-03-07T16:09:49.062Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/abed13984f00a4dafd781b81f7c6f09556b0fa71bac5479c9b32307596f6cf87.jpg
@@ -35,10 +35,6 @@ Partager sur : ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-a
 3. [Comment utiliser le logiciel de sauvegarde NAS Buffalo pour Windows pour sauvegarder des fichiers](https://tools.techidaily.com/ubackup/products/)
 4. [Dernières réflexions sur l'utilitaire de sauvegarde Buffalo](https://tools.techidaily.com/ubackup/products/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Logiciel de sauvegarde NAS Buffalo pour système Windows
 
 NAS Buffalo est la solution idéale pour la protection des données et peut facilement éviter les défaillances informatiques causées par une attaque de virus, un plantage système, une corruption de disque, etc. Cependant, il peut également se bloquer et entraîner une perte de données dans ces situations. Vous ne souhaitez probablement pas perdre vos données, il est donc judicieux de sauvegarder votre NAS Buffalo sur un disque dur externe, une clé USB ou d'autres périphériques.
@@ -65,17 +61,9 @@ Toutes les opérations s'effectuent dans une interface intuitive, ce qui permet 
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-logo-ab-32.svg)AOMEI Backupper
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Meilleur logiciel de sauvegarde Windows gratuit pour usage personnel.
 
 [**Télécharger gratuiciel** Windows 11/10/8.1/8/7](https://tools.techidaily.com/ubackup/products/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Comment utiliser le logiciel de sauvegarde NAS Buffalo pour Windows pour sauvegarder des fichiers
 
@@ -93,10 +81,6 @@ Tout d'abord, cliquez sur **Ajouter un dossier** ou **Ajouter un fichier** sur l
 
 [![ajouter un fichier ou un dossier](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ajouter-dossier-fichier.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Cliquez sur **Share/NAS** pour ouvrir la fenêtre suivante.
 
 [![share/nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ouvrir.png)
@@ -108,10 +92,6 @@ Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le no
 **Étape 3.** Cliquez là où la flèche pointe et sélectionnez le disque externe préparé comme destination.
 
 [![destination](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/choix-chemin-destinations.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Étape 4.** Pour rendre la sauvegarde simple et efficace, définissez une planification de sauvegarde quotidienne, hebdomadaire ou mensuelle dans l'endroit inférieur et cliquez sur **Démarrer** pour sauvegarder le NAS Buffalo. Si vous cochez la case Réveiller l'ordinateur pour exécuter les tâches planifiées, le logiciel s'ouvrira et exécutera automatiquement cette tâche.
 
@@ -141,17 +121,9 @@ Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour no
 
 ![Aurore](https://www.ubackup.com/assets/images/author/aurore.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 [Aurore](https://tools.techidaily.com/ubackup/products/) · Éditeur
 
 Éditrice senior d'AOMEI Technology qui rédige principalement des articles sur la sauvegarde, la synchronisation, le clonage et la restauration de l'ordinateur, tout dans le but de proposer des solutions simples aux utilisateurs pour protéger les données de leur ordinateur. Grâce à ses expertises informatiques, elle propose souvent des astuces très utiles.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Autres articles connexes
 
@@ -198,18 +170,18 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://printer-issues.techidaily.com/driver-missing-canon-pixma-mp620-printer-not-finding-win10/"><u>[Driver Missing] Canon Pixma MP620 Printer Not Finding WIN10</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-breaking-the-monotony-innovative-yt-playlist-shuffling/"><u>[New] 2024 Approved Breaking the Monotony Innovative YT Playlist Shuffling</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-in-2024-encompassing-angle-video-systems/"><u>[New] In 2024, Encompassing Angle Video Systems</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-augment-your-audibility-the-leading-android-tools-for-voice-recording-change/"><u>[Updated] In 2024, Augment Your Audibility The Leading Android Tools for Voice Recording Change</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-streamline-your-youtube-presence-using-premiere-pro/"><u>[Updated] Streamline Your YouTube Presence Using Premiere Pro</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/best-value-lawn-mowers-for-your-garden-in-2e-comprehensive-list-and-ratings-zdnet/"><u>Best Value Lawn Mowers for Your Garden in 2E: Comprehensive List & Ratings | ZDNET</u></a></li>
-<li><a href="https://win-web.techidaily.com/guia-paso-a-paso-para-administrar-dispositivos-apple-con-aomei-fonebackup/"><u>Guía Paso a Paso Para Administrar Dispositivos Apple Con AOMEI FoneBackup</u></a></li>
-<li><a href="https://win-web.techidaily.com/how-to-transfer-data-between-two-external-drives-via-usb-connection/"><u>How to Transfer Data Between Two External Drives via USB Connection</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-hide-location-on-apple-iphone-11-and-android-without-others-knowing-drfone-by-drfone-virtual-ios/"><u>In 2024, Hide location on Apple iPhone 11 and Android without others knowing | Dr.fone</u></a></li>
-<li><a href="https://win-web.techidaily.com/professionelle-windows-datensicherungssoftware-fur-den-heim-und-unternehmensbereich/"><u>Professionelle Windows-Datensicherungssoftware Für Den Heim- Und Unternehmensbereich</u></a></li>
-<li><a href="https://win-web.techidaily.com/top-4-tecnicas-para-borrar-mensajes-repetidos-en-microsoft-outlook-2019-y-2016/"><u>Top 4 Técnicas Para Borrar Mensajes Repetidos en Microsoft Outlook 2019 Y 2016</u></a></li>
-<li><a href="https://win-web.techidaily.com/unseen-kingston-ssds-understanding-and-resolving-non-detection-problems-in-windows/"><u>Unseen Kingston SSDs? Understanding and Resolving Non-Detection Problems in Windows</u></a></li>
-<li><a href="https://win-web.techidaily.com/1728489291809-windows-115/"><u>アップデート失敗でファイルがなくなった？Windows 11復元方法5つ</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-bend-reality-with-your-own-animated-craftsmanship/"><u>[New] 2024 Approved Bend Reality with Your Own Animated Craftsmanship</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-raw-to-refined-mastering-the-art-of-pc-video-editing-on-windows-for-2024/"><u>[New] From Raw to Refined Mastering the Art of PC Video Editing on Windows for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-achieve-financial-success-on-youtube-start-at-500-views-for-2024/"><u>[Updated] Achieve Financial Success on YouTube Start at 500 Views for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-boosting-youtube-popularity-two-simple-strategies/"><u>[Updated] Boosting YouTube Popularity Two Simple Strategies</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-8-useful-tools-that-allow-you-to-pixelate-face-on-photos/"><u>2024 Approved 8 Useful Tools That Allow You to Pixelate Face on Photos</u></a></li>
+<li><a href="https://win-web.techidaily.com/convert-and-download-top-smosh-comedy-clips-in-mp4-mov-and-avi-formats-for-pc-and-mac-users/"><u>Convert & Download Top Smosh Comedy Clips in MP4, MOV & AVI Formats for PC and Mac Users</u></a></li>
+<li><a href="https://win-web.techidaily.com/download-tutorials-and-talks-from-eckhart-tolles-official-site-with-the-best-free-download-tool/"><u>Download Tutorials & Talks From Eckhart Tolle's Official Site with the Best Free Download Tool!</u></a></li>
+<li><a href="https://win-web.techidaily.com/download-your-favorite-movpod-films-as-mp4movavi-with-ease-using-our-top-tips/"><u>Download Your Favorite MovPod Films as MP4/MOV/AVI with Ease Using Our Top Tips!</u></a></li>
+<li><a href="https://win-web.techidaily.com/download-your-favorites-easy-transfer-of-magnatune-songs-into-mp3-and-wav-formats/"><u>Download Your Favorites: Easy Transfer of Magnatune Songs Into MP3 and WAV Formats</u></a></li>
+<li><a href="https://win-web.techidaily.com/easy-tutorial-on-how-to-save-taylor-swifts-reputation-clips-in-high-quality-audio-and-video-formats/"><u>Easy Tutorial on How to Save Taylor Swift's 'Reputation' Clips in High-Quality Audio and Video Formats</u></a></li>
+<li><a href="https://win-web.techidaily.com/explore-and-save-private-scenes-from-clips4sale-confidential-premium-video-library/"><u>Explore and Save Private Scenes From Clips4Sale: Confidential Premium Video Library</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/exploring-hottest-ae-template-trends-on-ig/"><u>Exploring Hottest AE Template Trends on IG</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-nubia-red-magic-9-pro-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Nubia Red Magic 9 Pro in 3 Efficient Ways | Dr.fone</u></a></li>
 </ul></div>
 

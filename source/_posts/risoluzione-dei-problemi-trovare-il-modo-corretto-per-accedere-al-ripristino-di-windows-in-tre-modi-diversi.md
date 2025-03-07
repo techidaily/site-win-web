@@ -1,7 +1,7 @@
 ---
 title: "Risoluzione Dei Problemi: Trovare Il Modo Corretto per Accedere Al Ripristino Di Windows in Tre Modi Diversi"
-date: 2025-02-05T19:03:22.328Z
-updated: 2025-02-08T16:16:43.746Z
+date: 2025-02-28T18:39:16.339Z
+updated: 2025-03-07T16:12:18.079Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/6095600b720da220ffffead1a4fc142237909794e0b00b8441f133e8ae3bdb81.jpg
@@ -27,10 +27,6 @@ Vous obtiendrez le logiciel de sauvegarde NAS Buffalo le plus simple pour Window
 Par[Aurore](https://tools.techidaily.com/ubackup/products/)Publié le 26/06/2024
 
 Partager sur : ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-fb-24.svg) ![twitter](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-tw-24.svg) ![instagram](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-in-24.svg) ![reddit](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-reddit-24.svg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Table des matières** 
 
@@ -77,10 +73,6 @@ Avant de commencer à sauvegarder des fichiers avec le logiciel de sauvegarde NA
 
 [![sauvegarde de fichiers](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/sauvegarde-de-fichiers.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Vous pouvez également choisir _Sauvegarde de disque_ et _Sauvegarde de partition_. Si vous souhaitez sauvegarder le système sur le NAS Buffalo, essayez la fonctionnalité de [Sauvegarde système](https://tools.techidaily.com/ubackup/products/).
 
 **Étape 2.** Sélectionnez les fichiers ou les dossiers sur le lecteur NAS Buffalo.
@@ -89,25 +81,13 @@ Tout d'abord, cliquez sur **Ajouter un dossier** ou **Ajouter un fichier** sur l
 
 [![ajouter un fichier ou un dossier](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ajouter-dossier-fichier.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Cliquez sur **Share/NAS** pour ouvrir la fenêtre suivante.
 
 [![share/nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ouvrir.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le nom d'affichage, l'adresse IP, le nom d'utilisateur et le mot de passe pour connecter votre espace de stockage NAS Buffalo. Double-cliquez ensuite dessus dans le volet de gauche et sélectionnez ce que vous souhaitez sauvegarder dans la liste de droite.
 
 [![ajouter périphérique share ou nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/emplacement-reseau.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Étape 3.** Cliquez là où la flèche pointe et sélectionnez le disque externe préparé comme destination.
 
@@ -117,10 +97,6 @@ Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le no
 
 [![mode planifier](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/mode-planifier.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Par défaut, ce logiciel créera une sauvegarde complète et 6 sauvegardes incrémentielles si vous définissez une tâche de sauvegarde planifiée. Cela peut entraîner un problème d'espace disque plein à long terme, il est donc recommandé d'activer le [Plan de sauvegarde](https://tools.techidaily.com/ubackup/products/) et de supprimer automatiquement les fichiers de sauvegarde. Pour profiter de ces fonctions, passez à l'édition [Professional](https://tools.techidaily.com/ubackup/products/).
 
 Et la sauvegarde incrémentielle nécessite une récupération plus complexe tandis que la sauvegarde différentielle est beaucoup plus facile. Pour connaître les différences entre elles, consultez « [Sauvegarde incrémentielle ou différentielle](https://tools.techidaily.com/ubackup/products/) ».
@@ -128,10 +104,6 @@ Et la sauvegarde incrémentielle nécessite une récupération plus complexe tan
 De plus, vous pouvez activer la notification par e-mail une fois la tâche terminée. Commenter, fractionner, compresser l'image de sauvegarde ou sélectionner un mode de sauvegarde, etc.
 
 [![options](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/options-sauvegarder/sauvegarde-options.png "AOMEI Email SMS Notification Settings")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Dernières réflexions sur l'utilitaire de sauvegarde Buffalo
 
@@ -198,22 +170,20 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-interactive-image-merging-for-desktop-enthusiasts/"><u>[New] In 2024, Interactive Image Merging for Desktop Enthusiasts</u></a></li>
-<li><a href="https://win-web.techidaily.com/1728468826626-iphone/"><u>如何在重新設定iPhone后恢复删除数据？-专业指南解析</u></a></li>
-<li><a href="https://win-web.techidaily.com/best-6-ansatze-zur-fehlerbehebung-in-windows-11-reset-probleme-losen/"><u>Best 6 Ansätze Zur Fehlerbehebung in Windows 11 - Reset-Probleme Lösen</u></a></li>
-<li><a href="https://article-helps.techidaily.com/best-hardware-for-high-quality-livestreams/"><u>Best Hardware for High-Quality Livestreams</u></a></li>
-<li><a href="https://win-web.techidaily.com/create-your-own-startup-disk-using-the-windows-automated-installation-kit-aik/"><u>Create Your Own Startup Disk Using the Windows Automated Installation Kit (AIK)</u></a></li>
-<li><a href="https://win-web.techidaily.com/easy-guide-backing-up-your-windows-hard-drive-without-rebooting-two-effective-methods/"><u>Easy Guide: Backing Up Your Windows Hard Drive Without Rebooting - Two Effective Methods</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/enhancing-your-lexicon-mondlys-revolutionized-phrases/"><u>Enhancing Your Lexicon: Mondly's Revolutionized Phrases</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-do-i-sign-a-ott-file-free-by-ldigisigner-sign-a-word-sign-a-word/"><u>How do i sign a .ott file free</u></a></li>
-<li><a href="https://win-web.techidaily.com/how-to-automate-file-backups-using-aomei-backuppers-synchronization-feature-for-macos-users/"><u>How to Automate File Backups Using AOMEI Backupper's Synchronization Feature for macOS Users</u></a></li>
-<li><a href="https://win-web.techidaily.com/post-disk-wipe-issues-why-isnt-dban-booting-from-usb/"><u>Post-Disk Wipe Issues: Why Isn't DBAN Booting From USB?</u></a></li>
-<li><a href="https://change-location.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-vivo-s18e-drfone-by-drfone-virtual-android/"><u>Preparation to Beat Giovani in Pokemon Go For Vivo S18e | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/seamless-mov-to-mp4-transformation-top-video-converters-reviewed/"><u>Seamless MOV to MP4 Transformation: Top Video Converters Reviewed</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-story-of-facebook-origins-unraveled-insights-on-its-global-appeal-and-fundamental-elements/"><u>The Story of Facebook: Origins Unraveled, Insights on Its Global Appeal, and Fundamental Elements</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/two-ways-to-track-my-boyfriends-samsung-galaxy-s23-tactical-edition-without-him-knowing-drfone-by-drfone-virtual-android/"><u>Two Ways to Track My Boyfriends Samsung Galaxy S23 Tactical Edition without Him Knowing | Dr.fone</u></a></li>
-<li><a href="https://win-web.techidaily.com/1728484989468-visual-studio-code/"><u>Visual Studio Code：失去的文件並未被回收 - 已修正</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/what-to-expect-with-apples-airpods-pro-and-max-unveiling-key-features-and-enhancements-zdnet/"><u>What to Expect with Apple's AirPods Pro & Max? Unveiling Key Features and Enhancements | ZDNET</u></a></li>
-<li><a href="https://win-web.techidaily.com/1728491117968-windows-11usb/"><u>Windows 11下如何有效地从USB清空数据: 四种不同方法</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-ultimate-guide-yi-hero-cam-and-its-dynamic-features/"><u>[New] 2024 Approved Ultimate Guide Yi Hero Cam & Its Dynamic Features</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-luxury-on-wheels-a-compre-written-in-the-stars/"><u>[New] Luxury on Wheels - A Compre Written in the Stars</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-quick-steps-to-authenticate-your-youtube-login/"><u>[Updated] 2024 Approved Quick Steps to Authenticate Your YouTube Login</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-efficient-ways-to-document-gotomeeting-sessions/"><u>[Updated] In 2024, Efficient Ways to Document GoToMeeting Sessions</u></a></li>
+<li><a href="https://win-web.techidaily.com/boost-speed-on-windows-11-with-these-simple-tweaks-from-tech-guru-yl-software/"><u>Boost Speed on Windows 11 with These Simple Tweaks From Tech Guru YL Software</u></a></li>
+<li><a href="https://win-web.techidaily.com/exploring-pros-and-cons-a-comprehensive-guide-to-cryptocurrency-use-insights-by-yl-computing/"><u>Exploring Pros & Cons: A Comprehensive Guide to Cryptocurrency Use – Insights by YL Computing</u></a></li>
+<li><a href="https://win-web.techidaily.com/how-can-you-fix-an-unresponsive-scanner-expert-tips-from-yl-computing/"><u>How Can You Fix an Unresponsive Scanner: Expert Tips From YL Computing</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-emerald-master-ball-cheat-on-motorola-razr-40-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Pokémon Emerald Master Ball Cheat On Motorola Razr 40 Ultra | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-personal-exploration-of-3d-printing-in-3dr/"><u>In 2024, Personal Exploration of 3D Printing in '3DR'</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastery-over-nat-transition-a-comprehensible-win1110-approach/"><u>Mastery Over NAT Transition: A Comprehensible Win11/10 Approach</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-videos-from-tecno-spark-20-proplus-by-fonelab-android-recover-video/"><u>Possible solutions to restore deleted videos from Tecno Spark 20 Pro+</u></a></li>
+<li><a href="https://win-web.techidaily.com/tailoring-your-pcs-input-devices-step-by-step-guide-to-tweaking-mouse-and-touchpad-preferences-via-windows-control-panel-tech-solutions-by-yl/"><u>Tailoring Your PC's Input Devices: Step-by-Step Guide to Tweaking Mouse & Touchpad Preferences via Windows Control Panel - Tech Solutions by YL</u></a></li>
+<li><a href="https://win-web.techidaily.com/troubleshooting-guide-resolving-issues-with-your-graphics-card-insights-from-yl-computing/"><u>Troubleshooting Guide: Resolving Issues with Your Graphics Card - Insights From YL Computing</u></a></li>
+<li><a href="https://win-web.techidaily.com/ultimate-tutorial-on-building-secure-digital-wallets-by-yl-software-experts/"><u>Ultimate Tutorial on Building Secure Digital Wallets by YL Software Experts</u></a></li>
+<li><a href="https://win-web.techidaily.com/unlocking-advanced-pc-settings-the-ultimate-how-to-for-using-the-registry-editor-digital-solutions/"><u>Unlocking Advanced PC Settings: The Ultimate How-To for Using the Registry Editor - Digital Solutions</u></a></li>
 </ul></div>
 
